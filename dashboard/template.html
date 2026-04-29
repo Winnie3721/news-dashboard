@@ -698,7 +698,7 @@ function renderIntel() {
   const e = INTEL.edited_at || '';
   const t = e ? new Date(e) : null;
   const stamp = t ? `${(t.getMonth()+1).toString().padStart(2,'0')}/${t.getDate().toString().padStart(2,'0')} ${t.getHours().toString().padStart(2,'0')}:${t.getMinutes().toString().padStart(2,'0')}` : '—';
-  document.getElementById('intel-edited').innerHTML = `Curated by analyst · <strong>${stamp}</strong> TPE`;
+  document.getElementById('intel-edited').innerHTML = `更新於 <strong>${stamp}</strong> TPE`;
 
   // Thesis
   document.getElementById('intel-thesis').textContent = INTEL.thesis;
