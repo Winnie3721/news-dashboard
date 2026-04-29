@@ -268,8 +268,9 @@
     font-size: 13px;
     color: #f5f3ec;
   }
-  .ticker-item .pct.up { color: #6ce39c; }
-  .ticker-item .pct.down { color: #ff6b6b; }
+  /* 亞股慣例：漲紅、跌綠 */
+  .ticker-item .pct.up { color: #ff6b6b; }
+  .ticker-item .pct.down { color: #6ce39c; }
 
   /* === Market table (in-section) === */
   .market-table {
@@ -298,8 +299,9 @@
     text-align: left;
     font-weight: 500;
   }
-  .market-table .up { color: var(--green); }
-  .market-table .down { color: var(--red); }
+  /* 亞股慣例：漲紅、跌綠 */
+  .market-table .up { color: var(--red); }
+  .market-table .down { color: var(--green); }
 
   /* === Layout === */
   .container {
@@ -437,8 +439,9 @@
     font-variant-numeric: tabular-nums;
     margin-top: 2px;
   }
-  .coin-change.up { color: var(--green); }
-  .coin-change.down { color: var(--red); }
+  /* 亞股慣例：漲紅、跌綠 */
+  .coin-change.up { color: var(--red); }
+  .coin-change.down { color: var(--green); }
   .fg-box {
     border: 1px solid var(--rule);
     padding: 10px 12px;
@@ -590,7 +593,7 @@
     </div>
     <div class="masthead-meta">
       <div id="today-date">—</div>
-      <div>更新於 <strong>2026-04-29 15:01</strong> TPE</div>
+      <div>更新於 <strong>2026-04-29 15:08</strong> TPE</div>
     </div>
   </div>
 </header>
