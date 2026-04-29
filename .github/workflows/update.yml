@@ -49,3 +49,13 @@ jobs:
             git commit -m "🤖 Auto-update ${TIMESTAMP_TPE}"
             git push
           fi
+
+      # 只在「早上 06:50 排程」或「手動觸發」時推送 Telegram
+      # 晚上 18:00 排程不推（避免重複打擾）
+      - name: Send Telegram morning brief
+        if: github.event.schedule == '50 22 * * *' || github.event_name == 'workflow_dispatch'
+        working-directory: src
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python send_telegram.py
