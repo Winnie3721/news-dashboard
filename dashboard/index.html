@@ -590,7 +590,7 @@
     </div>
     <div class="masthead-meta">
       <div id="today-date">—</div>
-      <div>Built <strong>2026-04-29 11:43</strong> TPE</div>
+      <div>Built <strong>2026-04-29 14:34</strong> TPE</div>
     </div>
   </div>
 </header>
@@ -978,18 +978,45 @@ function showToast(msg, type='info') {
   window.__toastT = setTimeout(() => t.classList.remove('show'), 5000);
 }
 
-/* ===== Refresh button ===== */
+/* ===== Refresh button — 三種模式 ===== */
+const GH_REPO = 'Winnie3721/news-dashboard';
+const ACTIONS_URL = `https://github.com/${GH_REPO}/actions/workflows/update.yml`;
+
+function detectMode() {
+  if (location.hostname.endsWith('github.io')) return 'pages';
+  if (location.protocol === 'file:') return 'file';
+  return 'local';  // localhost / 127.0.0.1 — serve.py 在跑
+}
+
+// 依模式調整按鈕標籤
+(function adjustButtonLabel(){
+  const mode = detectMode();
+  const label = document.querySelector('.refresh-label');
+  if (mode === 'pages') label.textContent = '到 GitHub 觸發更新';
+  if (mode === 'file')  label.textContent = '立即更新';
+  if (mode === 'local') label.textContent = '立即更新';
+})();
+
 document.getElementById('refresh-btn').addEventListener('click', async () => {
   const btn = document.getElementById('refresh-btn');
   const label = btn.querySelector('.refresh-label');
+  const mode = detectMode();
 
-  if (location.protocol === 'file:') {
+  if (mode === 'pages') {
+    showToast(`<div class="toast-title">📡 已自動每日 06:50 / 18:00 TPE 更新</div>
+想要手動觸發？跳到 GitHub Actions 點 <strong>Run workflow</strong>（30 秒內生效）`);
+    setTimeout(() => window.open(ACTIONS_URL, '_blank'), 600);
+    return;
+  }
+
+  if (mode === 'file') {
     showToast(`<div class="toast-title">需要本機伺服器才能更新</div>
 請先在終端機執行：<br><code>python src\\serve.py</code><br>
 （會自動開啟可用「立即更新」的版本）`, 'error');
     return;
   }
 
+  // local — serve.py 模式
   btn.disabled = true;
   btn.classList.add('spinning');
   label.textContent = '抓取中…（約 30 秒）';
