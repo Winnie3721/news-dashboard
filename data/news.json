@@ -1,14 +1,131 @@
 {
-  "fetched_at": "2026-04-29T03:06:51.635718+00:00",
+  "fetched_at": "2026-04-29T06:50:21.325921+00:00",
   "categories": {
     "world": [
       {
-        "title": "Acid Attack in Indonesia Evokes Brutality of Suharto Era",
-        "link": "https://www.nytimes.com/2026/04/28/world/asia/indonesia-andrei-acid-trial.html",
-        "summary": "The victim had protested against the widening role of the military, which activists say is reminiscent of the country’s decades-long dictatorship.",
-        "published": "2026-04-29T03:02:12+00:00",
+        "title": "Five takeaways from the King's historic address to Congress",
+        "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+        "summary": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
+        "published": "2026-04-29T06:23:28+00:00",
+        "source": "BBC World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade?",
+        "link": "https://www.aljazeera.com/features/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade?traffic_source=rss",
+        "summary": "Analysts say that Moscow could offer a &#039;lifeline&#039; but logistical issues, costs offer little incentive in the long-run.",
+        "published": "2026-04-29T06:02:48+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Iraq’s Prime Minister-Designate Thrust Into U.S.-Iran Power Struggle",
+        "link": "https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html",
+        "summary": "Ali al-Zaidi, a political unknown, has been tasked with forming a new coalition government. Now, he must grapple with growing U.S. pressure to curb Iranian influence over Iraq.",
+        "published": "2026-04-29T06:01:07+00:00",
         "source": "NYT World",
         "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "White House hails ‘two kings’ as King Charles delivers pointed remarks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/white-house-hails-two-kings-as-king-charles-delivers-pointed-remarks?traffic_source=rss",
+        "summary": "King Charles III has hailed US-UK ties at a state dinner in the White House.",
+        "published": "2026-04-29T05:11:42+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Afghan students recount harrowing university strike",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/afghan-students-recount-harrowing-university-strike?traffic_source=rss",
+        "summary": "Afghan students have described the moment a missile hit their university. Officials blame Pakistan for Monday’s attack.",
+        "published": "2026-04-29T05:10:12+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "US Senate blocks bid to stop Trump using military against Cuba",
+        "link": "https://www.aljazeera.com/news/2026/4/29/us-senate-blocks-bid-to-stop-trump-using-military-against-cuba?traffic_source=rss",
+        "summary": "Senator ​Tim Kaine says if anyone did to the US &#039;what we are doing to Cuba&#039;, it would be considered &#039;an act of war&#039;.",
+        "published": "2026-04-29T05:06:22+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "UN aid chief says situation in Somalia worsened by US war on Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/un-aid-chief-says-situation-in-somalia-worsened-by-us-war-on-iran?traffic_source=rss",
+        "summary": "UN relief coordinator Tom Fletcher has slammed the war on Iran during a visit to Somalia.",
+        "published": "2026-04-29T04:49:08+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "US, Latin America countries criticise China’s retaliation over Panama Canal",
+        "link": "https://www.aljazeera.com/news/2026/4/29/us-latin-america-countries-criticise-chinas-retaliation-over-panama-canal?traffic_source=rss",
+        "summary": "China has detained nearly 70 Panamanian-flagged ships after Supreme Court ruling on Panama Canal, US officials say.",
+        "published": "2026-04-29T04:16:50+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Gallows Humor Provides Respite From Mideast Wars",
+        "link": "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html",
+        "summary": "Arab digital creators on social media are turning out edgy material to cope with the conflicts and bring levity to a pain that often feels too raw.",
+        "published": "2026-04-29T04:01:05+00:00",
+        "source": "NYT World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "Taiwan's TSMC exits Arm with $231 million share sale - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHlIT19jQzQwR2h0RlhCRTdaeWZmaUZLTVBGSUMwRDFfY1dxOFZjd21TOTZHOVgwbmVUMkFvQWd3X25iTFJEUERhbURaWTdHd0FrS3I3T2U4ajFqWWFnQk5ZamIzZ0RhR0kzNFI3VkNpanpSWmdlVnJUOWJmaHd6cWJvcUlMbjVuR1JyUzRZc01UdzE0aVROSU1ocGVNZ1h4QUNLa09FMFU?oc=5",
+        "summary": "Taiwan's TSMC exits Arm with $231 million share sale&nbsp;&nbsp;Reuters",
+        "published": "2026-04-29T03:48:15+00:00",
+        "source": "Reuters World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "Trump to feature on limited-edition US passports for 250th anniversary",
+        "link": "https://www.aljazeera.com/news/2026/4/29/trump-to-feature-on-limited-edition-us-passports-for-250th-anniversary?traffic_source=rss",
+        "summary": "The passports are part of broader plans to celebrate the milestone anniversary of the US Declaration of Independence.",
+        "published": "2026-04-29T03:22:34+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Lebanon’s PM slams Israel’s ‘war crimes’ as attack kills 3 rescue workers",
+        "link": "https://www.aljazeera.com/news/2026/4/29/lebanons-pm-slams-israels-war-crimes-as-attack-kills-3-rescue-workers?traffic_source=rss",
+        "summary": "Lebanese President Joseph Aoun says Israel violating international law that protects civilians and humanitarian workers.",
+        "published": "2026-04-29T03:11:00+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "UAE quits OPEC as oil cartel takes blow during war on Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec-as-oil-cartel-takes-blow-during-war-on-iran?traffic_source=rss",
+        "summary": "The UAE’s decision to quit OPEC to prioritise its ‘national interests’ deals a blow to the oil group.",
+        "published": "2026-04-29T03:06:55+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Mali’s military leader emerges after alleged coup attempt",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/malis-military-leader-emerges-after-alleged-coup-attempt?traffic_source=rss",
+        "summary": "Mali’s military leader says the country is ‘under control’ after what’s been described as an attempted coup.",
+        "published": "2026-04-29T02:51:58+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
         "category": "world"
       },
       {
@@ -17,6 +134,15 @@
         "summary": "And he’s basically fine with it.",
         "published": "2026-04-29T02:46:59+00:00",
         "source": "NYT World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "Weeks of silence over Iran school strike highly unusual, former US officials say",
+        "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+        "summary": "In the two months since the deadly strike, the Pentagon has said only that the incident is under investigation.",
+        "published": "2026-04-29T02:01:50+00:00",
+        "source": "BBC World",
         "source_weight": 3,
         "category": "world"
       },
@@ -45,6 +171,15 @@
         "published": "2026-04-29T00:00:00+00:00",
         "source": "Al Jazeera",
         "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Trump's face to feature on commemorative US passports",
+        "link": "https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The passports will be released as part of the 250th anniversary of the US Declaration of Independence.",
+        "published": "2026-04-28T23:41:00+00:00",
+        "source": "BBC World",
+        "source_weight": 3,
         "category": "world"
       },
       {
@@ -93,60 +228,6 @@
         "category": "world"
       },
       {
-        "title": "Former FBI director Comey again indicted by US Justice Department",
-        "link": "https://www.aljazeera.com/news/2026/4/28/former-fbi-director-comey-again-indicted-by-us-justice-department?traffic_source=rss",
-        "summary": "Trump has long called for prosecution of Comey, who led an FBI investigation related to the president&#039;s 2016 campaign.",
-        "published": "2026-04-28T21:57:40+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "The biggest military spenders",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/the-biggest-military-spenders?traffic_source=rss",
-        "summary": "Global military spending is up again, according to SIPRI’s latest report showing the 11th consecutive year of growth.",
-        "published": "2026-04-28T21:49:54+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "PSG beat Bayern 5-4 in record-breaking Champions League semifinal first leg",
-        "link": "https://www.aljazeera.com/sports/2026/4/28/psg-beat-bayern-5-4-in-record-breaking-champions-league-semifinal-first-leg?traffic_source=rss",
-        "summary": "Title holders Paris Saint-Germain squander a three-goal lead but hold on to beat Bayern Munich 5-4 in Paris.",
-        "published": "2026-04-28T21:27:20+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "King Charles calls for NATO unity, Ukraine support in US Congress speech",
-        "link": "https://www.aljazeera.com/news/2026/4/28/king-charles-calls-for-nato-unity-ukraine-support-in-us-congress-speech?traffic_source=rss",
-        "summary": "UK sovereign hails national friendship, but delivers pointed messages in speech during four-day US visit.",
-        "published": "2026-04-28T21:17:40+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "Mountaineer climbs Everest for Palestinian children",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/mountaineer-climbs-everest-for-palestinian-children?traffic_source=rss",
-        "summary": "Mostafa Salameh, a mountaineer, is on a mission to carry letters from children in Gaza to the top of Mount Everest.",
-        "published": "2026-04-28T21:11:45+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "Armed group announces siege on Mali capital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/armed-group-announces-siege-on-mali-capital?traffic_source=rss",
-        "summary": "JNIM has announced the beginning of a “total siege” on Mali’s capital Bamako.",
-        "published": "2026-04-28T21:08:01+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
         "title": "Exclusive: Trump approval sinks to new low as war with Iran drives cost-of-living concerns - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalN2R2Rsay1qbGw4a0hHYWF5MlBmSUlMRERsajItcV9aYVBvTXJSQWNYblJ3VHVFSThrYXFaVl9lcUFjVEZOV3BhUlAzaUhORE5hYXZScWpQQkNBdXRjaWdBQ09nTC1nQ0tEb2RBM3JlTFpRTjhyZ0RDNWRCcDRvemU1NEFUTnpMd25vY3h3VER6NTF4bnRCbXB6WTFiaU1RdDdERWxobzAzejV0b0MtaGZra2pqZU1jNUNqd2R3?oc=5",
         "summary": "Exclusive: Trump approval sinks to new low as war with Iran drives cost-of-living concerns&nbsp;&nbsp;Reuters",
@@ -165,48 +246,12 @@
         "category": "world"
       },
       {
-        "title": "Trump hails US-UK bond as he welcomes British royals",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/trump-hails-us-uk-bond-as-he-welcomes-british-royals?traffic_source=rss",
-        "summary": "US President Donald Trump hailed the &quot;cherished bond&quot; between the United States and the United Kingdom.",
-        "published": "2026-04-28T20:29:01+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "Northern Ireland makes arrest linked to suspected New IRA car bombing",
-        "link": "https://www.aljazeera.com/news/2026/4/28/northern-ireland-makes-arrest-linked-to-suspected-new-ira-car-bombing?traffic_source=rss",
-        "summary": "The nationalist group has been escalating threats, nearly 30 years after a peace deal largely ended sectarian violence.",
-        "published": "2026-04-28T20:28:35+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "Congress cheers King Charles for underlining ‘checks and balances’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/congress-cheers-king-charles-for-underlining-checks-and?traffic_source=rss",
-        "summary": "US lawmakers gave King Charles III a standing ovation upon mentioning the importance of “checks and balances”.",
-        "published": "2026-04-28T20:28:08+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
         "title": "Mexico Says 4 Foreigners Were at Cartel Raid Where 2 C.I.A. Officers Died",
         "link": "https://www.nytimes.com/2026/04/28/world/americas/mexico-crash-cia-officers.html",
         "summary": "Mexican officials revealed that four foreigners — not two — were present during a counterdrug operation in northern Mexico where a crash killed two men later identified as C.I.A. officers.",
         "published": "2026-04-28T20:13:17+00:00",
         "source": "NYT World",
         "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Nearly eight million people in South Sudan at risk of acute hunger: NGOs",
-        "link": "https://www.aljazeera.com/news/2026/4/28/nearly-eight-million-people-in-south-sudan-at-risk-of-acute-hunger-ngos?traffic_source=rss",
-        "summary": "Aid agencies warn that time is running out to avoid an &#039;irreversible humanitarian catastrophe&#039;.",
-        "published": "2026-04-28T20:03:35+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
         "category": "world"
       },
       {
@@ -228,11 +273,20 @@
         "category": "world"
       },
       {
-        "title": "Iraq’s Prime Minister-Designate Thrust Into U.S.-Iran Power Struggle",
-        "link": "https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html",
-        "summary": "Ali al-Zaidi, a political unknown, has been tasked with forming a new coalition government. Now, he must grapple with growing U.S. pressure to curb Iranian influence over Iraq.",
-        "published": "2026-04-28T18:55:29+00:00",
-        "source": "NYT World",
+        "title": "Vancouver hosts FIFA Congress with expanded World Cup under scrutiny - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0VqcHA5TDBfT0I4YS1sUDNJdWtlMlFSZy14YnU0UUMtXzM4U25HazJ5MDI1SW42VDJRalJoZHJLanhTWTF6TThpYnF0dlJwd0t2Uk8tazQxcGVoRTlkLTY1S0J5ZV9qck5SdWVGX3Z5bnpGNVA0eHNLTXZfQmN0MmtqRDlkc3ZvYllOWDB5LXVhNkNKTGFTOWZlZlhPU2pCeTlTN0J4SWhNWnFzQTFFR3NFTHIyRFhEREE?oc=5",
+        "summary": "Vancouver hosts FIFA Congress with expanded World Cup under scrutiny&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T19:28:54+00:00",
+        "source": "Reuters World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "US wants curbs on China as a condition for paying UN dues, report says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnRYTXlVaTJZR1Y4ZUhoWFNUMG44UWx3YngwZDItTzRJanVzQ0g2N3lwMWt4eDBQUzdRZFZwVWNCemNwS0UtdnV5LW02ZE10MHUwNTR1UnFVTXlNVjlJNUt4MDRWYU5WYjctRzdPSFhkZW50ci1LSnlFRGh3VjhFbVZHZjBpaGIyNXFjdG1jUzFndzBFazB5WF95d3haN3pIUkphU2Z3?oc=5",
+        "summary": "US wants curbs on China as a condition for paying UN dues, report says&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T19:04:00+00:00",
+        "source": "Reuters World",
         "source_weight": 3,
         "category": "world"
       },
@@ -255,10 +309,10 @@
         "category": "world"
       },
       {
-        "title": "UAE leaves OPEC in blow to global oil producers' group - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWEyNjA0NWVRbFNPSGE2Vzd2NGlWcXlvcU44RTdmOVBiMlQwR09xVC1ibkdCREI1QkVORmNaR2Y3VEZOanB4ZjA5TWhCMmpnaUg5UmRwMU1KLXRJTVNoN3ZuQW13aUpiUGdEVzRUbkgwRXRFNEtDMHltS0VoQk56VWFsbTB1V0FROHhDNG11WmtfSjZyekg3WA?oc=5",
-        "summary": "UAE leaves OPEC in blow to global oil producers' group&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T17:38:39+00:00",
+        "title": "Trump's DOJ indicts former FBI director James Comey over '86 47' post - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXhNSkt0VTdibjdhYUNaOVNrX1BtMHp6aUh1LXM0MDRaYzlSLVpKbFBwU0MzZGdQai1saW9yMWVVM3ZtMEgwOFVOVjRJWlhFc2prOVZYMjRfR2syZmN5NGhVSDZlMWI3ZXFxRlRGeV9BNzN0elFuaDFmazRseEFCNUFyd0ZZNFU2MndRUWpad0VETlVFanFJM1hEdDhtSTVvWUtwUG9SMHVvTW45RXpvdDFMSTlzSUZtSzJmajYtVlFrQQ?oc=5",
+        "summary": "Trump's DOJ indicts former FBI director James Comey over '86 47' post&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T17:50:00+00:00",
         "source": "Reuters World",
         "source_weight": 3,
         "category": "world"
@@ -327,10 +381,10 @@
         "category": "world"
       },
       {
-        "title": "United Arab Emirates to quit oil cartel Opec",
-        "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-        "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
-        "published": "2026-04-28T16:24:45+00:00",
+        "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+        "link": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
+        "summary": "It will have little effect on the current oil blockades, but it could change everything afterwards.",
+        "published": "2026-04-28T15:55:46+00:00",
         "source": "BBC World",
         "source_weight": 3,
         "category": "world"
@@ -350,15 +404,6 @@
         "summary": "Austrian prosecutors said the man plotted in 2024 to set off a bomb outside the concert, which was later canceled. He and another man still face separate charges.",
         "published": "2026-04-28T15:48:31+00:00",
         "source": "NYT World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Ex-actor Nathan Chasing Horse jailed for at least 37 years for sexual assault",
-        "link": "https://www.bbc.com/news/articles/cx218vkdvpgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The 49-year-old exploited his position as a spiritual leader to prey on Indigenous women and girls, the US court heard.",
-        "published": "2026-04-28T15:36:44+00:00",
-        "source": "BBC World",
         "source_weight": 3,
         "category": "world"
       },
@@ -444,6 +489,15 @@
         "category": "world"
       },
       {
+        "title": "UAE leaves OPEC in blow to global oil producers' group - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWEyNjA0NWVRbFNPSGE2Vzd2NGlWcXlvcU44RTdmOVBiMlQwR09xVC1ibkdCREI1QkVORmNaR2Y3VEZOanB4ZjA5TWhCMmpnaUg5UmRwMU1KLXRJTVNoN3ZuQW13aUpiUGdEVzRUbkgwRXRFNEtDMHltS0VoQk56VWFsbTB1V0FROHhDNG11WmtfSjZyekg3WA?oc=5",
+        "summary": "UAE leaves OPEC in blow to global oil producers' group&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T12:23:00+00:00",
+        "source": "Reuters World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
         "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
         "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
         "summary": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
@@ -462,15 +516,6 @@
         "category": "world"
       },
       {
-        "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
-        "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The state prosecutor told the court that police found an almost completed bomb in a search of the man's house.",
-        "published": "2026-04-28T10:08:01+00:00",
-        "source": "BBC World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
         "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
         "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
         "summary": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring access.",
@@ -483,52 +528,7 @@
         "title": "India, China defence ministers discuss regional security on sidelines of SCO meet - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHFBblVmNERfVVd4Z29vNFlZR2NoVzJJT3hXSkpmTGlVUDlZSmVzUVB4djlsdEFXUURERE9QZTdtOGQ0T0Z3alA2ZFl0N0VmUjRqcHdLNnV0aGdlVmpSakZpV2oyQWFmdUV5cHlJME5GWDBNdng3OURoQzI1Vk5mMFVLbUZCZmM3dGV3emZoT2ZhVjNaLTJ1SkJmeUxBak9rRnpJZW9lbzFDajJtSno1MDNSNzM4ZXB6eERubDNYaw?oc=5",
         "summary": "India, China defence ministers discuss regional security on sidelines of SCO meet&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T06:49:00+00:00",
-        "source": "Reuters World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "India turns net exporter of finished steel in 2025/26, data shows - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeVEtWXhZaXBMSV8zZVExMFRObmE1X1J1d2lSakZzVVl1T3Y0N1haTkZvVGxUQUdpcVczYlA3Sy1JTG05S2dyZERselNXWnB4ZGhiS0o2aEMwSFk0RWdELTBJOEk5R0VfN05fZkRrNmU3M3FVa21nUEI5M01wWEFLeXJTX203ZHpqY0o3eU9wOTE3elBOMkZNOXhlMG9UV3E3WHh4RzZ6dDU?oc=5",
-        "summary": "India turns net exporter of finished steel in 2025/26, data shows&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T06:26:00+00:00",
-        "source": "Reuters World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Vancouver hosts FIFA Congress with expanded World Cup under scrutiny - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0VqcHA5TDBfT0I4YS1sUDNJdWtlMlFSZy14YnU0UUMtXzM4U25HazJ5MDI1SW42VDJRalJoZHJLanhTWTF6TThpYnF0dlJwd0t2Uk8tazQxcGVoRTlkLTY1S0J5ZV9qck5SdWVGX3Z5bnpGNVA0eHNLTXZfQmN0MmtqRDlkc3ZvYllOWDB5LXVhNkNKTGFTOWZlZlhPU2pCeTlTN0J4SWhNWnFzQTFFR3NFTHIyRFhEREE?oc=5",
-        "summary": "Vancouver hosts FIFA Congress with expanded World Cup under scrutiny&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T05:58:00+00:00",
-        "source": "Reuters World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "India File: Reliance's results offer a real-world read on the Iran war - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPel9Pck9kTFhkZVR0Y29oaWtaOW0xa2VPWVJyMzAxOHBadENMb3hUYlpZWGw5YlZyQlp5YUdKaXFMMHlIQks1dXhIVVFvckNmODJfalFnNXJJZUhkRG5uMHNNQzF0dWFVV2hZTHdkYmVQNzF4R3RGYnRQaFlmamhsdnVuSjdxVlAtUy1xSFlUaWo3UE9sNHp0eFlfck9XcDNlSXY2MkYzYkxacFE?oc=5",
-        "summary": "India File: Reliance's results offer a real-world read on the Iran war&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T05:25:00+00:00",
-        "source": "Reuters World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Rescuers race to free survivors trapped inside train after fatal Indonesia crash",
-        "link": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Two trains collided on the outskirts of the Indonesian capital on Monday, killing at least 15 people.",
-        "published": "2026-04-28T04:18:54+00:00",
-        "source": "BBC World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Rupee falls to near one-month low as oil strain, importer hedging pile pressure - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2x2ejBKdFA5ckVZSnkyUnN0NnI0MHFMWlVRZ1ZZVE45NWNvWEpCc1NvX0tGamsyR1J6REU0aEhIdHo3WGhsZFRlWHd0RzF3bkJwSHQtaGt2X0g2b3o3aWVFY05vTUd3Q21EV0hUSkVqVVp1Q3Z3ZmJHMmg2N0lVRi1wTFk0ZjNONGF1b3E1eDg3allCWTVRNTlsOFBPXzk0VGlwMkY1QWY?oc=5",
-        "summary": "Rupee falls to near one-month low as oil strain, importer hedging pile pressure&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T03:06:00+00:00",
+        "published": "2026-04-28T06:50:18+00:00",
         "source": "Reuters World",
         "source_weight": 3,
         "category": "world"
@@ -680,6 +680,141 @@
     ],
     "finance": [
       {
+        "title": "鉅亨速報 - Factset 最新調查：群聯(8299-TW)EPS預估上修至171.59元，預估目標價為2410元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16Wm9adERLenlobW10NWlCbU1QN3pmYXBoOTBtUERNSTFYTi0tYTVhTHFpajJmZVlDb0pJZVAyTnNSZVlnZm9iNnFXQnU5OUE?oc=5",
+        "summary": "鉅亨速報 - Factset 最新調查：群聯(8299-TW)EPS預估上修至171.59元，預估目標價為2410元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-04-29T06:10:31+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "UBS profits rocket 80% to $3 billion for first quarter beat - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUm80UFFncjJiRFY4WFpQWC1vNVg1U2ZIR3p4Y3R0Y0RQUUNrSlhJSUpQYVY4dUhvQWJZWVJLNHpKcFI0Vl9TUzZSUGNVbEhLVHVHR3MydUVib0JYYnIyamRtX3NEZFZmbE83YzNSNFNOS2VpQlZYSlRoOXViVFcybXdUd1JDeU1JYXNnTV9mNWd2YTlKcE9mSFl5NW4waDIxOVdB0gGoAUFVX3lxTE9VVFhCN1hhbjEydVZHdW1NZEE3SmcwdVA4dlJXYlRPWGlZblhLUXE3Ny1ma3h4QnBmX2dWVXVXU2l4ZEVUTDlYLTRPeERfMGZwS0gzQW5vdmduc1g0TEM5UnlUZnFpMmRBVFkxV3lZV3lIY2hLaTVhX0V5Yl9LQ0VfaGpNVXBDclpkR3RYV1ZYUE1RWEI1a1o5d1J6SUlmUURJd3pjeTYtRw?oc=5",
+        "summary": "UBS profits rocket 80% to $3 billion for first quarter beat&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T05:08:31+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "Major data center company pauses investment decisions in Middle East amid Iran war, CEO tells CNBC - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVWxpRkJRNjEyUmZlWUV6UHNJUjRzZi12dVBLWXg4eG01YTBoaWEtblF6TkYwSkNYNHo0amM5eGRKeG9FaUFKUWJxTklRRFFpd3BFV3lEZmVaWlVFaXZMNC1MSTFWUW1UNlRmTjl6em5uUzREMnQ5WW41UlR5R01kQ2VVN2NQMG16NDFfWmhjT0tsMlh5MG1CV05kODE0QdIBowFBVV95cUxPbmdOWFlvckdoVW10YmRQd1BmZ0ZmVWdsUWN6LWtkcGFsQkF2M3VjdzdpT1JSRC1GT1B3ZnlnZ3c3OWZ3YVFveFpCTng2Y216OXVwaXh4X1F1MGFiUkcxczZMQjA0M1Y4LThpekxPVVk3Vi00azQ2emxiSUU5X0g1R2xQVHU0UDhKT3lIQ2FDSFd4NnZ4T3ZzWFRQbzlsZzltaDlN?oc=5",
+        "summary": "Major data center company pauses investment decisions in Middle East amid Iran war, CEO tells CNBC&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T05:00:01+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "UAE's departure from the OPEC oil cartel is not without precedence. Who could be next? - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51Y0JZaHBRNDhBXzU2ZEhfMUI1eXgwZ1Ata0l6WlBhZ2NVbVhVTWViY2IybUNOemhVdllPdE5La2ltZ25VNmc5TW9CTFZxbVM5WlA1d0tMVW4wN0swTHl0bGNOMF9rMHNiN3FEN3pMamnSAXZBVV95cUxNcGluYnlGR29TWFJydk1SRXFqYVV1U0p5R1M0SHR0SFVLMGFJSnlITHpiZGtrY3U1X01NVkdLWVJOQ2o2RjF6RGVmbERiNjN2OGF0SGpPeThnaEZ1XzB2cS1uZEpJdVVwSl9WblR5T2k1d00zT1BR?oc=5",
+        "summary": "UAE's departure from the OPEC oil cartel is not without precedence. Who could be next?&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T04:15:40+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "你是否下意識地擇時投資？達人雨果：關鍵是穩定操作，單日漲跌別過度反應 - Smart自學網",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VQ3lFMzh5S085eHBCVUF5cWpNN3MxakhXalhmbGEwUV82ZWYwQzg2WEt3ZVBPcjAwOHllZVVfMENlUzgteDNiRnd5ZjhjMjBxVXFyajh5T2xiUkJiUlpIYTZfcXVnNUU5VG8wSW1DQkh2ZmExWDlGTHRHTGk?oc=5",
+        "summary": "你是否下意識地擇時投資？達人雨果：關鍵是穩定操作，單日漲跌別過度反應&nbsp;&nbsp;Smart自學網",
+        "published": "2026-04-29T04:10:46+00:00",
+        "source": "商業周刊",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "鉅亨速報 - Factset 最新調查：致茂(2360-TW)EPS預估上修至35.94元，預估目標價為1655元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzSDd2aTBPT3hsUFZ3ZTRxVFRDYzRzWlZVOFU2d092MEJLaW10eHZMczVMR0o2bjVHMkdRbExkTUpSa3VtUFBORmh2MA?oc=5",
+        "summary": "鉅亨速報 - Factset 最新調查：致茂(2360-TW)EPS預估上修至35.94元，預估目標價為1655元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-04-29T04:10:32+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "鉅亨速報 - Factset 最新調查：精測(6510-TW)EPS預估上修至66.85元，預估目標價為4550元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TazNDS24wSFJObF9CRmZ4eFQ5aERFbGtpLVQ2a2R5aU1UUmM5QTM2bEEwa2FMemtJRm5TdEotZ3VYa1dneG5JSGhDNFotQkk?oc=5",
+        "summary": "鉅亨速報 - Factset 最新調查：精測(6510-TW)EPS預估上修至66.85元，預估目標價為4550元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-04-29T04:10:30+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "UAE opens up an Opec fissure - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wYU9qR0JXQXgwcllwN203cVVKMUVmNGQyV1h4ZWl5aTdocWxFWDJ1clNjTDVZU183WjdsWnM4YV9aSTRGSXBsMTBqSWY2RkZmdmlvQ2ZKTkwwNFRYeDhkSjVtNmxRYV9Dd1JwcjYybWY?oc=5",
+        "summary": "UAE opens up an Opec fissure&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-29T04:00:27+00:00",
+        "source": "Financial Times",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Ukraine Faces Risk of Tougher EU Loan Terms to Get Aid Payouts - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDI1V2daZ2Vpb0NlWENTQV9Rb181VHhFNTI0VWVRbnBZNEE2NW1USkJuczZ0TDBKX1U4dnJwNmRxQzk2UU1DcFVnN241WmYwTEExWVYzdHZxRWVzX2JHa3NEU0JEbnhfVUgxQWRGZHlLWkR1MUgxSUtxOWdNeWM0djZ5Z1RlVUZnVlRIMmViMUFwM2pMQ3NQM1BiNDZEb0FJTUxzS3FlVWI2Q0g5aUIwR1J5RQ?oc=5",
+        "summary": "Ukraine Faces Risk of Tougher EU Loan Terms to Get Aid Payouts&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T04:00:00+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "台股寫下歷史！超越加拿大，躍升為全球第6大股市－中央社 - 商周",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tYldKaTI5MnQwNjFoN1BJNnlqS0VvX2N1bDUyaUR4aEpmX1p1ZmYyUERBOTkwSkYxeHZ1eFY3cUJNcmZ5ajROMXFWZ19YSkhBTXIwamd0ZHFVTVlQU2dqQkdR?oc=5",
+        "summary": "台股寫下歷史！超越加拿大，躍升為全球第6大股市－中央社&nbsp;&nbsp;商周",
+        "published": "2026-04-29T03:56:19+00:00",
+        "source": "商業周刊",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "Gold Steady After Two-Day Drop as Iran War Fans Inflation Fears - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbm04SXpCZnY1X0dYTVJRMzNwZDRNRURSZmdqMnJ0YktPYzhkZ0wzYnA3Y3JmZC1scmN4amlFOWZ5ZmVTTVVtY1hDWjFnMkYxNW1EOGI3N3lHR0o0U2lQUXZPVERlYWtuUWNkWlRhQ3VkbzN5YUN5WWFXelpLZzVXb0ItOFVxRkMyTk16VzVRcHk1cF93SE5RNnNSTk9GbFYtT3FKZzNWbGdiRGNBQU94SnNzVEQ?oc=5",
+        "summary": "Gold Steady After Two-Day Drop as Iran War Fans Inflation Fears&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T03:52:00+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "台股連2日攻上4萬點！法人示警：乖離過大，高檔震盪該追還是該逃？－中央社 - 商周",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aMTh3c0lnVk1zMHJ2YTlyUmczcVVseFBBLWdVYms0RVowazVpdE1VSlRac3lTRWQ2S1JyTVQ4bUs3dlBJcWJpdEktS0tfTnZDY1RaUXdtMk5EY0txSFN0d3hGVVRjZw?oc=5",
+        "summary": "台股連2日攻上4萬點！法人示警：乖離過大，高檔震盪該追還是該逃？－中央社&nbsp;&nbsp;商周",
+        "published": "2026-04-29T03:40:58+00:00",
+        "source": "商業周刊",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "China Suspends Autonomous Driving Permits After Baidu Outage - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGh4RGxqZi11Mkc3WjZ6LW1VT0laUk5Kam5hbDYyUHhYY2tYN2JkVWEySzFPcGZlcjVQNXJMQVlxemJIeGNYQXBzYVFTR282WG01TGN6MzBzLUhnT1VGVndNdEVRWjgzWHgtY1dvdWhhTnhPY0ZSTl9sMkxWUU4xZ3NQOGJtbVdpNkhhSXA2RW5JOWh0VndyMFBCWWZsRExqdXhadkNyVXBBN3RLUGNxekhwWnlHZw?oc=5",
+        "summary": "China Suspends Autonomous Driving Permits After Baidu Outage&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T03:32:00+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "U.S. warns banks of sanctions risk over China ‘teapot’ refineries handling Iranian oil - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEo5SHUxaG1wRlFub1dhWV9EWTh6YWhVTnRoRU80V2Q2bnl3NXYyZjg2OWIwY3lyZ3RpeGk2WXcxSnVQeHgtSUhnQnE1SWNVMHFQekdHM09tM0ZubzFRWE9VNEdIRnJYUXh1dTlmWTk5N0xpS0ZURC0yREtwVWY4OWlWTnZwaWw5WGowZXg0Sk1DNUR6UWlPNzJ3TWVlUGZKOFNYOVBwVUR3QdIBrwFBVV95cUxNTFp3Nm1TZTFCdGQzaktYOFFaRkUybWFVTE1WTHU5UTl2NVZFZTM3WEVtTkpmbHVaVkd4RGVsZXF1RnBWekhmLU15bk9LbXdwT2ZadHZ6akFtREl1SHRpMV94ZHptWHdhR19CcXlBOWh6UzRkc1o2N0JRcHZaVWhFcjdZUjlJaWNVSFhTa01oUnd1WTZPNm9RSFZTclVIdEdPUDRoYWZIYkZHVElIeUxN?oc=5",
+        "summary": "U.S. warns banks of sanctions risk over China ‘teapot’ refineries handling Iranian oil&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T03:28:00+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "北北基桃青年十大購屋熱區 桃園霸榜前三名 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zNTZYd1lpTThYbnRuTnpjb0FEM3MyS1hqYXVyb3UxblNaeVhXYW5BM2Y1VDcyS3l4b05Lc2pzZzlKMHBWSkJENXF1Y29WSDlNYU9uVGNkbjE4UdIBX0FVX3lxTE81YVZwYUtuMjl3RjdjeTZKbzZjT0tfLXB2dEMtYTVUNi1KWDcxcl9pcDR3Rm1aWEl0Z0RZYjZ4LXhGN29zSVd4UVhEcmxoNHN5REstVS1YUFBJWXdSZ3Vj?oc=5",
+        "summary": "北北基桃青年十大購屋熱區 桃園霸榜前三名&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T03:14:01+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "市占遭侵蝕？傳OpenAI營收軟高層憂支出難負荷－MoneyDJ 理財網 - 商周",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45VFVyOWUxclBUOW4wMl8tNmZwWEx1VndnMGV3bmpvZVlWUmtGUVpQS1BpcklldEQwamZUd21lM0JONEdFeFNmMjE5bmRxS2JWRXhteGd4QkVVakpiSlBROFhaX0ZiQQ?oc=5",
         "summary": "市占遭侵蝕？傳OpenAI營收軟高層憂支出難負荷－MoneyDJ 理財網&nbsp;&nbsp;商周",
@@ -689,20 +824,47 @@
         "category": "finance"
       },
       {
+        "title": "摩根大通CEO最重警告：一場超預期的風暴醞釀中債券危機終將到來- 國際 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42R2dkRnJzajl4S0Z0eGtra09WOGFNRVB2TmJCcTUwczJxSk9iZHpRcHlUNE9SeGN1QVo4dGpwWjNXN21waEpuNm1PaWZIM2swZW5hR2tjT1diMXhhN2tJ?oc=5",
+        "summary": "摩根大通CEO最重警告：一場超預期的風暴醞釀中債券危機終將到來- 國際&nbsp;&nbsp;工商時報",
+        "published": "2026-04-29T02:48:00+00:00",
+        "source": "工商時報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "AI Spots Pancreatic Cancer Years Before It Shows Up, Study Finds - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmZtVlphX05IbkthT2JuREkzOHpvVFQ0R2xVTldSZ180YVJHUnRvbmlZaWszSW90bDlNQUVJRzBKelhwVUduYUlFQnQzcnlPUnhlMmN4TVpURFV0a3VZWXR6MUdVaFZZRllNaHM4WDdVUEdYSmNRZnZsR1pyblVmRXJpRjBuaG5CMWtYQXpNWjhTaWJUTnlJeXU4M3BiNW9xcDRIWjhXNERzRWFiWHVRRHJxb2k?oc=5",
+        "summary": "AI Spots Pancreatic Cancer Years Before It Shows Up, Study Finds&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T02:47:00+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
         "title": "下一個竹科正在發生！ 工程師薪資全台亞軍，竹南科門戶卡位金脈-房地產 - 商周財富網",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2MnIwT0FvR1BRT0ZoUmo3MkpaMThrQlNGWTRlS2NYMEU1ckd3QTBfX2JjT2ZKeVRPaU9oRXhzTmFkMkIyX1RXcDU1TGxZUU8zWkQ4STI3RExMT1RjQlB6VjNXZGtmTDR0RTRERndoTEU0UDBXZlE?oc=5",
         "summary": "下一個竹科正在發生！ 工程師薪資全台亞軍，竹南科門戶卡位金脈-房地產&nbsp;&nbsp;商周財富網",
-        "published": "2026-04-29T02:36:17+00:00",
+        "published": "2026-04-29T02:35:32+00:00",
         "source": "商業周刊",
         "source_weight": 2,
         "category": "finance"
       },
       {
-        "title": "德國怎麼了？新生兒數創戰後最低紀錄，外籍移民生育紅利也消失－中央社 - 商周",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EYjM3eUtzNjlyejFEdWt3R05TT2owaUI1eWhZMnhkOExHVFg3SUxEWUhVbjMzYmt2bXlIM25SVFVKSnppeFdPWGlaallzWGZVMk1GRnVtYU9YUkZ2cVVvSTZNTG5ZaEdPNXZaNA?oc=5",
-        "summary": "德國怎麼了？新生兒數創戰後最低紀錄，外籍移民生育紅利也消失－中央社&nbsp;&nbsp;商周",
-        "published": "2026-04-29T02:07:46+00:00",
-        "source": "商業周刊",
+        "title": "Oil rises on reports US will extend Iran blockade, prolonging Mideast supply disruptions - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
+        "summary": "Oil rises on reports US will extend Iran blockade, prolonging Mideast supply disruptions&nbsp;&nbsp;Reuters",
+        "published": "2026-04-29T02:17:43+00:00",
+        "source": "Reuters Business",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "鴻海董事長劉揚偉 全力支援全球客戶加速 AI 部署、引領 AI 基建 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qcC1tZVdRazdzelVTUXF5Q1AwdzEyRWplN0RwcU9LdktMX2oxTW1XanMxQVZjT3k5WlRicEdwYkJ1amV4UWRpNUx5clpocjBMYXJsM2FqUUJ2d9IBX0FVX3lxTE5HQ1JCSEphRXFZM00xUUZyOXRJTXRDcm8xT3RNQTB1RHJhbjU2SkdCc1NOUU93Snh2YWlRWXJDRFR3ZkpNNzlROENyM0RyZnN2dXBqZzV2VGFJX2l2TVNV?oc=5",
+        "summary": "鴻海董事長劉揚偉 全力支援全球客戶加速 AI 部署、引領 AI 基建&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T02:03:07+00:00",
+        "source": "經濟日報",
         "source_weight": 2,
         "category": "finance"
       },
@@ -716,21 +878,30 @@
         "category": "finance"
       },
       {
-        "title": "Australia reports lower-than-expected first-quarter inflation — but price rise highest in 2 years - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1NYN2hsNGtZbWluR2RqRHBMNTh2SkFRTm9OYk9yWVhZVXF2QmJkMDI4S3dMRm9kdEFTaUdiQUw2emRQUlBOeEVfbmZ0eWFvWlkwVmZDeC1acXREbGcwdGtNMjFFYmFWZXI3WjUyMmN4SjJ0M1J3Y3ZJdTlfenlxWTJCWWtkY05u0gGOAUFVX3lxTE9xWjRiSmhGd09UWTh4M1ZGeE5jNEdib1VQczZEcjhQdTg2RmNyc1FBMzQ1ZVRFRnpvR0hHWVEtRHNjNFRTR3NYUi1ScEs0ZUhxR2lOeF9rUVRiUlVKMzVXaDF2LWVha2RhTEtJQ3UtOTQwaEN3aVdUSS1QQy1tb0g2OThWbXFfSHRKYkhLamc?oc=5",
-        "summary": "Australia reports lower-than-expected first-quarter inflation — but price rise highest in 2 years&nbsp;&nbsp;CNBC",
-        "published": "2026-04-29T01:54:00+00:00",
-        "source": "CNBC",
+        "title": "AI Rally Ripples Through Chip Supply Chain, Minting New Winners - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVVQWnVYOUN2UnItLUpkZmVRS1VBdVd2emtEWWw1M2VQZkxjSndtNXQ4TW1iRHFYVS1XT3BRUnJxcEFaUFlQODBDTl81OXpFVVoxYnNZVm1MVHpiRmtEME14RTNFamprZkVvR2pfejJ3bUhvQnFSZW1zMGVHcWpEX0lJSHRMTGJRamJmRGtsWVUtYkxWUUtGa2l3RFFqT3RHY3dzQ1U2OUdJTGlyYlJ1V0hOdw?oc=5",
+        "summary": "AI Rally Ripples Through Chip Supply Chain, Minting New Winners&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T02:00:00+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "北市豪宅量崩近四成 看價格傻眼：這區竟年漲13% - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HMEFYWWQxSHFYa3dMWjlLZTdTX0pLckZxdWh0MDJVNTZhSWFjT0FzU1hCYkcxRTUyZXM1Y01BT3c3cFc2anV2RFN0MGF5OVhHRXR3dUZsajJiUdIBX0FVX3lxTE5xd3NjbTVZU3J0aWk1WUtjeE85MnlOaXJqSDNVUVVCUGdVbmFYVlNkSW9JVzMzZzJfUE04T0hlbjQ0ZlplYW44N0lGbHp0djJWVDcwazVBNlBDRktCc0NJ?oc=5",
+        "summary": "北市豪宅量崩近四成 看價格傻眼：這區竟年漲13%&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T01:56:39+00:00",
+        "source": "經濟日報",
         "source_weight": 2,
         "category": "finance"
       },
       {
-        "title": "你是否下意識地擇時投資？達人雨果：關鍵是穩定操作，單日漲跌別過度反應 - Smart自學網",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pelV6VW1Za29JbWNPbjZ4UUxtakpqZXV2Q3BkVVp0MDdDdnpHNVhFaEZNMzNnODdkeTlPQ2JCeUFZdjdrSTRwcDNqZzFicmwwTng0OWw2YnY0MmR6LW1ESWp0VF96YzdISGpjendvZ05aZEp3Zjh1RlBZMA?oc=5",
-        "summary": "你是否下意識地擇時投資？達人雨果：關鍵是穩定操作，單日漲跌別過度反應&nbsp;&nbsp;Smart自學網",
-        "published": "2026-04-29T01:30:11+00:00",
-        "source": "商業周刊",
-        "source_weight": 2,
+        "title": "China-US Tensions Build Over Iran and AI Before Trump Meets Xi - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0NWd1FhMi14bXpzYkgxejZENlBiNFRFS2VFQXl0cmJPMl9uVGpFM3JULWZ5MjRzRUxGUTYxcUdUcDhFbmt6aDB2N3hiQ2hyWjBVeEFxaDVTRHB5Ykg3YldWYnFOMjBxcFc2Q3I1RnFmOEVwZnRNb09LaVZpVkU0TnpsUHo0YTMtZ05TeElteEhVM3ItM0l2NEt2OUJUd0ZkTGhjcjZ0TjZrOHZVczRYWTdkSQ?oc=5",
+        "summary": "China-US Tensions Build Over Iran and AI Before Trump Meets Xi&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T01:40:00+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -743,6 +914,69 @@
         "category": "finance"
       },
       {
+        "title": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1hfcHpmbWtKcVdnZG1nS1JnNktSRnFnOTd0ZDhkakxaQmJjb1NMbjl1aTRFdlJvUXFrb2djdU5LeWVNYVNuUWFCYmJPZTY3M2RPdllkSWJqNDMyUTdXZUI4aHhjRTl0SGZ1anRsV1B3OHJOWEk4M3BoaGZHRmMyZ2RyS3I0enJqTnFsTDV1THF4YmRlWktnOF93dFBxeDk1cDB3OFlHUk9GN1JFWHZrcQ?oc=5",
+        "summary": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T01:26:00+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "陸最快今年邁入世銀高收入經濟體之列！專家：「中國化」馬克思主義將影響世界 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTeVp1NGxlMk5QQ1UzM0x2VWFCQ3B2QW9yT29sYjBVVHJxN2F5VDZSRlNvTGhQMHdBWHRJNXlFMmh6QWlEclhGaE5NZjkzYWs?oc=5",
+        "summary": "陸最快今年邁入世銀高收入經濟體之列！專家：「中國化」馬克思主義將影響世界&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-04-29T01:26:00+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "China’s Meta Backlash Renders Manus Model ‘Officially Dead’ - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR00zS2E4NXJEeDRpQm8tdVlkTzFmVXlWVmw0TlB2ekVGOVNjc0swbmlPNnNuY3BPVlIxR0RESnpNU0FQMWstWlhsQ1paZGdSWUZGc0pScG5LSUZTOFc2ZWVGc3phRHYzbmI2QmpWVUlVX0JTLUtXRmhqWWptZkJmaWxZMUQyNHYwV0JOXzRkMDhEM3lGZkltdG0xS1NkUFI0MzRaSWJBY3dJUm9k?oc=5",
+        "summary": "China’s Meta Backlash Renders Manus Model ‘Officially Dead’&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T01:25:00+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Purdue Pharma receives $5.5 billion sentence, paving way for opioid settlement - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclFoUlJMNHVLeXBNTXIzd0lIT1dVS04zQl80RmlhNUtYXzBmYUlPQW5Vb05HaEhrTURjZVFlMm5xa1RPZnN3S1dNcWtpWU83bkpPZ19XMWhBUlZZUjlrS3dNZjZLb1pLMEIwTjltcXllZlRyMGFmQThUSW9kZDQ3cmhRMlZQWjBZZFNoS0VzVnpGOC1ENGxfSGJsamdNU0pWRDZCb0J0ZWNYMmwtS2hNR1FlVDlFblVM0gG-AUFVX3lxTE03akx4ZEoweVJWLXBraDZQaFBMN3hUYzd2X3czbFdKTXMxRW5tRW44RXAtR0ZSWkxQdi16ZXNuOUU4RzRGaG9iYzR5eE5UbXpBR3pOdEk3YWpIdG1PMmYzYWJsYkEwSGpFRHlUSV9Xdmdfckx4a2VIUGl0MlphMXNvYklCV0luNGNJbFU2N2V4SWpqTjRJV0Ryck1fSC16ZlR3MG1wTUtTZnNPU3BIX2NxdWxrV2xEZ29QUDNkQlE?oc=5",
+        "summary": "Purdue Pharma receives $5.5 billion sentence, paving way for opioid settlement&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T01:23:00+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "Dollar steady as investors brace for Fed decision in face of war - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajJpalpFN0xKcjlnRG9pbzJ5Q05TQmZSZ0prcDB4RXo5X2l6NE40X0ppOTlRMm1VTFU5YkhPMDlzMmVvZkliTjlXNmEwUDh4NkRMeWxyR0pZMjhZVXN2NXZ1VVJWcUdwOS1STHN5UTU1Z2FZSkIwa3N6RGRfOFJiX2hpaHhXSk5Yd0tkSjhLdUUzYklXNkl0cmpGbHY?oc=5",
+        "summary": "Dollar steady as investors brace for Fed decision in face of war&nbsp;&nbsp;Reuters",
+        "published": "2026-04-29T01:12:33+00:00",
+        "source": "Reuters Business",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "CNBC Daily Open: Oil takes another hit, but chips steal the spotlight - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU9LSjlBbmJRaUtFd3F1dW5FeGUyRmo5LXpfRmpxQ2Fxb0cwNThMOGE2VGczRlRmdjRkWmRSNUc4NGNKTGFMc1hRbVBqYkNFZ2lZeV9xX25iMXg0Wm9ETG5tSy1HWk5hUDRDYzRWcVQ0bXdzeFVnTmR6SlhVNkN2OHBGc1k5UGRDd0JycVJ1aHptYzF1TDM2TUhRa09CWmlVcnFXbE80RdIBrAFBVV95cUxObkNsb3U3dmQzTm5Wc0hoc3RkT2lobTVtbDRSMEJzbTByYUNQc0hjQnlFQVJWTkJieU4tYUZTQjllUERvaWZfWW5RRUo5YjdFUWtSNlI5U1RQRVFOczB0bzNYWlpPWHN1NG1HSWVCLWJUU1Z1aEZnVEktcE9jRm1IVnVEWU5aYzdnVzlPS1BzQ1dmSms4TXl6MXZ4c1h5VnZjY1lDYm1MdXdCVXE3?oc=5",
+        "summary": "CNBC Daily Open: Oil takes another hit, but chips steal the spotlight&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T01:11:00+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "The U.S. Wants to Ban China’s High-Tech Cars, but They’re Already Here in El Paso - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDF1OFpGWmkyT2pjamhYOUlHeUVlNnFUbjk4TDBjZ3ZVN0JnWkQtMS0zVkFpWkdsWHBwS2xxQ0F4VWwzcnpPVHY3X01WUFd5dzQxcHBzU3FnTWFQVXZFRkZ5N0owZUZpdTE5ZmxMQWNKNWN0UjI2RzU5SmVIc1pDbzB6RQ?oc=5",
+        "summary": "The U.S. Wants to Ban China’s High-Tech Cars, but They’re Already Here in El Paso&nbsp;&nbsp;WSJ",
+        "published": "2026-04-29T01:00:00+00:00",
+        "source": "WSJ",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
         "title": "日8大車廠2025年度全球銷量連兩年走降 鈴木汽車年增2.4%逆勢奪冠 豐田緊追 - news.cnyes.com",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zX3dDYXB1X21XMllzdWV4QnVZeUU1U3l4dHVpOHRqYVh4bTNvTlNMUGR5cDkxY2xTa3R4MU9vV045cEhpNWoyUkRmR056WFE?oc=5",
         "summary": "日8大車廠2025年度全球銷量連兩年走降 鈴木汽車年增2.4%逆勢奪冠 豐田緊追&nbsp;&nbsp;news.cnyes.com",
@@ -752,12 +986,12 @@
         "category": "finance"
       },
       {
-        "title": "鉅亨速報 - Factset 最新調查：致茂(2360-TW)EPS預估上修至35.94元，預估目標價為1655元 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TNnJBTm9VSVY4UzBLYTN4MzFPeG1tck9mYUJkS2ZhWUhWbEVVTDlfVHVNMkpHN2s5bXhYNS14blRIWndJMkFwU0Qyaw?oc=5",
-        "summary": "鉅亨速報 - Factset 最新調查：致茂(2360-TW)EPS預估上修至35.94元，預估目標價為1655元&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-04-29T00:10:31+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
+        "title": "Taiwan Overtakes Canada as World’s Sixth-Largest Stock Market - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzd5dXNPZklLSVdFYzZ0NVNFcE5UVzFDcTlqaUN6RTFkZEN1YXM4OU45QU40eFM4VTV2S2dCTWRSeC1QYzJKb0pwMHF6Y0c3eU9UTW9VS2dSV0ZoSU83X19ONzk2N1g5NVF2Q1Rtb09ZTG1ZUmpKOTZFeUEyaGVnNnEyY3FfQjZVRERpVXZ2RjM1bTh4RndwU1MtN3NVNXMwM1hUQmlLZldPeTZwRnJIOE9n?oc=5",
+        "summary": "Taiwan Overtakes Canada as World’s Sixth-Largest Stock Market&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T00:47:00+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -773,8 +1007,17 @@
         "title": "00940睽違2年「擺脫破發」！股價漲逾11%創歷史新高，規模卻反而大縮水？ - 商周財富網",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hdlB1OWp6QV9tcnpGSUhYeGZvY0F2VkNDcGdhREwzNVIwT3FSRldsMHMyZ1ZVOWJxLU1HRjZjeGNWOS1SdmltT09XSzczYmdVWVZUdUV1WUtXZ05zZDNrWGdKZnQwY05XUE1OUTlCSktHQV9NbkE?oc=5",
         "summary": "00940睽違2年「擺脫破發」！股價漲逾11%創歷史新高，規模卻反而大縮水？&nbsp;&nbsp;商周財富網",
-        "published": "2026-04-29T00:03:41+00:00",
+        "published": "2026-04-29T00:05:01+00:00",
         "source": "商業周刊",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "駐美代表俞大㵢訪藥華藥波多黎各廠 見證臺美雙生產基地戰略全面啟動 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YMVh6S0c3ai1acWtwLU9oRTFvUlpTalVVVi1fRl9IajBEMWhabmdsYWptaWs2U2pKVmphcENZLS10N0txQ1Y4N2RXbTJjU3hldHNUYVhENUxmZ9IBX0FVX3lxTE83b1JnNDBhSnhzaWd2ZDBzbTcxa3UxRGtKNkZneDQtWHMxX01JTFlidGE4VUt4Yi1QbEoxcmhvMmprTUJpVW1IdWNIWExOTmpleG0wNktkTHNqYjR3QXFn?oc=5",
+        "summary": "駐美代表俞大㵢訪藥華藥波多黎各廠 見證臺美雙生產基地戰略全面啟動&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T23:56:18+00:00",
+        "source": "經濟日報",
         "source_weight": 2,
         "category": "finance"
       },
@@ -788,6 +1031,15 @@
         "category": "finance"
       },
       {
+        "title": "Can AI outperform doctors? Experts weigh the pros and cons - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaF9BVkJwbDVFRlBuSHVOemlpbU5keG1mS1QzcVJ6bXZnbXZ0a3ppeWtwdnA4VUJSWU9ZdnZ6UjNCWXB5SjRUVjR3MnF3cUdXY1FfcjRPVVRyQmJFQlJGNExpcTBEZXdCanRvN1lMR2VLb005QmxzbEtGTzRBRW4xTEhJbmR4a3ZZdUt6bHZTZ195Rzc5Ql9ya1k0OXFEeTgydFNn0gGoAUFVX3lxTE5xWkV4YXdLV3FaeFpEa181ajZTeVhrOVNSMGEzU21pY0NQM25VUlNyVVo4eEhIeE5IMGxEdHRYbDdmUjdMaGtmTklISldMQUM5Y0NWZ3daM1R6T2VOSloxSmxRbzZoTmNZbGpPWnhFMGN5Vk5YRTFUeGdNX0FXM3BIY0dqdGNqUGI4ckdtcWtReW8yZHZhdTlkaktXNDlSVHBSVkNrQlU4eg?oc=5",
+        "summary": "Can AI outperform doctors? Experts weigh the pros and cons&nbsp;&nbsp;CNBC",
+        "published": "2026-04-28T23:16:54+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "華廣 4737 - 商周財富網",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY2Q2RjRnUGRwQzc4N0QwWU8zaW5Lb0pJU2N6bGx2X0ZuRnljX1U2RjJ4SWQwM0hHWGQyTjhLZFpVNVFTdWhwQ0hNRTUzdzdWMERMeXNNSzR0SU9HT2VRZWFzQngtMmZwTXdaNVNPalhOS0taMVdRUEktSElidUk5QlRicGVDdjdrRFhtNVplUnM?oc=5",
         "summary": "華廣 4737&nbsp;&nbsp;商周財富網",
@@ -797,20 +1049,20 @@
         "category": "finance"
       },
       {
-        "title": "Storage stocks jump as Seagate's upbeat forecast fuels confidence in AI spending - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1h4UHVIMWZlemNDZEdyOVdxRGx1Uzd1RmZzUGliYjBmX2V3Y0JrLWdMNE9zb01DcXJ1ZlBlckRJYnFoYTZmTTdOLUs0cDc3N1dOQnUyTlBkbjFuM3ZfalJWZHFRR0xMUGdqaEE3d3dWMjJIaVVOUEFjdmphUktSSVQ5UldXMkJrRVVaUExFcVNBVlJ1ZEE3Nm51ZHZ0NFhrckl5NmRhVEhXcGNiUllXcUptQjNYaVY2R3c?oc=5",
-        "summary": "Storage stocks jump as Seagate's upbeat forecast fuels confidence in AI spending&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T23:07:43+00:00",
-        "source": "Reuters Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
         "title": "Face serum advert banned over 'five years younger' claim",
         "link": "https://www.bbc.com/news/articles/c78kl05en7po?at_medium=RSS&at_campaign=rss",
         "summary": "Eucerin asked 160 people to use the serum for four weeks then say how much younger they thought they looked.",
         "published": "2026-04-28T23:02:15+00:00",
         "source": "BBC Business",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Goldman Sachs stops bankers using Anthropic’s Claude in Hong Kong - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2pKN2dnTFp2c00zZ19USVJYaEcydENfVEFtUkx2TmtvN3JkaGhiMnB5dFFfdWhINlNZZFRoLXlxaW5FNlREejMzZld6T1NPMWlmOUVMZmZneEFXcXNzbjhlRmk0QWs0WDVDaUtBUVp2V2dEblFGalpnYW1RSWhQdFhiZ0s?oc=5",
+        "summary": "Goldman Sachs stops bankers using Anthropic’s Claude in Hong Kong&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-28T23:01:10+00:00",
+        "source": "Financial Times",
         "source_weight": 3,
         "category": "finance"
       },
@@ -851,6 +1103,15 @@
         "category": "finance"
       },
       {
+        "title": "AI熱潮像龐氏騙局！傳奇投資人警告「一訊號」：泡沫將慘烈收場 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42MVVSME83aUQ1d3YyVFpHNXBvdjUteXQ2bGVXdEVfdmI2cklRMFVfVVVfd2tDQmduTlNMaG1JUjZqa0U0ODZUQ0JzZWRmR2M?oc=5",
+        "summary": "AI熱潮像龐氏騙局！傳奇投資人警告「一訊號」：泡沫將慘烈收場&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-04-28T22:13:01+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "Flying cars and 5-minute charges: China's EV industry sees opportunity in Iran crisis",
         "link": "https://www.bbc.com/news/videos/cm2pnde3l7yo?at_medium=RSS&at_campaign=rss",
         "summary": "As the US-Iran has sent the world scrambling for fuel, China is positioned to benefit from its rapid shift into electric vehicles.",
@@ -878,12 +1139,12 @@
         "category": "finance"
       },
       {
-        "title": "DHS shutdown: Congressional dysfunction imperils pay for TSA, Secret Service - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BdWN4VGMwTGlNNndEX0Z1QmtKNWl0QmFQQ0JXYS1WZklGRjE2WE9pYkoxNjlpaGZJUzExaG1hLUJyRU5ubVNSQmRMMlVYNEJ6dDNPZE5mM0doMEltMFZ3dWRueUstNmtSWGFyYlpiWdIBdEFVX3lxTE9XTmRRY08yalFuTWxEcW5QX0NndjFSRGVjcWFNQWpoOWpjczMtWTRQM201blJoQ1VEMlEyUURDRDdxR3pHbDdTYWo5c0t6eUZjbFJNRjhmeEIyVThGYzNDWTBZUHhOQzhCdUgzUXFpdzM4TG9x?oc=5",
-        "summary": "DHS shutdown: Congressional dysfunction imperils pay for TSA, Secret Service&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T21:33:03+00:00",
-        "source": "CNBC",
-        "source_weight": 2,
+        "title": "HSBC sees limited near-term impact on OPEC+ from UAE's departure - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEJZbmtXTjdOSV95d3FZYUhlam1XZXlrN0oyZFNpd0lpc1VrY1Z1U2lva1lqcDNZTHUwWG9BdS1DN0RVMHBscWs3Y25wczgyQ0dLRkVWVzhWb0d5RkJGRC1NQTRlRTdod1F3MjBZUWZTSldxZzhudEpOalN3MnU2cXBiZC1TS05lNVpZeHhTU3dQTXVhNTNxQ1U3aDFKaFJfWGZmVjNPOVFFUQ?oc=5",
+        "summary": "HSBC sees limited near-term impact on OPEC+ from UAE's departure&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T21:23:43+00:00",
+        "source": "Reuters Business",
+        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -905,20 +1166,20 @@
         "category": "finance"
       },
       {
-        "title": "First Vegas-style casino opens in New York City - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRl9BVDRIclgwR2pmbkd3NkZITmQtQzk3dFpSU2VhZGRNbmd6cTl6X0lpVGpGdGdKMWRwLUR6QXN4VXlkTGl0Ui1jX1RDaG12OUtMdnRlN3lnTG4taHZZV1lvVm5sRGd3RWFDV1pRNF9xVkszVjg4enVSU2E3QmxEZWt6MkF6MlHSAYwBQVVfeXFMTl8ybkNjX0trM2luUHlWN3M5eGw0dllDNWFPRUk4TlFCYjNrN3FhWDlSeWhTYlZRZmJ6aFgwR0ZWZy1FUWZEdFdCa2RjVU5aS0ctWFhvWGNLRXhJYUd1MHhaSUUtSmQ3Q0I3U2tZODFfbXVuY1pHTnI3RS1ZYVVaa1RIOTF2Q3BHTzZOc2k?oc=5",
-        "summary": "First Vegas-style casino opens in New York City&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T21:02:30+00:00",
-        "source": "CNBC",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "North Korea’s Nuclear Arsenal is Outgrowing the US Missile Defenses - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxQXpiQTI1aDhwMkxLazhYV0VNUFFiOUlyU1dnanFzelpJX01fWlQ2UnV5eXVWV21NY0Y4dlNLNmNVY3N1aHFpVUxJd3hMeTk2Y1BFZno0Y0owWTVwSkktT3lUdF9VcTgzakRrRk9kYV8zYlRwQktn?oc=5",
         "summary": "North Korea’s Nuclear Arsenal is Outgrowing the US Missile Defenses&nbsp;&nbsp;Bloomberg.com",
         "published": "2026-04-28T21:00:00+00:00",
         "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Pernod Ricard and Jack Daniel's owner Brown-Forman end merger talks - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3hHYmFWRHRGbFMweHc0RE5RY3ZycVBMMkstY1JyY1lud1laVldDakxxTlhEX1g3SzExRlU5VVRtVkNYUHNzWVpvUUV1RWpCT1ZQNXZFeUswLTIxMzZmbkkwWk9fNTlnZ3M1UkR4MEhycTE3bUxHVmhkQ3FjbFNnd2tteEdtQzZzdmdKZ0tTZXNhYTVXNmwtQ1BrMWhOV2FIaVE?oc=5",
+        "summary": "Pernod Ricard and Jack Daniel's owner Brown-Forman end merger talks&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T20:53:00+00:00",
+        "source": "Reuters Business",
         "source_weight": 3,
         "category": "finance"
       },
@@ -932,10 +1193,10 @@
         "category": "finance"
       },
       {
-        "title": "Mexico Says US Intelligence Aided in Capture of Cartel Boss - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBLcW4wZWxnVzgwb0Fia3lGZ1N6dXpLaGpsdV9ZNzdrWmJfYlVLTlNGTnpUUDl1dE9kX3dDM2x4Q21VZGlVUGFVZm56V3dPU0psSmNScnZMYXBQWEE0WWlsYTlWNDhBRjVNOHI2bkh4ZlRXVFZ0UkxnTWlLZHc5R2FzWlBqSjIyd3lIeFgyVUw4RjRFUHNzWlE5dVdWWm9ja2VjNWpCaUpHRHNMRjFj?oc=5",
-        "summary": "Mexico Says US Intelligence Aided in Capture of Cartel Boss&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T20:43:26+00:00",
+        "title": "Kone Is Said to Near €29 Billion Deal for Rival TK Elevator - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVhzSzRiRldlVHZaazNndmU2anNWOHhPUm1KM1gyMjExWUx5YXFXT3QzVWtQbXRwTEc4al9jTlFVcTN1aFNhUW13LXp0Q1pVTEU5MW5tYVp2bkJJaDNqMzgzX1Awcm1TSzdsYVAwaVF4dVJVcXBoTmxfT3pwUXlfczcxdm9Hc0RqR0FxajdWamFUUUsxcmNrOExtckQzbVZsVjFlUUZSUnVaeXdFWFE?oc=5",
+        "summary": "Kone Is Said to Near €29 Billion Deal for Rival TK Elevator&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-28T20:25:34+00:00",
         "source": "Bloomberg",
         "source_weight": 3,
         "category": "finance"
@@ -963,15 +1224,6 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXotTEtKTFpEb3lvdGZwbmphd1owZnEtekxtYzlSaGlabFE5aGM1X3ZvX1VfUjBIVzdjRzYyd2VtLUl2TXFSbFVFaDZISDdScHdYX1puUDU0NWdBVlB4ZmszU0Z1bGNTb3hhcUhCcHZtOGgyTk1IV3pLeHFxdDlJbzJfOWhqZDdkc3dtaHFHUTd3N0tkSEZLcWh2WEdpSFlmeVVxd0hybEFuVGR1TFZKNk9n?oc=5",
         "summary": "King Charles Urges US to Reject Isolationism in Landmark Speech&nbsp;&nbsp;Bloomberg.com",
         "published": "2026-04-28T19:49:47+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "US Threatens to Sanction Banks That Help China Buy Iran Oil - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXNJMmxVR0dYYlNlT3ZvSmU3bGxnSmRYSkx6QlB2SFN1a0d4X01jdHJLSml3QVA3WklKeGRZSGJ5dFdXTkJTMzJtNWhQcDZmTTA5c3pVcFdvU0luY1BLUTZEMzhlSlhMb2dzemMzaFpITXdUVW1iQVZMWUtWdUhxM0RmZVdGa2c3NnJQWFZlQmxyaVg4TFRQb2FGTnhObkd4cFZGVlBOM1ItZkhCZ1dhbHJFWWQ?oc=5",
-        "summary": "US Threatens to Sanction Banks That Help China Buy Iran Oil&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T19:46:39+00:00",
         "source": "Bloomberg",
         "source_weight": 3,
         "category": "finance"
@@ -1013,6 +1265,33 @@
         "category": "finance"
       },
       {
+        "title": "ABF法人喊上千金欣興Q1獲利年增446％ 目標價1,060元 「這檔」緊追其後- 日報 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNnMzbk5kN1lPYkpsTlY0RFliMTNBZmI4RmpZV1ZTdndtYjFBZTlORG1YV3UzVWg4RDRRc1pOVnBfTTFMeHhFZlEzM3p5YmZoVFZmWkdQM1pSVnJFNGh3?oc=5",
+        "summary": "ABF法人喊上千金欣興Q1獲利年增446％ 目標價1,060元 「這檔」緊追其後- 日報&nbsp;&nbsp;工商時報",
+        "published": "2026-04-28T19:00:00+00:00",
+        "source": "工商時報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "英特爾站回產業舞台C位 18A獲客戶點頭日月光等台鏈市場看好- 日報 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcXFiakVRVkJQNzRxYmFNNW8zOUVJQUxKd3dVQkI4V0c2VktlWXp4aFd3VS1JdW1NTmZNcFVEWHFyVU1KNDdLVERkZTZ6TnFSM0MtU1JXLWVjYVJiZWpR?oc=5",
+        "summary": "英特爾站回產業舞台C位 18A獲客戶點頭日月光等台鏈市場看好- 日報&nbsp;&nbsp;工商時報",
+        "published": "2026-04-28T19:00:00+00:00",
+        "source": "工商時報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "無米可炊 業者提放寬不限用途借貸上限至淨值10倍 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51bV9JdERZdGs5dm5zM3ZDUzVJdlhPLUJkbzJZNTFQaFVfRkdxZ29nekE5emYzUGVXLWRFYW9oX00zX0Zhd3UwOGZPMkRMY19OdnhGbjIwdmoxVmRYbExv?oc=5",
+        "summary": "無米可炊 業者提放寬不限用途借貸上限至淨值10倍&nbsp;&nbsp;工商時報",
+        "published": "2026-04-28T19:00:00+00:00",
+        "source": "工商時報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "聯發科 ASIC受矚目- 日報 - 工商時報",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2OFotV0FoejNILUd0Z1dHR3QtbzhFUE9kNnpONkdiRUZKVldadlgzZ1ZPWUtvZlVralluMDJFOGkyVXZXa2xfM25heTd0N3Qyd21PLUZweURaOENkcDU0?oc=5",
         "summary": "聯發科 ASIC受矚目- 日報&nbsp;&nbsp;工商時報",
@@ -1022,9 +1301,9 @@
         "category": "finance"
       },
       {
-        "title": "40K多空激戰！台積熄火聰明錢流到哪裡去？外資期現貨雙空、本周大事一次看- 日報 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TQlB4anJrdGx1aTMwb3ptX0JBWjRPY1dPMlJQbm0zS1RNSGY1ZVBtOTBtSVpITXJ1T3Ytc2ZYbUNaeThKX1ZoSDEwcm1MUENJdWdSaVdZSWFKOC1Bc05z?oc=5",
-        "summary": "40K多空激戰！台積熄火聰明錢流到哪裡去？外資期現貨雙空、本周大事一次看- 日報&nbsp;&nbsp;工商時報",
+        "title": "庫存變黃金！記憶體報價漲漲漲十銓一路賺到2027 「毛利逼近40％」的秘密找到了- 日報 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wSlQ1d1p6ZWRwbk5TQXlXV0ljUnFManhvTlUzazg1YmN3Y1BUS0EybWYyMkczVDNjQlVRa09rNTNwSGs0YTh1TENxWlh5bXBQRm1SMVBKVk91dDJRVTBj?oc=5",
+        "summary": "庫存變黃金！記憶體報價漲漲漲十銓一路賺到2027 「毛利逼近40％」的秘密找到了- 日報&nbsp;&nbsp;工商時報",
         "published": "2026-04-28T19:00:00+00:00",
         "source": "工商時報",
         "source_weight": 2,
@@ -1034,15 +1313,6 @@
         "title": "油價上漲最新受災戶預拌混凝土傳最快5月調漲「這問題」也很嚴重- 日報 - 工商時報",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZEpZb1ZRQVRBbTdsR0dkajZRaXlQSXNfZDVNX2M5Y0dNZ21nS2FhRzVXS2RjUHRkbDVpbnppTTMwd0hLa2Rvb2xWb0d0dURDUExzczJqbE5BbEZxWWZZ?oc=5",
         "summary": "油價上漲最新受災戶預拌混凝土傳最快5月調漲「這問題」也很嚴重- 日報&nbsp;&nbsp;工商時報",
-        "published": "2026-04-28T19:00:00+00:00",
-        "source": "工商時報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "ABF法人喊上千金欣興Q1獲利年增446％ 目標價1,060元 「這檔」緊追其後- 日報 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNnMzbk5kN1lPYkpsTlY0RFliMTNBZmI4RmpZV1ZTdndtYjFBZTlORG1YV3UzVWg4RDRRc1pOVnBfTTFMeHhFZlEzM3p5YmZoVFZmWkdQM1pSVnJFNGh3?oc=5",
-        "summary": "ABF法人喊上千金欣興Q1獲利年增446％ 目標價1,060元 「這檔」緊追其後- 日報&nbsp;&nbsp;工商時報",
         "published": "2026-04-28T19:00:00+00:00",
         "source": "工商時報",
         "source_weight": 2,
@@ -1067,47 +1337,11 @@
         "category": "finance"
       },
       {
-        "title": "Google Signs Deal to Allow AI in Classified Military Work - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzdzOFpYSGJVR2hjVHc3RW9mcXZ5Q2cxVElaSV9pUFFGdm1oNjFJbG0wV3dWYnkwZnlqcGtrX2dveG0zT295MlI1ZUNlYUIxQm5NTV9EZjRNN25jcTdJcFVzSzh2U2VrY3VDRmhVblJKVlg3ZEIwWUJwdXBvaEQySjFSemNZdjVDZkZOSlZvMzJUR0lQTmZ0enZhVHZFRWtmZmNBY2xtV2d4S3hURlhJeFdTVWduZw?oc=5",
-        "summary": "Google Signs Deal to Allow AI in Classified Military Work&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T18:28:44+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Musk Testifies He’s Suing OpenAI to Stop ‘Looting’ of a Charity - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVBPakF2b20xbzgtUU1KbTgyV2p0WVBQcnFWVlFRYzdVbXYwNkVQXzhlRWlJRGF1NEJLMGQtRDhwMEsyT2xFTTVrWUpGMmt3b1dGdHNsdXRmUEM2TElGNGZRbzR5YjhmV2JiTThONnlSMXZvQ25oenEzcjdOTTFQYVVhYloxcDRwVkJPc1VCeXhIN3oybmJESGhCN3hHWlk4NEstMTQ2aS1WNkdvaDRiUmln?oc=5",
-        "summary": "Musk Testifies He’s Suing OpenAI to Stop ‘Looting’ of a Charity&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T18:26:25+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Former FBI Director James Comey Indicted Again Under Trump - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUgxS0d1UVU1TGhhelhHUzJCa1lpRi1IMlhHU2NTbU9zYTJKcS1zNy0yUmtjVEpYM2s4TzhwQVVyVm40Y2pGYmtVcF9BeE0zTEd5MmdoWnByUlZNUjB5TXFfQW82RWZCcEl5REdNNTllWHNMY1kwSlBTeGNPNUZ0WXJJZEREcDdqXzljYmNTeVFDN1pKUzdKWTZOYVFXbVRya205cWFjWHQzdjBxc21sZmZUNjlaQQ?oc=5",
-        "summary": "Former FBI Director James Comey Indicted Again Under Trump&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T18:25:15+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
         "title": "Airbus misses profit estimates as deliveries slow amid engine crunch - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcER0ZmpsREZPX3NiRlVwQkRwQWJyM2h0TFBjY1N0N2x4R0xDTk14UjZKYkZvU0d5VDRjZjRZZkFhUjlyTXJXRE9wdTRHUnYxTFdYbm1STGN1TnE2SngzUWg5MXM5LXg2ZjBsSTU2a05NZk9ia2hlSXNrbE9fWXdBWnkxT3FkSTRVSWM2NXdETjQyeVJLbWhsTGtaMG50NkRLbmtHN2NmbFRCTWpJYVNIbFBjTVVXOW5uR3BUVzhfdw?oc=5",
         "summary": "Airbus misses profit estimates as deliveries slow amid engine crunch&nbsp;&nbsp;Reuters",
         "published": "2026-04-28T18:14:48+00:00",
         "source": "Reuters Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Trump Says Iran Wants Hormuz Open Amid Efforts to End War - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ000VTlLZ1hKMnhHUDZDTHNEM3BfeVFqNnU1VG9pcElMZFhnMUJ4aXgxNkpiRGVtamRBampuclJkN0RyejQyTXFtTkg1WWp6SFJMXzQxb0FuWDNCY09rUXUwbVFpSm5zZ0w2ODYxN0duYzlra1kxdDBlMjlYOHFzQXRRSTJzVVlTSldiWF9Zb0RjTzN3TUF0dUdBVWZhbUUxU0lnUXQxdmhrWDV6?oc=5",
-        "summary": "Trump Says Iran Wants Hormuz Open Amid Efforts to End War&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T18:14:10+00:00",
-        "source": "Bloomberg",
         "source_weight": 3,
         "category": "finance"
       },
@@ -1118,24 +1352,6 @@
         "published": "2026-04-28T18:13:46+00:00",
         "source": "CNBC",
         "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Apple Readies Photo-Editing Overhaul With New AI Tools in iOS 27 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMS0xRloyRmpSVlRRQ1NNR2ZfckZYWWkzWW03ajBZLUUyVXpkRWlkLUM0VllPT1dzRHpTaFBDVkxnYkt0ZzBpWEl3YTYzUVotZkNoX2xnWFJuZzRndmNlNmZFRnRjemRUbDJ4STFsZkFrRnBlVUhQTXFqT1kwSk8yenNZVWQ3MXp0elVrSG9qMXdIRXU1Z1daXzhoX0tSMFVuSE1iQ1FqQ2lNbFAzLTRDWnJQOFc2SjVPeHBreV9zN0hTeVE3?oc=5",
-        "summary": "Apple Readies Photo-Editing Overhaul With New AI Tools in iOS 27&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T18:09:52+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "The Robots Make the Predictions - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzFXeS00RF9SQTR1bjhXQU9OTjNSVW1LZEZmcUxZS2RXcWhqc0tCeG0wSFo3RUpPNzRqVWRGWmNDWU5QNzZTc3VJSkZYWnBCMjZTbTZhRUtvRUhGSFZCeHpXZEg4RHVFeXp1UE5YdUtzUlpCVy1SSTFsRUpFcW1fWHBaMHItRlJ1bDNxWkliQnRBQQ?oc=5",
-        "summary": "The Robots Make the Predictions&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T18:05:16+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -1166,11 +1382,11 @@
         "category": "finance"
       },
       {
-        "title": "Goldman’s Flood Says Brace for Near-Term Selloff, Buy Stocks Dip - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWmlIZFdvcGt4WmY1RHFpZTRpUWdqcWVnUE1NWFRUU3JRSGtPM1RPa0JmTk9wOEI0ZG5WZmx5ekRLZGc4a2d2eEZlRXFEVUt3ZFdZcnRmSEVZNW11RXZoblEyTlBCOVFza3hRSlh2VzhMbDRDTi1fYUg2QzY3RmtDRHBPc2RQSTRaNmpBRzNhTGRMVU11N1dmX3JSTWlYbExOSGF3R0lGSldLTFRZSWExSnQyem15dXVaSmdSZWlR?oc=5",
-        "summary": "Goldman’s Flood Says Brace for Near-Term Selloff, Buy Stocks Dip&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T17:39:17+00:00",
-        "source": "Bloomberg",
+        "title": "Beijing’s blunt message to its tech sector - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3p4Ri1TeUxKb2QwUmM1b1ZCTG5BSldHRzJfbUI0akRpempRWjNIM1c0bHFTcjhsUFpDUnh0RG9VWXA5bjBFaGNsUmFfOUJCdWgxZ0UzVnNUSTNxaVR6cExPUFJ5TE95aWYwc1dVT2RHM2d4SEI4YVJlSUZxYXRoLXlESnQ?oc=5",
+        "summary": "Beijing’s blunt message to its tech sector&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-28T17:21:10+00:00",
+        "source": "Financial Times",
         "source_weight": 3,
         "category": "finance"
       },
@@ -1184,48 +1400,12 @@
         "category": "finance"
       },
       {
-        "title": "Google Drops Out of Pentagon Drone Swarm Contest After Advancing - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdG1ieUw1cUJ1RFVodjJTNzZzZGRBZjNsRnVLUFBreExITTdCSG1ZNEJnNVVFSS1ZT2hZUWIydHk5aFN4TnY4dVJoUDJ0NTllN0ZkTm5SZ1ljNl9CeVJKVnZMblIyYmkxSG5HbWhLMDZBU3JySW81Y3ZEeXJmZWRzajFZMTBmZnByZGsxaGdxeWREc2FKZkJVbm9kb2xOYW9qSGxBaXhqTnRTZ3g3R0NNMXFocWdmUQ?oc=5",
-        "summary": "Google Drops Out of Pentagon Drone Swarm Contest After Advancing&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T17:00:12+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
         "title": "Trump administration launches Disney probe after Jimmy Kimmel’s Melania joke - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFdkajl5U2I5QmFRUmwzbE5NQkwxSDV1dHkyMjdNQ2pNTFRBRlpYNDRiSjhsd1YxN0dQUzE2SlZtQTRWVGdvME5SODVjdkFUVk1OVnd6ajJoVGN0QVRDajdxZVpGek1SSmdseHZ0TS16a2kzZU1IRDZSM19PT0FMWTlSV00?oc=5",
         "summary": "Trump administration launches Disney probe after Jimmy Kimmel’s Melania joke&nbsp;&nbsp;Financial Times",
         "published": "2026-04-28T16:59:38+00:00",
         "source": "Financial Times",
         "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Explainer: What is OPEC+ and how does it affect oil prices? - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGx5SXd4LTdTZUxmeURrN192TUU4UDhQTS1yVS1NVlpWTUtzYzVSZDlMd0tCV21wRkRsNDJrV0RDTk9fOGZXN09MSmpoMVYwN3RobUM2dFR1NFRYSUdMWF9pNWxCQ0Z4ZmxfdjNHUHVobzU4QWFHQzg5MjdiUUpwTi1UX0d1Q05QQlBtajd0RWlCTTgtUGpRSEhR?oc=5",
-        "summary": "Explainer: What is OPEC+ and how does it affect oil prices?&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T16:58:25+00:00",
-        "source": "Reuters Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "OpenAI's growth may be sputtering. These are the stocks most at risk - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUNKcVBYWjZWZ00zNTVwZUxiYll2dzF3R01CUTRnZ2V4V0M2d3RfZEM0LWx0dEJibVFwenFBNzg2VE5FcGF5LVEzbnBFR3dxMkdlVUxvT0RaRGV3SHQ0SG9SMWd4a2xZM1pPS0NYSUVfZlNBaGVwUDRrZWgydDM0UHVRZUtsNUU1MkI5QkpmSi1ZSVhEcmpCVHFPYVQ4WDVONTNMY3BR?oc=5",
-        "summary": "OpenAI's growth may be sputtering. These are the stocks most at risk&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T16:42:16+00:00",
-        "source": "CNBC",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "股市熱 TISA 吸引13萬戶參與 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Wa012ZUFPdG5BNk9pcVM3NkdhWldmbF91b3lKalR6S0lPRHJzdUttc0xVcjNISk1qdENROG9kX3hEMU1nWVgxZjNHOERVdXlmMC14S0tmTVFMQdIBX0FVX3lxTFBJbW5CODhSRDVOYXNMS2FBazI4dTE5U1RUd24yOS16ZlBSSjNkX05MVnRLSXVYR2ZIQXJYQTB5a1p1TzY4a25Yc2NNQjNZV3VGZXp1eTBUVXBqSjF3Y2tz?oc=5",
-        "summary": "股市熱 TISA 吸引13萬戶參與&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T16:39:48+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1238,15 +1418,6 @@
         "category": "finance"
       },
       {
-        "title": "World Bank objects to Uganda bill to regulate purported foreign agents - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXRWYl9vUTNIb25TOGpoUC1uampsQW1KVEwtNGQ1SHZwN0xWaVFFMTJLb0hwVlRiQ2lCM1hqX2JFcldfRWthX2xmdWlobk5yUVBzejhCdG5JejFIdjRsTXFHTXFiMFZGeGdFclRqSlc0VC04NnVjZlI5eHNySGlJc3JYUmE3T0dWdERrZWcwak4yNFNZZmdwRld0Y1paWk10cXMzSGljWFBtYUk5Ym1zbU1CREZsUDJf?oc=5",
-        "summary": "World Bank objects to Uganda bill to regulate purported foreign agents&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T16:27:14+00:00",
-        "source": "Reuters Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
         "title": "United Arab Emirates to quit oil cartel Opec",
         "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
         "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
@@ -1256,21 +1427,30 @@
         "category": "finance"
       },
       {
-        "title": "Airbus reports falling profits as jet deliveries slow - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OeFFNV2pNdkkzWWs0TnNURTRwMmNuWGJYemZzaERjbTdnQmxzNFFtU1dRbG5TSGZoSS1QX2ZDeERVam9tZnhoa1M5RG9ZOTVnQnZUSnpMaVNMUGttdVc1UGxSZ0NYUzlUdDVoZ01ORTVfemp4b2I0eWhsOHrSAYIBQVVfeXFMT2U3aVlKM0p3NktYT29rOEZlMG5NZzFBQWJYUFNzNnJsZV85cW1VRWtQU3ItWEdjdnNlQlQ0dE5JLVpjN1AwU0JyRVJtaDZVY0lJclp6RDhwcHJfR0g1a2s4YTdWaWtMY0stbEdSbGxwUXA3QmVJbnNzcUZsU2ZVMThPdw?oc=5",
-        "summary": "Airbus reports falling profits as jet deliveries slow&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T16:03:01+00:00",
-        "source": "CNBC",
+        "title": "華碩啟動三大長期戰略布局 董座施崇棠：今年可達成超越行業的營運成果 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95MjRYb044U0dNRVZZNjltbjg1Mm14NFNGV2hFZm1qWFMweG9oalVqWWtIelpXQm5rbXd2Vk9pNUNFRFktOUxET0hkb1hVeWZ0eTdVYkxYUHA2QdIBX0FVX3lxTE12VlNGb1ZMbGR6Mi1FOVZ5aUpyYzl4c3JwUmxvaV83b1N1SU1QRmVqSXBXQ2xNYmtDN2N1a2Z5MF9GbEcxVExhZnNtTXVUVmdHUTZ2b05WMlpoNXhZbTF3?oc=5",
+        "summary": "華碩啟動三大長期戰略布局 董座施崇棠：今年可達成超越行業的營運成果&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T16:21:57+00:00",
+        "source": "經濟日報",
         "source_weight": 2,
         "category": "finance"
       },
       {
-        "title": "緯穎3月每股賺27.1元 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KLXF2QUtOeEhzT1RjdU55Z3FsN2VVa0JrY1cxZWF0bWNZelp3LThabWZVbnJGakkxWDRvSmNSSWVKR3pDYUpBLVc4dlBFdnVvU0R4UTFEVjFmZ9IBX0FVX3lxTFA4TUQ3c253MmlydHc3aWVrNDM5d3dqSDFON1lZYTBHdm9VOVJqdGFudG9aYWt5WDRnenlsaEZsZFlsaDRrMDRRVjU1SzBFaGZ5SnBJQUhWeGp3eU96VWVJ?oc=5",
-        "summary": "緯穎3月每股賺27.1元&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T15:55:49+00:00",
-        "source": "經濟日報",
+        "title": "盤中速報 - API3大漲9.34%，報0.355美元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YdENNMmltVlp5RWtOYmRYMXpxZ2FWb0hRaDZReUZpM1NQQjRYbkl1cVNWRjh6Vld0bEc3VlhqYmJNSkd5VERFbjZBR3RKSkE?oc=5",
+        "summary": "盤中速報 - API3大漲9.34%，報0.355美元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-04-28T16:06:28+00:00",
+        "source": "鉅亨網",
         "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "EU’s top trade official leaves after clashing over Trump deal - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2VzYlU0Mm5XaE1LbktQOVRsdTJJbXVtcUpsSTI1WHU5T21WZnlXWGhtbHNVS0psbWhSN0JDblVQaDBUcTd5amdOaXFHYU0zOFNYSVduaHBvV2JmVzNtdXFZdlowVlRsVWJpUWRkdmQ1OWpEdWVuSWNjRzF4TGtrTy1OSWg?oc=5",
+        "summary": "EU’s top trade official leaves after clashing over Trump deal&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-28T16:02:51+00:00",
+        "source": "Financial Times",
+        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -1283,57 +1463,12 @@
         "category": "finance"
       },
       {
-        "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWt5UU9YeEltQXc1QjhPRjRJWlhZdzg0QlNQSVF4Q1Y5QVF5SDZ1aldidWt6OFlFTE5CQzgxdVhoUEJkajk5Q3BGWmJOS3Bwand2WlBzSG5wdjN5UnZ6NXBCdnNVV3BmOGFwUFRMSU44dF9Pd2d2dWpmcW9qQUxmWGJ5NkjSAYoBQVVfeXFMTXVvcHU3WTNPWE5yUWZuV05kQ1pnYVlKRFgtS0FMWVBPSEROQ0lFMEF1NGgzcVg4UDk1VVhQZHc4ZU9wdmRPNVIwLWwzeWxFbHlQLWNXQWx4YVQxYmlCZUtvQU84SnVqSUJFem9uczA3a3JzWV84a1RQRGJhOXc0RWs5cHFXeWgtWVJ3?oc=5",
-        "summary": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T15:55:10+00:00",
-        "source": "CNBC",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "穎崴、旺矽、鴻勁 大摩按讚 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05QkpJTEdFMWZ0OGIyY2NXS3FHQUlKQzk4ODZhTjdHVFNaNHV6ZmhzS3BGQnJXWU1KYVBOV3lqZWRQRXRrbDZyU3N5M2RuWHFfMnQ3MmFiY0gtZ9IBX0FVX3lxTE1SNXhCQldkOU5zTXVWSnhjMzJtNWg2YkFUQzYxUFJVcHgyM1RZRk1saHZxQVZwaE1pdldLbGZDZjNJbUdoV1NhUjZTcDYySTZqVS1LbTFiUzc5Y2RFTnBF?oc=5",
-        "summary": "穎崴、旺矽、鴻勁 大摩按讚&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T15:40:06+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
         "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
         "summary": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
         "published": "2026-04-28T15:38:09+00:00",
         "source": "BBC Business",
         "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "富世達3月 EPS 5.46元 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qY2MySjkyekZFRFlhOHhHOE5OZUtsQWNTMWc0bHRWZFVsVDY2OGtUU1RyUGNnN2VkRXYyYllJVHIyVGkwU1dGYzI2aFRIYXZRZ3ktcEV3eW1HZ9IBX0FVX3lxTE44SmlmWURPNlRrSVAyN0Z5UV9rQ3F0SUJ0dlpBWnJRaDRJWjJaMDBvRWhCNXVhaF8yWXZUTTlJaUVBdVVsbDJYbW0yMHZOTzAtbGVxSldLa3NBWi1aSzBR?oc=5",
-        "summary": "富世達3月 EPS 5.46元&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T15:32:19+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "佳必琪催動新引擎 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QX3NhVXQxM0RZd09ZWUNCNnFUYWV4U25lRWZFWlcxYXFqVHpNa0g2QW1iUHNKcHc4STBMckE5SXBZUmxFbmp1UlROa3RRaGtiQ0c5Y25NM09jQdIBX0FVX3lxTE5DdTBRUTNEYTUtVHphWmtmNnF1ZjNBM0pLVVJGSW5MYVplOE1UVW9nemljNFVSdjhuOXUtZlRtalJ1OFF6SVpZZS1sLW5EYy1fZkl5Q3dUdHQ3Ni1LWVRz?oc=5",
-        "summary": "佳必琪催動新引擎&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T15:31:51+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "英業達砸32億 桃園擴產 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DdDBxZEhlSWZoN3ZKZnE3UkE4X2dJTFE4MkxLWUNxYzNRTFJCWVlrRVFjMldWYUdRdng1WUF0ZDVQaUx2WjktdUR0Qi0yVlR1cURaRVRBdEhEZ9IBX0FVX3lxTFB3eU1fZ0Q1SUtwVDFxbDdfZkxtQmd6X1JoUE5iNjdZYnhqZU16MVdJS09GbkpmRmQ5bmdtLUNEM3l2d3g3YlphZDlXQzlnbVl1WEc2Y0dXLS01MUtVdGJV?oc=5",
-        "summary": "英業達砸32億 桃園擴產&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T15:29:16+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1346,20 +1481,11 @@
         "category": "finance"
       },
       {
-        "title": "欣興第1季每股賺3.28元 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQ21MSTVDb1A1RDgxcFpqYnNGT2hZWnhwMWZvSzk5NTk4ZldTUUstOElyclNBRXhjWDgtYjdmQVJBOXZEM0UtOThGQ25MY3J1Z1Ixd1pJT0xVQdIBX0FVX3lxTE1sTU5HNGY3QWpabHRNNm9oSTRhaVFMYnVrRENoMTQ0cENOdl95Q3o3eXlNM3EzaktmREs4amVCTDFnaW53a1dDeklaSnpQc2ZaOUlBQ3lneVNqeEVWRFU0?oc=5",
-        "summary": "欣興第1季每股賺3.28元&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T15:17:16+00:00",
+        "title": "拓凱多角化發展報捷 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Sd3VjV0RxUnEyb0UtQXVEc3BpYUlZZVVJRVA3b1F3d0VIemUyZnBYdXJoa05iRk8yQXdwQWZuS1g3dkN5bzRsdHlIM3NpcjRXRHh2d0Q5a2ZLUdIBX0FVX3lxTFBCT2FLNC1uamhoNGQ1UkxMMXJMRXctQ1l1Tlc5cURMQm5MTi1uLVAyT1FHVmhDQ0MycDdISERnX0J6ZzFCTjBtVWdzNGtlb2ZoblFWeWpHeXBfRUU3M0g0?oc=5",
+        "summary": "拓凱多角化發展報捷&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T15:11:56+00:00",
         "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "ABC faces renewed Trump backlash as Kimmel says comments 'not, by any stretch' call for violence - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGVPdWw3VExyNGJmaGRUOEZVa0N4YVFnMkRBZVhTWlJzeGdZbklWOTc5dkRvODZmLVZnLUFPWHphZzlfMDV0NUhGRndFS0hqbTZFUEhPb21kOEhyYmFvNnhlWTRpalE5cWRTa2VobGFUZWd6QURPdm9OUHo5MklQNWln0gGHAUFVX3lxTFBhYUVrWFRMaUJnZGRlUG9lb3RJN0EycDJPVjl1ZFVpMFRDak5RRkY2R3BiOHVQLTlCX0x0R25zb0dtVXlyNTVDSzNRZ1VsSjJ3SGdJRXBCbDFJZFdvRks2TExTQjQ3aXVibU91RnptOHFTQWN5NFhoVnFYb1lIM3ZyeFo5SjN6WQ?oc=5",
-        "summary": "ABC faces renewed Trump backlash as Kimmel says comments 'not, by any stretch' call for violence&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T15:14:49+00:00",
-        "source": "CNBC",
         "source_weight": 2,
         "category": "finance"
       },
@@ -1373,12 +1499,30 @@
         "category": "finance"
       },
       {
+        "title": "Ryanair boss says risk of jet fuel shortage in Europe receding - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1dLRkRISk9VRnhPNURQX0JYd1RXcjc3d1lpQmhsRXd6d0JCMVRHNUhWd2JtaTU5LWRlZTVlTkROUktCZkRSS0ljaEloY3hCX2hvUHctZGg1Y0FKNlhaWThGWG5JaWNzTDZSTUFKcndBZHY4ck5SUUtLTDNDbmRrLWQ3YlVaX0VyWWVRMGVqR0VGX3VjZ19qVzBrVzZqZElSWFZv?oc=5",
+        "summary": "Ryanair boss says risk of jet fuel shortage in Europe receding&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T14:50:29+00:00",
+        "source": "Reuters Business",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
         "title": "China poised to restart exporting jet fuel, diesel and gasoline - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkhTam5DQS12N0dsbnFET082VERGWHFuS2lNWWxRdlRQdEtva2ZPakdjWkpka2hhcWNBZzBoRjZseTREak0yRmxVc0kwTjBZZk5QWk05OFo3SUYzcndWMFp0X2ZYYlU0RzRoMW1GT1V6cDlSbFFtRnRKQVdnaU1VTmF2b20?oc=5",
         "summary": "China poised to restart exporting jet fuel, diesel and gasoline&nbsp;&nbsp;Financial Times",
         "published": "2026-04-28T14:47:41+00:00",
         "source": "Financial Times",
         "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "伊朗伊斯蘭革命衛隊：已實現對荷姆茲海峽的絕對控制 過往船隻要繳通行費 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PLThnUXY4a29LTTRMNUhRWHJfZ2V5ejFydEp2RDdwb0tqQXRNcS1RRVl3ZnB0X19iX25kNTc0ZTV6ZERiM2xpUDViQldKcWc?oc=5",
+        "summary": "伊朗伊斯蘭革命衛隊：已實現對荷姆茲海峽的絕對控制 過往船隻要繳通行費&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-04-28T14:45:58+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1406,15 +1550,6 @@
         "published": "2026-04-28T14:33:00+00:00",
         "source": "WSJ",
         "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "遠東巨城15周年慶 打造創新永續城市地標 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KV052U0ZNTG9TZHBrYTE4QkloMWxtV1dqOHNCWE9FOW45MkloNG13SnhKcFNraFR6Tk9Xa0tnLVJHbmtpWjVPNVJENUo0RnViR2NsN2pTTW9QUdIBX0FVX3lxTFBtVzl6VmFJMXdyWWprNTg1eDAzellZZ05jcTdJd1phUTdJbzVVclNDdUk4ZF9DRWhzajc5ZUtpN21Pa3RidHE0dkZQTXZrQkRzT1BUb2NQT25FNTJSNmhR?oc=5",
-        "summary": "遠東巨城15周年慶 打造創新永續城市地標&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T14:31:44+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1451,6 +1586,15 @@
         "published": "2026-04-28T14:02:47+00:00",
         "source": "Reuters Business",
         "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "台積電收低35元失守5日線 台股收跌218點 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRGN4emZVdWIwWlZOSGZkVFpUZThRQTJnYWxlM3JSbWlzVnpQRHVfc0M0Njl1X1Y1VFRZa1RURm9sSWxTamh0ODdaQlZ6SVFkaU9MU01DeEhEQdIBX0FVX3lxTE14ZlNSNG5HUFVYTkF5QWo0dXBUNHlGdU1HLVZ4U1VNa0NWWkttMU9Jc3FvYTg3SDFYUmZUc3plUGlLajVnRnpYVjBLQ0RXaHhqS2dJVUNoOGhidlpGdmQ0?oc=5",
+        "summary": "台積電收低35元失守5日線 台股收跌218點&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T14:00:00+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1499,11 +1643,11 @@
         "category": "finance"
       },
       {
-        "title": "U.S. Home Price Growth Slowed in February - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3kwbWNnS21WZ19zaG1xcHNhVEFMWHFIMUFyTTc0dTZmaE1BMmUxNVR0R3ZQTmhaSzJIU28yZzVpSGlCeF9EU01walVXWU1aU0lqcms0am9PSjJCbWhHQ25LWUlQZnVBajZhb1pCNlRUMExlT2ZtM2U4dmZBLUc3VjF2X2hCVnhBQlVJNGt3?oc=5",
-        "summary": "U.S. Home Price Growth Slowed in February&nbsp;&nbsp;WSJ",
-        "published": "2026-04-28T13:11:00+00:00",
-        "source": "WSJ",
+        "title": "Reddit may need to sell its soul for scale - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qMHdjak9IeEdyNFpfSHg5SVFyZDVWY3lqeDB5ck5IaE1TS2tnWVVRWWhuRkRmX2laWTVoVV9lNXBZZUVPN3I4ZmdxUXZIT1NWcE5yQmNGcVJpVmU5bzA5OFlpMWFRYVZKbnRtMEVYRHI?oc=5",
+        "summary": "Reddit may need to sell its soul for scale&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-28T13:17:07+00:00",
+        "source": "Financial Times",
         "source_weight": 3,
         "category": "finance"
       },
@@ -1513,6 +1657,15 @@
         "summary": "Corning Profit, Core Revenue Rises&nbsp;&nbsp;WSJ",
         "published": "2026-04-28T13:03:00+00:00",
         "source": "WSJ",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Russia’s loss is Ukraine’s gain in the Middle East - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5el9LVTBPeUdScmRVLUpoY2RtTTA3endYdFdiVTc3UlE1UEY1QWU1a2VsaHVjVUl4c1VWU25Mb1ktVWNmOXA2RElLWTRDbXBBTDRVT3pvOVI2cGtqVXpOLWJaRlJieFhfX016ZUduaEw?oc=5",
+        "summary": "Russia’s loss is Ukraine’s gain in the Middle East&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-28T13:00:05+00:00",
+        "source": "Financial Times",
         "source_weight": 3,
         "category": "finance"
       },
@@ -1562,10 +1715,37 @@
         "category": "finance"
       },
       {
+        "title": "記憶體資金大亂鬥！旺宏飆天價 威剛、十銓一季賺3股本反遭調節 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZX0FkcmFqbXJnQXZIaGxJSzREODRJckQ2MlZMMnltY092bkphekFoYVJmdVN4N2dkLWJFLTcybzZrSWE1eGxVYjFtU2pTOWwtNWM1VTJtaHJud9IBX0FVX3lxTE03eXhrRG1uUWt2bndfYUpSX1JEMHZTMTVpVTBrVzBRQ2NMMkRkUVlUNkN2VHE1WHI1am9EaVBLZlJFamN3V2FNOG5xRzBWS0FDUWNManRjU3V0OFpVR0VN?oc=5",
+        "summary": "記憶體資金大亂鬥！旺宏飆天價 威剛、十銓一季賺3股本反遭調節&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T12:00:00+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "亮亮閃 - 鉅亨號",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lYWFtUEk1enFxaDdISkhJeFltdF9sYVRGTkpnRFB3UngxSi1jZ01KWjl3aHpHcHNNcU8tN2xKRnl4ZnRNMkE?oc=5",
+        "summary": "亮亮閃&nbsp;&nbsp;鉅亨號",
+        "published": "2026-04-28T11:36:34+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "TPU大革命這3檔高價股外資欽點- 證券 - 工商時報",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45MGVYbDMxYVJMSDdPcGxkSUxOdmNhMUl3RzRmR2NuZmFNZ0lyTDdDdHhUelpPQ0pQTy14enhxWGtLLVJsMU1WWXNkWWNBNGRsamVobm1NOHNhZDJDbkJB?oc=5",
         "summary": "TPU大革命這3檔高價股外資欽點- 證券&nbsp;&nbsp;工商時報",
         "published": "2026-04-28T11:26:00+00:00",
+        "source": "工商時報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "查調所得發現股利重複計算財部提醒民眾注意- 要聞 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tRkgtVF9aRHZTRUwzc3ZGZlRaQVdQQWRWZmE1NExzREp2c1pycEJQbXdETUZUdHFRQzNUZm5idFg1RXZoazdWYkdxeG16WF9UbE95cEpvQ3BDdHFKMjFB?oc=5",
+        "summary": "查調所得發現股利重複計算財部提醒民眾注意- 要聞&nbsp;&nbsp;工商時報",
+        "published": "2026-04-28T11:23:00+00:00",
         "source": "工商時報",
         "source_weight": 2,
         "category": "finance"
@@ -1580,6 +1760,15 @@
         "category": "finance"
       },
       {
+        "title": "牌照稅再放寬居所與身障者同戶籍也可免稅- 要聞 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGS1d0NXVycTJEQ01OLU82WEFkM0NwaVBqVnA1RWRRNVNBT09KYnJGc3JnbHBTck81SERiZnBMUkJEdHpKQ05qQ2lTU1Rwa1N0QTJyQmNuUkhkX25rLUlr?oc=5",
+        "summary": "牌照稅再放寬居所與身障者同戶籍也可免稅- 要聞&nbsp;&nbsp;工商時報",
+        "published": "2026-04-28T11:13:00+00:00",
+        "source": "工商時報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWNVVzdGMmUtRnY2VTJ5S0hkXzJtZGdNY0NBdlpPc0FlRnc2QkRXY2I2dEpndjJuUDl2cTN3ZkVnckNpYWZkT0c3cUNlWG1VS1JLQ1l6Wk5IQ003UUJjWEpKS25Qem85R1VncVlhXzh6djZ0UW12bUkyWFNJeGpSLW5PdGVRUjEwTWlUQjBEZ2huV2ZCRFVfWGlMNkpuWUVOSzMzMXVKa09EaWZNSl9YN0ZRR3Zad0lJUTNxWC1LVWtaZw?oc=5",
         "summary": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion&nbsp;&nbsp;Reuters",
@@ -1589,10 +1778,46 @@
         "category": "finance"
       },
       {
-        "title": "東鋼財報／首季稅後純益12億元 EPS 1.66元 年度資本支出41.5億元 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GLTJIUXo2bmY2MzZiSDI3LXZIaC13cXFBVVJ0UTUwcmdUUC1kRWFndTJGTmJwOURHQWhoVXRxU1dfTW5BRkRtTEdQQ3U2RTgySU1aRTI0amdLZ9IBX0FVX3lxTE9pZHBHU0R1Rl9jNVZfRm42a0Y0TGMtTHZTM0tfS3NyM2F5QnpSWUhhN2JCSzZpVThaMDVseWctMUoyUWVzVnFRNW9JRG9hbjdYS19ycVc2Qnhra1A4dlI0?oc=5",
-        "summary": "東鋼財報／首季稅後純益12億元 EPS 1.66元 年度資本支出41.5億元&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T10:34:38+00:00",
+        "title": "台積電出清 Arm 持股 公司完整說明來了 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aUkpSODNxT1RBQkI5RS1IcHl5VnZjOFZEMGQ5UUhhcTNpaWZTaFBMN2owaEtFUThEeFNSdjFfd2Z2cWxrYnBHdGpUZk1DcXJPWUtvYk1xeTBFd9IBX0FVX3lxTE9DM0txaXFKbkdYamFFdkkwUHdhS295Q2hfaFpvZ244YzBDU1ItX1RsWHVNM1dPY2NncXl2azdBeDFvOGxYMXY5cUNsdmhmaHdzdW1QMmlWbzJYNHdtWGM4?oc=5",
+        "summary": "台積電出清 Arm 持股 公司完整說明來了&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T11:00:00+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "台積電處分股權投資 每股207.65美元全數出清 ARM 持股 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eG8wMUtSSDQ3U1QwanRkM1VxRmlKRnRscXNNc3NyRVNIVkhINU1Ra3hKM2pDT0JrM1dYSkc0LTJTeTRtb002TXNpTERpLTBYYW1WYjVrb0VUQdIBX0FVX3lxTE5SSkFZUW5jdC05OTNidkFJeEdMU2MxMXk1RVAxaGljdzUwSkRSVUo4cUJlR2xkVGg5UHhnLWdTTVVrMUhlQmZOOFJXbV9zTVZ3MUNrMm9SbGVneGR4SGE0?oc=5",
+        "summary": "台積電處分股權投資 每股207.65美元全數出清 ARM 持股&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T11:00:00+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "BYD profits drop by more than half as Chinese sales slow - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0tJcExEbU9WeUZhR0hqaFNRQ1FGRW9IZnQ2N1JiYThwVEJ0ejlndGo3RjRweVJBZHg3V0RZQ1VwZlN2LTMzNGszTGMtNllEd3ZVS2trZUhhR2V5RGRoWFZVQ0pMZFF2R2lIeHE5eUY2TXFaVV9XcUZrakdUOGNuRXFoNVY?oc=5",
+        "summary": "BYD profits drop by more than half as Chinese sales slow&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-28T10:59:00+00:00",
+        "source": "Financial Times",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Kimmel Pushes Back on Trump’s Calls for Disney to Fire Him After Melania Joke - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNV9sS1F0NTNENU53Y0dib1ZBWWZzVXZBWG1ONHQydWt3N2tUckJVRGVzUFl4b29SWjd0eFBwS0ZFOUVDcExQd1BxYTFNVTIyQkJZLVhQZlBWNDdidFRHblhIejVyc3Vjc1dQd3pBNWlTSFFHZTBVMnlMd3RRY0MwaHVWOHVJaVBkcFVXa3ln?oc=5",
+        "summary": "Kimmel Pushes Back on Trump’s Calls for Disney to Fire Him After Melania Joke&nbsp;&nbsp;WSJ",
+        "published": "2026-04-28T10:53:00+00:00",
+        "source": "WSJ",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "期交所4月29日調高元晶期貨契約保證金比例 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iRktmTERyaXdDSFJQSUlXUVI4elFjeVp2elJnVTV1MmJybVJhTzJqUmxaMDBIY3RvSUNwU0RjWW1EWE5QVDU0S0ctV3VpUHZCYnR0TzhVVUE2QdIBX0FVX3lxTFAwZUttR0J5M1FHRHZjc29ndzlidUg5ZEZQT3lNUTlKa2kyRnNiRmpkUUJNbzdrY2xJRVl5U3F0VG8tQ3QtamdPRE9NVHFxVVB1bHBHOThXenlqVjF4a2RZ?oc=5",
+        "summary": "期交所4月29日調高元晶期貨契約保證金比例&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T10:52:08+00:00",
         "source": "經濟日報",
         "source_weight": 2,
         "category": "finance"
@@ -1607,21 +1832,21 @@
         "category": "finance"
       },
       {
-        "title": "樂事綠能3月自結稅前虧損1,858.7萬元 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvNmFMRG5ZaW91Tnlqd3pHSEdfUEtPcFgyMTNISEFLUHhWQ2VSZDlmcDlXbU16OXRqaEhvSDZIcVJjYWFEUmJYZ1JBMGlEVld6QkN5ekQwOUdGZ9IBX0FVX3lxTFBHdUpzVzNpNnc1SlozTXN1dTlqVTFCdlFSY2J5dTJjS0MwYzFMVW1JOWZkejd0SGlJNzJNeTBPckg3ZWxJNkdjTUdXUHFES0JiT3p2d2xtcUFIQS1SREJz?oc=5",
-        "summary": "樂事綠能3月自結稅前虧損1,858.7萬元&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T10:22:49+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "韓股緊追台股，躍升全球第8！AI燒出的錢潮，三星、SK海力士股價狂飆－中央社 - 商周",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BTkhsYVdPeEhZUEVyQ2kxUDFnMFh5VjJ0d0t3aWJNQkxaaVZoSFZRdWNSYWZVVlcycmMwcVVJUVZCY3ZtMXhQZ0s3bTRuNkJTYjZfS0hJUkdDRGVoU25PNkx4TXFYMkdhZkszVw?oc=5",
         "summary": "韓股緊追台股，躍升全球第8！AI燒出的錢潮，三星、SK海力士股價狂飆－中央社&nbsp;&nbsp;商周",
         "published": "2026-04-28T10:14:38+00:00",
         "source": "商業周刊",
         "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "Exclusive: EQT-backed IT firm Virtusa seeks $1 billion in India IPO, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEtvSS1GMmhCWGQ3ZzdkRFR1eXJkMWUxUXpMZDhSWnJkVDctdVEyNGNmRnR5VWVTa3hMQVRQYVVzenFWX1Ntd2pUcUpYR3EtVUVWU094bHZQWDk0ZlBwcnBmSmIxSzN6aE5aZmhBemFNeHl1bTh1OVZIVDlPOVRveU1iN2dvMmxuQVBmU1JtYTdBZ0Vndk5DUEcyalZaOUlWTWgxaVR2cExVbm5ROUlaLVB3?oc=5",
+        "summary": "Exclusive: EQT-backed IT firm Virtusa seeks $1 billion in India IPO, sources say&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T10:12:52+00:00",
+        "source": "Reuters Business",
+        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -1643,12 +1868,30 @@
         "category": "finance"
       },
       {
+        "title": "台灣首家！南亞科打入 Vera Rubin 鏈 毛利率叩關七成 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2OTA5WmxrSURSZUw5ZnBhUkEtaGdXcGJNT0V5Tjc3TXRMbE5uUENVNU12UWxhd2w1X0w5Yk9DS1pyUldXQUttdHdQRmUyclRsSTJWTzdEdGxod9IBX0FVX3lxTE9RakJWaE5RbWlPWFMyUEpiMnFSSng4dFRHMWcwckRxdVF6MnhXTWVtOWRPM2VWSVdPLThmLW4xN1RpVVo3Zk1BaC1rdGw0bEdYeDhUOVRpRnF6Rmdmb2JJ?oc=5",
+        "summary": "台灣首家！南亞科打入 Vera Rubin 鏈 毛利率叩關七成&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T10:00:00+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "台版量子矽谷正式啟動！量子產業辦公室今揭牌龔明鑫看好台供應鏈卡位迎黃金期| 鉅亨網- 台灣政經 - news.cnyes.com",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5scTlqVHc4OGFGYXIxMlhYTVFra1FyNzJHV2ZGMEszcWRpbGxEaERaN210LUxTdXhIZklJQWtVYVNvVVB3OXlkQ0ZYd2NJUnc?oc=5",
         "summary": "台版量子矽谷正式啟動！量子產業辦公室今揭牌龔明鑫看好台供應鏈卡位迎黃金期| 鉅亨網- 台灣政經&nbsp;&nbsp;news.cnyes.com",
         "published": "2026-04-28T09:36:15+00:00",
         "source": "鉅亨網",
         "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "The Fed’s Rate Cuts Are On Pause. But Are They Also Off the Table? - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGcyb1FoNWt1d296cTZHekV2Y2phOWNuQllsV3NjZnZWZUtIaGlveFNGTmYwSDh5SGFLTHhKemFjckN0dGtxR3dMNlZpYl92cFVFcWMyOHEzbW5pS3FLZC1TbGliTEJkbGJsc3FNRmJYUDJyWmFSRHlhd29YT0hYX3NFSS13MVNJLW92NXRUdDJJSHQxNjFJUGhlU0FNSmd2S0RDUGFQREl5dl9hRUoyUUxvNUpiY28?oc=5",
+        "summary": "The Fed’s Rate Cuts Are On Pause. But Are They Also Off the Table?&nbsp;&nbsp;WSJ",
+        "published": "2026-04-28T09:30:00+00:00",
+        "source": "WSJ",
+        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -1679,20 +1922,20 @@
         "category": "finance"
       },
       {
+        "title": "這檔股票外資喊快買 股價潛在上漲空間超過六成！ - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NVDV0ZGNkX1d5YjJVSXVDM2NSNXRlZFFKN2RubGQtcDNORGQ3blhsUGhhOHdFX2hTM3ppZHV0aFhON0lGZkQ1VHhzWHFPeV9rdkh5NzJZZlppd9IBX0FVX3lxTE1USHdmSG5KOUI5aTFwZ2ZZT0I4MkxjZ1VPMmlhc1lFMVJ6WlUwakxJRG1MMjhwMHU0X2JrOWpqa1pIY0VZUmhlYzhjZmwzb0N5amRnTGdHVU1uX09pSjJN?oc=5",
+        "summary": "這檔股票外資喊快買 股價潛在上漲空間超過六成！&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T09:08:58+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "最新謝震武熱門報導文章｜商周 - 商周",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LWUNlLVBQLXp1WUFEaUFvRjI2alphbEVtUkJRRG5VLWpBdzVXMkN2bWFlS1FiejB1TFo3R3dsX0xBLVp2Y1Jpc0hTOGFEX1EtajVMb2RQdzliMGhKZUNaRnZ0TzBWcDVwc0NKbmQ4VDVteXRk?oc=5",
         "summary": "最新謝震武熱門報導文章｜商周&nbsp;&nbsp;商周",
         "published": "2026-04-28T09:04:03+00:00",
         "source": "商業周刊",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "OpenAI 百億美元算力採購恐生變 牽動廣達、緯創等後續訂單 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3dGdYcGpPOEtEbUdObGpTRFl5VEZVMTBEWGRzVlczZmZueUZ0VVJGbzBRZlBhNzJBVWlIYWVSVk1MZVVqbDFzU3VVeVBub2ZaeFYyWEU4ckl5Z9IBX0FVX3lxTE9FS0xYY3Rkam1YdWt0dFh2bHZtUjVTQjdWeEtpVzdRMDd0SFhvZm0xblJJWHR2MFNrdGVxU3BuVExrLUZBem52TVNpMHlETmNuNzVvSEtuT0dkWF93OG1v?oc=5",
-        "summary": "OpenAI 百億美元算力採購恐生變 牽動廣達、緯創等後續訂單&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T09:00:00+00:00",
-        "source": "經濟日報",
         "source_weight": 2,
         "category": "finance"
       },
@@ -1715,33 +1958,6 @@
         "category": "finance"
       },
       {
-        "title": "天龍國預售屋成交密碼！高價蛋黃「這三區」漲幅逾1成 36坪以上成交近6成 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHVnhXR3o5VGkzdWRZSmtMMFNVUHBrTjdMb0s5RUg0OUtfZHIxSmFGb3F0eGVDbFhFOFFqVGxKQndXNUZkUXNjRFVST0h4SkF0Rnhicl93RGlCZk5oMDBZ?oc=5",
-        "summary": "天龍國預售屋成交密碼！高價蛋黃「這三區」漲幅逾1成 36坪以上成交近6成&nbsp;&nbsp;工商時報",
-        "published": "2026-04-28T08:24:00+00:00",
-        "source": "工商時報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "K董加碼！星宇航空股東專屬優惠2,000元來了- 產業 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rNDVyN3pfaTBPSUpxN24tdFNSM1JNNktkYWNGU3BqOWRjTU1HUktvNlNpcVlCd1kxTlo1dEVXdlh1cUFfbFFWdnRpMXFQejZRVGJBc09RM2EtZjRHOHFn?oc=5",
-        "summary": "K董加碼！星宇航空股東專屬優惠2,000元來了- 產業&nbsp;&nbsp;工商時報",
-        "published": "2026-04-28T08:02:00+00:00",
-        "source": "工商時報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "崇舜今向證交所送件申請股票上市- 證券 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSNjluU3BoNFhXck9VdVpDaGY2Q3lmakFWQkhFcTJPVUVsU0cxc19fbnRPRGRGT2NYTlBvR2QwdVhPNDBzeHNxZUJFcTMzeF9WVXNKVi1jaGFpNXdIMjBV?oc=5",
-        "summary": "崇舜今向證交所送件申請股票上市- 證券&nbsp;&nbsp;工商時報",
-        "published": "2026-04-28T07:15:00+00:00",
-        "source": "工商時報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "為什麼靠自己選股打敗0050愈來愈困難？達人：大盤靠台積電可能未來3年都能成長30% - Smart自學網",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sdEJRcm5IVVpiWGlkX3k3aUMzTGh2WmlQLWtFQ1RXa3ktNVdrME83ZVc0T3oxTjhaNndlenBsbmRqY1ZBdUxDV2lWbXVmTDhPSEZHbENQNTZ5VmNXbHF2MTZUSmZtSk9mVUxoRWJoalJBdExpOHNFNnYzQ18?oc=5",
         "summary": "為什麼靠自己選股打敗0050愈來愈困難？達人：大盤靠台積電可能未來3年都能成長30%&nbsp;&nbsp;Smart自學網",
@@ -1757,222 +1973,6 @@
         "published": "2026-04-28T07:06:00+00:00",
         "source": "工商時報",
         "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Barclays takes £228mn hit from collapse of UK mortgage lender MFS - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnA4SHEtWG1uMC1RV0JWME02R3I1VXdmRWRyYkJncmJjYTlWa3dpck14akJvWkE5TWE2NUtLUVRRSVAzNEhDLW9PckRPMV9nNXlsUU42elVUS0dKR1dkc1RhZWhkWGQxNkpXNFhCeU9xcmtIS2JUXzlBRnFYUlFoR0dDV00?oc=5",
-        "summary": "Barclays takes £228mn hit from collapse of UK mortgage lender MFS&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T06:33:37+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "打不過就加入！台積電幫台股大盤訂下成長30%的地板標準，你還在猶豫什麼？ - 商周財富網",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KY0dEdkE3SWF0T3dveW1UbzB2a2xvdkNLT1J1Zk10VDEwS2VzSlJqSXRwdEVaT0I4YVRqeDVsazZJbmEwUmtZRzhLTHJINWpJdjJHUld2Q1UtOHNQLVNsU3NMMjVySkJQUHV4TmVWbURvSVdIZEE?oc=5",
-        "summary": "打不過就加入！台積電幫台股大盤訂下成長30%的地板標準，你還在猶豫什麼？&nbsp;&nbsp;商周財富網",
-        "published": "2026-04-28T06:18:49+00:00",
-        "source": "商業周刊",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Oil price climbs above $110 for first time in three weeks - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1h5OGI5My1Ndl80VGZvOEhIdGpuUzJxaW9UM3d0Wm1DU0hPbkF2S1A0dkVTNmlsSHF1Vmp5Q21jQVhrRW4xV1FSeVllUm1nb0p6X3BhTTg2V2I4S19PeFpUd1NSeEZuUWdwaFFxVW51YTVhY3ZCYnZNeGNCUHZrbTg5RkQ?oc=5",
-        "summary": "Oil price climbs above $110 for first time in three weeks&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T06:14:10+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "鉅亨速報 - Factset 最新調查：旺宏(2337-TW)EPS預估上修至8.58元，預估目標價為180元 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBWHhfOGZXenJLZVFTa2NGRTZsbndFeGtSY0RHbk40dEhuWTVnd1JiVk9jNVRIYUFqaXZuYWhOMlVfbTdTOXcwUDJiSQ?oc=5",
-        "summary": "鉅亨速報 - Factset 最新調查：旺宏(2337-TW)EPS預估上修至8.58元，預估目標價為180元&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-04-28T06:10:45+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "鉅亨速報 - Factset 最新調查：台化(1326-TW)EPS預估上修至2.03元，預估目標價為59元 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSRWR1ak1pMmVteVhnYlpzRVR5TjVIenRab2JqbFFXc0RGeDBHRlRQYnRnTGdTWG9GbDMwTHBYUml0NVBkcHdxZGZwMA?oc=5",
-        "summary": "鉅亨速報 - Factset 最新調查：台化(1326-TW)EPS預估上修至2.03元，預估目標價為59元&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-04-28T06:10:43+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "鉅亨速報 - Factset 最新調查：世界(5347-TW)EPS預估上修至5.01元，預估目標價為142.5元 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1COGpYaHFDNEhpNkJTV2ZNT0FEelBST3BEeFMzNVllQ2J3cndtNnZ6M2tGX250aHJVNWREa1AxQkloSE5kd3BpTno1Rm1OQ1E?oc=5",
-        "summary": "鉅亨速報 - Factset 最新調查：世界(5347-TW)EPS預估上修至5.01元，預估目標價為142.5元&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-04-28T06:10:40+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Air Liquide Revenue Rises on Gas, Services Business Strength - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZVRzb1VlYlVuX0FhUzVKei1EbzE4aUlzbFd5bXpQN3RqSW80VmxDOWVIZ256Y2sxUWlKLXhPWDhKUVBKV2JDcXJBd1g5cHZNampYT0RUeUtDczRGSGV1akluZldXMDN0WDhwaWY0VzVHanpYTnpIeXdOTGFveENlT1ZScm9xLTNWLVJUY0ZXWjFIZGh1UC1zX2tFdElfZ1lIRi1PN1RBNkdkdw?oc=5",
-        "summary": "Air Liquide Revenue Rises on Gas, Services Business Strength&nbsp;&nbsp;WSJ",
-        "published": "2026-04-28T06:00:00+00:00",
-        "source": "WSJ",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Japan’s Central Bank Makes Hawkish Hold as Board Split Widens - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUloZDVJcHVYMV9XZmZhLU11X0pJRXQ3SVFsUWxvY0ZabFFreWp2WkJvY2lzOVM3OUdCbk5oNVJJZDA5NU1BcXE3dFpfdGNfYzZiMWtFR0pQX2ZDWTduNndpRUNLUG9vUGhjMHpsc3pKMGlBVmxzdkRvbEl1SFoyNHhLMWcxOHZtYUtKcExvTzZlc0ZodE5fVnBBWXRZQ2lmbW1xTHJ4MlJZeTQ3ZGxwTA?oc=5",
-        "summary": "Japan’s Central Bank Makes Hawkish Hold as Board Split Widens&nbsp;&nbsp;WSJ",
-        "published": "2026-04-28T05:28:00+00:00",
-        "source": "WSJ",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Two Spirit Airlines creditor groups back Trump bailout plan, FT reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSlJlLXRkWWZOLV9OQTlQdnNhZnJQb1pqUmJjVDVpNjdSX2hla2xsUGJuZFhxNnRid1NlS3pibl9WQ1ptWnlvcVdXSF9uN0d0S0JkOUt1VGd0V19aZlB1Z3BNcF9wNmh0MVE3eGJtbUNqSTFpUzE4TXRMRXVMX2NNWWxScWtYWTdsMV9NZ2hoWEFfM0l2Ty1WbC1pdFpkdnBsUDMweEdXbHpoWG1JQWdJcEZjYzFxUQ?oc=5",
-        "summary": "Two Spirit Airlines creditor groups back Trump bailout plan, FT reports&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T05:20:04+00:00",
-        "source": "Reuters Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "摩根士丹利：記憶體之後 EUV光刻機跟CPU將成為新的瓶頸 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WR1BTcmRjRTg0UXdQT1VBbkRFZWJQVnNZSG1FLUctYmNEZTZVQUgxam5LMXVhbWpiNXZQZEhfdmpGWlFyQUdDOGRidlVBUWs?oc=5",
-        "summary": "摩根士丹利：記憶體之後 EUV光刻機跟CPU將成為新的瓶頸&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-04-28T04:55:12+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "UAE's ADNOC to invest tens of billions to build US gas business, FT reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOElrOHdXSlRPSHU5bHJ1NHlpbXk2YWxoUnZBUDUtcXdSR3ZkYlVtQlBLb3NpaEFBamoxWnZDVVNSSXVTWnBLQlFGMl9xSEs1YjBreThtcnQ4ODN6MW5iUjBUT3JsRDVfZkZEbGJsRXQ0bDZVTVJ3a2k2TlVPRHNhRGtBT09pbzQyRjZvVmZtdDBjb2NMZWx5OG9rY0Nnb0pRUzRWTGFyaE1LbXlMT0JCRnVtZ3FlQmc?oc=5",
-        "summary": "UAE's ADNOC to invest tens of billions to build US gas business, FT reports&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T04:46:36+00:00",
-        "source": "Reuters Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "World’s biggest battery maker CATL to raise $5bn - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdkg5OUlFdGI3Smg4WjNiMWlOMlJpN1FHMEYxZmJ2elFYRVBEbnRSUUJrMTJwMUI0c0F0ZExLcnQ3VXBwX0o0alRLREhaMzlyb3o2SEdtUXI2aEN6NUNnS1lvVTNyck54TGFzZDJyZF9FX2U0ODZjYVFoS3djR0hhUGJWNjk?oc=5",
-        "summary": "World’s biggest battery maker CATL to raise $5bn&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T04:24:55+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "馬太鞍溪演練周三封橋！光復車站下車旅客須「垂直避難」 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fRm1NOUZ4emw1cHhsSzE1OHB2S3ZzM1VQMGdiY3RHclN5MmR2X2JKSzhPQk9ReTM0dUlGWFd3Y3BHaHBZU0xtRTl0ckMteHBteDMzVHlwVlpya3ZqYVM4?oc=5",
-        "summary": "馬太鞍溪演練周三封橋！光復車站下車旅客須「垂直避難」&nbsp;&nbsp;工商時報",
-        "published": "2026-04-28T04:21:00+00:00",
-        "source": "工商時報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "鉅亨速報 - Factset 最新調查：儒鴻(1476-TW)EPS預估上修至24.13元，預估目標價為460元 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jd2VOYzRSRXpLLUFvVlgtXzk3NkdIZTJSY01TLVQzSmNLUWgxNHVKdGpZMklXMUFrNHN6b2JuNEh6WkhmNHowQUdZVXF4elk?oc=5",
-        "summary": "鉅亨速報 - Factset 最新調查：儒鴻(1476-TW)EPS預估上修至24.13元，預估目標價為460元&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-04-28T04:10:31+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "鉅亨速報 - Factset 最新調查：群聯(8299-TW)EPS預估下修至169.49元，預估目標價為2420元 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WQUZmT0ZVUnVJTlBBeDV4Q1pnYkk1UUY1ajVHSzdCTFpqcUw5a3R5VFJoS0RVc0hlcUJ6amhrTmx2c19HOERyQW1ESQ?oc=5",
-        "summary": "鉅亨速報 - Factset 最新調查：群聯(8299-TW)EPS預估下修至169.49元，預估目標價為2420元&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-04-28T04:10:27+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Iran’s hardliners clash over talks with US - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1dlZFlQMkJzMGx2Ym5GVWFiNmdFVzMxM0duYW1qQ2N5elRfeWwzQ1hiSXdhYjdDbmFPbU5fZ3lQUW5MTWdMMlJzOXlCT0NVdU9BaE9TOGdfemY1b2d6bVFPNHFCcGJtc1V0aVF2VE44MVRIMl96cTZrQ1hBRGxyZklMdnY?oc=5",
-        "summary": "Iran’s hardliners clash over talks with US&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T04:00:29+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Abu Dhabi state energy group to invest ‘tens of billions’ in US push - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVU9iWnlBZlZBTTYwRHcwRHhFY2FQNF9VTVZTUUhURWNiQ0x4ckU5Sk82YW16Z2MyT3RsdV9IMng0MDVyUW8yTjhITjlrc0tnUmZMODFTQ1dlcWdXeGpFYWVpdzFkSUxHRGNLSFI0UWtnaU1KLXRPclFweUtjVTBxamh4NG8?oc=5",
-        "summary": "Abu Dhabi state energy group to invest ‘tens of billions’ in US push&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T04:00:29+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Wall Street banks boost Treasury holdings to highest level since 2007 - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1M2MHE2MkhsYlJFLTlnYUg4S1BQWFBLQkU5a0pTQ3ZpeEdZeHFrVFkzRzZIRXVDWmllOGRZWkhHTkpMbVNqVWxRYkR3anktVzhUVHh5TnZvOWdBY0k3ME8xZnJSREE4SWhIcHphUEQ1ZlFqTVE4YmJuLWNaOFBRbzBZTkQ?oc=5",
-        "summary": "Wall Street banks boost Treasury holdings to highest level since 2007&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T04:00:19+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "The great American data centre divide - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSk1URFFncWtPNVh3REFMV0ZXVjRsTUp5S3NWMDc1STBTWjAyV1ZNRHE3Z0pmV2t6YVNJZzg2VVV5NW1xTUVHdTRyTnVfLURRVTVmdnFwWFpEbkJiR1FiMmhDOTJ1c2M3TVB2RVNkWm9EV1E5Q2lCczRHNUIwUDdVNzdtZVM?oc=5",
-        "summary": "The great American data centre divide&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T04:00:08+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "華碩集團旗下祥碩參與芯鼎私募 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeUlreGZmYWk1WUg4U3o0bTk4eVJnUk1hR0dMRnRROXlqMTNjcUcwVmJnNVNCX2M0SUlYaXhQcFBhVFowbW94U2ZWSmFpX3d6TEJLbGFBaFdwUdIBX0FVX3lxTFB3eHQwVE1lNzlhUHdiRDktMFo0OEFKWFNhZHZGcGdFeXdIbnFzMGFQblQwLUNqbi1hRmVQQ2N3Z0NJeVR3SS1EdUpUMjlOYjVuMHpMMk9UOC0tRE1wTG5F?oc=5",
-        "summary": "華碩集團旗下祥碩參與芯鼎私募&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T04:00:00+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "面板雙虎壓力來了！大客戶三星擬退出大陸 TV 市場 採購 LCD 力道恐受影響 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43Vno3WVU0dGl4cVBTOE56dzdRMzBNYnJWX3Q0NkFnQjlraHBHN1pjNTBFVUpJTVl3cGVqVURIMGIzZklGSENHblp0NTFFZ01kdUtKd01lSGU5d9IBX0FVX3lxTFB5OHlTSVFHWm0yWjg0UTRJLTlfSDdTcjR3R2VrT3VUQzkzQ3ZrVUN5a2NkTlFYNXhobVZaNDRIQTdJam9CRFNZRnBGa2JEa0VuTUVxa3RQRFdaeWYwejhZ?oc=5",
-        "summary": "面板雙虎壓力來了！大客戶三星擬退出大陸 TV 市場 採購 LCD 力道恐受影響&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T04:00:00+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "北車商場標案有人提異議！次優申請人微風廣場這麼說- 產業 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuWnlhbVF3V0RCS3VJRmlFYkFNWFpjSjY3VFNOakpkWk80NVd5NWlkck9aNVVEeEpsQ0k0bUNCV3NoWEtDSE15Mm5Sbk03Q0dxaVpQcE9VWDZXZGVybVZr?oc=5",
-        "summary": "北車商場標案有人提異議！次優申請人微風廣場這麼說- 產業&nbsp;&nbsp;工商時報",
-        "published": "2026-04-28T03:22:00+00:00",
-        "source": "工商時報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "聯發科飆漲，是大象跳舞？艾蜜莉分析：AI ASIC業務有望拉升，市場樂觀以待 - Smart自學網",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSLUszQWJVcDdKYmRRT25rczd6cl8xY0huTEFuRGt0U2NYN1NSMTBZR3JWSmU2NDU4OEx2ZnAxTWtNWHdibHMxd0p1VElBdW1zdFZXeVVQS0pSZ05ORnhpSExsTzNpbEFSYUhfSkhCLXBlRDVCY0RvWkdrM2E?oc=5",
-        "summary": "聯發科飆漲，是大象跳舞？艾蜜莉分析：AI ASIC業務有望拉升，市場樂觀以待&nbsp;&nbsp;Smart自學網",
-        "published": "2026-04-28T03:14:24+00:00",
-        "source": "商業周刊",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhER0JjUGFMTFlWVFNCQjlGOHp6cHBlWEhVQkpoQkppazFKVVJRQVRqQ2hJTjl1OXQ1UThSeEJaR3N1QWhFS0M5MkRqQXlKWElWWWc1dUNnQnBrMDRucGVPcFdaT0x4enRCSXVYdUFpZVBCbUpuSEw0aUVhVG5nT2FkMTg0TGEwM2piMWdFdTNmUGxoWnJwcFI3SzktLS10SFJEdU5GbTVGdUFybFBYMVhYQkl5RG8?oc=5",
-        "summary": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T03:10:00+00:00",
-        "source": "Reuters Business",
-        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -2012,15 +2012,6 @@
         "category": "finance"
       },
       {
-        "title": "太平洋電線電纜(公) - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEU3LUkxTXUxMEo5QXlTdldMRUtjWkkwOER4NTFTTmE2bzUzWVAyS3g1UnRScFpSLUtlU2E5MndudTdmOS1MZk5tdklwM1FUWkhXN0o1TEowVVBTV1NaX3Y4eUo5V3ZYQXFFdDR6WmkwMkJXTEZhR3k3LVg0Zi1UR3pramI?oc=5",
-        "summary": "太平洋電線電纜(公)&nbsp;&nbsp;news.cnyes.com",
-        "published": "2019-03-07T09:04:30+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "Retirement contribution limits will rise in 2019",
         "link": "http://money.cnn.com/2018/11/01/retirement/irs-contributions/index.html?section=money_latest",
         "summary": "Good news retirement savers: The Internal Revenue Service announced cost of living increases to the contribution limits for retirement-related plans in 2019.",
@@ -2032,6 +2023,231 @@
     ],
     "crypto": [
       {
+        "title": "傳奇對沖基金交易員談美股本益比：未來幾年買大盤的人要獲利很難",
+        "link": "https://abmedia.io/paul-tudor-jones-us-trader-stock-bubble",
+        "summary": "億萬富翁對沖基金經理人 Paul Tudor Jones 近日接受訪談，就 AI 監管漏洞與美股估值泡沫等議題 [&#8230;] 這篇文章 傳奇對沖基金交易員談美股本益比：未來幾年買大盤的人要獲利很難 最早出現於 鏈新聞 ABMedia。",
+        "published": "2026-04-29T06:33:01+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "白宮顧問 Patrick Witt：美國比特幣戰略儲備「幾周內宣布」，法律框架已取得突破",
+        "link": "https://www.blocktempo.com/white-house-patrick-witt-bitcoin-strategic-reserve-announcement-legal-framework-breakthrough/",
+        "summary": "白宮數位資產顧問委員會執行主任 Patrick Witt 於 Bitcoin 2026 大會公開表示，川普政府 [&#8230;] 〈白宮顧問 Patrick Witt：美國比特幣戰略儲備「幾周內宣布」，法律框架已取得突破〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T06:16:37+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "摩根大通戴蒙警告私募信用衰退「比你想的更差」：1.7兆鎂黑箱市場面臨崩盤",
+        "link": "https://www.blocktempo.com/jamie-dimon-private-credit-recession-warning-rwa-tokenization-maple-goldfinch/",
+        "summary": "4月28日在挪威奧斯陸的主權財富基金年會上，摩根大通 CEO 戴蒙（Jamie Dimon）公開示警：逾 1, [&#8230;] 〈摩根大通戴蒙警告私募信用衰退「比你想的更差」：1.7兆鎂黑箱市場面臨崩盤〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T06:15:21+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "加拿大宣布全面禁止加密 ATM：G7 首例，近 4,000 台將全數下架",
+        "link": "https://www.blocktempo.com/canada-federal-ban-crypto-atm-g7-first-fraud-fintrac/",
+        "summary": "加拿大聯邦政府於 4 月 28 日在春季財政更新中宣布，計劃立法全面禁止境內加密貨幣 ATM，理由是機器已成「 [&#8230;] 〈加拿大宣布全面禁止加密 ATM：G7 首例，近 4,000 台將全數下架〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T06:13:42+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "法國公民遭美國判 8 年！涉加密洗錢 4.7 億美元，近年最大個人洗錢案",
+        "link": "https://www.blocktempo.com/french-national-sentenced-eight-years-sdny-crypto-shell-company-laundering/",
+        "summary": "美國司法部紐約南區檢察官辦公室（SDNY）於 2026 年 4 月 29 日宣布，一名法國公民因透過空殼公司與 [&#8230;] 〈法國公民遭美國判 8 年！涉加密洗錢 4.7 億美元，近年最大個人洗錢案〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T06:09:14+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "首檔預測市場 ETF 下週上市，公開下注美國國會大選結果",
+        "link": "https://abmedia.io/prediction-market-etf-us-elections",
+        "summary": "根據市場消息指出，新型態金融商品 「預測市場 ETF」（Prediction Market ETFs）預計將 [&#8230;] 這篇文章 首檔預測市場 ETF 下週上市，公開下注美國國會大選結果 最早出現於 鏈新聞 ABMedia。",
+        "published": "2026-04-29T06:04:35+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Enhanced Games 5/21 開賽：人類增強主義對抗反禁藥正統",
+        "link": "https://abmedia.io/enhanced-games-transhumanism-anti-doping-2026-may-las-vegas-thiel",
+        "summary": "Enhanced Games 將於 2026 年 5 月 21 至 24 日在拉斯維加斯舉辦首屆比賽，是一場容許運動員公開使用 PED（performance-enhancing drugs）的奧運替代賽事。創辦人 Aron D’Souza 主打「Science is real」與人類增強主義（transhumanism）理念，挑戰百年來反禁藥的體育治理正統；投資人為 Peter Thiel 與 Donald Trump Jr. 的 1…",
+        "published": "2026-04-29T05:49:17+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "CFTC pulls Wisconsin into fight over prediction market jurisdiction",
+        "link": "https://cointelegraph.com/news/cftc-sues-wisconsin-over-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "summary": "The US Commodity Futures Trading Commission has sued Wisconsin in the agency’s fifth lawsuit against a US state to assert jurisdiction over prediction markets.",
+        "published": "2026-04-29T05:27:05+00:00",
+        "source": "Cointelegraph",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Canada proposes ban on crypto ATMs as fraud cases mount",
+        "link": "https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount",
+        "summary": "",
+        "published": "2026-04-29T05:14:33+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "史丹佛大學成矽谷人才採礦場，Theo Baker 揭學術殿堂如何統治世界",
+        "link": "https://abmedia.io/theo-baker-how-to-rule-the-world",
+        "summary": "即將於2026年5月出版的《如何統治世界》（How to Rule the World），由史丹佛大學學生兼調 [&#8230;] 這篇文章 史丹佛大學成矽谷人才採礦場，Theo Baker 揭學術殿堂如何統治世界 最早出現於 鏈新聞 ABMedia。",
+        "published": "2026-04-29T05:14:00+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "a16z Crypto報告：AI代理已有「結構化知識」，複現DeFi漏洞機率從10%飆至70%",
+        "link": "https://www.blocktempo.com/a16z-crypto-ai-agent-defi-exploit-structured-knowledge-70-percent-success/",
+        "summary": "a16z Crypto 研究員 Daejun Park 與 Matt Gleason 於 4 月 28 日發布 [&#8230;] 〈a16z Crypto報告：AI代理已有「結構化知識」，複現DeFi漏洞機率從10%飆至70%〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T04:54:40+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Polymarket 遭駭客 xorcat 入侵，30 萬筆記錄、漏洞工具全曝光，平台回應：本來就設計公開",
+        "link": "https://www.blocktempo.com/polymarket-xorcat-breach-300k-records-exploit-kit-api-denial/",
+        "summary": "預測市場龍頭 Polymarket 正在洽談 4 億美元融資、估值衝 150 億美元之際，威脅行為者 xorc [&#8230;] 〈Polymarket 遭駭客 xorcat 入侵，30 萬筆記錄、漏洞工具全曝光，平台回應：本來就設計公開〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T04:53:24+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "XRP falls to $1.38 after breaking below $1.40 on rising selling pressure",
+        "link": "https://www.coindesk.com/markets/2026/04/29/xrp-falls-to-usd1-38-after-breaking-below-usd1-40-on-rising-selling-pressure",
+        "summary": "",
+        "published": "2026-04-29T04:52:22+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "EIP-7702 首次大規模實戰失利：QNT、ETH 遭盜，Pectra 帳戶抽象機制淪釣魚溫床",
+        "link": "https://www.blocktempo.com/eip-7702-pectra-exploit-qnt-eth-stolen-phishing-inferno-drainer-wallets/",
+        "summary": "以太坊 Pectra 升級引入的 EIP-7702 帳戶抽象機制首次遭大規模實戰利用：攻擊者偽造 DeFi 介 [&#8230;] 〈EIP-7702 首次大規模實戰失利：QNT、ETH 遭盜，Pectra 帳戶抽象機制淪釣魚溫床〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T04:50:56+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "高盛香港員工被停用 Claude，Anthropic 坦承：從未支援HK區，AI 地緣管制延燒",
+        "link": "https://www.blocktempo.com/goldman-sachs-hong-kong-claude-banned-anthropic-never-officially-supported-region/",
+        "summary": "英國《金融時報》獨家、彭博社 4 月 29 日確認：高盛香港分行員工數週前起喪失 Claude 存取權，起因是 [&#8230;] 〈高盛香港員工被停用 Claude，Anthropic 坦承：從未支援HK區，AI 地緣管制延燒〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T04:49:22+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "免費比特幣來了！Tether 宣布啟動比特幣水龍頭，下載錢包發推即可獲得空投 BTC",
+        "link": "https://www.blocktempo.com/tether-wallet-launches-bitcoin-faucet-lightning-network-airdrop-via-twitter-reply/",
+        "summary": "Tether 4/29 宣布 BTC 水龍頭活動，用戶下載 tether.wallet、在推文回覆標記帳號，即 [&#8230;] 〈免費比特幣來了！Tether 宣布啟動比特幣水龍頭，下載錢包發推即可獲得空投 BTC〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T04:40:15+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
+        "link": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
+        "summary": "",
+        "published": "2026-04-29T04:27:13+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "Robinhood dips as Q1 earnings miss and crypto revenue, volume fall nearly 50%",
+        "link": "https://cointelegraph.com/news/robinhoods-prediction-market-drives-q1-revenue-as-crypto-takes-a-back-seat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "summary": "Robinhood’s Q1 earnings per share and revenue figures missed industry expectations, sending the company’s shares down nearly 10%.",
+        "published": "2026-04-29T04:22:36+00:00",
+        "source": "Cointelegraph",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "台積電處分英國 CPU 設計公司安謀 (Arm) 股份，獲利 1.74 億美元",
+        "link": "https://abmedia.io/tsmc-cpu-arm-holdings-intel-amd",
+        "summary": "在近期全球 CPU 架構大戰與 AI 算力熱潮中，與 Intel、AMD 鼎足而立的英國晶片設計 IP 巨頭 [&#8230;] 這篇文章 台積電處分英國 CPU 設計公司安謀 (Arm) 股份，獲利 1.74 億美元 最早出現於 鏈新聞 ABMedia。",
+        "published": "2026-04-29T04:18:33+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Polymarket 升級完工：新交易引擎上線、$1M 流動性獎勵",
+        "link": "https://abmedia.io/polymarket-clob-v2-upgrade-complete-trading-engine-liquidity-rewards-2026-04-28",
+        "summary": "Polymarket 4/28 完成 CLOB v2 交易所升級。當天 11:02 UTC 啟動約 1 小時維護、暫停交易與清空訂單簿，12:06 UTC 確認 API 已恢復接單、網站隨後重啟。同時釋出 100 萬美元流動性獎勵：首 2 小時 50 萬、當日剩餘時段再 50 萬。本次升級為 4/6 公告改造計畫的主體部分，內含新交易引擎、升級智能合約，以及將抵押代幣切換至自家 Polymarket USD（pUSD）的鋪路。 這篇文章…",
+        "published": "2026-04-29T04:04:17+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan",
+        "link": "https://cointelegraph.com/news/recent-btc-rally-fueled-by-strategy-btc-purchases-bitwise-cio-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "summary": "While Bitcoin exchange-traded funds and whale buying have contributed to the recent Bitcoin rally, the key driver has been consistent buying by Michael Saylor's treasury firm, Strategy, according to Bitwise's chief inves…",
+        "published": "2026-04-29T04:01:52+00:00",
+        "source": "Cointelegraph",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Institutional money is coming for bitcoin, but Adam Back says it moves slower than you think",
+        "link": "https://www.coindesk.com/business/2026/04/29/institutional-money-is-coming-for-bitcoin-but-adam-back-says-it-moves-slower-than-you-think",
+        "summary": "",
+        "published": "2026-04-29T04:00:00+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "基於比特幣網路的全球帳戶：Grid 整合 65 國法幣與加密貨幣，讓 AI 自動付款",
+        "link": "https://abmedia.io/bitcoin-global-usd-fiat-ai-payments",
+        "summary": "現任 Lightspark 執行長、前 PayPal 總裁 David Marcus 在 2026 比特幣大會 [&#8230;] 這篇文章 基於比特幣網路的全球帳戶：Grid 整合 65 國法幣與加密貨幣，讓 AI 自動付款 最早出現於 鏈新聞 ABMedia。",
+        "published": "2026-04-29T03:50:07+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "SpaceX 馬斯克兩億股薪酬方案曝光！把百萬人送上火星殖民才能兌現",
+        "link": "https://abmedia.io/spacex-elon-musk-compensation-mars-colonization-goal",
+        "summary": "SpaceX 向美國證交會 (SEC) 提交的機密上市申請書近日曝光，揭露了關於創辦人馬斯克的薪酬計畫，將創辦 [&#8230;] 這篇文章 SpaceX 馬斯克兩億股薪酬方案曝光！把百萬人送上火星殖民才能兌現 最早出現於 鏈新聞 ABMedia。",
+        "published": "2026-04-29T03:46:53+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "彭博：北韓核武正在超越美軍防線，金正恩每年能獲 20 枚新核彈頭",
+        "link": "https://www.blocktempo.com/north-korea-nuclear-arsenal-outgrows-us-gmd-missile-defense-system/",
+        "summary": "北韓目前估計擁有約 50 枚核彈頭，且每年新增產能高達 20 枚。彭博警告，美國耗資 650 億美元建造的地基 [&#8230;] 〈彭博：北韓核武正在超越美軍防線，金正恩每年能獲 20 枚新核彈頭〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T03:23:44+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
         "title": "Chiliz 粉絲幣擴展至 Solana、Base 鏈，迎接世界盃足球賽",
         "link": "https://abmedia.io/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token",
         "summary": "2026 年 FIFA 世界盃足球賽（FIFA World Cup 2026）開幕進入倒數階段，區塊鏈體育平台 [&#8230;] 這篇文章 Chiliz 粉絲幣擴展至 Solana、Base 鏈，迎接世界盃足球賽 最早出現於 鏈新聞 ABMedia。",
@@ -2041,109 +2257,10 @@
         "category": "crypto"
       },
       {
-        "title": "ChatPGT 被哥布林入侵，Codex 被迫立下「永遠不准提 Goblin」禁令",
-        "link": "https://www.blocktempo.com/openai-codex-goblin-ban-system-prompt-reveals-agentic-alignment-gap/",
-        "summary": "OpenAI 在 Codex CLI 的系統提示詞中明文禁止模型提及哥布林與巨魔等生物，起因是 GPT-5.5 [&#8230;] 〈ChatPGT 被哥布林入侵，Codex 被迫立下「永遠不准提 Goblin」禁令〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-29T02:53:32+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "泰勒絲申請聲音商標自保：版權法管不了 AI 仿聲，商標戰或補上缺口",
-        "link": "https://www.blocktempo.com/taylor-swift-trademarks-voice-image-fight-ai-deepfake-copyright-gap/",
-        "summary": "Taylor Swift 泰勒絲的授權管理公司向美國專利商標局提交三份商標申請，目標是她本人的聲音與舞臺形象。 [&#8230;] 〈泰勒絲申請聲音商標自保：版權法管不了 AI 仿聲，商標戰或補上缺口〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-29T02:36:03+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "Amazon 購物助理現可即時雙向對話，亞馬遜 AI 購物矩陣升級",
-        "link": "https://www.blocktempo.com/amazon-hear-highlights-join-chat-ai-shopping-voice-rufus-commerce/",
-        "summary": "Amazon 本月正式推出「Join the Chat」功能，允許使用者在商品頁面以文字或語音即時向 AI 提 [&#8230;] 〈Amazon 購物助理現可即時雙向對話，亞馬遜 AI 購物矩陣升級〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-29T02:27:22+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "日本航空試行人型機器人地勤，將在羽田機場停機坪搬運貨物",
-        "link": "https://www.blocktempo.com/japan-airlines-humanoid-robots-haneda-airport-cargo-handling-unitree-ubtech/",
-        "summary": "日本航空（JAL）將於 5 月在東京羽田機場啟動人形機器人實測，由 Unitree G1 與 UBTECH W [&#8230;] 〈日本航空試行人型機器人地勤，將在羽田機場停機坪搬運貨物〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-29T02:15:54+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "Claude 現可串接 Photoshop、Premiere、Blender…覆蓋影音、3D、音樂、設計（9 個新聯結器上線）",
-        "link": "https://www.blocktempo.com/anthropic-claude-creative-connectors-adobe-blender-ableton-open-source-patron/",
-        "summary": "Anthropic 推出 9 個 Claude 創意軟體聯結器，一次串接 Adobe Creative Clo [&#8230;] 〈Claude 現可串接 Photoshop、Premiere、Blender…覆蓋影音、3D、音樂、設計（9 個新聯結器上線）〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-29T02:00:35+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
         "title": "23 歲業餘者用 ChatGPT 解 60 年數學難題：80 分鐘破解",
         "link": "https://abmedia.io/gpt-5-4-pro-solves-erdos-1196-conjecture-liam-price-2026",
         "summary": "23 歲、無進階數學訓練的英國業餘研究者 Liam Price 於 2026 年 4 月某個下午把 Erdős 1196 號未解猜想丟給 GPT-5.4 Pro，模型用約 80 分鐘推理＋30 分鐘 LaTeX 寫稿給出新證明路線——關鍵在於把「整數結構」與「Markov 過程理論」做出此前未被注意的連結。Terence Tao 評論：「人類前人在第一步就走錯」；OpenAI 4/28 透過 Podcast 由研究員 Sébastien…",
         "published": "2026-04-29T01:50:51+00:00",
-        "source": "ABMedia 鏈新聞",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "Google 與五角大廈簽署 2 億美元 AI 軍事合約導入 Gemini，600 名員工抗議無效",
-        "link": "https://www.blocktempo.com/google-pentagon-200-million-ai-military-contract-employees-protest-pichai/",
-        "summary": "Google 已與美國國防部正式簽署約 2 億美元的 AI 軍事合約，允許五角大廈以「合法政府目的」透過 AP [&#8230;] 〈Google 與五角大廈簽署 2 億美元 AI 軍事合約導入 Gemini，600 名員工抗議無效〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-29T01:49:03+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "鮑威爾於明晨舉行記者會，利率不變成定局，本次聯準會決議該關注什麼？",
-        "link": "https://abmedia.io/fomc-meeting-jerome-powell-future",
-        "summary": "美國聯準會 (Fed) 展開為期兩天的利率決策會議，主席鮑威爾（Jerome Powell）將在台灣週四 (4 [&#8230;] 這篇文章 鮑威爾於明晨舉行記者會，利率不變成定局，本次聯準會決議該關注什麼？ 最早出現於 鏈新聞 ABMedia。",
-        "published": "2026-04-29T01:48:35+00:00",
-        "source": "ABMedia 鏈新聞",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "美財政部點名「伊朗加密管道」列制裁清單，荷姆茲海峽船運崩跌 95%、USDT 灰色流通空間正在消失",
-        "link": "https://www.blocktempo.com/us-treasury-bessent-iran-crypto-channels-ofac-hormuz-usdt-sanctions/",
-        "summary": "美國財政部長 Scott Bessent 4/29 在 X 平台公開列出制裁打擊清單，首次將「加密貨幣訪問管道 [&#8230;] 〈美財政部點名「伊朗加密管道」列制裁清單，荷姆茲海峽船運崩跌 95%、USDT 灰色流通空間正在消失〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-29T01:43:01+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "彭博：AI 半導體熱一年讓三星家族財富倍增，200 億翻到 455 億美元",
-        "link": "https://www.blocktempo.com/samsung-lee-family-wealth-doubles-ai-semiconductor-boom-inheritance-tax/",
-        "summary": "三星創辦人李健熙遺族在完成高達 12 兆韓元遺產稅的最終期限前，家族總財富已從一年前的約 201 億美元攀升至 [&#8230;] 〈彭博：AI 半導體熱一年讓三星家族財富倍增，200 億翻到 455 億美元〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-29T01:35:47+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "比特幣下殺7.56萬美元！OpenAI 營收拖累科技股、24 小時 7.2 萬人爆倉 1.89 億",
-        "link": "https://www.blocktempo.com/bitcoin-eth-pullback-openai-crash-coinglass-liquidation-189m-fear-26/",
-        "summary": "比特幣今晨報 $76,471，自 4/23 觸及 $79,321 峰值後持續滑落，24 小時內最低測至 $75 [&#8230;] 〈比特幣下殺7.56萬美元！OpenAI 營收拖累科技股、24 小時 7.2 萬人爆倉 1.89 億〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-29T01:20:57+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "Robinhood 配合「川普帳戶」將投入一億美元，HOOD 盤後下跌近 10%",
-        "link": "https://abmedia.io/robinhood-2026-q1-financial-report",
-        "summary": "美國券商 Robinhood Markets 發布了第一季財報，其核心營收雖然呈現穩定增長，但營業支出的顯著增 [&#8230;] 這篇文章 Robinhood 配合「川普帳戶」將投入一億美元，HOOD 盤後下跌近 10% 最早出現於 鏈新聞 ABMedia。",
-        "published": "2026-04-29T01:14:56+00:00",
         "source": "ABMedia 鏈新聞",
         "source_weight": 2,
         "category": "crypto"
@@ -2158,15 +2275,6 @@
         "category": "crypto"
       },
       {
-        "title": "戴蒙示警私募信用市場潛藏衰退風險，摩根大通仍積極參與",
-        "link": "https://abmedia.io/jpmorgan-s-dimon-warns-on-risks-of-credit-market",
-        "summary": "摩根大通（JPMorgan Chase）執行長傑米·戴蒙（Jamie Dimon）日前在挪威主權財富基金舉辦的 [&#8230;] 這篇文章 戴蒙示警私募信用市場潛藏衰退風險，摩根大通仍積極參與 最早出現於 鏈新聞 ABMedia。",
-        "published": "2026-04-29T00:22:01+00:00",
-        "source": "ABMedia 鏈新聞",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
         "title": "Bitcoin rally falters as AI industry weakens and CLARITY Act approval odds fall",
         "link": "https://cointelegraph.com/markets/bitcoin-rally-falters-as-ai-industry-weakens-and-clarity-act-approval-odds-fall?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "summary": "Bitcoin’s dip below $76,000 was driven by an AI sector sell-off and investors’ worries about slowed progress in the CLARITY Act negotiations.",
@@ -2176,38 +2284,11 @@
         "category": "crypto"
       },
       {
-        "title": "OpenAI 引發科技股拋售，比特幣一度跌破 76K，Novogratz：回到十萬鎂有困難",
-        "link": "https://abmedia.io/market-update-as-of-29th-apr-2026",
-        "summary": "報導稱 OpenAI 未能實現其新增用戶和銷售目標，引發科技股拋售，美股三大指數從歷史高點回落。布蘭特原油期貨 [&#8230;] 這篇文章 OpenAI 引發科技股拋售，比特幣一度跌破 76K，Novogratz：回到十萬鎂有困難 最早出現於 鏈新聞 ABMedia。",
-        "published": "2026-04-28T23:28:47+00:00",
-        "source": "ABMedia 鏈新聞",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
         "title": "AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says",
         "link": "https://decrypt.co/365897/ai-agent-deletes-startup-database-9-seconds-founder-says",
         "summary": "PocketOS founder Jeremy Crane claims a Cursor agent running Claude Opus wiped production data and backups through a single Railway API call.",
         "published": "2026-04-28T23:00:02+00:00",
         "source": "Decrypt",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "稀土美洲公司尋求以3.68億美元估值上市，主打「非中國供應鏈」",
-        "link": "https://abmedia.io/rare-earths-americas-seeks-368m-ipo-valuation",
-        "summary": "稀土美洲公司（Rare Earths Americas, Inc., 簡稱 REA）宣佈啟動首次 IPO 公開 [&#8230;] 這篇文章 稀土美洲公司尋求以3.68億美元估值上市，主打「非中國供應鏈」 最早出現於 鏈新聞 ABMedia。",
-        "published": "2026-04-28T22:57:16+00:00",
-        "source": "ABMedia 鏈新聞",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "2026 SusHi Tech Tokyo 揭幕、台灣館率 27 家新創深耕台日合作",
-        "link": "https://abmedia.io/ndc-leads-delegation-to-attend-japans-sushi-tech-tokyo-2026",
-        "summary": "台灣國家發展委員會帶領 27 家新創企業參與「SusHi Tech Tokyo 2026」，於現場設立最大規 [&#8230;] 這篇文章 2026 SusHi Tech Tokyo 揭幕、台灣館率 27 家新創深耕台日合作 最早出現於 鏈新聞 ABMedia。",
-        "published": "2026-04-28T22:20:31+00:00",
-        "source": "ABMedia 鏈新聞",
         "source_weight": 2,
         "category": "crypto"
       },
@@ -2293,15 +2374,6 @@
         "category": "crypto"
       },
       {
-        "title": "《富比士》轟川普家族礦企 American Bitcoin「割 5 億美元韭菜」！Eric Trump 反擊：中資媒體惡意抹黑",
-        "link": "https://www.blocktempo.com/eric-trump-slams-forbes-defends-american-bitcoin-abtc/",
-        "summary": "川普家族割散戶韭菜？還是主流媒體政治迫害？《富比士（Forbes）》發文猛轟 Eric Trump 旗下的比特 [&#8230;] 〈《富比士》轟川普家族礦企 American Bitcoin「割 5 億美元韭菜」！Eric Trump 反擊：中資媒體惡意抹黑〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-28T19:43:06+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
         "title": "RedStone launches settlement layer to address RWA liquidity gap in DeFi lending",
         "link": "https://cointelegraph.com/news/redstone-settlement-layer-rwa-liquidity-gap-defi-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "summary": "A new system targets the mismatch between fast DeFi liquidations and slow asset redemptions, a key barrier to the use of tokenized assets in lending markets.",
@@ -2347,15 +2419,6 @@
         "category": "crypto"
       },
       {
-        "title": "NVIDIA 發表 Nemotron 3 Nano Omni 開源多模態",
-        "link": "https://abmedia.io/nvidia-nemotron-3-nano-omni-multimodal-30b-moe-2026",
-        "summary": "NVIDIA 4/28 發表開源多模態模型 Nemotron 3 Nano Omni，採用 30B-A3B hybrid MoE 架構（含 Conv3D、EVS、256K context），可同時處理文字、影像、音訊、影片、文件、圖表與 GUI 螢幕，輸出為文字。較其他開源 omni 模型在同等互動性下達 9 倍吞吐量，並登上 6 個基準排行榜首位。生產採用方包括 Aible、ASI、Eka Care、鴻海（Foxconn）、H Com…",
-        "published": "2026-04-28T18:04:40+00:00",
-        "source": "ABMedia 鏈新聞",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
         "title": "Here’s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
@@ -2370,15 +2433,6 @@
         "summary": "Major DeFi protocols outlined technical steps to eliminate bad debt and restore full backing for exploited rsETH tokens.",
         "published": "2026-04-28T17:36:01+00:00",
         "source": "Decrypt",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "川普透白宮稱伊朗「陷入崩潰」、要求重開荷姆茲海峽：伊方未證實",
-        "link": "https://abmedia.io/trump-iran-state-collapse-hormuz-strait-tehran-no-confirm-2026",
-        "summary": "美國總統川普 4/28 透過白宮 X 帳號宣稱，伊朗已通知美方「進入崩潰狀態」、要求美國「儘速重開荷姆茲海峽」。伊朗官方截稿前未證實此說法、白宮亦未說明訊息透過何種管道傳遞。國務卿盧比歐 4/27 對伊朗近期解除海峽封鎖提案保持懷疑。脈絡上，伊朗戰爭已進入第九週、海峽實際處於封鎖狀態、UAE 同日宣布退出 OPEC，多重壓力下油價 Brent 已破 110、WTI 100.20 美元（+3.97%）。 這篇文章 川普透白宮稱伊朗「陷入崩…",
-        "published": "2026-04-28T17:17:26+00:00",
-        "source": "ABMedia 鏈新聞",
         "source_weight": 2,
         "category": "crypto"
       },
@@ -2545,15 +2599,6 @@
         "category": "crypto"
       },
       {
-        "title": "Not a theft, but a statement: Inside the Bitcoin proposal to reassign Satoshi-linked coins",
-        "link": "https://www.coindesk.com/tech/2026/04/28/bitcoiners-are-calling-ecash-a-hard-fork-theft-but-it-doesn-t-even-touch-satoshi-s-btc",
-        "summary": "",
-        "published": "2026-04-28T14:41:31+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
-      },
-      {
         "title": "Meta Turns to Space-Based Solar Energy to Power AI Data Centers on Earth",
         "link": "https://decrypt.co/365805/meta-turns-space-based-solar-energy-power-ai-data-centers",
         "summary": "Facebook parent company Meta secured up to 1 gigawatt of orbital solar power as AI drives demand for electricity.",
@@ -2561,63 +2606,108 @@
         "source": "Decrypt",
         "source_weight": 2,
         "category": "crypto"
-      },
-      {
-        "title": "Crypto projects shut down as token models fail under pressure",
-        "link": "https://cointelegraph.com/features/crypto-projects-shut-down-token-models-fail-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "summary": "Crypto projects are shutting down as token funding weakens and fragmented structures leave them with limited options to restructure or recover.",
-        "published": "2026-04-28T14:30:00+00:00",
-        "source": "Cointelegraph",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "Japan tells real estate and crypto sectors to tighten AML checks on property deals",
-        "link": "https://cointelegraph.com/news/japan-tells-real-estate-and-crypto-sectors-to-tighten-aml-checks-on-property-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "summary": "Four Japanese government agencies have warned against the AML risks posed by crypto in real estate transactions, instructing industry bodies to enforce stricter compliance.",
-        "published": "2026-04-28T14:22:35+00:00",
-        "source": "Cointelegraph",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "Galaxy Digital delivers first data center tranche to CoreWeave after narrowing Q1 loss",
-        "link": "https://www.coindesk.com/business/2026/04/28/galaxy-digital-delivers-first-data-center-tranche-to-coreweave-after-narrowing-q1-loss",
-        "summary": "",
-        "published": "2026-04-28T14:09:22+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
-      },
-      {
-        "title": "New wallet offers way to tackle Bitcoin’s quantum risk without a fork",
-        "link": "https://www.coindesk.com/tech/2026/04/28/emb-2-pm-utc-new-wallet-offers-way-to-tackle-bitcoin-s-quantum-risk-without-a-fork",
-        "summary": "",
-        "published": "2026-04-28T14:00:00+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
-      },
-      {
-        "title": "Stablecoin payroll gets built-in yield with Paxos Labs-Toku integration",
-        "link": "https://cointelegraph.com/news/stablecoin-payroll-gets-built-in-yield-with-paxostoku-integration-embargo-tuesday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "summary": "The integration lets employees earn yield on stablecoin-paid salaries without moving funds or giving up custody.",
-        "published": "2026-04-28T14:00:00+00:00",
-        "source": "Cointelegraph",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "Visa is teaming up with a Tether co-founder to build onchain banks",
-        "link": "https://www.coindesk.com/business/2026/04/28/visa-working-with-tether-og-reeve-collins-decentralized-banking-platform-wefi",
-        "summary": "",
-        "published": "2026-04-28T13:38:31+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
       }
     ],
     "tech": [
+      {
+        "title": "進口包裹猛攻台灣、本土商品卻出不去！台灣樂天「親自當店長」扛1,000賣家，意外逼出商品力 - 數位時代",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnNzdxRVp4N0ZVOEEzT2EwYU1pLXBFbThCbmYxeVp5UU9uR1BJR1BndzZUR3RlWmxxVXoxWXlZYmpZalZZZ2xUN0hTVDVlMUQyV3JWYWZXSEQwVVMzMmdVZzBFZEtFbi0zWmRkUDg2S096QTdjU0VINVd3?oc=5",
+        "summary": "進口包裹猛攻台灣、本土商品卻出不去！台灣樂天「親自當店長」扛1,000賣家，意外逼出商品力&nbsp;&nbsp;數位時代",
+        "published": "2026-04-29T06:02:00+00:00",
+        "source": "數位時代",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "Nemotron 3 Nano Omni - iThome",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qTjZPTTBPeE5fcVZuREtzcFktWmlZdElEeXRmZnF2bWhWRFpfc2JLUEZwaHIyZEJxcHE1ekFGSEtxaksyYUxwSWJNczV3YmNKMVN6dzFTVnpvMmgxS29rbQ?oc=5",
+        "summary": "Nemotron 3 Nano Omni&nbsp;&nbsp;iThome",
+        "published": "2026-04-29T05:30:03+00:00",
+        "source": "iThome",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "Service Principal - iThome",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WekU0YXlKRXo2djFIRmVGQU0yN05tTEZLQlFvSHhVQ3BiTHZlRHNtUXRBT3FmaHJtZU4zd2FOMzJscFc1V3ZzMW9vSGY3NlJQbTNmRXg5bUpGLXgt?oc=5",
+        "summary": "Service Principal&nbsp;&nbsp;iThome",
+        "published": "2026-04-29T05:06:49+00:00",
+        "source": "iThome",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "SnowBasin - iThome",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54T0hxcUNpMlpqTDh3RjBCZEMxOUpsM3RpajhQMWp4d281c0hTZFQ2dFVQTkprOHVHc0dOMWZ2R3hVR1VZZHdhV2M2TVlUeUZ0Vnc?oc=5",
+        "summary": "SnowBasin&nbsp;&nbsp;iThome",
+        "published": "2026-04-29T04:41:16+00:00",
+        "source": "iThome",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "不會寫程式也能做自動化？Google Workspace＋Gemini 攻略！3 步驟用自然語言串起AI 工作流 - 未來商務",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16S0p0aXpsbnROTmM4dFl5X3ZBU2o2c2dSUFJQZmdQRmc4ZU5fTkJFSFJLN2xlZkVCTUp3NjRaU09GZ2ltYnphZnJNM1pGTkE5ZS1vTg?oc=5",
+        "summary": "不會寫程式也能做自動化？Google Workspace＋Gemini 攻略！3 步驟用自然語言串起AI 工作流&nbsp;&nbsp;未來商務",
+        "published": "2026-04-29T04:40:00+00:00",
+        "source": "數位時代",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "Fast16 - iThome",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hY0gyTWp5aGJIWXNTazhDcXVsZVFvNjlKU0R3UDhqWkpvaVRzQ1NuTnZZSHNCbGVWdlFyX0I4bzVfRGtnRUJoTE9hLTJkQQ?oc=5",
+        "summary": "Fast16&nbsp;&nbsp;iThome",
+        "published": "2026-04-29T04:19:05+00:00",
+        "source": "iThome",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "新光三越搶下北車經營權！專家點出2大關鍵，有機會捅破微風20年做不到的「30億天花板」 - 數位時代",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45SjlNRjdxNkJBeTRpcTJqR04xRXhQUWQyOUEycUJhRmhnRFliUW95WUdmYzA3UG9tUUZuUE9uMTRvOHNtQWt5cGdGc2pESlFMTm1ZckhMbkFabXc2UGpsV3lSUnVUeFJSdkk3MDJTbw?oc=5",
+        "summary": "新光三越搶下北車經營權！專家點出2大關鍵，有機會捅破微風20年做不到的「30億天花板」&nbsp;&nbsp;數位時代",
+        "published": "2026-04-29T04:11:07+00:00",
+        "source": "數位時代",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "全台最大產業創新社群 - 未來商務",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVdpcDR6R0JIMko3Z1Azb280Z09GSHhUNFRHaDktUnNib0x6aU44LTZ3MDg5SkFvNXkwNl9ZRV9UMms1WllwVE5pdlF2OHBvOFp4OVJwZUkxR0NaSjd1SjBFT1JhWEpJODh0T1hxVU9nSGM1TVdpSUJJdXR6MElpWmh0b05MSHRJT290LVJaMWtuV1o3dUxXUnh6c3NHLW5TMDVNdG1MU2pYcmlVTV9uN3lGb0RQN3pnY2RDbUZHeDc?oc=5",
+        "summary": "全台最大產業創新社群&nbsp;&nbsp;未來商務",
+        "published": "2026-04-29T03:30:54+00:00",
+        "source": "數位時代",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "Premium：原創作者認證的AI知識庫｜全方位AI工具介紹 - 未來商務",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tVjNocFNpZDlUdmRHVTlUbi1BbjJzRnNILURtb3FndXNnX1EtXzhibU5sR2xxMEtNaXhNekFWWDZZaTRzZXNPYTJoTE1VOEpDa1RPYUpnNWFGaGJWd2M1TzdHNlBCcGRTVTZacDR3dHRkVVRfcmhRVVBkZGM?oc=5",
+        "summary": "Premium：原創作者認證的AI知識庫｜全方位AI工具介紹&nbsp;&nbsp;未來商務",
+        "published": "2026-04-29T03:28:55+00:00",
+        "source": "數位時代",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "Vpin 影音知識庫｜全方位AI工具介紹 - 未來商務",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZSlVVZ0VSdHNFMThsbDNqbzF5NHJ1WEt3c2RXSXZfUGpKc2lqcTNPTDZaYWU0Yl9MYm1kYjJDZW41aC1aZmRWZS0ya2ZKMlE1cG5iS1BJdkxrTUpJSEk4Smx3UExYMDlYS0g5Sl95SjUtNUs4X3pwZmNHZWY?oc=5",
+        "summary": "Vpin 影音知識庫｜全方位AI工具介紹&nbsp;&nbsp;未來商務",
+        "published": "2026-04-29T03:28:53+00:00",
+        "source": "數位時代",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "Amazon 陷「AI 蔓延」 釀資安破口！一個下午就生出 AI 工具，「兩個披薩原則」為何失靈？ - 未來商務",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1acFlsM2VYaGR2cDlYZlRSMDVFS29NM2lnd243eTVJaHptbzJsUF9hbllUdXhkT0VvdGhKc0pPZVdCQlg5OVMzaksxRXVkSFBkT0ZLag?oc=5",
+        "summary": "Amazon 陷「AI 蔓延」 釀資安破口！一個下午就生出 AI 工具，「兩個披薩原則」為何失靈？&nbsp;&nbsp;未來商務",
+        "published": "2026-04-29T03:03:00+00:00",
+        "source": "數位時代",
+        "source_weight": 3,
+        "category": "tech"
+      },
       {
         "title": "How one venture firm is investing in an increasingly fragmented world",
         "link": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
@@ -2660,15 +2750,6 @@
         "summary": "用量計費&nbsp;&nbsp;iThome",
         "published": "2026-04-29T01:14:13+00:00",
         "source": "iThome",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "新光三越搶下北車經營權！專家點出2大關鍵，有機會捅破微風20年做不到的「30億天花板」 - 數位時代",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45SjlNRjdxNkJBeTRpcTJqR04xRXhQUWQyOUEycUJhRmhnRFliUW95WUdmYzA3UG9tUUZuUE9uMTRvOHNtQWt5cGdGc2pESlFMTm1ZckhMbkFabXc2UGpsV3lSUnVUeFJSdkk3MDJTbw?oc=5",
-        "summary": "新光三越搶下北車經營權！專家點出2大關鍵，有機會捅破微風20年做不到的「30億天花板」&nbsp;&nbsp;數位時代",
-        "published": "2026-04-29T01:05:55+00:00",
-        "source": "數位時代",
         "source_weight": 3,
         "category": "tech"
       },
@@ -3024,19 +3105,19 @@
         "category": "tech"
       },
       {
-        "title": "CIO目標 - iThome",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KNmhSM0QzSXVfa0NGRzBvVnJqeE9TeUtodXNZNHdDc2t6SDdla1Y5NzVvbWV6N05CM3JUVEtWdlVEQUFmaU1SZU54OWVlYV8xVEc4cjJyMXJITlRVVnpHWDR3?oc=5",
-        "summary": "CIO目標&nbsp;&nbsp;iThome",
-        "published": "2026-04-28T10:36:17+00:00",
+        "title": "TokaMind - iThome",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80NnlGSmxGU2dVXzBpRkRKa2hJcjhTLXBNOVRFQTFHdVVIMjJ3VWtjRjEwNDllRUNwbkg3XzhZbjFBNk12S1k4a2hNSFZCZWlJ?oc=5",
+        "summary": "TokaMind&nbsp;&nbsp;iThome",
+        "published": "2026-04-28T10:05:40+00:00",
         "source": "iThome",
         "source_weight": 3,
         "category": "tech"
       },
       {
-        "title": "TokaMind - iThome",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80NnlGSmxGU2dVXzBpRkRKa2hJcjhTLXBNOVRFQTFHdVVIMjJ3VWtjRjEwNDllRUNwbkg3XzhZbjFBNk12S1k4a2hNSFZCZWlJ?oc=5",
-        "summary": "TokaMind&nbsp;&nbsp;iThome",
-        "published": "2026-04-28T10:05:40+00:00",
+        "title": "羅正漢 - iThome",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxMWVkSE5HdlV2X3FhbVRqaEtWSXB2TURFVEZKNFJMVXpBS0s3dWdjcVQ4aDduLUJocXBzMkJpbnFOc09MSzhKWUtENUwxcVN5SFpkQUxQRlp2eDE3N2lSblp4Q0pYRXRJX3cyOHd3ZTZVZ0MyZmZv?oc=5",
+        "summary": "羅正漢&nbsp;&nbsp;iThome",
+        "published": "2026-04-28T10:03:55+00:00",
         "source": "iThome",
         "source_weight": 3,
         "category": "tech"
@@ -3078,9 +3159,9 @@
         "category": "tech"
       },
       {
-        "title": "ChatGPT新生圖模型怎麼用？萬用提示詞快收，一次產出5張繁中IG輪播圖 - 數位時代",
+        "title": "ChatGPT生圖實測！複製這段萬用提示詞，一次產出5張繁中IG輪播圖 - 數位時代",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mMk10VHRvR1MwN21WdjFudEhINlRpbWJIODkxRUpQX1RfSFotWlQxREFyd3JTd21hLXNZTEUtcUtsdVJGZlJQSWJ5VVVRQS1RUFEtLXBmOEJ6UlRZcUZUSGdoRG8tbTFGTWh1S2JoSl9JLW4tQll6ZzVFSW5vZw?oc=5",
-        "summary": "ChatGPT新生圖模型怎麼用？萬用提示詞快收，一次產出5張繁中IG輪播圖&nbsp;&nbsp;數位時代",
+        "summary": "ChatGPT生圖實測！複製這段萬用提示詞，一次產出5張繁中IG輪播圖&nbsp;&nbsp;數位時代",
         "published": "2026-04-28T09:08:00+00:00",
         "source": "數位時代",
         "source_weight": 3,
@@ -3114,24 +3195,6 @@
         "category": "tech"
       },
       {
-        "title": "好食好事攜新創赴日 參與 SusHi Tech 串接產業與投資契機 - Meet創業小聚",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pdUhSaDNiZWI5aHJONC1MWDVTQ3F1QXNqN2RqR2FaR3JqU2lfRFhGc0EwVWpqS3JEYWdoT3NoUXUzUFRHelhnMDVLc3RlQnZHbFdR?oc=5",
-        "summary": "好食好事攜新創赴日 參與 SusHi Tech 串接產業與投資契機&nbsp;&nbsp;Meet創業小聚",
-        "published": "2026-04-28T08:33:00+00:00",
-        "source": "數位時代",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "亞馬遜陷「AI蔓延」危機！員工瘋狂打造重複AI工具，釀出資安風險 - 數位時代",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNNndGZ2VDbUJha0piM0tmWERlUHhMWUJCdmdzR1BhZ2kyUWlYUDVlazhNTUZFUGU3Vms4c3l1STRtMjVFcFA2UDVxckREVE4yX0dIN1RyRWxfREM5d09neUZVRFlRdw?oc=5",
-        "summary": "亞馬遜陷「AI蔓延」危機！員工瘋狂打造重複AI工具，釀出資安風險&nbsp;&nbsp;數位時代",
-        "published": "2026-04-28T07:45:00+00:00",
-        "source": "數位時代",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
         "title": "ChatGPT Images 2.0色彩鑑定、面相分析教學，2組提示詞一次收 - 數位時代",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR2tSWXZWNDFYYWduSEdoSFB1X1BnSFd2cnRtS2RPUjhVX082ZE5vcjRsbXh2bGdHTlVtZ29oNlo5dU5lVnBWdXJYU3RhM0FsU1RmVUVuY3ZGWDFsaDVQMUYwamRtUXBKMEdQT0R4ck5DVmRaclhRdzNhWFVIRHU5X1lDSVEtTERITm53aFNKSnY?oc=5",
         "summary": "ChatGPT Images 2.0色彩鑑定、面相分析教學，2組提示詞一次收&nbsp;&nbsp;數位時代",
@@ -3159,82 +3222,10 @@
         "category": "tech"
       },
       {
-        "title": "藥學 - iThome",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PZFNhUkc1UE8wT3Znbl9semp4Zjg3LUY0U1Vnb1JpNlZxWVRXb3BVNl9zZG5vSXh5MkF3LUFoR0sxY2NvOFB6WmRHeklENmlGYW9QVy1IekNVLUJzU3c?oc=5",
-        "summary": "藥學&nbsp;&nbsp;iThome",
-        "published": "2026-04-28T07:04:42+00:00",
-        "source": "iThome",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "CVE-2026-41651 - iThome",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tRkJreTd4ZTBWTVRYU2ZUSjJNakdjVGZaU0JpaUFzTUZGLUZ3bFhIYW9LRUZTWlZQZFRDUnFaeXQ2Wm5rdW5HT3FsVTgyLS1QX2IwQU9kZnE?oc=5",
-        "summary": "CVE-2026-41651&nbsp;&nbsp;iThome",
-        "published": "2026-04-28T07:04:42+00:00",
-        "source": "iThome",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "Theori - iThome",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZSlNCcTRPSmhsVW5STEtBU1VPX29DX3VmenpIblY0RnAwS3pjWmt4S09vbXpfYUl5T0g3THpOQW1sNzJMb0Vtb3J0SnpuQQ?oc=5",
-        "summary": "Theori&nbsp;&nbsp;iThome",
-        "published": "2026-04-28T07:04:41+00:00",
-        "source": "iThome",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
         "title": "AI假照片讓詐騙損失飆400億美元！新創Succinct Labs改用iPhone硬體簽章反制 - Meet創業小聚",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02akYxcWZhOEJrVDdSUXVzdEpXeUlGV3l2WmtSRUh0SjM5UDl1NXhsTTdtNGM5UnFrdUFqSmVEVXlXMGZZX2R6bGVPY3lnZFRMaFdyT1VQZDE?oc=5",
         "summary": "AI假照片讓詐騙損失飆400億美元！新創Succinct Labs改用iPhone硬體簽章反制&nbsp;&nbsp;Meet創業小聚",
         "published": "2026-04-28T06:59:00+00:00",
-        "source": "數位時代",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "Notion紅什麼？2大殺手鐧拆解：一站式大腦外包、靠堆「數位樂高」客製最你的AI工作室 - 數位時代",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WeXpPUGNsOTkyNVdKX1dNenp2M1JkUGhRZzFJUlUzN3pPLTA3SDhQVVVVWjUxdEI1bWFTMUhiQ2Z1SXVnS3doakdtTVVUTXdscU1hNzJ0NENqNGxyZEUwNkdjZjZhM28?oc=5",
-        "summary": "Notion紅什麼？2大殺手鐧拆解：一站式大腦外包、靠堆「數位樂高」客製最你的AI工作室&nbsp;&nbsp;數位時代",
-        "published": "2026-04-28T06:43:13+00:00",
-        "source": "數位時代",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "美敦力 - iThome",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PMG82ZWNsa3JJN041a3FvMjVDQzRSdWV3RDlxQjZpWV9lY0ZOYmxlSHRTY0ktRUJYOVdobzVncjRBWHY2MktHNTN6YTJ1RG43S2luVmw0LTUtNkM2Y0FFcGphYlNBMFBwMVE?oc=5",
-        "summary": "美敦力&nbsp;&nbsp;iThome",
-        "published": "2026-04-28T05:09:34+00:00",
-        "source": "iThome",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "真正顛覆的AI手機要來了？OpenAI傳攜手聯發科等巨頭，從圖示矩陣走向「任務導向」操作 - 數位時代",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOE1EYmJ1aEgyUTBKdjJmd1dRMUNrQ3lQeThZSlc4MEdZTXdFSzR0RzFwQUlHMGpjX0NTc0gwV3ZrZjFvQldFeTFURU8xT2Z4R2RJM3YwRkFxLU51b0xPVElXOFI5YmItMDdwZTVJOExQeUJCRll3OEpPT0VMYmE2ODRPLWZTYXVaSmlMdS1fR1Nva3NVRW41Ng?oc=5",
-        "summary": "真正顛覆的AI手機要來了？OpenAI傳攜手聯發科等巨頭，從圖示矩陣走向「任務導向」操作&nbsp;&nbsp;數位時代",
-        "published": "2026-04-28T03:49:00+00:00",
-        "source": "數位時代",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "文策院第七期文化創業加速器啟動！院長王敏惠：從作品思維到企業化經營，助團隊邁向成長 - 數位時代",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45bGJCLWRQR3JRRWEybUZZdnF6VW9vbFdkbC1aRHJFTXVZb0gwVjBLbnFFRkZTUGZHZWtVYWxNQWg2YzRERXU4X1pqcWRJbUZ6TFJ6WmtjRjdoNkRLcGxHbXJB?oc=5",
-        "summary": "文策院第七期文化創業加速器啟動！院長王敏惠：從作品思維到企業化經營，助團隊邁向成長&nbsp;&nbsp;數位時代",
-        "published": "2026-04-28T03:38:00+00:00",
-        "source": "數位時代",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "1%超級人才正升級Work Smarter！簡立峰：企業不「AI就緒」，2028將從供應鏈消失 - 數位時代",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNejg4ZGNkYV9sTU92RmpUZURaVDBjMG5UdGVUZmRLVm5MZXpqVWp5ZXFmazdtWm9tTndubXhsRjBzQXRBdVljM0VzRVBTUWlJRktmX3hrekZjRDl1UjNoOHp2VDA1cUhneGMtdW5MTmo0YUVhX19tVTV0ODFieDdEdnBjLWt5anRKeUE?oc=5",
-        "summary": "1%超級人才正升級Work Smarter！簡立峰：企業不「AI就緒」，2028將從供應鏈消失&nbsp;&nbsp;數位時代",
-        "published": "2026-04-28T03:16:00+00:00",
         "source": "數位時代",
         "source_weight": 3,
         "category": "tech"
@@ -3314,6 +3305,141 @@
     ],
     "entertainment": [
       {
+        "title": "Yash’s ‘Toxic’ Release Pushed Back to ‘Later, Globally Aligned Date’",
+        "link": "https://variety.com/2026/film/news/yash-toxic-release-pushed-back-1236732931/",
+        "summary": "Yash fans will have to wait a bit longer for their idol&#8217;s much anticipated next film. The release of &#8220;Toxic: A Fairytale for Grown-Ups&#8221; has been postponed from its June 4 date to accommodate a broader g…",
+        "published": "2026-04-29T06:18:42+00:00",
+        "source": "Variety",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "Kimmel Calls Out Trump’s Joke About His Own Death",
+        "link": "https://deadline.com/2026/04/kimmel-trump-death-joke-1236875518/",
+        "summary": "One day after Donald Trump said Jimmy Kimmel should be fired for making a joke about the president&#8217;s marriage, Kimmel called out similar remarks from Trump. For those unaware of the backstory, Kimmel’s skit last Th…",
+        "published": "2026-04-29T05:20:31+00:00",
+        "source": "Deadline",
+        "source_weight": 2,
+        "category": "entertainment"
+      },
+      {
+        "title": "Breaking Baz: Keira Knightley, Stephen Dillane & Luke Thompson To Lead Stage Adaptation Of Oscar Winner ‘The Lives Of Others’ Into West End",
+        "link": "https://deadline.com/2026/04/the-lives-of-others-play-keira-knightley-stephen-dillane-1236875223/",
+        "summary": "EXCLUSIVE: Keira Knightley (Black Doves), Stephen Dillane (Game of Thrones) and Luke Thompson (Bridgerton) will star this fall in a London stage adaptation of the Oscar-winning German movie The Lives of Others, a love st…",
+        "published": "2026-04-29T05:00:00+00:00",
+        "source": "Deadline",
+        "source_weight": 2,
+        "category": "entertainment"
+      },
+      {
+        "title": "Canneseries YA Show ‘Sneakermania,’ From ‘Icebreaker’ Producers, Boarded by Norsekey Distribution (EXCLUSIVE)",
+        "link": "https://variety.com/2026/tv/global/sneakermania-norsekey-distribution-canneseries-ya-show-1236732922/",
+        "summary": "Canneseries competition entry “Sneakermania,” helmed by Ima Iduozee, choreographer of Netflix’s “Dance Brothers,” has been swooped on by Norsekey Distribution which has acquired global distribution rights outside Finland…",
+        "published": "2026-04-29T04:53:53+00:00",
+        "source": "Variety",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "歡迎來到朵莉之家 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVVTMHlKNm1zWHJzNVdURktlakRHeEdxS1RzWHEtUlh0LUM3UEExQTlMUTl5elpIRTJnZTJ6TEh5cFBVOHhIdWtnVThKbVk5cDBtQWdrS05iS0tVQzNVSTFYUDlnSFVXODYtY1lGOGhGbkN2ejhCQ1BIMmFKbFhrTEFFTDY3VjZxNDc4QkRYLWFNWVYyYUVMeXVaZm1SWXhpbTBr?oc=5",
+        "summary": "歡迎來到朵莉之家&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T04:51:00+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "演藝活動 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55QnFScXBjMWt2U2tHX3hHZXFfeDdBbFRPb1oxUGZDQ2hDVFNtWDRXblM5U0VTeERLcXcxRGJHYW11UFhsTG9YTjJuX3lJRWt4d2h6M0pFeEtkYWxvV1lNZkhZUFNSNDFFbU1VZy1QeW1QdXM?oc=5",
+        "summary": "演藝活動&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T04:33:46+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "Indian Comedy King David Dhawan Gets Retrospective at PVR Inox Ahead of Final Film’s Release (EXCLUSIVE)",
+        "link": "https://variety.com/2026/film/news/david-dhawan-film-festival-pvr-inox-1236732157/",
+        "summary": "Leading Indian multiplex chain PVR Inox will mount a week-long retrospective dedicated to director David Dhawan beginning May 8, screening five of his most celebrated Hindi-language comedies across 40 venues in 25 cities…",
+        "published": "2026-04-29T04:30:00+00:00",
+        "source": "Variety",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "‘Malcolm in the Middle’ Star Justin Berfield Tells Paparazzi to Leave Dewey Actor Eric Per Sullivan Alone After He Turned Down the Reboot: ‘I Actually Feel Bad’",
+        "link": "https://variety.com/2026/tv/news/malcolm-in-the-middle-paparazzi-eric-per-sullivan-dewey-1236732913/",
+        "summary": "“Malcolm in the Middle” star Justin Berfield, who plays Malcolm’s older brother Reese, told the “Howie Mandel Does Stuff” podcast that he feels bad that his former co-star, Erik Per Sullivan, was thrust back into the pub…",
+        "published": "2026-04-29T04:22:41+00:00",
+        "source": "Variety",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "25 Luxury Mother’s Day Gifts (at Every Budget) for Moms With a Discerning Eye",
+        "link": "https://www.hollywoodreporter.com/lifestyle/shopping/mothers-day-gifts-for-mom-2026-best-luxury-presents-online-1236579047/",
+        "summary": "From $25 to $2,500-plus, these are our tried-and-true gifting favorites for moms with impeccable taste.",
+        "published": "2026-04-29T04:16:49+00:00",
+        "source": "Hollywood Reporter",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "啦啦隊女神蓁蓁0050抱10年賺翻！「無腦買入」報酬率飆330%　揭密投資心法 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Td2Z1ZGNzOThVd3diZmw0NGtCT3lXWXZpb3k3VUVzaml4TzF2dFA0T0ZuRlV5V3M0Z01wd1BUNjhKQ0l6b21CR1BTV1hyRWNMWm91RktHcHlKWThULThKNU9aX0VBYkRuY2fSAWpBVV95cUxPU3dmdWRjczk4VXd3YmZsNDRrQk95V1l2aW95N1VFc2ppeE8xdnRQNE9GbkZVeVdzNGdNcHdQVDY4SkNJem9tQkdQU1dYckVjTFpvdUZLR3B5Slk4VC04SjVPWl9FQWJEbmNn?oc=5",
+        "summary": "啦啦隊女神蓁蓁0050抱10年賺翻！「無腦買入」報酬率飆330% 揭密投資心法&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T04:14:00+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "「國民初戀」崔智友零遮掩外出！6歲女兒長大了　網驚：時間過好快 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kendLaVdtS29RbkswcXJ3dGRUM0VXb1hOdnlhZnM0enBQRGVGVWI2clpGU2w0Q1E0ODQxRk9RbGltUjVoM1BqdHBpTlRLd3A2bExxamF6NnZBZkdMMnZCaWVuc0VuNVNBYnfSAWpBVV95cUxPZHp3S2lXbUtvUW5LMHFyd3RkVDNFV29YTnZ5YWZzNHpwUERlRlViNnJaRlNsNENRNDg0MUZPUWxpbVI1aDNQanRwaU5US3dwNmxMcWphejZ2QWZHTDJ2QmllbnNFbjVTQWJ3?oc=5",
+        "summary": "「國民初戀」崔智友零遮掩外出！6歲女兒長大了 網驚：時間過好快&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T04:13:00+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "獨家／黃玉榮八點檔扮早安侯　德馨難忍笑意NG六次 - 鏡週刊Mirror Media",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tNFB6YThZVGpwYk9BcTR3MHR4bmxUZGNoOVZpSUIxNFFYWk5TQVhGRng2UFN0VDhOMURDTjRGR1V1QzR2aTZVcTM2UVhtSjU1ZzZuVjdaSy10M1HSAWBBVV95cUxOSC1KXzFfZGlJSHBLckRia1JNZUhSMHlITVd2dmlDZWN5U1AwbEt0RXlpRVZRTjFadlB3U2lLYk10ek1NWFg5THkwT1pmaWlLVElXeUlGMzF1Tk5oQlhfQkE?oc=5",
+        "summary": "獨家／黃玉榮八點檔扮早安侯 德馨難忍笑意NG六次&nbsp;&nbsp;鏡週刊Mirror Media",
+        "published": "2026-04-29T04:08:00+00:00",
+        "source": "鏡週刊 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "撐不住了！53歲日村勇紀宣布停工　網驚「這一幕」：早有異狀 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bG5WZTBWZ0NMSUJudnBKYmJ6T09Id0h6Vk40NHl0ZUJYOUs5YWhFNTVOUXNxWk1STlhtMmJMZjJ1YXBaWTdUdGlmaTJsb2NLZjMzVi1vUURNUVBHUFpDZC1kWHVhNUZROGfSAWpBVV95cUxNdmxuVmUwVmdDTElCbnZwSmJiek9PSHdIelZONDR5dGVCWDlLOWFoRTU1TlFzcVpNUk5YbTJiTGYydWFwWlk3VHRpZmkybG9jS2YzM1Ytb1FETVFQR1BaQ2QtZFh1YTVGUThn?oc=5",
+        "summary": "撐不住了！53歲日村勇紀宣布停工 網驚「這一幕」：早有異狀&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T03:57:00+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "In One of His Last Interviews, Eric Dane Discussed Shooting “Drunk” ‘Euphoria’ Wedding Scene Amid ALS Battle",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/eric-dane-filmed-drunk-euphoria-wedding-scene-als-battle-1236579829/",
+        "summary": "The actor, who plays Cal in the Sam Levinson-created drama, died on Feb. 19.",
+        "published": "2026-04-29T03:22:39+00:00",
+        "source": "Hollywood Reporter",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "大野智爆禁忌之愛！女方遭逼簽「分手退圈書」　10年後重逢關係曝 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DU0JGNVB3emhDT1BTR0UwcVlJRmZCajdNc1hnYVZFOTZhaGNPVDJWR3ZCWlJvU3p1WjVEZFhKQzBIR01uOUc4SDllRjVpT0xSUzE2aXRNX2FUZzNMamJCNVI4Q3haWGVESGfSAWpBVV95cUxOQ1NCRjVQd3poQ09QU0dFMHFZSUZmQmo3TXNYZ2FWRTk2YWhjT1QyVkd2QlpSb1N6dVo1RGRYSkMwSEdNbjlHOEg5ZUY1aU9MUlMxNml0TV9hVGczTGpiQjVSOEN4WlhlREhn?oc=5",
+        "summary": "大野智爆禁忌之愛！女方遭逼簽「分手退圈書」 10年後重逢關係曝&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T03:16:00+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
         "title": "Stephen Colbert Says He Made ‘The Late Show’ More Political After His Producer Told Him ‘That’s the Part the Audience Wants to See’",
         "link": "https://variety.com/2026/tv/news/stephen-colbert-late-show-political-audience-wants-to-see-1236732906/",
         "summary": "Stephen Colbert recently told The New York Times that, after an uneven first couple of months of “The Late Show,” his producer encouraged him to lean back into his political roots. Colbert said at first, the plan was to…",
@@ -3386,6 +3512,15 @@
         "category": "entertainment"
       },
       {
+        "title": "飯店沒健身房怎麼辦？陸劇男神自律運動「來回爬40層樓」練出肌肉 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZUdMVjJfc29MM2RNbU82TXJBUGxucUN2YkVEX2dqVUgxbWRQWlhmQnp1dnI0MV80ZXZkUGtxU05hVXowaC1tUGZMMXVpcWhzR253MlFva2RLX0pmc0lZY1J5aW1WNFJaSFHSAWpBVV95cUxNUGVHTFYyX3NvTDNkTW1PNk1yQVBsbnFDdmJFRF9nalVIMW1kUFpYZkJ6dXZyNDFfNGV2ZFBrcVNOYVV6MGgtbVBmTDF1aXFoc0dudzJRb2tkS19KZnNJWWNSeWltVjRSWkhR?oc=5",
+        "summary": "飯店沒健身房怎麼辦？陸劇男神自律運動「來回爬40層樓」練出肌肉&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T01:00:00+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
         "title": "Ariana Grande Sets ‘Petal’ Album Release Date For July",
         "link": "https://deadline.com/2026/04/ariana-grande-petal-album-release-date-1236875371/",
         "summary": "Ariana Grande has finally revealed that Petal is the title of her new album set for release on July 31. The singer took to social media to share the cover art for her new album, which shows her smiling and looking blissf…",
@@ -3400,6 +3535,15 @@
         "summary": "韓籍啦啦隊+1！鄭嘉睿「無緣進中職原因太殘酷」10月主力戰場曝&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
         "published": "2026-04-29T00:29:00+00:00",
         "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "創業惹風波／超夯梨花酥出包！炎亞綸甜點也曾爆食安爭議　業者坦承爆單惹禍 - 鏡週刊Mirror Media",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dDRaYUZ1V193TEdDUGFJQUd5TmVGTlVncmQydHJYQW5SVjlDc3o2N090T0hvOWQ5STZmN2lZNHFhTXB1WVFPeXBFTTl2S2dsVHh0TThUREVGZUXSAWBBVV95cUxQMUN5THVHd3F2RHV3ZzdIU05wd1Q5Zjlya2ZHYnowelNtUmlPTmg5bHVJNkVWb1p3LUFiTEVaYy1fTmZ3VGZPallub3ZsWk1VYm1WcElfbndBSmR6Si1kLU8?oc=5",
+        "summary": "創業惹風波／超夯梨花酥出包！炎亞綸甜點也曾爆食安爭議 業者坦承爆單惹禍&nbsp;&nbsp;鏡週刊Mirror Media",
+        "published": "2026-04-29T00:28:58+00:00",
+        "source": "鏡週刊 娛樂",
         "source_weight": 3,
         "category": "entertainment"
       },
@@ -3503,15 +3647,6 @@
         "category": "entertainment"
       },
       {
-        "title": "What’s Coming to Netflix in May 2026",
-        "link": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/",
-        "summary": "Netflix is rolling into May 2026 with a packed slate of originals, returning favorites and new arrivals.&#160; The streaming service is sure to have a strong month with the arrival of new seasons of multiple originals se…",
-        "published": "2026-04-28T23:00:00+00:00",
-        "source": "Variety",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
         "title": "Mariska Hargitay Discusses Doc ‘My Mom Jayne,’ Reveals She’ll Direct 600th ‘SVU’ Episode — and That She and Chris Meloni Filmed a Kiss (Exclusive)",
         "link": "https://www.hollywoodreporter.com/movies/movie-news/mariska-hargitay-christopher-meloni-svu-kiss-interview-1236579222/",
         "summary": "The beloved TV star, whose HBO doc about her late mother, movie star Jayne Mansfield, is in contention for the best documentary special Emmy, spoke with THR at the Napa Valley StreamFest.",
@@ -3536,33 +3671,6 @@
         "published": "2026-04-28T22:46:08+00:00",
         "source": "Deadline",
         "source_weight": 2,
-        "category": "entertainment"
-      },
-      {
-        "title": "ColorCreative Adds Trey Witter As Manager-Producer",
-        "link": "https://deadline.com/2026/04/colorcreative-trey-witter-1236875247/",
-        "summary": "EXCLUSIVE: Issa Rae, Deniese Davis, and Talitha Watkins&#8217; ColorCreative has hired Trey Witter as Manager/Producer. Witter will report to ColorCreative President Talitha Watkins. In his new role, he will continue the…",
-        "published": "2026-04-28T22:46:08+00:00",
-        "source": "Deadline",
-        "source_weight": 2,
-        "category": "entertainment"
-      },
-      {
-        "title": "WGA West Accuses Its Staffers of Violence and Intimidation as Strike Hits 10 Weeks",
-        "link": "https://variety.com/2026/film/news/wga-west-staff-violence-and-intimidation-strike-impasse-1236732801/",
-        "summary": "The WGA West accused its own staffers on Tuesday of engaging in violence and intimidation on picket lines, and said it would not negotiate further as the staff strike hit 71 days. In a memo to members, the top officers o…",
-        "published": "2026-04-28T22:41:44+00:00",
-        "source": "Variety",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "‘Leaving Neverland’ Director Torches ‘Michael’ and ‘Nasty’ Antoine Fuqua for Whitewashing Michael Jackson’s Alleged Abuse",
-        "link": "https://variety.com/2026/film/features/leaving-neverland-director-torches-michael-alleged-abuse-1236732764/",
-        "summary": "It is, to this day, the only film screening I’ve attended that was inspected by bomb-sniffing dogs. The premiere of &#8220;Leaving Neverland,&#8221; a documentary exploring Wade Robson and James Safechuck’s child sexual-…",
-        "published": "2026-04-28T22:40:46+00:00",
-        "source": "Variety",
-        "source_weight": 3,
         "category": "entertainment"
       },
       {
@@ -3593,29 +3701,11 @@
         "category": "entertainment"
       },
       {
-        "title": "Blumhouse Television Adapting Shusuke Shizukui’s Japanese Novel ‘Sparks’ For TV",
-        "link": "https://deadline.com/2026/04/blumhouse-tv-adapting-shusuke-shizukuis-novel-sparks-1236875000/",
-        "summary": "EXCLUSIVE: Blumhouse Television has acquired the rights to the Japanese-language novel Hi No Ko (Sparks) written by Shusuke Shizukui and published by Gentosha. Krystal Houghton Ziv (Wolf Pack, The Purge) will write the p…",
-        "published": "2026-04-28T21:53:21+00:00",
-        "source": "Deadline",
-        "source_weight": 2,
-        "category": "entertainment"
-      },
-      {
         "title": "‘Widow’s Bay’ Review: Matthew Rhys Anchors Apple’s Intriguingly Creepy, Oddly Cozy, Unevenly Effective Horror-Comedy",
         "link": "https://www.hollywoodreporter.com/tv/tv-reviews/widows-bay-review-matthew-rhys-apple-1236578528/",
         "summary": "Stephen Root and Kate O'Flynn also star in the series by 'Parks and Recreation' vet Katie Dippold, set in a small island town beset by disturbing supernatural events.",
         "published": "2026-04-28T21:51:49+00:00",
         "source": "Hollywood Reporter",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "Disney’s ‘Toast to TV’ Emmy FYC Kickoff, Hosted by Dana Walden, Celebrates With A-List Stars, Producers",
-        "link": "https://variety.com/2026/tv/awards/disney-toast-to-tv-emmy-fyc-kickoff-dana-walden-1236732588/",
-        "summary": "For a brief moment Monday night, Hollywood folks put aside any concerns they have about the industry’s troubles and found reason to celebrate at the Walt Disney Co.’s “Toast to Television.” The event, held at Soho House…",
-        "published": "2026-04-28T21:30:54+00:00",
-        "source": "Variety",
         "source_weight": 3,
         "category": "entertainment"
       },
@@ -3633,24 +3723,6 @@
         "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/matt-damon-ben-affleck-robin-williams-good-will-hunting-1236579512/",
         "summary": "The pair received an award in their 'Good Will Hunting' co-star's name on Monday, as they credited Williams for launching their careers.",
         "published": "2026-04-28T20:42:37+00:00",
-        "source": "Hollywood Reporter",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "Broadway Box Office: ‘Every Brilliant Thing’ Hits $1.6M, ‘Moulin Rouge!’ Sees Megan Thee Stallion Boost",
-        "link": "https://www.hollywoodreporter.com/business/business-news/broadway-box-office-every-brilliant-thing-1236579526/",
-        "summary": "Every new Broadway show has opened as of April 26, in preparation for the Tony nominations May 5.",
-        "published": "2026-04-28T20:10:49+00:00",
-        "source": "Hollywood Reporter",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "ABC Station Owners and Advertisers Have Not Clamored to Fire Jimmy Kimmel This Time",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/jimmy-kimmel-not-fired-or-suspended-advertisers-affiliates-1236579312/",
-        "summary": "Or even to suspend him over his viral \"expectant widow\" joke.",
-        "published": "2026-04-28T19:56:18+00:00",
         "source": "Hollywood Reporter",
         "source_weight": 3,
         "category": "entertainment"
@@ -3710,37 +3782,10 @@
         "category": "entertainment"
       },
       {
-        "title": "洪都拉斯60歲「認祖歸宗」！翻祖譜揭身世真相　感動吐心聲：有安定感 - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QSjRiVWdFQ0xtWVRCOXlwSThWelpGdDFPZk9iZjFYZl9Xcm94LUNrZ3RlcV9nZURad1RwXzY1V081eEQ1UHNVb29HbU50aEZnU1hQd255b0c5MlgwUjVKSzR6alhDaTFEM2fSAWpBVV95cUxOUEo0YlVnRUNMbVlUQjl5cEk4VnpaRnQxT2ZPYmYxWGZfV3JveC1Da2d0ZXFfZ2VEWndUcF82NVdPNXhENVBzVW9vR21OdGhGZ1NYUHdueW9HOTJYMFI1Sks0empYQ2kxRDNn?oc=5",
-        "summary": "洪都拉斯60歲「認祖歸宗」！翻祖譜揭身世真相 感動吐心聲：有安定感&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-28T08:47:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "阿Sa情史曝光！　曾秘婚鄭中基4年「同天宣布結婚又離婚」 - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UOXYtX3RUdlpiY29RZEdFSjY5Q3M3bHhFTnNtQ09mby1zOHAyU25mZ0F0cXJtV1JNUmFTcEYtLWdOdWJ2cUFmb3hCRHhRUjFBd0RxMXhiUWVhZ2R3cDg2eGFJV05pclV1eEHSAWpBVV95cUxPVDl2LV90VHZaYmNvUWRHRUo2OUNzN2x4RU5zbUNPZm8tczhwMlNuZmdBdHFybVdSTVJhU3BGLS1nTnVidnFBZm94QkR4UVIxQXdEcTF4YlFlYWdkd3A4NnhhSVdOaXJVdXhB?oc=5",
-        "summary": "阿Sa情史曝光！ 曾秘婚鄭中基4年「同天宣布結婚又離婚」&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-28T08:06:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
         "title": "《黑澀會》玉兔失手了！ 「剪壞兒子瀏海」新髮型照曝 她一看笑哭 - ETtoday星光雲| ETtoday新聞雲",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GSEdfVTBmdTczSHlweVRiUHR3OWtjU2lmcHBFVmdZbmNKQ0h6NnI2VDZkOEZfcnp2T2kxNmhuTlhieV9uZUFINlB1VmVUNy1ldDc4Y19qVkNPczZQN1lYMEpfRlZCMVNNZUHSAWpBVV95cUxPRkhHX1UwZnU3M0h5cHlUYlB0dzlrY1NpZnBwRVZnWW5jSkNIejZyNlQ2ZDhGX3J6dk9pMTZobk5YYnlfbmVBSDZQdVZlVDctZXQ3OGNfalZDT3M2UDdZWDBKX0ZWQjFTTWVB?oc=5",
         "summary": "《黑澀會》玉兔失手了！ 「剪壞兒子瀏海」新髮型照曝 她一看笑哭&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
         "published": "2026-04-28T07:29:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "陳勢安忍高溫一路狂奔！　熱到脫了「性感背心上陣」 - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aTUZPNF9RV2tJdFRoWmhMZEFxeFEwellkR0oyZTlBMmo4OWxnOUo4UDFieFhTSlN5WHRtcXZBMnctejJRUlBMdC1mbFJLVmo3RVp3Qk1FcjNNNXByampVd1pkUXpwMWhqWUHSAWpBVV95cUxPWk1GTzRfUVdrSXRUaFpoTGRBcXhRMHpZZEdKMmU5QTJqODlsZzlKOFAxYnhYU0pTeVh0bXF2QTJ3LXoyUVJQTHQtZmxSS1ZqN0Vad0JNRXIzTTVwcmpqVXdaZFF6cDFoallB?oc=5",
-        "summary": "陳勢安忍高溫一路狂奔！ 熱到脫了「性感背心上陣」&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-28T06:48:00+00:00",
         "source": "ETtoday 娛樂",
         "source_weight": 3,
         "category": "entertainment"
@@ -3755,47 +3800,11 @@
         "category": "entertainment"
       },
       {
-        "title": "白安新歌藏神秘男聲　「竟是大咖樂團主唱」路過插花！ - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96WjFRb3hVOHJPeUZnM2R5OVlySG1mTUphcUkyRnVpLTdpR29zcjg2RjJ5RE5FR0xDUnNlZGRHeGI5TzlES21iNnFRZjdpMHRidDRObTVRWWd6T1ZTcDFod08xaVRkRXBnc3fSAWpBVV95cUxPeloxUW94VThyT3lGZzNkeTlZckhtZk1KYXFJMkZ1aS03aUdvc3I4NkYyeURORUdMQ1JzZWRkR3hiOU85REttYjZxUWY3aTB0YnQ0Tm01UVlnek9WU3AxaHdPMWlUZEVwZ3N3?oc=5",
-        "summary": "白安新歌藏神秘男聲 「竟是大咖樂團主唱」路過插花！&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-28T06:21:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "蔡尚樺體脂28「看到都要崩潰了」！中空洩真實身材 健身片全被拍 - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04TXhKTmtael9BLUNCMmY1ZGZYZmJxNXJiTUZ0VjExQlBqeWZxeTdDdWw5ZkpqN2VkYW5XMTdjMVozTnc3QnFFZ2FCTkV1YVlTRmx6MVhmUFBSdWdyRnd6MFp4Sm83T1hPX2fSAWpBVV95cUxNOE14Sk5rWnpfQS1DQjJmNWRmWGZicTVyYk1GdFYxMUJQanlmcXk3Q3VsOWZKajdlZGFuVzE3YzFaM053N0JxRWdhQk5FdWFZU0ZsejFYZlBQUnVnckZ3ejBaeEpvN09YT19n?oc=5",
-        "summary": "蔡尚樺體脂28「看到都要崩潰了」！中空洩真實身材 健身片全被拍&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-28T06:20:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "丁禹兮遭酸沒去年紅！「高EQ回5字」全網狂讚　14天帶貨28億戰力曝光 - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpRVRaTGZOX01hdWRNRGg2QkpneEZhaFVjWTlHdzBlYTV1VXF1SVM3aGlPSi1xWW1ueHFIbkNnTkVNVEZjekh0NXBKTl9CQdIBakFVX3lxTFBYZDVCU0lmYlBWVUJMWlNmM0NtUkNUdjRyMk9EMmZwN1RrWnFLZ1c2X0JyY3JfTWhmajl6azJKRXN6OExvYlpxUXdtQV82cEZhR0k2ekpCUmJJRTdWRXRyMVlVYVc2Uk1IOXc?oc=5",
-        "summary": "丁禹兮遭酸沒去年紅！「高EQ回5字」全網狂讚 14天帶貨28億戰力曝光&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-28T06:18:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
         "title": "快訊／阿Sa宣布結婚！絕美婚紗照曝光「恭喜我嫁你」　情定小10歲健身教練 - 鏡週刊Mirror Media",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sb04yZVU3Ymk5ektqaS1vNzRhcmhrN24zVzgxZEJsdHdCUllmVXdrOVducWtBdXQxVjVELWFNQXVocE5MUVg4bGN1RVpyem9rakw4U0d1SENLbmvSAWBBVV95cUxNU0lDSHNYS0xuQVZMZ0VMbll3dnV5dEo1VTlOSldKVG1LMk1TeXNzUmpwNTRMcS1JZENUYXBMVXFVRE9JdWRsclBra21YbUI2NmU5dEliQ0hKTXhiSkptcEk?oc=5",
         "summary": "快訊／阿Sa宣布結婚！絕美婚紗照曝光「恭喜我嫁你」 情定小10歲健身教練&nbsp;&nbsp;鏡週刊Mirror Media",
         "published": "2026-04-28T04:19:00+00:00",
         "source": "鏡週刊 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "快訊／阿Sa結婚了！　閃嫁小10歲教練男友：恭喜我嫁你，恭喜你娶我 - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JVTJORmJrLXBJdnczdFJ1TmtsMTFGLVJMc3FhbWswMTR1b0EwM2c2Y21LM0hRMWVMQ01SSDVVS0NPaWlQVzg3c0lVLUU1Z9IBakFVX3lxTFBuMVlSXzFrbk82UERKRmhqOHRWUml6eW1MTFNQT3BTVHhVbkVEYWtzUDU0Z1FvSkZtdmJMU2lRT2Q0YVdlTldnUWhrTXhpV1ZMd1ZzYWZDcHdocHZpLXRjM1FjRTVxOVM2S2c?oc=5",
-        "summary": "快訊／阿Sa結婚了！ 閃嫁小10歲教練男友：恭喜我嫁你，恭喜你娶我&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-28T04:08:00+00:00",
-        "source": "ETtoday 娛樂",
         "source_weight": 3,
         "category": "entertainment"
       },
@@ -3809,18 +3818,18 @@
         "category": "entertainment"
       },
       {
-        "title": "新兵退伍後／獨家！平日手頭不寬裕　爆阿龐遭經紀人私吞酬勞 - 鏡週刊Mirror Media",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2aWp4bi15aHJaSy1wYjFpMmVVWW12ZVVrSHZKRnBvbzhqZWh5UUx0WEprN0NXcE1VSElIWHlIaTZrbVYwX0U0YUJqbnpvX3laZnpxamdHQjJzWFNN0gFgQVVfeXFMT1pRbVZKS1NFN3F1MUU0Mm82V19DRHgwTWM0R2cwWnNfeG13QWk3SmZqT0Z3TzdkU21OcEVaQjFvMGNWSmtvVWRpOU5tSTZtYXRjTDRDaW9Gd0FqR2hWa0p3?oc=5",
-        "summary": "新兵退伍後／獨家！平日手頭不寬裕 爆阿龐遭經紀人私吞酬勞&nbsp;&nbsp;鏡週刊Mirror Media",
+        "title": "新兵退伍後／被動等拍戲機會　他兼差做直銷搖身變首席 - 鏡週刊Mirror Media",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tSnFZcjdpWXFHWWZsdC1CMVBsTUs0a1hrWmxHcnZ1NHU0VUdpRWdtdTFZbUtoQVZEX3h6dFBJTVY0V0VoZnZ6V1NkS0JRNWpPalJjeE9weVJrYU3SAWBBVV95cUxQTGw5MllpdHEyVmRrUVRDNnJ5QnExNW1ZYWFJSS1DLUVPQmlFbXhUY0F1OFEzLWcyZGNGOWN4S3RPV3o4T2g3cWJMa1VrRVN3eUdpdlAwNWRaRVpGVWZ3Z0E?oc=5",
+        "summary": "新兵退伍後／被動等拍戲機會 他兼差做直銷搖身變首席&nbsp;&nbsp;鏡週刊Mirror Media",
         "published": "2026-04-28T00:28:59+00:00",
         "source": "鏡週刊 娛樂",
         "source_weight": 3,
         "category": "entertainment"
       },
       {
-        "title": "新兵退伍後／被動等拍戲機會　他兼差做直銷搖身變首席 - 鏡週刊Mirror Media",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tSnFZcjdpWXFHWWZsdC1CMVBsTUs0a1hrWmxHcnZ1NHU0VUdpRWdtdTFZbUtoQVZEX3h6dFBJTVY0V0VoZnZ6V1NkS0JRNWpPalJjeE9weVJrYU3SAWBBVV95cUxQTGw5MllpdHEyVmRrUVRDNnJ5QnExNW1ZYWFJSS1DLUVPQmlFbXhUY0F1OFEzLWcyZGNGOWN4S3RPV3o4T2g3cWJMa1VrRVN3eUdpdlAwNWRaRVpGVWZ3Z0E?oc=5",
-        "summary": "新兵退伍後／被動等拍戲機會 他兼差做直銷搖身變首席&nbsp;&nbsp;鏡週刊Mirror Media",
+        "title": "新兵退伍後／獨家！平日手頭不寬裕　爆阿龐遭經紀人私吞酬勞 - 鏡週刊Mirror Media",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2aWp4bi15aHJaSy1wYjFpMmVVWW12ZVVrSHZKRnBvbzhqZWh5UUx0WEprN0NXcE1VSElIWHlIaTZrbVYwX0U0YUJqbnpvX3laZnpxamdHQjJzWFNN0gFgQVVfeXFMT1pRbVZKS1NFN3F1MUU0Mm82V19DRHgwTWM0R2cwWnNfeG13QWk3SmZqT0Z3TzdkU21OcEVaQjFvMGNWSmtvVWRpOU5tSTZtYXRjTDRDaW9Gd0FqR2hWa0p3?oc=5",
+        "summary": "新兵退伍後／獨家！平日手頭不寬裕 爆阿龐遭經紀人私吞酬勞&nbsp;&nbsp;鏡週刊Mirror Media",
         "published": "2026-04-28T00:28:59+00:00",
         "source": "鏡週刊 娛樂",
         "source_weight": 3,
@@ -3852,30 +3861,12 @@
         "source": "鏡週刊 娛樂",
         "source_weight": 3,
         "category": "entertainment"
-      },
-      {
-        "title": "不只愛上吳卓源1／BL劇男神證實和蒲禾菲情變　「傳朱軒洋介入害分手」余晉回應了 - 鏡週刊Mirror Media",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VR1gzcllLUDctVHRTNk9jdmNjbll0MGVkR19zc1dMTlhxVlUxUTlRbEpXbUIzT0Q1WEFOejAzUUNrNkpPVXU0TXl6MTJ6ZGl4NUtwSmp3TjRyV1HSAWBBVV95cUxQc041U1RWT0RiZVlaREtMMjF1Ml9oZTE1d3ZhaWowV3RjVU13cEF3SUttLXFNQ0ZuRUdPbHBLeFhLLVU1LUZHeHBYYWlaamFPekpUUHFRQWRVaGdtR0FYc1U?oc=5",
-        "summary": "不只愛上吳卓源1／BL劇男神證實和蒲禾菲情變 「傳朱軒洋介入害分手」余晉回應了&nbsp;&nbsp;鏡週刊Mirror Media",
-        "published": "2026-04-27T22:28:58+00:00",
-        "source": "鏡週刊 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "不只愛上吳卓源3／鄉民老婆扶正後親筆信認愛　Cindy「限動一片綠」意有所指 - 鏡週刊Mirror Media",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DLTJsaEEwZFFKNGdrNHNGVFVlX2U5dUNJeUtJX0tNUGVSeTMwWkJ1OXZobmd6RC1mbThxb0hhUlNjVlV0Z05tZjlnR25XSmpRcXFnZzBoc0t6RzjSAWBBVV95cUxPQmlqa1ppLTBDdWgzcG9WWmp6TkZ1dEpuZk1oS3hyZGJ6NVI1V1JrYzAxaUhVaE9xQmlDWjc5aXI0c2FWOFBYbkthenZIOG52eUNQTGQ3clhVbEZXSE1heEo?oc=5",
-        "summary": "不只愛上吳卓源3／鄉民老婆扶正後親筆信認愛 Cindy「限動一片綠」意有所指&nbsp;&nbsp;鏡週刊Mirror Media",
-        "published": "2026-04-27T22:28:56+00:00",
-        "source": "鏡週刊 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
       }
     ]
   },
   "totals": {
     "world": 75,
-    "finance": 150,
+    "finance": 149,
     "crypto": 65,
     "tech": 77,
     "entertainment": 62
