@@ -77,12 +77,12 @@ def build_brief() -> str:
 
     lines = []
     lines.append(f"🌅 <b>{date_str} 鮪魚早安！</b>")
-    lines.append("過去 24 小時重點整理 👇")
+    lines.append("過去 24 小時重點整理")
     lines.append("")
 
     # Today's thesis (from intel.json)
     if intel.get("thesis"):
-        lines.append(f"🧠 <b>今日主軸</b>")
+        lines.append("<b>今日主軸</b>")
         lines.append(html_escape(intel["thesis"]))
         lines.append("")
 
@@ -90,35 +90,32 @@ def build_brief() -> str:
     snap_parts = []
     for m in market:
         if m["label"] in ("台股加權", "Nasdaq", "USD/TWD"):
-            arrow = "▲" if (m.get("change_pct") or 0) >= 0 else "▼"
-            snap_parts.append(html_escape(f"{m['label']} {m['price']:.2f} {arrow}{fmt_pct(m['change_pct'])}"))
+            snap_parts.append(html_escape(f"{m['label']} {m['price']:.2f}  {fmt_pct(m['change_pct'])}"))
     coins = crypto.get("coins", [])
     btc = next((c for c in coins if c["id"] == "bitcoin"), None)
     eth = next((c for c in coins if c["id"] == "ethereum"), None)
     if btc:
-        arrow = "▲" if (btc.get("change_24h_pct") or 0) >= 0 else "▼"
-        snap_parts.append(html_escape(f"BTC ${btc['price_usd']:,.0f} {arrow}{fmt_pct(btc['change_24h_pct'])}"))
+        snap_parts.append(html_escape(f"BTC ${btc['price_usd']:,.0f}  {fmt_pct(btc['change_24h_pct'])}"))
     if eth:
-        arrow = "▲" if (eth.get("change_24h_pct") or 0) >= 0 else "▼"
-        snap_parts.append(html_escape(f"ETH ${eth['price_usd']:,.0f} {arrow}{fmt_pct(eth['change_24h_pct'])}"))
+        snap_parts.append(html_escape(f"ETH ${eth['price_usd']:,.0f}  {fmt_pct(eth['change_24h_pct'])}"))
     fg = crypto.get("fear_greed")
     if fg:
         snap_parts.append(html_escape(f"F&G {fg['value']} ({fg['label']})"))
 
     if snap_parts:
-        lines.append("📊 <b>市場快照</b>")
-        # 兩個一行
-        for i in range(0, len(snap_parts), 2):
-            lines.append(" | ".join(snap_parts[i:i + 2]))
+        lines.append("<b>市場快照</b>")
+        # 一行一個指數，比較好讀
+        for p in snap_parts:
+            lines.append(p)
         lines.append("")
 
-    # Categories
+    # Categories — 留 icon 增加掃視速度
     cat_meta = [
         ("world", "🌍", "世界", 2),
         ("finance", "💰", "財經", 2),
         ("crypto", "🪙", "加密", 2),
-        ("tech", "💻", "科技", 1),
-        ("entertainment", "🎬", "影視", 1),
+        ("tech", "💻", "科技", 2),
+        ("entertainment", "🎬", "影視", 2),
     ]
     for key, icon, tc, top_n in cat_meta:
         items = diversify(news.get(key, []), 2)[:top_n]
@@ -129,15 +126,15 @@ def build_brief() -> str:
             lines.append(f"• {html_escape(short(a['title']))}")
         lines.append("")
 
-    # Reports — show 1 latest non-noise
+    # Reports — show top 2 latest
     if reports:
         lines.append("📚 <b>機構新報告</b>")
-        r = reports[0]
-        lines.append(f"• <i>{html_escape(r['source'])}</i>: {html_escape(short(r['title'], 80))}")
+        for r in reports[:2]:
+            lines.append(f"• <i>{html_escape(r['source'])}</i>: {html_escape(short(r['title'], 80))}")
         lines.append("")
 
     # Footer
-    lines.append(f'🔗 <a href="{DASHBOARD_URL}">完整內容看 Dashboard</a>')
+    lines.append(f'<a href="{DASHBOARD_URL}">完整內容看 Dashboard</a>')
 
     return "\n".join(lines)
 
