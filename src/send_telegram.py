@@ -149,7 +149,17 @@ def build_brief() -> str:
     if eth:
         rows.append(("ETH", f"{eth['price_usd']:,.2f}", fmt_pct(eth["change_24h_pct"])))
 
+    fg = crypto.get("fear_greed")
     if rows:
+        # 為了讓 F&G 也對齊在同一個表格中，把 F&G 加進 rows
+        # 用「值 / 100」格式讓它的視覺寬度接近其他價格
+        if fg:
+            rows.append((
+                "F&G 指數",
+                f"{fg['value']} / 100",
+                f"({fg['label']})",
+            ))
+
         # 計算各欄需要的寬度（visual width，含 CJK 字寬）
         label_w = max(visual_width(r[0]) for r in rows)
         price_w = max(visual_width(r[1]) for r in rows)
@@ -166,11 +176,6 @@ def build_brief() -> str:
 
         lines.append("📊 <b>市場快照</b>")
         lines.append("<pre>" + html_escape("\n".join(aligned)) + "</pre>")
-
-        # F&G 指數是不同單位類型，獨立一行不放進對齊表中
-        fg = crypto.get("fear_greed")
-        if fg:
-            lines.append(html_escape(f"F&G 指數 {fg['value']} ({fg['label']})"))
         lines.append("")
 
     # Categories — 留 icon 增加掃視速度
