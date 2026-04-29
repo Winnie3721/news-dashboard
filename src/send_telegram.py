@@ -61,6 +61,31 @@ def fmt_pct(p):
     return f"{sign}{p:.2f}%"
 
 
+def visual_width(s: str) -> int:
+    """近似 monospace 顯示寬度：CJK 字佔 2 格、其餘 1 格。"""
+    w = 0
+    for c in s:
+        cp = ord(c)
+        if (0x1100 <= cp <= 0x115F or 0x2E80 <= cp <= 0x9FFF or
+            0xA000 <= cp <= 0xA4CF or 0xAC00 <= cp <= 0xD7A3 or
+            0xF900 <= cp <= 0xFAFF or 0xFE30 <= cp <= 0xFE4F or
+            0xFF00 <= cp <= 0xFF60 or 0xFFE0 <= cp <= 0xFFE6):
+            w += 2
+        else:
+            w += 1
+    return w
+
+
+def pad_right(s: str, width: int) -> str:
+    """補足右側到指定的 visual 寬度。"""
+    return s + " " * max(0, width - visual_width(s))
+
+
+def pad_left(s: str, width: int) -> str:
+    """補足左側到指定的 visual 寬度（右對齊）。"""
+    return " " * max(0, width - visual_width(s)) + s
+
+
 def build_brief() -> str:
     news = load("news.json").get("categories", {})
     crypto = load("crypto.json")
@@ -76,7 +101,7 @@ def build_brief() -> str:
     date_str = f"{tpe.month:02d}/{tpe.day:02d} (週{cn_wd})"
 
     lines = []
-    lines.append(f"🌅 <b>{date_str} 鮪魚早安！</b>")
+    lines.append(f"☀️ <b>{date_str} 鮪魚早安！</b>")
     lines.append("過去 24 小時重點整理")
     lines.append("")
 
@@ -86,27 +111,37 @@ def build_brief() -> str:
         lines.append(html_escape(intel["thesis"]))
         lines.append("")
 
-    # Quick market snapshot
-    snap_parts = []
+    # Quick market snapshot — 用 <pre> 等寬字體對齊
+    rows = []  # (label, price_str, pct_str)
     for m in market:
         if m["label"] in ("台股加權", "Nasdaq", "USD/TWD"):
-            snap_parts.append(html_escape(f"{m['label']} {m['price']:.2f}  {fmt_pct(m['change_pct'])}"))
+            rows.append((
+                m["label"],
+                f"{m['price']:,.2f}",
+                fmt_pct(m["change_pct"]),
+            ))
     coins = crypto.get("coins", [])
     btc = next((c for c in coins if c["id"] == "bitcoin"), None)
     eth = next((c for c in coins if c["id"] == "ethereum"), None)
     if btc:
-        snap_parts.append(html_escape(f"BTC ${btc['price_usd']:,.0f}  {fmt_pct(btc['change_24h_pct'])}"))
+        rows.append(("BTC", f"${btc['price_usd']:,.0f}", fmt_pct(btc["change_24h_pct"])))
     if eth:
-        snap_parts.append(html_escape(f"ETH ${eth['price_usd']:,.0f}  {fmt_pct(eth['change_24h_pct'])}"))
+        rows.append(("ETH", f"${eth['price_usd']:,.0f}", fmt_pct(eth["change_24h_pct"])))
     fg = crypto.get("fear_greed")
     if fg:
-        snap_parts.append(html_escape(f"F&G {fg['value']} ({fg['label']})"))
+        rows.append(("F&G", f"{fg['value']} ({fg['label']})", ""))
 
-    if snap_parts:
+    if rows:
+        # 計算各欄需要的寬度（visual width，含 CJK）
+        label_w = max(visual_width(r[0]) for r in rows)
+        price_w = max(visual_width(r[1]) for r in rows)
+        # pct 寬度固定 7（如 "-99.99%"）
+        aligned = []
+        for label, price, pct in rows:
+            line = f"{pad_right(label, label_w)}  {pad_left(price, price_w)}  {pct}"
+            aligned.append(line.rstrip())
         lines.append("<b>市場快照</b>")
-        # 一行一個指數，比較好讀
-        for p in snap_parts:
-            lines.append(p)
+        lines.append("<pre>" + html_escape("\n".join(aligned)) + "</pre>")
         lines.append("")
 
     # Categories — 留 icon 增加掃視速度
