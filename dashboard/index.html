@@ -593,7 +593,7 @@
     </div>
     <div class="masthead-meta">
       <div id="today-date">—</div>
-      <div>更新於 <strong>2026-04-29 15:08</strong> TPE</div>
+      <div>更新於 <strong>2026-04-29 15:14</strong> TPE</div>
     </div>
   </div>
 </header>
@@ -984,11 +984,16 @@ function detectMode() {
   return 'local';  // localhost / 127.0.0.1 — serve.py 在跑
 }
 
-// 依模式調整按鈕標籤
-(function adjustButtonLabel(){
+// 依模式決定按鈕顯示與標籤
+(function adjustButton(){
   const mode = detectMode();
-  const label = document.querySelector('.refresh-label');
-  if (mode === 'pages') label.textContent = '到 GitHub 觸發更新';
+  const btn = document.getElementById('refresh-btn');
+  const label = btn.querySelector('.refresh-label');
+  // 在 GitHub Pages 上完全隱藏（避免暴露 GitHub 連結給訪客）
+  if (mode === 'pages') {
+    btn.style.display = 'none';
+    return;
+  }
   if (mode === 'file')  label.textContent = '立即更新';
   if (mode === 'local') label.textContent = '立即更新';
 })();
