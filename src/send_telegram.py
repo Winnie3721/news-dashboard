@@ -50,6 +50,16 @@ def short(t, limit=70):
     return t if len(t) <= limit else t[:limit - 1] + "…"
 
 
+def clean_title(t: str) -> str:
+    """移除 Google News 風格的尾巴 ' - 來源名'。"""
+    if not t:
+        return ""
+    parts = t.rsplit(" - ", 1)
+    if len(parts) == 2 and 1 < len(parts[1]) < 40 and "/" not in parts[1]:
+        return parts[0].strip()
+    return t.strip()
+
+
 def html_escape(s):
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
@@ -104,8 +114,8 @@ def build_brief() -> str:
     is_evening = tpe.hour >= 14
     if is_evening:
         icon = "🌙"
-        greet = "鮪魚晚安！"
-        intro = "日終市場 + 今日重點整理"
+        greet = "鮪魚辛苦啦！終於下班了"
+        intro = "以下為今日統整"
     else:
         icon = "☀️"
         greet = "鮪魚早安！"
@@ -118,11 +128,11 @@ def build_brief() -> str:
 
     # Today's thesis (from intel.json)
     if intel.get("thesis"):
-        lines.append("<b>今日主軸</b>")
+        lines.append("🧠 <b>今日主軸</b>")
         lines.append(html_escape(intel["thesis"]))
         lines.append("")
 
-    # Quick market snapshot — 用 <pre> 等寬字體對齊
+    # 市場快照 — 完整數字對齊（千分位、小數點、正負號）
     rows = []  # (label, price_str, pct_str)
     for m in market:
         if m["label"] in ("台股加權", "Nasdaq", "USD/TWD"):
@@ -135,24 +145,32 @@ def build_brief() -> str:
     btc = next((c for c in coins if c["id"] == "bitcoin"), None)
     eth = next((c for c in coins if c["id"] == "ethereum"), None)
     if btc:
-        rows.append(("BTC", f"${btc['price_usd']:,.0f}", fmt_pct(btc["change_24h_pct"])))
+        rows.append(("BTC", f"{btc['price_usd']:,.2f}", fmt_pct(btc["change_24h_pct"])))
     if eth:
-        rows.append(("ETH", f"${eth['price_usd']:,.0f}", fmt_pct(eth["change_24h_pct"])))
-    fg = crypto.get("fear_greed")
-    if fg:
-        rows.append(("F&G", f"{fg['value']} ({fg['label']})", ""))
+        rows.append(("ETH", f"{eth['price_usd']:,.2f}", fmt_pct(eth["change_24h_pct"])))
 
     if rows:
-        # 計算各欄需要的寬度（visual width，含 CJK）
+        # 計算各欄需要的寬度（visual width，含 CJK 字寬）
         label_w = max(visual_width(r[0]) for r in rows)
         price_w = max(visual_width(r[1]) for r in rows)
-        # pct 寬度固定 7（如 "-99.99%"）
+        pct_w = max(visual_width(r[2]) for r in rows)
+
         aligned = []
         for label, price, pct in rows:
-            line = f"{pad_right(label, label_w)}  {pad_left(price, price_w)}  {pct}"
+            line = (
+                pad_right(label, label_w) + "   " +
+                pad_left(price, price_w) + "   " +
+                pad_left(pct, pct_w)
+            )
             aligned.append(line.rstrip())
-        lines.append("<b>市場快照</b>")
+
+        lines.append("📊 <b>市場快照</b>")
         lines.append("<pre>" + html_escape("\n".join(aligned)) + "</pre>")
+
+        # F&G 指數是不同單位類型，獨立一行不放進對齊表中
+        fg = crypto.get("fear_greed")
+        if fg:
+            lines.append(html_escape(f"F&G 指數 {fg['value']} ({fg['label']})"))
         lines.append("")
 
     # Categories — 留 icon 增加掃視速度
@@ -169,14 +187,16 @@ def build_brief() -> str:
             continue
         lines.append(f"{icon} <b>{tc}</b>")
         for a in items:
-            lines.append(f"• {html_escape(short(a['title']))}")
+            title = short(clean_title(a["title"]), 60)
+            lines.append(f"• {html_escape(title)} (<i>{html_escape(a['source'])}</i>)")
         lines.append("")
 
     # Reports — show top 2 latest
     if reports:
         lines.append("📚 <b>機構新報告</b>")
         for r in reports[:2]:
-            lines.append(f"• <i>{html_escape(r['source'])}</i>: {html_escape(short(r['title'], 80))}")
+            title = short(clean_title(r["title"]), 70)
+            lines.append(f"• {html_escape(title)} (<i>{html_escape(r['source'])}</i>)")
         lines.append("")
 
     # Footer

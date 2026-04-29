@@ -2,10 +2,10 @@ name: Auto Update Dashboard
 
 on:
   schedule:
-    # 台灣時間每天 06:50 (UTC 22:50, 前一天)
-    - cron: '50 22 * * *'
-    # 台灣時間每天 18:00 (UTC 10:00)
-    - cron: '0 10 * * *'
+    # 台灣時間每天 06:55 (UTC 22:55, 前一天) → 訊息約 07:00 TPE 抵達
+    - cron: '55 22 * * *'
+    # 台灣時間每天 17:55 (UTC 09:55) → 訊息約 18:00 TPE 抵達
+    - cron: '55 9 * * *'
   workflow_dispatch:  # 可在 GitHub 介面手動觸發
 
 permissions:
