@@ -1,7 +1,133 @@
 {
-  "fetched_at": "2026-04-29T09:08:32.631420+00:00",
+  "fetched_at": "2026-04-29T11:21:15.041218+00:00",
   "categories": {
     "world": [
+      {
+        "title": "Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way",
+        "link": "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html",
+        "summary": "The United Arab Emirates’ decision to leave OPEC has rocked the region, underscoring how the country, at odds with Saudi Arabia, is increasingly charting its own course.",
+        "published": "2026-04-29T11:16:31+00:00",
+        "source": "NYT World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "2 People Stabbed in North London, Jewish Charity Says",
+        "link": "https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html",
+        "summary": "The volunteer-run charity, Shomrim, said in a post on social media that two people were injured and a suspect was detained.",
+        "published": "2026-04-29T11:06:44+00:00",
+        "source": "NYT World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "France urges citizens to leave Mali after rebel attacks",
+        "link": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
+        "summary": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
+        "published": "2026-04-29T10:58:36+00:00",
+        "source": "BBC World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "FIFA confirms new World Cup rule on yellow cards to reduce suspensions",
+        "link": "https://www.aljazeera.com/sports/2026/4/29/fifa-confirms-new-world-cup-rule-on-yellow-cards-to-reduce-suspensions?traffic_source=rss",
+        "summary": "Single yellow cards will be cancelled after the group stage and then again after the quarterfinals, FIFA says.",
+        "published": "2026-04-29T10:44:25+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "European Commission president calls for diplomacy to end Iran war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/european-commission-president-calls-for-diplomacy-to-end-iran-war?traffic_source=rss",
+        "summary": "European Commission president calls for diplomacy to end Iran war",
+        "published": "2026-04-29T10:20:35+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
+        "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
+        "summary": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring internet access.",
+        "published": "2026-04-29T10:15:38+00:00",
+        "source": "NYT World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "Germany arrests Kazakhstan citizen accused of spying for Russia",
+        "link": "https://www.aljazeera.com/news/2026/4/29/kazakh-man-accused-of-spying-for-russia-arrested-in-germany?traffic_source=rss",
+        "summary": "Prosecutors say the man, identified only as Sergej K, has been in &#039;continuous contact&#039; with Russian intelligence.",
+        "published": "2026-04-29T10:14:35+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
+        "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
+        "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+        "published": "2026-04-29T10:12:46+00:00",
+        "source": "BBC World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "Afghan women’s refugee team allowed to play in FIFA tournaments",
+        "link": "https://www.aljazeera.com/sports/2026/4/29/afghan-womens-refugee-team-allowed-to-play-in-fifa-tournaments?traffic_source=rss",
+        "summary": "Afghan Women United can now represent Afghanistan at international football competitions, including the LA Olympics.",
+        "published": "2026-04-29T09:48:42+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Palestinian football body appeals FIFA ruling on Israel at top sports court",
+        "link": "https://www.aljazeera.com/sports/2026/4/29/palestinian-football-body-appeals-fifa-ruling-on-israel-at-top-sports-court?traffic_source=rss",
+        "summary": "Meanwhile, visa issues are affecting Palestinian and other delegations to the upcoming FIFA Congress.",
+        "published": "2026-04-29T09:46:47+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Endangered antelopes flown to Kenya from Czech zoo in 'historic homecoming'",
+        "link": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The mountain bongo is a rare antelope endemic to Kenyan highland forests, with less than 100 in the wild.",
+        "published": "2026-04-29T09:37:23+00:00",
+        "source": "BBC World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU",
+        "link": "https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu?traffic_source=rss",
+        "summary": "Hungary and Slovakia are still buying Russian oil. Seeing weakness in Brussels, Kyiv means to stop that trade.",
+        "published": "2026-04-29T09:20:28+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "Two dead after small plane crashes into Australia airport hangar",
+        "link": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss",
+        "summary": "The aircraft burst into flames after it crashed at Parafield Airport in Adelaide.",
+        "published": "2026-04-29T09:08:07+00:00",
+        "source": "BBC World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "3-year-old rescued after falling into 18-metre-deep well in Syria",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/3-year-old-rescued-after-falling-into-18-metre-deep-well-in-syria?traffic_source=rss",
+        "summary": "3-year-old rescued after falling into 18-metre-deep well in Syria",
+        "published": "2026-04-29T09:03:18+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
+        "category": "world"
+      },
       {
         "title": "Paraguay Says It’s Not Abandoning Taiwan. China Has Other Plans.",
         "link": "https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html",
@@ -9,6 +135,24 @@
         "published": "2026-04-29T09:00:29+00:00",
         "source": "NYT World",
         "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "Epstein Obtained Objects From Islam’s Holiest Site for His Island ‘Mosque’",
+        "link": "https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html",
+        "summary": "Jeffrey Epstein’s messages cast light on an unusual building on his private island and show how his connections helped him secure tapestries from Mecca for it.",
+        "published": "2026-04-29T09:00:14+00:00",
+        "source": "NYT World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "Indonesia puts four soldiers on trial over acid attack on activist",
+        "link": "https://www.aljazeera.com/news/2026/4/29/indonesia-court-starts-trial-of-soldiers-accused-of-acid-attack-on-activist?traffic_source=rss",
+        "summary": "The accused face up to 12 years in prison for the attack that burned one-fifth of activist Andrie Yunus&#039;s body.",
+        "published": "2026-04-29T08:55:06+00:00",
+        "source": "Al Jazeera",
+        "source_weight": 2,
         "category": "world"
       },
       {
@@ -25,24 +169,6 @@
         "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
         "summary": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
         "published": "2026-04-29T08:48:08+00:00",
-        "source": "BBC World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Two dead after small plane crashes into Australia airport hangar",
-        "link": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss",
-        "summary": "The aircraft burst into flames after it crashed at Parafield Airport in Adelaide.",
-        "published": "2026-04-29T08:39:57+00:00",
-        "source": "BBC World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "'Historic homecoming' as endangered antelopes flown to Kenya from Czech Republic zoo",
-        "link": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&at_campaign=rss",
-        "summary": "The mountain bongo is a rare antelope endemic to Kenyan highland forests, with less than 100 in the wild.",
-        "published": "2026-04-29T08:28:35+00:00",
         "source": "BBC World",
         "source_weight": 3,
         "category": "world"
@@ -66,6 +192,15 @@
         "category": "world"
       },
       {
+        "title": "Afghanistan women footballers can return to competition after FIFA rule changes",
+        "link": "https://www.bbc.com/sport/football/articles/c74rlepjdrgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Afghanistan women will become a \"symbol of resilience\" after Fifa approved their return to international competition, says former captain Khalida Popal.",
+        "published": "2026-04-29T08:08:14+00:00",
+        "source": "BBC World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
         "title": "‘Encouraging’: Global rainforest loss slows in 2025 after record year",
         "link": "https://www.aljazeera.com/news/2026/4/29/tropical-forest-loss-slows-in-2025-after-record-year-report?traffic_source=rss",
         "summary": "The researchers credit the slowdown to policies implemented by Brazil&#039;s President Lula da Silva to curb deforestation.",
@@ -81,6 +216,15 @@
         "published": "2026-04-29T07:46:21+00:00",
         "source": "Al Jazeera",
         "source_weight": 2,
+        "category": "world"
+      },
+      {
+        "title": "King Charles and Queen Camilla to Visit New York’s 9/11 Memorial",
+        "link": "https://www.nytimes.com/2026/04/29/nyregion/king-charles-us-visit-new-york.html",
+        "summary": "After attending a ceremony at the memorial in Lower Manhattan, the royal couple is scheduled to visit a Harlem nonprofit, the New York Public Library’s main branch and Christie’s.",
+        "published": "2026-04-29T07:05:27+00:00",
+        "source": "NYT World",
+        "source_weight": 3,
         "category": "world"
       },
       {
@@ -111,39 +255,21 @@
         "category": "world"
       },
       {
+        "title": "Most Swiss back initiative to cap population at 10 million, poll shows - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnpYR05aRnJ5SUU2d1M2WGRFbjVUaThZc3BHc2lHUHoxNFBsYndlT2N0MGt1b1EyZDFidUl0SnYzQW5UQlhzY1VzTGgzR2ZyM3pvQ1JIRVlOajd3YUlGc1BlV3pydWhWUE82ZGoyWUluMXp0UGJFZzg3dm5MYVFfNEl1MGRYWkt0SmFYLWV0SHQ4SlpQVjk1cWNYLVUyemF2akZ5RlhHUldvekMxdkp0YS1B?oc=5",
+        "summary": "Most Swiss back initiative to cap population at 10 million, poll shows&nbsp;&nbsp;Reuters",
+        "published": "2026-04-29T06:55:25+00:00",
+        "source": "Reuters World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
         "title": "Japan zoo staffer allegedly dumps wife's body inside incinerator",
         "link": "https://www.bbc.com/news/articles/cm2p3gn3yzno?at_medium=RSS&at_campaign=rss",
         "summary": "The zoo has had to delay its reopening after a maintenance break, as police investigate the staff member's claim.",
         "published": "2026-04-29T06:42:29+00:00",
         "source": "BBC World",
         "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "PSG vs Bayern Munich: Football players, fans react to Champions League semi",
-        "link": "https://www.aljazeera.com/sports/2026/4/29/psg-vs-bayern-munich-football-experts-fans-react-to-champions-league-semi?traffic_source=rss",
-        "summary": "The nine-goal thriller in Paris is hailed as one of the best football matches across all competitions.",
-        "published": "2026-04-29T06:35:57+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "Europe named ‘fastest-warming continent’ in latest climate change report",
-        "link": "https://www.aljazeera.com/news/2026/4/29/europe-named-fastest-warming-continent-in-latest-climate-change-report?traffic_source=rss",
-        "summary": "From heatwaves to wildfires and shrinking ice cover, Europe is facing &#039;severe&#039; impact from climate change, UN body says.",
-        "published": "2026-04-29T06:33:58+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade?",
-        "link": "https://www.aljazeera.com/features/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade?traffic_source=rss",
-        "summary": "Analysts say that Moscow could offer a &#039;lifeline&#039; but logistical issues, costs offer little incentive in the long-run.",
-        "published": "2026-04-29T06:02:48+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
         "category": "world"
       },
       {
@@ -156,73 +282,37 @@
         "category": "world"
       },
       {
-        "title": "Kone and TKE strike $34 billion deal to create world's largest elevator maker - Reuters",
+        "title": "Kone strikes $34 billion deal to buy TKE, creating world's largest lift maker - Reuters",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1IwcXlrQWdsa0E5V2o4SGdLclRwZ1NaWVVtVFJpX2ZOVnE2Zzhmc3dOdzNmM3NCWVQtS1RfNjN5RlR4Vm9UbWNmRnI5bkdqN09XODdjUWZhLVNpYkFpX2dGX3h6UEVOS3hQTUpTRjdVa2NhYl9fTFNFd2E5LXVlUEhqNGN6YXRhQS1ieHZqejREcnNBYk94S3JrSUhNczhN?oc=5",
-        "summary": "Kone and TKE strike $34 billion deal to create world's largest elevator maker&nbsp;&nbsp;Reuters",
+        "summary": "Kone strikes $34 billion deal to buy TKE, creating world's largest lift maker&nbsp;&nbsp;Reuters",
         "published": "2026-04-29T05:40:00+00:00",
         "source": "Reuters World",
         "source_weight": 3,
         "category": "world"
       },
       {
-        "title": "White House hails ‘two kings’ as King Charles delivers pointed remarks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/white-house-hails-two-kings-as-king-charles-delivers-pointed-remarks?traffic_source=rss",
-        "summary": "King Charles III has hailed US-UK ties at a state dinner in the White House.",
-        "published": "2026-04-29T05:11:42+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "Afghan students recount harrowing university strike",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/afghan-students-recount-harrowing-university-strike?traffic_source=rss",
-        "summary": "Afghan students have described the moment a missile hit their university. Officials blame Pakistan for Monday’s attack.",
-        "published": "2026-04-29T05:10:12+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "US Senate blocks bid to stop Trump using military against Cuba",
-        "link": "https://www.aljazeera.com/news/2026/4/29/us-senate-blocks-bid-to-stop-trump-using-military-against-cuba?traffic_source=rss",
-        "summary": "Senator ​Tim Kaine says if anyone did to the US &#039;what we are doing to Cuba&#039;, it would be considered &#039;an act of war&#039;.",
-        "published": "2026-04-29T05:06:22+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "UN aid chief says situation in Somalia worsened by US war on Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/un-aid-chief-says-situation-in-somalia-worsened-by-us-war-on-iran?traffic_source=rss",
-        "summary": "UN relief coordinator Tom Fletcher has slammed the war on Iran during a visit to Somalia.",
-        "published": "2026-04-29T04:49:08+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
-        "category": "world"
-      },
-      {
-        "title": "US, Latin America countries criticise China’s retaliation over Panama Canal",
-        "link": "https://www.aljazeera.com/news/2026/4/29/us-latin-america-countries-criticise-chinas-retaliation-over-panama-canal?traffic_source=rss",
-        "summary": "China has detained nearly 70 Panamanian-flagged ships after Supreme Court ruling on Panama Canal, US officials say.",
-        "published": "2026-04-29T04:16:50+00:00",
-        "source": "Al Jazeera",
-        "source_weight": 2,
+        "title": "Gallows Humor Provides Respite From Mideast Wars",
+        "link": "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html",
+        "summary": "Arab digital creators on social media are turning out edgy material to cope with the conflicts and bring levity to a pain that often feels too raw.",
+        "published": "2026-04-29T04:01:06+00:00",
+        "source": "NYT World",
+        "source_weight": 3,
         "category": "world"
       },
       {
         "title": "Taiwan's TSMC exits Arm with $231 million share sale - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHlIT19jQzQwR2h0RlhCRTdaeWZmaUZLTVBGSUMwRDFfY1dxOFZjd21TOTZHOVgwbmVUMkFvQWd3X25iTFJEUERhbURaWTdHd0FrS3I3T2U4ajFqWWFnQk5ZamIzZ0RhR0kzNFI3VkNpanpSWmdlVnJUOWJmaHd6cWJvcUlMbjVuR1JyUzRZc01UdzE0aVROSU1ocGVNZ1h4QUNLa09FMFU?oc=5",
         "summary": "Taiwan's TSMC exits Arm with $231 million share sale&nbsp;&nbsp;Reuters",
-        "published": "2026-04-29T03:48:15+00:00",
+        "published": "2026-04-29T03:44:00+00:00",
         "source": "Reuters World",
         "source_weight": 3,
         "category": "world"
       },
       {
-        "title": "Ron Paul Saw The U.S. Mint’s Gold Problems Coming",
-        "link": "https://www.nytimes.com/2026/04/28/world/americas/us-mint-gold-program-ron-paul.html",
-        "summary": "And he’s basically fine with it.",
-        "published": "2026-04-29T02:46:59+00:00",
+        "title": "Acid Attack in Indonesia Evokes Brutality of Suharto Era",
+        "link": "https://www.nytimes.com/2026/04/28/world/asia/indonesia-andrei-acid-trial.html",
+        "summary": "The victim had protested against the widening role of the military, which activists say is reminiscent of the country’s decades-long dictatorship.",
+        "published": "2026-04-29T03:12:54+00:00",
         "source": "NYT World",
         "source_weight": 3,
         "category": "world"
@@ -230,7 +320,7 @@
       {
         "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
         "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-        "summary": "In the two months since the deadly strike, the Pentagon has said only that the incident is under investigation.",
+        "summary": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.",
         "published": "2026-04-29T02:01:50+00:00",
         "source": "BBC World",
         "source_weight": 3,
@@ -291,28 +381,10 @@
         "category": "world"
       },
       {
-        "title": "Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way",
-        "link": "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html",
-        "summary": "The United Arab Emirates’ decision to leave OPEC has rocked the region, underscoring how the country, at odds with Saudi Arabia, is increasingly charting its own course.",
-        "published": "2026-04-28T22:12:43+00:00",
-        "source": "NYT World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
         "title": "The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz",
         "link": "https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html",
         "summary": "At a military base outside Portsmouth, England, a 24-hour service monitors the Persian Gulf, the Red Sea and part of the Indian Ocean, responding to distress calls.",
         "published": "2026-04-28T20:37:38+00:00",
-        "source": "NYT World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Mexico Says 4 Foreigners Were at Cartel Raid Where 2 C.I.A. Officers Died",
-        "link": "https://www.nytimes.com/2026/04/28/world/americas/mexico-crash-cia-officers.html",
-        "summary": "Mexican officials revealed that four foreigners — not two — were present during a counterdrug operation in northern Mexico where a crash killed two men later identified as C.I.A. officers.",
-        "published": "2026-04-28T20:13:17+00:00",
         "source": "NYT World",
         "source_weight": 3,
         "category": "world"
@@ -327,11 +399,11 @@
         "category": "world"
       },
       {
-        "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
-        "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-        "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
-        "published": "2026-04-28T19:43:02+00:00",
-        "source": "BBC World",
+        "title": "Vancouver hosts FIFA Congress with expanded World Cup under scrutiny - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0VqcHA5TDBfT0I4YS1sUDNJdWtlMlFSZy14YnU0UUMtXzM4U25HazJ5MDI1SW42VDJRalJoZHJLanhTWTF6TThpYnF0dlJwd0t2Uk8tazQxcGVoRTlkLTY1S0J5ZV9qck5SdWVGX3Z5bnpGNVA0eHNLTXZfQmN0MmtqRDlkc3ZvYllOWDB5LXVhNkNKTGFTOWZlZlhPU2pCeTlTN0J4SWhNWnFzQTFFR3NFTHIyRFhEREE?oc=5",
+        "summary": "Vancouver hosts FIFA Congress with expanded World Cup under scrutiny&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T19:28:54+00:00",
+        "source": "Reuters World",
         "source_weight": 3,
         "category": "world"
       },
@@ -372,24 +444,6 @@
         "category": "world"
       },
       {
-        "title": "Exclusive: Trump approval sinks to new low as war with Iran drives cost-of-living concerns - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalN2R2Rsay1qbGw4a0hHYWF5MlBmSUlMRERsajItcV9aYVBvTXJSQWNYblJ3VHVFSThrYXFaVl9lcUFjVEZOV3BhUlAzaUhORE5hYXZScWpQQkNBdXRjaWdBQ09nTC1nQ0tEb2RBM3JlTFpRTjhyZ0RDNWRCcDRvemU1NEFUTnpMd25vY3h3VER6NTF4bnRCbXB6WTFiaU1RdDdERWxobzAzejV0b0MtaGZra2pqZU1jNUNqd2R3?oc=5",
-        "summary": "Exclusive: Trump approval sinks to new low as war with Iran drives cost-of-living concerns&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T17:11:00+00:00",
-        "source": "Reuters World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Path cleared for Everest climbers after huge ice block",
-        "link": "https://www.bbc.com/news/articles/cn0p2xp18yko?at_medium=RSS&at_campaign=rss",
-        "summary": "Experts warn there are still risks of further ice collapses, and there are fears climbers will again have to queue to reach the summit.",
-        "published": "2026-04-28T16:59:47+00:00",
-        "source": "BBC World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
         "title": "Afghanistan Accuses Pakistan of Artillery Strike on a University",
         "link": "https://www.nytimes.com/2026/04/28/world/asia/afghanistan-pakistan-university-strike.html",
         "summary": "Pakistan, which has been waging an “open war” on its neighbor, did not acknowledge strikes on civilian areas Monday that officials said killed at least four people and wounded about 70 others.",
@@ -403,15 +457,6 @@
         "link": "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html",
         "summary": "The Gulf government has long complained about the group’s quotas, which officials believe unfairly limited its exports. Its departure is expected to weaken OPEC’s influence.",
         "published": "2026-04-28T16:51:51+00:00",
-        "source": "NYT World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "In Iran, Cheetah Sightings Offer Rare Spots of Hope Amid War",
-        "link": "https://www.nytimes.com/2026/04/28/world/middleeast/iran-cheetah-sightings-war.html",
-        "summary": "Conservationists say they have recorded several new adult and cub Asiatic cheetahs, a critically endangered subspecies found only in Iran.",
-        "published": "2026-04-28T16:46:45+00:00",
         "source": "NYT World",
         "source_weight": 3,
         "category": "world"
@@ -444,29 +489,11 @@
         "category": "world"
       },
       {
-        "title": "Man Pleads Guilty to Planning Attack at Taylor Swift Concert in Vienna",
-        "link": "https://www.nytimes.com/2026/04/28/world/europe/taylor-swift-austria-guilty-plea.html",
-        "summary": "Austrian prosecutors said the man plotted in 2024 to set off a bomb outside the concert, which was later canceled. He and another man still face separate charges.",
-        "published": "2026-04-28T15:48:31+00:00",
-        "source": "NYT World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
         "title": "Germany to borrow close to 200 billion euros in defence-heavy budget, sources say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR0VOV1prODl1TUE2cG1xdEhOLWFMdFBPemVuLXVqOWZON2JTZUQxallFN2VxanI4ZTV3dnVkQkJFSGZaajEteG5fMmt6VmNQeXJTcjRXUzlNYlhYRXZoRV9Lc2E2b01NcW5jbURXWWxabUF4QW5VdzFTa3RzZ2dhdndwUTFjeTkzMEs2QU9JUVpXRGdLRjdoa3lwU0gtbUNCNVBVbFlFY1REZl9PWTQ3RG9XWQ?oc=5",
         "summary": "Germany to borrow close to 200 billion euros in defence-heavy budget, sources say&nbsp;&nbsp;Reuters",
         "published": "2026-04-28T14:32:33+00:00",
         "source": "Reuters World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-        "link": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
-        "published": "2026-04-28T14:32:20+00:00",
-        "source": "BBC World",
         "source_weight": 3,
         "category": "world"
       },
@@ -512,33 +539,6 @@
         "summary": "UAE leaves OPEC in blow to global oil producers' group&nbsp;&nbsp;Reuters",
         "published": "2026-04-28T12:23:00+00:00",
         "source": "Reuters World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Rupee falls to near one-month low as oil strain, importer hedging pile pressure - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2x2ejBKdFA5ckVZSnkyUnN0NnI0MHFMWlVRZ1ZZVE45NWNvWEpCc1NvX0tGamsyR1J6REU0aEhIdHo3WGhsZFRlWHd0RzF3bkJwSHQtaGt2X0g2b3o3aWVFY05vTUd3Q21EV0hUSkVqVVp1Q3Z3ZmJHMmg2N0lVRi1wTFk0ZjNONGF1b3E1eDg3allCWTVRNTlsOFBPXzk0VGlwMkY1QWY?oc=5",
-        "summary": "Rupee falls to near one-month low as oil strain, importer hedging pile pressure&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T11:12:13+00:00",
-        "source": "Reuters World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "How South Korea Uses A.I. to Check on Its Elderly",
-        "link": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
-        "summary": "In the world’s fastest aging society, artificial intelligence is being used to make care calls to older adults who live alone and to fight dementia.",
-        "published": "2026-04-28T11:02:18+00:00",
-        "source": "NYT World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
-        "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
-        "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
-        "summary": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring access.",
-        "published": "2026-04-28T09:03:20+00:00",
-        "source": "NYT World",
         "source_weight": 3,
         "category": "world"
       },
@@ -680,11 +680,245 @@
     ],
     "finance": [
       {
+        "title": "Oil price jumps to $115 after reports of 'extended' Iran blockade",
+        "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+        "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+        "published": "2026-04-29T11:04:25+00:00",
+        "source": "BBC Business",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Finland’s Kone Agrees to Buy TK Elevator for €29.4 Billion - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkN5WGZhN054dlg5bjk4Nlk1VGdGMlF0bnNUVER3VmJ0TzIzeUtSeC1uRHNqTTdYSTNGcV82aXBLTWNrMVhqMzZwblhDWExBREM5MHJrbXgzSHR0clUyZDBxeGUwejhxTVp1Y3JlN09mcEY2X3ZtdHNlbktER2ZtS0dSbWhnTFR5ZHBpOHhqaG1fbHhVeGlxUEM4eGpESzNuNmJJdG5FNzBpNXpHTHd3SlJQMDA?oc=5",
+        "summary": "Finland’s Kone Agrees to Buy TK Elevator for €29.4 Billion&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T10:16:26+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
+        "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
+        "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+        "published": "2026-04-29T10:12:46+00:00",
+        "source": "BBC Business",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "【與永續者同行】從塑膠袋之亂，看原料供應鏈危機：企業此刻最該做的盤點與準備 - 商周",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50UE85clYySm1pWEo5MGRnTzYzRmhFdUdOcVB0cHpodi1kM1F2dk9HYVJ3azlBcVlaRG9Sckd0cEE1TktLNDQ1UE9rVUw3U3hNMkhnT0IycldOcTdEeFpFNE1la3NhWTJFVkhjamRjSDNXQV8zNVhnMA?oc=5",
+        "summary": "【與永續者同行】從塑膠袋之亂，看原料供應鏈危機：企業此刻最該做的盤點與準備&nbsp;&nbsp;商周",
+        "published": "2026-04-29T10:10:40+00:00",
+        "source": "商業周刊",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "Private air defence takes off in Ukraine - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnBTR1FuajdKSWM2NEJxd3pCUzE4dUFydDdrUmx1U0NwaDdPOF9GOXZHeVpTOEplVll3NlpWS2ZpVHN6ZVBjSTdRRVhXYkxLV08tc1ZpTXBMLUU2ekM3Q19KUW9Rc0NZQlNOWDlKZWlIZ1c3TGs1QlV3U05RaElXczdodlVpVHdzbWRwN0daUjhyREc3ZTRaWE5wUEVTcUlNQUE?oc=5",
+        "summary": "Private air defence takes off in Ukraine&nbsp;&nbsp;Reuters",
+        "published": "2026-04-29T10:09:47+00:00",
+        "source": "Reuters Business",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Hong Kong Has Widest Trade Deficit Since 1952 in Echo of AI Boom - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0kzYnZ4dHUybkcxcnREdjJjQkJRWEhoRTZlR0tOcXJ3MkhrUEtkX25vOC1PSFE1SWY2NmV1a29YZ1QtOGJqX2w3MUNpcmFYb1R3Q21KRzlBUTRoMmRIX3NlOUdnMmpxRzd4MzRyWDI3bkc2WmtJUHB4RVB3dGhiYzg0dlZieG56N3EwRDg4MU9DQU9xMjA5dER2YmFlZDUtZXNaNTNPTlRYLS1XQXQwNURwWDI3UQ?oc=5",
+        "summary": "Hong Kong Has Widest Trade Deficit Since 1952 in Echo of AI Boom&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T10:00:00+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "華新5月盤價全面調漲 316調漲每公噸5,000元 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSVm5hSzNwQ2kzYmxTNkNoMmRxZVFRRzNPYmFrNFY4MHdyREctVHhta3YxU2FvcndmdS1Hclc0bi1XNEltSG1Cb2ViX2VkZThmRE9mZ0lEUWFpQdIBX0FVX3lxTE9CUll0MnlNRWpVNE9WeVhtR1ZzWEJrU295Um1uenBtamFwQk9feE4zcVRCR2E4WEdVU09Cc3p2d05pUG1sRzJ1Rk9JaXMzWDd6ai1uQVdhNFVnNFVhaHMw?oc=5",
+        "summary": "華新5月盤價全面調漲 316調漲每公噸5,000元&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T09:46:26+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "Founder Gets 9 Years in Jail for $300 Million Indonesia Scandal - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkliVWhLS04zX2MzNVo4NDRIVWswRjdxTzJaZ3c5VDc3WElPR05IV3BiZ2t1WkVxX3Nub0N3a1dVeElOa05wREkwVE9aNHB4WjhKdjl4a1VDUVVDR0NUeHFvWklZSkxFZDRJWmJpczdJeUE5YUYwdEJSSTBIeVQ5RS1MYXV3bTdWWjZySTBfODJ6VmJocTNnc2VHS2hsYW8xNFlZLTNOY1NzdGYxSkczVUMyYw?oc=5",
+        "summary": "Founder Gets 9 Years in Jail for $300 Million Indonesia Scandal&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T09:41:26+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "外資賣超481億元連三賣 期現貨同步做空 再自台積電提款344億元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LLWhXMjFVcXRObU84eXRiYjc4TExDTDJfZ3ZPNC1nb05fenF3YWxkRGZMRUlqZHhDQzJ1NDMwUEN4YmdHVDhaY0pZeGhGYzA?oc=5",
+        "summary": "外資賣超481億元連三賣 期現貨同步做空 再自台積電提款344億元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-04-29T09:40:03+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "Spot crude premiums ease from record highs despite Hormuz closure - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTNDaG1hdGowZ3c2eXM1cmtzNmNrZHNYY1NRWTZTU2tudzdfS1Y2TzJhcDNaelV1eURmTXBsa3IwdHhEWWl6VjF0MmlZSDZ2ajhCWjlGYlgzaTQycVNKVV9XenpLcUNOYXpDRExNbUpVR0lHN0NEZnp6aGNmS0xHV1YyM25Ra1AwQ1NXY2pDY1h0Y1hMOWRyWmVQMTdNb3dEUHRrejVqREF6YmJzc184MlhR?oc=5",
+        "summary": "Spot crude premiums ease from record highs despite Hormuz closure&nbsp;&nbsp;Reuters",
+        "published": "2026-04-29T09:37:43+00:00",
+        "source": "Reuters Business",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "UK's biggest drugmakers see surprise profit bump, even as pharma grapples with U.S. policies - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeEd6UWFUNVhWMlVsb1JPNFVxRlZ4bFlYYzR0VmZzMnU1UjBSWXhkd1JxZW84T0l4dUZtZjhNZTB6ZFVDbGNmWF9PX0x4RkNIVjR0cEc0WEtreURhUUYxbUh0bU5NOEVwWGMyQUNtdFNYejNoUlEtbHp0Ym1JMjVVSUF1TEp0WGNIUHZHd3RvWFpubGVsd29MdGZUSEpRdXBMeEHSAacBQVVfeXFMUGdoYXZtVnN1ZV9TUldfTnFOTl9zdEd1UTFWcVgwU3pvUUxMNHZtNEgzUThhRDZoU0pwY2psY1ZMY3JLMHF3QVlJNkZMbVNOZ1ZKUXF0NVRCLUQ1Zzc4WEphdzk0Vm0tN1QzWWw0OFlkYzJQSzZkbl93a2RIMW41SmN5Znd5eG9jamh6WTF5blZCaGZrTzlESF9hQUZsMGg1VFpVNVJNeUU?oc=5",
+        "summary": "UK's biggest drugmakers see surprise profit bump, even as pharma grapples with U.S. policies&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T09:32:51+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "Oil prices extend multi-day rally as Trump issues new threat to Iran; Brent tops $114 per barrel - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tdlIyb2xObS1YbXRpanVvbnV6MS1VbXpPQkFsT0g2UEFoYW11S0tHVHdHRGwxbjB0QkpOY3pFSlVoZHFMWEZuaGRYTlNVMG0tVXozM3RKTEFfYVdxMHVDYm5PU3lSbWYySjF6dVplSUNUR3BBNDBR0gF8QVVfeXFMTUNfeFpKNW5ocEhROUVFUDJibUZiZWV2UTY0T0dSa3JseGN2Nmk0MnlpUko3VXVaZC1Ta3JySzhBaE51U05IUk5iczdHYnI1SnpScG50RXRBWFZsU1RBOXhHaUcyU0ZCT3h0Y0FyV0JIRjFsRnVVdl9MRi13Zg?oc=5",
+        "summary": "Oil prices extend multi-day rally as Trump issues new threat to Iran; Brent tops $114 per barrel&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T09:29:20+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "遠傳助攻高雄「班班大螢幕」達標 打造5,000間智慧教室 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxVGlBM1prdEtLQkYxSE1WTDBITk5OM2tZeVRHLVdSSFpGb2JrUFpRb01rbXRaTkJvLVlQZHNFdDVUdWJpb2dGWXotV1k1SzNNdmVaZE1QVlNxUdIBX0FVX3lxTE9lV2twUFJGSHZNa0t0Q25EU2FFLXgwczVpRmozbFZnQ0huc0p3Y3Q4QzZTVWpZTklsaEdSbzNVdVlDYUlIZklaay1jekp5ZlR4Y1hEVjg5VjZ2bWNiQUJN?oc=5",
+        "summary": "遠傳助攻高雄「班班大螢幕」達標 打造5,000間智慧教室&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T09:29:14+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "China Suspends Autonomous Driving Permits After Baidu Outage - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGh4RGxqZi11Mkc3WjZ6LW1VT0laUk5Kam5hbDYyUHhYY2tYN2JkVWEySzFPcGZlcjVQNXJMQVlxemJIeGNYQXBzYVFTR282WG01TGN6MzBzLUhnT1VGVndNdEVRWjgzWHgtY1dvdWhhTnhPY0ZSTl9sMkxWUU4xZ3NQOGJtbVdpNkhhSXA2RW5JOWh0VndyMFBCWWZsRExqdXhadkNyVXBBN3RLUGNxekhwWnlHZw?oc=5",
+        "summary": "China Suspends Autonomous Driving Permits After Baidu Outage&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T09:22:10+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "China’s Meta Backlash Renders Manus Model ‘Officially Dead’ - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR00zS2E4NXJEeDRpQm8tdVlkTzFmVXlWVmw0TlB2ekVGOVNjc0swbmlPNnNuY3BPVlIxR0RESnpNU0FQMWstWlhsQ1paZGdSWUZGc0pScG5LSUZTOFc2ZWVGc3phRHYzbmI2QmpWVUlVX0JTLUtXRmhqWWptZkJmaWxZMUQyNHYwV0JOXzRkMDhEM3lGZkltdG0xS1NkUFI0MzRaSWJBY3dJUm9k?oc=5",
+        "summary": "China’s Meta Backlash Renders Manus Model ‘Officially Dead’&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T09:21:56+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Meta told it's violating EU law by not doing enough to keep children off Facebook and Instagram - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1NGdDlTZzVyMkUwN3E0N2pKYm1mMm1LV1QxeEs3Rm5mVXdMbEJhSnh4RWNGTXFNcWRMdm5ZMVp0ckRHMkoxeVp5azZPZXVub0s3U3BCNzU2N0VvaFR6RnlKVjZyVlpjYzRSR1dka1dHYUF4TkZNR3p6dW93S2M1TERyOEJzNk1RazN0MXNCRHbSAZYBQVVfeXFMTUdQM3djcU1HMHM2bHNlZEZFcU9GTDh5N1M4VlZ5bzJEUkZuaHlkekdrNUNlcWdMazJTLVhXbGViWjVqQjJzVkhPakIteTY5MHlDaVZrZkZLUUtSTXBqT1FVdF9lSjVUTjRjdDFsQlhOMnYxRVhaUDVOZmFKWUFWTktTekhMdnBRelViNUlqMmdLQTFsWFh3?oc=5",
+        "summary": "Meta told it's violating EU law by not doing enough to keep children off Facebook and Instagram&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T09:20:46+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "聯電財報／首季 EPS 1.29元 王石：本季8吋、12吋出貨將顯著成長 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43b3RLc1M1SzlST01JTzVJVktUYXhPb2xjZ2FVRk9UUVNLWU5fenVqOXNZN3FqT0xIR3d1blFFT2paQ2JfQ29aUXFqN1R4ZUxpVVFyRUY3VVhBZ9IBX0FVX3lxTE1oelRXWUVSaWVkNmx3QnVTd0Qzd3hzRjJ6R0x0d21mWnZYc2tPejhzQjdhalNLaU5EN3otYTJNVDVqd3QtM0Y3YUs4OEdsRlgwYlJyT0R4Vi1SMUxWaEdZ?oc=5",
+        "summary": "聯電財報／首季 EPS 1.29元 王石：本季8吋、12吋出貨將顯著成長&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T09:14:24+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "China Rare Earth Firms Rally After Strong Earnings, Beijing Plan - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXk3YngzemFnejctanlTQmo0VDFrc2lPZmFoTmluajF2ellmNkhISm9hYnk4cy1uZkdYSnV0anJYZWlwR3Q0VldQOTdYaUxIMjYyS1FSN1FPQnh3eGNBa1c3VTFtQmhDRkozVmstYV9kcWs3ZEFlMUNuVUhDMFY1X0U5bnRVQXF3Wkw5djNWLVFFWklaTHFOMGVDS1hSeEVBLWVqdGZTTmtTemNGbHkwMl9rZnJpZw?oc=5",
+        "summary": "China Rare Earth Firms Rally After Strong Earnings, Beijing Plan&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T09:07:34+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "如何降息又縮表？財長可干預？沃什會把聯準會帶去哪 - 商周",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAweXVMZmhNeTRDa0lFYXdEdGFQQTFIMjVPRlVmanBBRlFBTHAybHpTb0tLbGNieTRpX1VWWXpmWWZnYUt3VUdaaHAxZDE4Q0NvaFhuRzNQaENUdTJHRHZjU2Z5Tkd0dUY1Z3g1S3ZRM1g?oc=5",
+        "summary": "如何降息又縮表？財長可干預？沃什會把聯準會帶去哪&nbsp;&nbsp;商周",
+        "published": "2026-04-29T09:04:34+00:00",
+        "source": "商業周刊",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "3K傳產18年熬成燃料電池新貴 「黑手傳奇」高力登千金股 - 商周",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TMXlFelJBMXZqcFVEQnM4SFYzS1FSam84RGJIaTdxckl0SEQtVHdoX0R2MlU1SlhtSmpkUjlqZ2JMMzRpeEMwOWU3Q2ZXeHdrU210TzFRRjJMM0l3S0FRZ3AtSzFWZ0FUc3pMM052UzE?oc=5",
+        "summary": "3K傳產18年熬成燃料電池新貴 「黑手傳奇」高力登千金股&nbsp;&nbsp;商周",
+        "published": "2026-04-29T09:04:33+00:00",
+        "source": "商業周刊",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "報稅季來了！基金獲利要課稅嗎？搞懂配息、價差申報規則，避免多繳冤枉稅-今日最新 - 商周財富網",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCMlM0RkFqTlVEY2lmUU1qQlBlZXk4V3Q4d1Fna0NrYlhOa0ZxV0tNaTVOdHFJWkllbWJuNUYtenZIcVlBUHIwWWptUUZ4cGdrd25EUTdQWFNqQ0JYY0ZFMldUZWRkUVJQRkcwWGppV09NZFZsanc?oc=5",
         "summary": "報稅季來了！基金獲利要課稅嗎？搞懂配息、價差申報規則，避免多繳冤枉稅-今日最新&nbsp;&nbsp;商周財富網",
         "published": "2026-04-29T09:04:22+00:00",
         "source": "商業周刊",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "聯電財報／首季淨利161億元、毛利率29.2% EPS 1.29元 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ud01zMHN2TnktVEhocVgzT2VjSFZBWkxhZlo0LVNMOS1fZEh6MTRnVzRTUUlIV2VTa295c05NSXBPeHhYNUJ2RVRLZWEyTUlXQUF3b0ExVjRZd9IBX0FVX3lxTE5qMFVCZnk0cllCckFyc3N5X2RmVFhyMGQ0WWVnN2QyYzJIbFc0Ui1jQWRid2RIaHFGV1hkS0xkQnQyS3Ewd29EbmZnMDF0Q004Y1JnT00wMGxQTHdQeHAw?oc=5",
+        "summary": "聯電財報／首季淨利161億元、毛利率29.2% EPS 1.29元&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T09:01:43+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "80 Seconds of Big Tech Earnings Will Decide Stock Market’s Fate - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWE1OGF1RjlMX2FWWkdzUVZMd2lxWmVZQ3cyYmxzV0NHWHBobHRfdlJ5ZGcxMExDdnhCbVQ1UlVjdVdzUnlFM3hhdXdWTEZjV0doa3RvQXEwdGlLU0hQVXVUM3VKMXVXay02YV9yWW01NXpIT044Q04wSng0TGdyU3JBYXQwR3ptZWdDZGNhQ3NobUxXbVByVW0yWU5LWXM1Sk5FZDI1SktJZERaRmJEMXMyMkk?oc=5",
+        "summary": "80 Seconds of Big Tech Earnings Will Decide Stock Market’s Fate&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T09:00:07+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!' - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzQ3Y2RLTC1kSF91bkt5X19QNUJKdmlJMnV6c20yek5ZTHZScFhhYmJMVHdseTE2XzZELUhPOUhPeGVSMGxFa2ZNMFRYUHhPbC0zNGVaUk5FVDdCT2ZZMnd3d1c5Qk9xSXRvdG0wb3dkY0c4S29fYmp1WUZLd1gwRjQ1V1BieHV4akJncG16aktCajA50gGaAUFVX3lxTE9DbVlFak9RZml4UEM4bkVvOV9CWjlVdmhscm1FZFU0MVdqTDNJUFhWYlFxN1VPeS1kMUZ4ajNfUF9oTmVtTks4MWlPVDdZRGhtRHNDNURfbHBGZjhFZUt1WHBwdHJNTXRhNnFPY2RJbkRqQVF3a01uNG5vQXZHYlRNU3JIQUtvOTBBYkZMZTJHaGlSZlRsSkhiNXc?oc=5",
+        "summary": "Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!'&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T08:54:51+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "日月光法說會／上修今年資本支出 LEAP 營收目標逾35億美元 | 產業熱點 | 產業 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ScDFVWkRaVUd1YnhXbDQ0N1dCNmNjelJHSGJYTHZjTkpvYXpRMFQzT28yQ25IdXA5bVRuWEh3dmRfMUNLejhwR0x6aXNsWk1RRFZSZ2k1TDZrdw?oc=5",
+        "summary": "日月光法說會／上修今年資本支出 LEAP 營收目標逾35億美元 | 產業熱點 | 產業&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T08:54:40+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "產業模範生中鋼躋身 AI 供應鏈 今年招募224名新進人員 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fY0ZOWUlkNU9aMkg3cHZKdndYU3R4Sy1SRC1odEtQTGRiZUdfOG5ITW9WbzBpcU9uSEdDWDlRc1JWaE1wbGlQTmZkVVE4ci1IWm9za2RHYW56d9IBX0FVX3lxTE9uSkF3ZTA1ZHQxWUlYZWRoTmZSVU5PZ2swd3U2WGZoQUZLcENETnlaNjJXdnN2NmVVT28zakFaai1yQldDWlR0Q0d6aC0xVnR2U0hqLUpKUkRVQkNPMzFN?oc=5",
+        "summary": "產業模範生中鋼躋身 AI 供應鏈 今年招募224名新進人員&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T08:34:12+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "盛群法說會／本季業績看增 調漲部分低毛利專案價格 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vSThGVDRUUlBoYlM5QThKd1pNbDZLOERrQ3NfbHNIWHNrOTBGTzR2U3FOSmQ5ZU9HUGRwNjZpQ2Y4V3pQV2NteDBmYThpZUpBNXBHQkwxYS1fZ9IBX0FVX3lxTE1YTDFSdDNMRUZ0Ylkyb0ZJM3lJYmhjSWlaY1MtdTZoaE1acTVfblhTbXVCd0lmT1RkVWwxT0JQYTZiQU5SM0pLN05jcDgxWVEzeVVtdjJUdWRhN0pYcndr?oc=5",
+        "summary": "盛群法說會／本季業績看增 調漲部分低毛利專案價格&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T08:26:26+00:00",
+        "source": "經濟日報",
         "source_weight": 2,
         "category": "finance"
       },
@@ -698,30 +932,21 @@
         "category": "finance"
       },
       {
+        "title": "Will rates go higher in Europe this week? Central banks confront stagflation threat - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnlIM2xLdGxKUVdkbnI5SkFPNFF4Qzc1MW03ODI3WjZEcVIwcTIwUVBITkJqLWZtTlVMYWtTZkp6ZTZ5S2ZjTmh6Q1dFWGJwRklfWFJ6aUxDNXRYQVNLOVJES2h6a1ZUQUZwemZmRHZIUmlyeVpadnN0ZklZSzdzeGpiRndMSlZCTVJDSkNRS2tJYVBWNkVHdi1kcEhnQdIBowFBVV95cUxOWm1JMUkxU2Y4TWVtenZ2M0dwRDJXLXdYOEUtNlhjQ1Q0TUpKQlRySXhuLWpKRU9jWWNLdVFfRS1IX29iUlVSX3RNSksza3RaZXlEME9OelNieHVvc3ZCOGl6V01wRzhzVDVnY2llN3c3Q19XUGxob0pSRkNFbmtlS0pna2JZN3VuSXVXd3JLTWF5OGNMNURicHhNTEFOWWk4Y0xF?oc=5",
+        "summary": "Will rates go higher in Europe this week? Central banks confront stagflation threat&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T08:13:18+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "United Arab Emirates to quit oil cartel Opec",
         "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
         "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
         "published": "2026-04-29T08:05:11+00:00",
         "source": "BBC Business",
         "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Adidas reports strong sales and profit in 'very volatile' market - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUW50VEdVSE1aN3djckgtS2VVZlZzb3duZ295NXJFQ2oxWjJQT3R6eHA4TWh6VEZRRmcxajZJZTNQdWM4YWtYS2tmc0lRSTItNzJlQjN6WG9zUXo0ZGtfSTFZV0c5NXE2aWROWmUtX293d0VDWDdsb2MzRG1Pc18yOGc0X3JVcUJlTzFZRXVKM1JiNFNSQTRlbG5CUWZEY3JpaXZIR2Zac0VWWHhwNWc?oc=5",
-        "summary": "Adidas reports strong sales and profit in 'very volatile' market&nbsp;&nbsp;Reuters",
-        "published": "2026-04-29T08:05:08+00:00",
-        "source": "Reuters Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "AI創新百強年會》AI原生、AI代理人催動轉型 大咖解答5大AI核心命題 - 商周",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jME9PeVVfejVIT21WWVl0Yl9pVDVvTHJVRGRWX2FDTEhob1BBczlfRVZDQzFFenUzc25Kald2RWhkWnpuYWRoU25tYWFPTWxxc0lDQU02TmVJeXZHak5tUl9pLU9zbHBEVW02M3dUYUk?oc=5",
-        "summary": "AI創新百強年會》AI原生、AI代理人催動轉型 大咖解答5大AI核心命題&nbsp;&nbsp;商周",
-        "published": "2026-04-29T08:01:25+00:00",
-        "source": "商業周刊",
-        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -743,12 +968,12 @@
         "category": "finance"
       },
       {
-        "title": "3K傳產18年熬成燃料電池新貴 「黑手傳奇」高力登千金股 - 商周",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ockg0dE4ySjB0QXFDMTlQYUZkRkNKN3NEanVXS3pya0lfb0hBQjNPdVRqYkUtUno3c1M3N2cxejR4MURXeVRROWdlZGpvdDFvNnk3cEJCZGxjV19wQWlKWm82S1AxRjJFamdndUc1aW8?oc=5",
-        "summary": "3K傳產18年熬成燃料電池新貴 「黑手傳奇」高力登千金股&nbsp;&nbsp;商周",
-        "published": "2026-04-29T07:58:46+00:00",
-        "source": "商業周刊",
-        "source_weight": 2,
+        "title": "No, the Iranian Oil Industry Isn’t About to 'Explode' - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWh2cGJmc2Z5Ullha1Roa0lyb0tLMkJZME1xaFQxYUc4dEY0UFk5NXd3OXhaNE1JQ0t6RkNxV3R4ZnNSWm4xVTcyTkNLUzBWWEQ4M1Vaa1JwMEh1YXhRa3otbXF0YlJ6U0JYNG5Ma19ldHpSbEc3NTBuNEtYVzdWUTVkQnNjT0tRS0llY3JFX1ZyOG1QeEczS1h6UkhRRzdYZ3VybHo3RQ?oc=5",
+        "summary": "No, the Iranian Oil Industry Isn’t About to 'Explode'&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T08:01:06+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -761,12 +986,48 @@
         "category": "finance"
       },
       {
-        "title": "Finland’s Kone Agrees to Buy TK Elevator for €29.4 Billion - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkN5WGZhN054dlg5bjk4Nlk1VGdGMlF0bnNUVER3VmJ0TzIzeUtSeC1uRHNqTTdYSTNGcV82aXBLTWNrMVhqMzZwblhDWExBREM5MHJrbXgzSHR0clUyZDBxeGUwejhxTVp1Y3JlN09mcEY2X3ZtdHNlbktER2ZtS0dSbWhnTFR5ZHBpOHhqaG1fbHhVeGlxUEM4eGpESzNuNmJJdG5FNzBpNXpHTHd3SlJQMDA?oc=5",
-        "summary": "Finland’s Kone Agrees to Buy TK Elevator for €29.4 Billion&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-29T07:05:20+00:00",
+        "title": "Crop Prices Hit Highest Since 2023 as War and Bad Weather Bite - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkZNak50Wl9fQkU2ZGFYZ0VIc0lRNFhXckZtR1BSOUU1T25HSVREc3d3UW9kUk5hWGRtVElZWXU0Z1JuajR5Y25GR093b2lsQlFkMzhtTXJSbkhSXzVXODlqS2ZTQS0wMEp6Y0xIY3d4WGFZcDUyUTdrWEt1dnpvazMxWHlwMWl3cmhVTFBPcVZscXdOV0ZHZ3dLU0hUZG95eVc4WWdFSTF6SVd0M3U4MDFNZw?oc=5",
+        "summary": "Crop Prices Hit Highest Since 2023 as War and Bad Weather Bite&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T07:44:54+00:00",
         "source": "Bloomberg",
         "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "智寶取得《死亡筆記本》動畫代理 挹注營運向上 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SQWI5QV9HYXVuVTNHMVBtWVRnbWNkRGZCa0dNX3dzVjdBV21NN2lVT29ROVRNUGpRbkxxc2V0alpMbDFxMnByTE1SZERHd2RLbWpiS0VNc0VUQdIBX0FVX3lxTE8tYUxXbGhLSTZoMXhJYktBSmUtMVc4aF9xQzdVS0Z2MXMtT2dHSC1zbnVnVmZIakVLZERza0Z6Njd4cXZ0MUxlTE1MWWk5MzFMSE1sYUc5MzgxZm5xalE4?oc=5",
+        "summary": "智寶取得《死亡筆記本》動畫代理 挹注營運向上&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-29T07:30:03+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "〈日月光法說〉Q1獲利大增87% EPS 3.24元創同期新高 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rZGJLNzZhRnBHM2o0akJHM3h5bWFOYVU0NnMxbUE3LUlZSFhwQUQzWHZSaUtiSHE5ellfeDUxVmFMdVpPMXVPcGFnZGsxOUk?oc=5",
+        "summary": "〈日月光法說〉Q1獲利大增87% EPS 3.24元創同期新高&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-04-29T07:15:09+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "Trump Says Germany’s Merz ‘Doesn’t Know What He’s Talking About’ - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzJPZFdzOFBkczZVaWljR3dlRUMteEJhLWZIOVdoTENLMEViNmdjaTVHdU5rYXpIMVcyQnhJZkpXaEgtUzYwaDhSWjdwa29hQXJNUXRxajZhazVVX0FrcVlCdzBsUEJhS3lwM3ZQdHVueFdTVm8xTFJSMDg4VlZ3Um1MSGtKVWJjOUhRd2M3akVVWlJtQUJLVmxQcDg3RDYxUUZpU1l3TjF4dldnNjVtSzFvMA?oc=5",
+        "summary": "Trump Says Germany’s Merz ‘Doesn’t Know What He’s Talking About’&nbsp;&nbsp;Bloomberg.com",
+        "published": "2026-04-29T07:06:02+00:00",
+        "source": "Bloomberg",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Finland’s Kone to buy German rival TK Elevator in blockbuster $34.4 billion deal - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZT3RxM1BlRWNQYk5IdUZQYTlRdGNTMEIxeHNtVG5PblFUb3pNa2d5aXA4X0Ywd1FQZUplOEU4YW5xNmR1MGxCdzNEQmhmdk84aWNweFBocTFKRmZUaXhTa0hTN1d0bi01aGY2YW5zb2NUVEt3WFJrS3h4WEtzeG_SAYQBQVVfeXFMTVhGRTF2Y3dYTFhVQjFxSFlITVZIcFVmaVdzS01qeU50VU9FMF83cktuTzlmQTFyYVFlZnZWMXNYQ2s2NkMxNERDOERlOVRYdVFMTkZJeklrbTc4ZE11SWNIMEp0RjNJQkt2VjNjcVhuZVd1TTlNSWJWcUZlZHk3dG5FWWRf?oc=5",
+        "summary": "Finland’s Kone to buy German rival TK Elevator in blockbuster $34.4 billion deal&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T07:02:10+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -779,21 +1040,21 @@
         "category": "finance"
       },
       {
-        "title": "Russia Cuts Tanks, Missiles From Putin’s WWII Parade in First Since 2007 - Bloomberg.com",
+        "title": "Putin’s WWII Parade Cuts Tanks and Missiles For Use in Ukraine War - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGtxTmFDeXVQUzF0TktKejJjaVUtY0Nrb0k5VDN5SHBGdVhkT25FeVoyMk10RkdfaDJubFNPNlVYRE1YdGVxdE5POVYwN0ZCNVBBcmxGM1ZoTXNfekNQZG5BcFhjOVBncm5YWk1QZzg1dy1vLVFMYlF0TURwUDlpZjNualNXUXg3dEMzS2h0SUpadDJRQml4Rko0anpkT0Nrdy1HbUtwUFRkN2NVV1pWNW50RGxqWGEzV2lLd055V0NZblBzWVNwM2pR?oc=5",
-        "summary": "Russia Cuts Tanks, Missiles From Putin’s WWII Parade in First Since 2007&nbsp;&nbsp;Bloomberg.com",
+        "summary": "Putin’s WWII Parade Cuts Tanks and Missiles For Use in Ukraine War&nbsp;&nbsp;Bloomberg.com",
         "published": "2026-04-29T06:59:00+00:00",
         "source": "Bloomberg",
         "source_weight": 3,
         "category": "finance"
       },
       {
-        "title": "Founder Gets 9 Years in Jail for $300 Million Indonesia Scandal - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkliVWhLS04zX2MzNVo4NDRIVWswRjdxTzJaZ3c5VDc3WElPR05IV3BiZ2t1WkVxX3Nub0N3a1dVeElOa05wREkwVE9aNHB4WjhKdjl4a1VDUVVDR0NUeHFvWklZSkxFZDRJWmJpczdJeUE5YUYwdEJSSTBIeVQ5RS1MYXV3bTdWWjZySTBfODJ6VmJocTNnc2VHS2hsYW8xNFlZLTNOY1NzdGYxSkczVUMyYw?oc=5",
-        "summary": "Founder Gets 9 Years in Jail for $300 Million Indonesia Scandal&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-29T06:28:00+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
+        "title": "AI軍備賽白熱化！MLCC用量暴增15倍零組件廠醞釀新一波漲價潮- 產業 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zRUk5M0lQNk13QU52c2FPdmNuNHBhdmN5ZkplS1kwSlNmTW9HS1F3Zi1hcHlqc1A5a1dyNmFUN3czT1dZU3NoaU1adE1VUnZpUzZBMjZMOHY0YU9VVnBj?oc=5",
+        "summary": "AI軍備賽白熱化！MLCC用量暴增15倍零組件廠醞釀新一波漲價潮- 產業&nbsp;&nbsp;工商時報",
+        "published": "2026-04-29T06:30:00+00:00",
+        "source": "工商時報",
+        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -806,21 +1067,12 @@
         "category": "finance"
       },
       {
-        "title": "鉅亨速報 - Factset 最新調查：群聯(8299-TW)EPS預估上修至171.59元，預估目標價為2410元 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16Wm9adERLenlobW10NWlCbU1QN3pmYXBoOTBtUERNSTFYTi0tYTVhTHFpajJmZVlDb0pJZVAyTnNSZVlnZm9iNnFXQnU5OUE?oc=5",
-        "summary": "鉅亨速報 - Factset 最新調查：群聯(8299-TW)EPS預估上修至171.59元，預估目標價為2410元&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-04-29T06:10:31+00:00",
-        "source": "鉅亨網",
+        "title": "台股4萬點關前震盪散熱、機器人逆風上漲這家化工股強攻漲停- 證券 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KckIwMFRxZVkxcjJ0ZWxCa0tfVTZ0Yk9vQ1RCQUV0UHZzQVlSTExxTEM4OVo0TVJrcHpfTFNFajNhMTRkak56SFY2bXBaY2gzbGwwS04tMWlfaEJXbU1R?oc=5",
+        "summary": "台股4萬點關前震盪散熱、機器人逆風上漲這家化工股強攻漲停- 證券&nbsp;&nbsp;工商時報",
+        "published": "2026-04-29T06:09:00+00:00",
+        "source": "工商時報",
         "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Central Banks ‘Scoop Up a Load’ of Gold in Bumpy First Quarter - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGZvcTNWLUhrR3MwVUFKRXVtdlFNSmhydi1tY251ajU3YVhBTFk0M2FGejl2dWN6TExMck1rSEVLVTNYbGRrdkdiRjRrRlpRMHNtanBRaDZlZkNlVnBHTm04ZUNDS1Q1c2JUYzlmQzZtVUV2eVVDbjNONXJkeUdvWEJaRnhLX3drTzR4N3EwM0VKTFdJV2YzQmRkZ0FkWU9LMjBuYzNJTVBHUTNRTjJlYw?oc=5",
-        "summary": "Central Banks ‘Scoop Up a Load’ of Gold in Bumpy First Quarter&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-29T06:00:00+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -830,15 +1082,6 @@
         "published": "2026-04-29T05:45:09+00:00",
         "source": "CNBC",
         "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Kone and TKE strike $34 billion deal to create world's largest elevator maker - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1IwcXlrQWdsa0E5V2o4SGdLclRwZ1NaWVVtVFJpX2ZOVnE2Zzhmc3dOdzNmM3NCWVQtS1RfNjN5RlR4Vm9UbWNmRnI5bkdqN09XODdjUWZhLVNpYkFpX2dGX3h6UEVOS3hQTUpTRjdVa2NhYl9fTFNFd2E5LXVlUEhqNGN6YXRhQS1ieHZqejREcnNBYk94S3JrSUhNczhN?oc=5",
-        "summary": "Kone and TKE strike $34 billion deal to create world's largest elevator maker&nbsp;&nbsp;Reuters",
-        "published": "2026-04-29T05:40:00+00:00",
-        "source": "Reuters Business",
-        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -872,7 +1115,7 @@
         "title": "Morning Bid: Fed sails into unchartered waters as Powell bows out - Reuters",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGJTVldsckNXa0Nvb2dfMkNoQW1qSWdYcmNrdXVNNkZ4UUVhWGlFd3I4WWJUbWhlblRLR3laSHNOazNaQmlTSE1TSnBONmlibElVS0I0ZWZpZEdJTVBWR3RXM2JXTFJnQ1Q3MnNBQldQWlY1dUZpYXRpa0c4aWw3SVZtSXdTZw?oc=5",
         "summary": "Morning Bid: Fed sails into unchartered waters as Powell bows out&nbsp;&nbsp;Reuters",
-        "published": "2026-04-29T04:33:00+00:00",
+        "published": "2026-04-29T04:34:50+00:00",
         "source": "Reuters Business",
         "source_weight": 3,
         "category": "finance"
@@ -914,6 +1157,24 @@
         "category": "finance"
       },
       {
+        "title": "The stablecoin stumbling block - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80cGpsZjQ3c1p6clNyclR3eVEtanR4S1NockxqWEZzNzZINWFyWjNNamUxR0dydEIwRjlaanNIanExNjEydUt6dlpHazFqU2ZMeVRTeVliZmxKWkQ1TjNNd1FNRWg5NGxoaXdYeXpLaTk?oc=5",
+        "summary": "The stablecoin stumbling block&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-29T04:03:07+00:00",
+        "source": "Financial Times",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "Germany re-arms: what does it mean for Europe? - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSl9ZWFhNZE1od0hqZWViWWhSZmk2S3VCT2tvYlJTZFNLQTJTTlFEQWhHem42TmtpQ3JMN3N3bW42VklVTm5RSk1JeTNyeEZqVGRxZ2RISFVKZG0yVE1sSDFZVmZ1NVlGaFIydEttUzM2cjlweEUxY0xadkZYenNfWDZueDA?oc=5",
+        "summary": "Germany re-arms: what does it mean for Europe?&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-29T04:03:02+00:00",
+        "source": "Financial Times",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
         "title": "China Fighter Jet Giant’s Sales Surge After India-Pakistan Clash - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2F3eWt6bnJVemNreWdRdk85NlpzLTgxSE8xdWI0ZlBGa0VEN1VRalRRUFQzS1Ywcm5xWlhrWjlnQjdyTEctLXRZaG12QTlxQ2laVkRjelVyZ09iNXVqWnJmVTFKRmtaaXQ0dGw0QVdPZTVQbGlGa3FacklmUkphZzhjSzQxUFdfUHFJLW9nVU9uRmh4Smw5RTdvRHFlLVUwYmhWbm1maHN2N2dLRlBVQ0RaVjhKUQ?oc=5",
         "summary": "China Fighter Jet Giant’s Sales Surge After India-Pakistan Clash&nbsp;&nbsp;Bloomberg.com",
@@ -923,19 +1184,28 @@
         "category": "finance"
       },
       {
-        "title": "How Citi’s $52mn hire was forced out of JPMorgan over his behaviour - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWpUQzlOMXRwQTBoUkJOQUtMSkJlR1FXUy1saXdvX2dQdTBXYTVrSlNISGpSal9yWXlLYkVWb25fc0NYblo4LTRRT0ZDenBYdHpZUjJFd1dqZWl6NURkNl9FMEJzTW5KN1pOenVCMDlIbVJSMThFMENEb3hQNnpwbWJ1ci0?oc=5",
-        "summary": "How Citi’s $52mn hire was forced out of JPMorgan over his behaviour&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-29T04:02:05+00:00",
+        "title": "Chinese green technology poses national security problem for Europe, report warns - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3dXVHFqQWYxQ2M0MDNfWmhfeU03d2gyalNfcHhLVnd1RGVqeFFOZHNBUzFJX1VMNWRHOWZGajl2d1lQaFJINEV0eHFPdmt6N1NhYjZMelk5QkFFQm9UUWY4OGs5am1JZlVTZGdSQmJTV3pqdk1lN0Q3NFQ2eDhBUHo4STQ?oc=5",
+        "summary": "Chinese green technology poses national security problem for Europe, report warns&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-29T04:00:27+00:00",
         "source": "Financial Times",
         "source_weight": 3,
         "category": "finance"
       },
       {
-        "title": "The stablecoin stumbling block - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80cGpsZjQ3c1p6clNyclR3eVEtanR4S1NockxqWEZzNzZINWFyWjNNamUxR0dydEIwRjlaanNIanExNjEydUt6dlpHazFqU2ZMeVRTeVliZmxKWkQ1TjNNd1FNRWg5NGxoaXdYeXpLaTk?oc=5",
-        "summary": "The stablecoin stumbling block&nbsp;&nbsp;Financial Times",
+        "title": "KPMG shuts US government audit practice after losing army contract - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmRYYTVzS1p6emR1TXN2TFJTOTY1dzUyWWo1ZXdLU3lKcnloRWxvdEdFdE12eEJCdFBrX2xkbElvWWE3Y0FIeXlUT1VaV0J1NUNHS0VYMGhYLUE1VWVzMUtfb082Nl9CcVJuR29SaEYtUjBKZFY0c1Z0UXdhbVZiNUR4YU8?oc=5",
+        "summary": "KPMG shuts US government audit practice after losing army contract&nbsp;&nbsp;Financial Times",
         "published": "2026-04-29T04:00:14+00:00",
+        "source": "Financial Times",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "How Citi’s $52mn hire was forced out of JPMorgan over his behaviour - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWpUQzlOMXRwQTBoUkJOQUtMSkJlR1FXUy1saXdvX2dQdTBXYTVrSlNISGpSal9yWXlLYkVWb25fc0NYblo4LTRRT0ZDenBYdHpZUjJFd1dqZWl6NURkNl9FMEJzTW5KN1pOenVCMDlIbVJSMThFMENEb3hQNnpwbWJ1ci0?oc=5",
+        "summary": "How Citi’s $52mn hire was forced out of JPMorgan over his behaviour&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-29T04:00:06+00:00",
         "source": "Financial Times",
         "source_weight": 3,
         "category": "finance"
@@ -954,33 +1224,6 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tYldKaTI5MnQwNjFoN1BJNnlqS0VvX2N1bDUyaUR4aEpmX1p1ZmYyUERBOTkwSkYxeHZ1eFY3cUJNcmZ5ajROMXFWZ19YSkhBTXIwamd0ZHFVTVlQU2dqQkdR?oc=5",
         "summary": "台股寫下歷史！超越加拿大，躍升為全球第6大股市－中央社&nbsp;&nbsp;商周",
         "published": "2026-04-29T03:56:19+00:00",
-        "source": "商業周刊",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Gold Steady After Two-Day Drop as Iran War Fans Inflation Fears - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbm04SXpCZnY1X0dYTVJRMzNwZDRNRURSZmdqMnJ0YktPYzhkZ0wzYnA3Y3JmZC1scmN4amlFOWZ5ZmVTTVVtY1hDWjFnMkYxNW1EOGI3N3lHR0o0U2lQUXZPVERlYWtuUWNkWlRhQ3VkbzN5YUN5WWFXelpLZzVXb0ItOFVxRkMyTk16VzVRcHk1cF93SE5RNnNSTk9GbFYtT3FKZzNWbGdiRGNBQU94SnNzVEQ?oc=5",
-        "summary": "Gold Steady After Two-Day Drop as Iran War Fans Inflation Fears&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-29T03:52:00+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "China Suspends Autonomous Driving Permits After Baidu Outage - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGh4RGxqZi11Mkc3WjZ6LW1VT0laUk5Kam5hbDYyUHhYY2tYN2JkVWEySzFPcGZlcjVQNXJMQVlxemJIeGNYQXBzYVFTR282WG01TGN6MzBzLUhnT1VGVndNdEVRWjgzWHgtY1dvdWhhTnhPY0ZSTl9sMkxWUU4xZ3NQOGJtbVdpNkhhSXA2RW5JOWh0VndyMFBCWWZsRExqdXhadkNyVXBBN3RLUGNxekhwWnlHZw?oc=5",
-        "summary": "China Suspends Autonomous Driving Permits After Baidu Outage&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-29T03:46:00+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "台股連2日攻上4萬點！法人示警：乖離過大，高檔震盪該追還是該逃？－中央社 - 商周",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aMTh3c0lnVk1zMHJ2YTlyUmczcVVseFBBLWdVYms0RVowazVpdE1VSlRac3lTRWQ2S1JyTVQ4bUs3dlBJcWJpdEktS0tfTnZDY1RaUXdtMk5EY0txSFN0d3hGVVRjZw?oc=5",
-        "summary": "台股連2日攻上4萬點！法人示警：乖離過大，高檔震盪該追還是該逃？－中央社&nbsp;&nbsp;商周",
-        "published": "2026-04-29T03:40:58+00:00",
         "source": "商業周刊",
         "source_weight": 2,
         "category": "finance"
@@ -1058,11 +1301,11 @@
         "category": "finance"
       },
       {
-        "title": "鴻海董事長劉揚偉 全力支援全球客戶加速 AI 部署、引領 AI 基建 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qcC1tZVdRazdzelVTUXF5Q1AwdzEyRWplN0RwcU9LdktMX2oxTW1XanMxQVZjT3k5WlRicEdwYkJ1amV4UWRpNUx5clpocjBMYXJsM2FqUUJ2d9IBX0FVX3lxTE5HQ1JCSEphRXFZM00xUUZyOXRJTXRDcm8xT3RNQTB1RHJhbjU2SkdCc1NOUU93Snh2YWlRWXJDRFR3ZkpNNzlROENyM0RyZnN2dXBqZzV2VGFJX2l2TVNV?oc=5",
-        "summary": "鴻海董事長劉揚偉 全力支援全球客戶加速 AI 部署、引領 AI 基建&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-29T02:03:07+00:00",
-        "source": "經濟日報",
+        "title": "台股連2日攻上4萬點！法人示警：乖離過大，高檔震盪該追還是該逃？－中央社 - 商周",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aMTh3c0lnVk1zMHJ2YTlyUmczcVVseFBBLWdVYms0RVowazVpdE1VSlRac3lTRWQ2S1JyTVQ4bUs3dlBJcWJpdEktS0tfTnZDY1RaUXdtMk5EY0txSFN0d3hGVVRjZw?oc=5",
+        "summary": "台股連2日攻上4萬點！法人示警：乖離過大，高檔震盪該追還是該逃？－中央社&nbsp;&nbsp;商周",
+        "published": "2026-04-29T02:16:36+00:00",
+        "source": "商業周刊",
         "source_weight": 2,
         "category": "finance"
       },
@@ -1076,29 +1319,11 @@
         "category": "finance"
       },
       {
-        "title": "AI Rally Ripples Through Chip Supply Chain, Minting New Winners - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVVQWnVYOUN2UnItLUpkZmVRS1VBdVd2emtEWWw1M2VQZkxjSndtNXQ4TW1iRHFYVS1XT3BRUnJxcEFaUFlQODBDTl81OXpFVVoxYnNZVm1MVHpiRmtEME14RTNFamprZkVvR2pfejJ3bUhvQnFSZW1zMGVHcWpEX0lJSHRMTGJRamJmRGtsWVUtYkxWUUtGa2l3RFFqT3RHY3dzQ1U2OUdJTGlyYlJ1V0hOdw?oc=5",
-        "summary": "AI Rally Ripples Through Chip Supply Chain, Minting New Winners&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-29T02:00:00+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
         "title": "北市豪宅量崩近四成 看價格傻眼：這區竟年漲13% - 經濟日報",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HMEFYWWQxSHFYa3dMWjlLZTdTX0pLckZxdWh0MDJVNTZhSWFjT0FzU1hCYkcxRTUyZXM1Y01BT3c3cFc2anV2RFN0MGF5OVhHRXR3dUZsajJiUdIBX0FVX3lxTE5xd3NjbTVZU3J0aWk1WUtjeE85MnlOaXJqSDNVUVVCUGdVbmFYVlNkSW9JVzMzZzJfUE04T0hlbjQ0ZlplYW44N0lGbHp0djJWVDcwazVBNlBDRktCc0NJ?oc=5",
         "summary": "北市豪宅量崩近四成 看價格傻眼：這區竟年漲13%&nbsp;&nbsp;經濟日報",
         "published": "2026-04-29T01:56:39+00:00",
         "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Australia reports lower-than-expected first-quarter inflation — but price growth hits 2-year high - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1NYN2hsNGtZbWluR2RqRHBMNTh2SkFRTm9OYk9yWVhZVXF2QmJkMDI4S3dMRm9kdEFTaUdiQUw2emRQUlBOeEVfbmZ0eWFvWlkwVmZDeC1acXREbGcwdGtNMjFFYmFWZXI3WjUyMmN4SjJ0M1J3Y3ZJdTlfenlxWTJCWWtkY05u0gGOAUFVX3lxTE9xWjRiSmhGd09UWTh4M1ZGeE5jNEdib1VQczZEcjhQdTg2RmNyc1FBMzQ1ZVRFRnpvR0hHWVEtRHNjNFRTR3NYUi1ScEs0ZUhxR2lOeF9rUVRiUlVKMzVXaDF2LWVha2RhTEtJQ3UtOTQwaEN3aVdUSS1QQy1tb0g2OThWbXFfSHRKYkhLamc?oc=5",
-        "summary": "Australia reports lower-than-expected first-quarter inflation — but price growth hits 2-year high&nbsp;&nbsp;CNBC",
-        "published": "2026-04-29T01:54:00+00:00",
-        "source": "CNBC",
         "source_weight": 2,
         "category": "finance"
       },
@@ -1130,12 +1355,12 @@
         "category": "finance"
       },
       {
-        "title": "China’s Meta Backlash Renders Manus Model ‘Officially Dead’ - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR00zS2E4NXJEeDRpQm8tdVlkTzFmVXlWVmw0TlB2ekVGOVNjc0swbmlPNnNuY3BPVlIxR0RESnpNU0FQMWstWlhsQ1paZGdSWUZGc0pScG5LSUZTOFc2ZWVGc3phRHYzbmI2QmpWVUlVX0JTLUtXRmhqWWptZkJmaWxZMUQyNHYwV0JOXzRkMDhEM3lGZkltdG0xS1NkUFI0MzRaSWJBY3dJUm9k?oc=5",
-        "summary": "China’s Meta Backlash Renders Manus Model ‘Officially Dead’&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-29T01:25:00+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
+        "title": "Purdue Pharma receives $5.5 billion sentence, paving way for opioid settlement - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclFoUlJMNHVLeXBNTXIzd0lIT1dVS04zQl80RmlhNUtYXzBmYUlPQW5Vb05HaEhrTURjZVFlMm5xa1RPZnN3S1dNcWtpWU83bkpPZ19XMWhBUlZZUjlrS3dNZjZLb1pLMEIwTjltcXllZlRyMGFmQThUSW9kZDQ3cmhRMlZQWjBZZFNoS0VzVnpGOC1ENGxfSGJsamdNU0pWRDZCb0J0ZWNYMmwtS2hNR1FlVDlFblVM0gG-AUFVX3lxTE03akx4ZEoweVJWLXBraDZQaFBMN3hUYzd2X3czbFdKTXMxRW5tRW44RXAtR0ZSWkxQdi16ZXNuOUU4RzRGaG9iYzR5eE5UbXpBR3pOdEk3YWpIdG1PMmYzYWJsYkEwSGpFRHlUSV9Xdmdfckx4a2VIUGl0MlphMXNvYklCV0luNGNJbFU2N2V4SWpqTjRJV0Ryck1fSC16ZlR3MG1wTUtTZnNPU3BIX2NxdWxrV2xEZ29QUDNkQlE?oc=5",
+        "summary": "Purdue Pharma receives $5.5 billion sentence, paving way for opioid settlement&nbsp;&nbsp;CNBC",
+        "published": "2026-04-29T01:23:00+00:00",
+        "source": "CNBC",
+        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1166,12 +1391,21 @@
         "category": "finance"
       },
       {
-        "title": "Taiwan Overtakes Canada as World’s Sixth-Largest Stock Market - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzd5dXNPZklLSVdFYzZ0NVNFcE5UVzFDcTlqaUN6RTFkZEN1YXM4OU45QU40eFM4VTV2S2dCTWRSeC1QYzJKb0pwMHF6Y0c3eU9UTW9VS2dSV0ZoSU83X19ONzk2N1g5NVF2Q1Rtb09ZTG1ZUmpKOTZFeUEyaGVnNnEyY3FfQjZVRERpVXZ2RjM1bTh4RndwU1MtN3NVNXMwM1hUQmlLZldPeTZwRnJIOE9n?oc=5",
-        "summary": "Taiwan Overtakes Canada as World’s Sixth-Largest Stock Market&nbsp;&nbsp;Bloomberg.com",
+        "title": "Dollar gets safe-haven lift ahead of Fed decision in face of war - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajJpalpFN0xKcjlnRG9pbzJ5Q05TQmZSZ0prcDB4RXo5X2l6NE40X0ppOTlRMm1VTFU5YkhPMDlzMmVvZkliTjlXNmEwUDh4NkRMeWxyR0pZMjhZVXN2NXZ1VVJWcUdwOS1STHN5UTU1Z2FZSkIwa3N6RGRfOFJiX2hpaHhXSk5Yd0tkSjhLdUUzYklXNkl0cmpGbHY?oc=5",
+        "summary": "Dollar gets safe-haven lift ahead of Fed decision in face of war&nbsp;&nbsp;Reuters",
         "published": "2026-04-29T00:47:00+00:00",
-        "source": "Bloomberg",
+        "source": "Reuters Business",
         "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "伊朗油庫倒數22天爆滿！德黑蘭啟用各種「非常手段」 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tWXgtR1FKRFBYZDM4Y1ZqWE5VZmdsczNIZlllS0ljdlRtMmhiVnhqNmdVaTdJV0x1QmEyeVNybW1wa0ZrRlBUaERNNjRaWUk?oc=5",
+        "summary": "伊朗油庫倒數22天爆滿！德黑蘭啟用各種「非常手段」&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-04-29T00:40:04+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1202,24 +1436,6 @@
         "category": "finance"
       },
       {
-        "title": "Trump’s $1.5 Trillion Defense Plan Draws Rare Republican Pushback - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdEFNSkM1c0FNMzhoaGhITVM5QUZCbG1LeWtVZDhaTFZMZGtHdmV0bGp4VFB4NWhDTWtqdVVneEhxTHNoN0g0eTNEazRfSzl0Rjk0UWZQb2JlcVNXWFFYMUFaYWxFNkJOWk52X19PM1JQczdBbFJSbWhTZThNT0lTRkpzMUV4emF6SnBFYXJVbWZETndsYlVPdHY5Ml9HOEN3eUZoblZjMHN0Z21SSEtZbUh0OE0tQQ?oc=5",
-        "summary": "Trump’s $1.5 Trillion Defense Plan Draws Rare Republican Pushback&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T23:00:00+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Jim Cramer is unfazed by Tuesday's sell-off: 'You should expect them, even hope for them' - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHlLUE4xaDA5OFdfdjhjcWZ1Wk5kZEhEZFA4ODhMazN4MkhyeThPZ1BtY2c5dTkteHM1V2E1cmNWeU9fOHlNcnp4YTc4OGZlSGo0aGxWVlVXaHBUcHoyUkhBSlkwYkZKeE1TZ3Q4RURZZEJRby1wOURUQUxZbHotQkppT2h2VFgtMHNLWmdQLWRvUGJ50gGaAUFVX3lxTFBCUFVGMTgtRkc5cDhYai1EYXpaMnpNa0N1ak9JblJxdkt0YWZJYzVmZUdjbEFqRkxtalVjTElRc3pFRktkUkxuTUlDbTZTandtQnhDVHVkVkhaMGJ3TEx2LUd1SXZZR2l1TnVSQ2dldlNidEVFX2UtLUxmdG9Bbm94SllCTEhHRXRVS0dwQlJvXzVrbEdjS3JvcHc?oc=5",
-        "summary": "Jim Cramer is unfazed by Tuesday's sell-off: 'You should expect them, even hope for them'&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T22:20:23+00:00",
-        "source": "CNBC",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "Mondelez Reports Developing Market Growth Offsetting U.S., Europe Weakness - WSJ",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXZJUGdkbDBGTE1Tb3ltbmJzMXd0QnhrdmtTQUdIVkVCM3dvcDA4TjhnSkwwNW9lZWNRSzlUYm5VRE03U3VvZ2ZoRFdpaDNDazNRUXZkSnhaUFBVY2dLM2hiQ1ZmNHZrU08zaVlHamVOMzFrd3E4MVl4UjhRTlVaWmFvbnRQRzhTaG5JM3ppcjAtaXFYalFrZDhvTW1EWl9oS29fNUNERFJWZHUwcXhRTXIwOGdtb0xoc2RmZmVJVmo?oc=5",
         "summary": "Mondelez Reports Developing Market Growth Offsetting U.S., Europe Weakness&nbsp;&nbsp;WSJ",
@@ -1247,28 +1463,10 @@
         "category": "finance"
       },
       {
-        "title": "Asia Open Clouded by US Stock Drop on OpenAI Fears: Markets Wrap - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHZocW91eVJWVV9hMTFXWGg5VFJaQjI4cXBjWEg0eDNnc2pxSWJWN19oSkxxT2F0cG4yLU5WbUc4U2R0WHZRaWkzWk1ucXM4b2lhQ05hYzdKajZEZHJTMEt5YVplYkYwYXY4SktLaUE2dkNGYlRjQWNDd25KeDhaUTlnV081UENETE5SZ3NJVnhyYWYwUGxOR212MmdfaWhUWFdNYjVDVlZEUFpkNFJNTW5n?oc=5",
-        "summary": "Asia Open Clouded by US Stock Drop on OpenAI Fears: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-        "published": "2026-04-28T22:07:16+00:00",
-        "source": "Bloomberg",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Pentagon AI chief confirms DOD's expanded use of Google, says reliance on one model 'never a good thing' - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3pSMEp5eWlSb1BmNDBUWDNGVmRpM2lkdUNRYlBHWE8yaWl6MGItM1d1NW11dnhuTnlHN29uLUpqREhBbzRqZkFTVGREcENubkREaDg4S0tXZGVSU1dKSFhXMDV6QW1kNllWSUlrS2dEaU5KMjNtTkJyVkxSVncxMEw0RDFTWUlUUHVHUE5DbkYxR1l2dVNkbXBiX3lrWGp4WjFRRkFITS1Xd9IBrwFBVV95cUxPQjd4dFRTM3VBWnNqZWFJMklKYXlQb2l1UmF2V1hKTFhpSmltRW9mWjBNVEozcXM2dlF4WHVaSGE4YlQ5cWQxZTBqdG1UalA2WGdfUnhEbGdTeml5NkprS3drT0xtT1ZXcFd3Rk9XUWdwTXhoWEoxRWtlcldrT0pQODdCaUN3VHlRbWVOeDlCOWhpelo2czkzS1BvQXRhRXRKWl9nRzlRYXBnMGdQSTdV?oc=5",
-        "summary": "Pentagon AI chief confirms DOD's expanded use of Google, says reliance on one model 'never a good thing'&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T21:34:49+00:00",
-        "source": "CNBC",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "HSBC sees limited near-term impact on OPEC+ from UAE's departure - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEJZbmtXTjdOSV95d3FZYUhlam1XZXlrN0oyZFNpd0lpc1VrY1Z1U2lva1lqcDNZTHUwWG9BdS1DN0RVMHBscWs3Y25wczgyQ0dLRkVWVzhWb0d5RkJGRC1NQTRlRTdod1F3MjBZUWZTSldxZzhudEpOalN3MnU2cXBiZC1TS05lNVpZeHhTU3dQTXVhNTNxQ1U3aDFKaFJfWGZmVjNPOVFFUQ?oc=5",
-        "summary": "HSBC sees limited near-term impact on OPEC+ from UAE's departure&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T21:23:43+00:00",
+        "title": "Seagate forecasts upbeat quarter as AI boom powers strong data-storage demand - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWVqc0VFWklDcXlQN1JOMXZCSnVfVU9QTy05VWQ4M01CTWc5MGdmWGJsTGpKdlVxSjNHbHJjdlljdXJGNG84VkR3N09tdXFGcGZ3a2tJY0FXaE1BVzg1Ri01RDY3QVlmTE9FQWZhbWNlWDZ1T2JyMUF2NVRpNzBQNGRiakpmRUVUT3JCbmdWNmo0d1pybEk0bHdPVE9ma3hfZ3FQb193ZTZuV3hoNGFkcHoxLUlFT1VPRE1v?oc=5",
+        "summary": "Seagate forecasts upbeat quarter as AI boom powers strong data-storage demand&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T21:40:26+00:00",
         "source": "Reuters Business",
         "source_weight": 3,
         "category": "finance"
@@ -1283,12 +1481,21 @@
         "category": "finance"
       },
       {
-        "title": "4月28日 期交所夜盤行情 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9adE13eDZCTjZqcTEzc2pCaGc5VVRxWVpaX1lqaTZXVTJ5T2p3cWlHbnY5c1U3SkhxQk42bVFFbUlVZV9kS29LRnBoS0VUVHFGMFFKZjZNUmYzeWPSAWBBVV95cUxOMFFhRXQ3V3dUMkd0VzQzZlI4eGhuSTg3ektxUWk1VFFsQmJnTENmd2I0Z1hmbFZnVUQwX3BnMDZFRFc5blE2VUhhUm1od2dCbk5pVExRazJnS09NVTUwM3M?oc=5",
-        "summary": "4月28日 期交所夜盤行情&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T21:04:13+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
+        "title": "UAE exit weakens OPEC+ power over oil market but group to stay together, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcmZKRVltdFUzMFBld3oyR2R6dHQxQXRUSWctSW96c1VQSW5Xc0JPbTZrTkZxMWkwUXR0NEhEWEFYazhUc1NMcERRc2IxaUtQeklxR0tYanEwc1EzQ05ialFnUjhYNDA1cldjYks1aHh3SG5ydVM2Yk8tVjRqV0lpcExNNEhmVjVNcGJOUFl6TGdWSGUzeG41X0IzTjUzTk5xcjFQc0hqenp2dVZVWWNqV1lLUHhIUU9fSDR5UzFCRTdlMnJhSVE?oc=5",
+        "summary": "UAE exit weakens OPEC+ power over oil market but group to stay together, sources say&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T20:58:45+00:00",
+        "source": "Reuters Business",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "US to put Donald Trump’s face on passports - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWG9hUzlVTENQOFItNmh1UjFqd3l4Y0lOVzBEMjhqa00yREh1X25vcVpvbERDNUpjLXpmSHBSVkdwenFnLW14a0trYzQ2WjdQVFBCVDF0bWFGR0stTkRWRk1ENDJJQ0lDOFhwVV9meXpuU0dwcDY2TjNYSGs0OWxLMF92MWs?oc=5",
+        "summary": "US to put Donald Trump’s face on passports&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-28T20:47:09+00:00",
+        "source": "Financial Times",
+        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -1301,56 +1508,11 @@
         "category": "finance"
       },
       {
-        "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yQnI1NmxrcUhqX2FpTkF5TjI4VnRXQjNHOERGNHZIeGlqcEZtSXBNejJ5WktXLTVrU3N5eW1ORVBianRvVzRtb2xMcDB3T2l1c2FzQjdBa0dncTMySV82QTN2TEg3dExzMjVLWUozb1VfcDF6c1HSAXtBVV95cUxNTy1pcGhaS0VZdWotRldMYUFHRjB3dFdiSnotQ0lQcWMtc1NtcUpPbVVGWi16NUE3YWVjcGNCcml0UWxxdjQwSE5kVmJDT3A0Q2ZnTTh6WWFOSFhWRWVjZ1V4UEdJaGdSUmwxMnJuSGJhV3RqWXY2bjkzQ0k?oc=5",
-        "summary": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T20:15:32+00:00",
-        "source": "CNBC",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Oil price climbs above $110 for first time in three weeks - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1h5OGI5My1Ndl80VGZvOEhIdGpuUzJxaW9UM3d0Wm1DU0hPbkF2S1A0dkVTNmlsSHF1Vmp5Q21jQVhrRW4xV1FSeVllUm1nb0p6X3BhTTg2V2I4S19PeFpUd1NSeEZuUWdwaFFxVW51YTVhY3ZCYnZNeGNCUHZrbTg5RkQ?oc=5",
-        "summary": "Oil price climbs above $110 for first time in three weeks&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T19:57:18+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
-        "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-        "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
-        "published": "2026-04-28T19:43:02+00:00",
-        "source": "BBC Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "Trump ballroom unlikely to get White House Correspondents' dinners or end president's off-site events, critics say - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NTFNzb01neEplSGFDM1JobFB5RnBoS3h5b3lMLWR3SXdlSnlGdTREanF5UnRHTzAtYVpYendjNzhQaE9TSVNaNGtmalNudHNwWEx6TUJKclVjZDB0NTlFN3NtTmtacU0teFVQNFZUblc2REdVcncw0gF8QVVfeXFMTlNXd0xQOHVzbnlQV1dqNWowdWJhd1NKZnV6bkU5MDdfeEZRZ0hGQUt2emhWd1JlQXU1bkE0OWNGZG96VDVNeFRxQlFZRmlSdlVnQUhPTzdkSEg2ZldCWW5xZjVpSm1ocGtaLTg1dXUzVUVFNUpsWTF2MkFUVw?oc=5",
-        "summary": "Trump ballroom unlikely to get White House Correspondents' dinners or end president's off-site events, critics say&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T19:34:21+00:00",
-        "source": "CNBC",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Starbucks raises full-year outlook as turnaround takes hold — despite higher gas prices - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BXzR1SWNRdzJuVHp6bWg5U3FMOU90bXk3UFFsaHFMWlFDV3JMZ0xLTDJwQVd6WDNpa1BvX3Z6Vk5TQXlXQ3ZrT1VSdUtqVHpRV0wtU0QtZmYySEc5Nm13b2Y2NzIxVVh2MFlCQlphbGRIdXNLSzZz0gF8QVVfeXFMTTBxZmlmbEVoaElpcVpZUFp0T2xXX19YSk5VWTdmRGpVN1pUNXBQU19qamhaWi1XRXdvN1c5dEpkb1JZWk1naFFIbGlVVndoc2gtV3dUdjlMUjI2Z21GQ0FFcl9MMERNWVJKdE05eTg5ckJ3VEo1SFBYYTFhTA?oc=5",
-        "summary": "Starbucks raises full-year outlook as turnaround takes hold — despite higher gas prices&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T19:30:01+00:00",
-        "source": "CNBC",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Traders bet Nvidia's stock will return to record highs soon - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVFZSjNaSjdqYVZBcFhEc0RrLUREMUhNOHRRSUF2Nlp3VTFXNWU2X1ZjRU12U01JMk4td0RMOHlOVTlkR1A0UG1QOXdsa3QxcDVsNFAtTV9yYkpHN0hpZ25ydGZMWC1aNFE5Tng1aVJLNkNRWEJnN0ZWcnkzRmduQk94bmRQWDgxZ0lvQmVFNDYtZkp3OVYyV0hGWdIBoAFBVV95cUxOTGQzbmlDY05VVFRxQlZkc0VsN3ZDc1Bvdl9jaHhxNENCNnNCUS1qR2s1R3BqOTAxRklpRUx0bDhkQnVoSDhCcm5DU01kQXE4dnFtNlptTzNPWHZDR3h3NGlwd2hqMTZ5NnBqeDNNWDFxb3FMTGxPUkFnaVlhYmFsa0ZSMVZYYnBKWkRhVUJmUHhYU2dSYk93U3NjZEpLTC1S?oc=5",
-        "summary": "Traders bet Nvidia's stock will return to record highs soon&nbsp;&nbsp;CNBC",
-        "published": "2026-04-28T19:06:52+00:00",
-        "source": "CNBC",
+        "title": "台積電出清 Arm 持股 公司完整說明來了 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aUkpSODNxT1RBQkI5RS1IcHl5VnZjOFZEMGQ5UUhhcTNpaWZTaFBMN2owaEtFUThEeFNSdjFfd2Z2cWxrYnBHdGpUZk1DcXJPWUtvYk1xeTBFd9IBX0FVX3lxTE9DM0txaXFKbkdYamFFdkkwUHdhS295Q2hfaFpvZ244YzBDU1ItX1RsWHVNM1dPY2NncXl2azdBeDFvOGxYMXY5cUNsdmhmaHdzdW1QMmlWbzJYNHdtWGM4?oc=5",
+        "summary": "台積電出清 Arm 持股 公司完整說明來了&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T19:00:00+00:00",
+        "source": "經濟日報",
         "source_weight": 2,
         "category": "finance"
       },
@@ -1409,9 +1571,9 @@
         "category": "finance"
       },
       {
-        "title": "五檔記憶體廠Q1獲利賺贏去年全年 法人：第二季DRAM合約價漲幅從40％起跳 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ucTZQTTR4b2VvQnZjbFNzajlwUFFGb05FTmxMNWJ0Y05RQ240cXRBRmlUamxVdTBhYVUyaE9PX2FHQnFrdUlmUGx4OVNUZlJGZFlpUjF1c3ZvZjRGaFpv?oc=5",
-        "summary": "五檔記憶體廠Q1獲利賺贏去年全年 法人：第二季DRAM合約價漲幅從40％起跳&nbsp;&nbsp;工商時報",
+        "title": "台股行情反轉隱憂？券商不限用途借貸「額度告急」 3家券商額度已經用完了- 日報 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85amQxRVZ0SGpiSDdqRWdVRHM0YkhSN2VOMWhNd3ZQUHFOVldUWEtPMUdyYk5iSjJpbkJmbGxBbXRCMFo0b0kwVFUxZHliVWdwMTlDTHk5aE11LTM0Z3dN?oc=5",
+        "summary": "台股行情反轉隱憂？券商不限用途借貸「額度告急」 3家券商額度已經用完了- 日報&nbsp;&nbsp;工商時報",
         "published": "2026-04-28T19:00:00+00:00",
         "source": "工商時報",
         "source_weight": 2,
@@ -1436,12 +1598,12 @@
         "category": "finance"
       },
       {
-        "title": "US consumer confidence unexpectedly improves, but higher gasoline prices still a worry - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWtEbVQ2N3NkMm5LT1hXY2NCaUlnTWhjMTM2eEhDU0l5cS1HTm9nRkJsOHo5bERmY0EtZUUxdGdzV0JXYkZtNnFRbm9LemlQcUZvbWRVaFRKVVNkTGRCMmNTZUlLa0dIY3lnU0RERHNNU1loTTk4UUt0UFFoRUZJbU81QVVXSmVwY29jZHFCWjgwZnRNYjlYdnNPcw?oc=5",
-        "summary": "US consumer confidence unexpectedly improves, but higher gasoline prices still a worry&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T17:57:33+00:00",
-        "source": "Reuters Business",
-        "source_weight": 3,
+        "title": "外資賣超481億元 賣超0050最多、台積電也遭大賣 但竟大買這些金融股 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUnk0ZGRkb3J5ZDNpVDJVREZTSGtiTlI4by0xcmVHRmwtNVAzajBpUGJmcjdsZTlIWVN3Qm9EZi1IREF0bk9jTU1fS1JNVVFLWWZIX25VNFNUQdIBX0FVX3lxTE5aZExiM193RVFLMlN3eU0yZWNIenlUbDJtMDl6MlVRZjF5ZUNFeXdTR042bEx1S0lEaWtENzN3NGVvTWdfTVVxZ1lVa3gtNkkyeDZvdVo0VnFua3pxQXZN?oc=5",
+        "summary": "外資賣超481億元 賣超0050最多、台積電也遭大賣 但竟大買這些金融股&nbsp;&nbsp;經濟日報",
+        "published": "2026-04-28T18:00:00+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1463,12 +1625,12 @@
         "category": "finance"
       },
       {
-        "title": "台積休兵！產業指標股撐盤 聯發科、台達電等接掌多頭大旗 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQOWNUcVZEeE9OZ29ncE5KNEpYVENpM2NHRG1odlMwaUVOa0xfUkxXUmMyTTNFcHo4OUNXbGVDUzVDSWlHNExkMU13UWoxaDh0OVF4RGdiaGVSZ9IBX0FVX3lxTE1jb3ZhNEIxZDIyaHpqOVRnVHBMLUt1LXNZNl81dGFlTUdUcHVBVnBsdjl0cXVnWDYyUm5ZdEE5ZW1fQWVLQTdOdTBhMEpDbnNPS3RwQlM0UWt1dHZGY1hV?oc=5",
-        "summary": "台積休兵！產業指標股撐盤 聯發科、台達電等接掌多頭大旗&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T16:52:33+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
+        "title": "Portugal launches $26.5 billion resilience plan after storms and blackout - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM3Zya0Y3LXVjSE1xbzdSbXRNN3FVZjVNUF9HNGQzMHhfTFVnV2dXblluRFpHZTF1ZHBmMzAtVUV3cm9qV0J0X2ExeHBNZnFoTEJrSFZVLS01M0lHSTBwZmlBZ09XWTRpeWd5dzhVREs0YzI3VGxJQjgzMUxRa1A4VDYxLW5WWk5XWjduNEpkclZUV1hpT2JiQVlHcXRzWnBveUx5WkxVZV9nUXJvUmQ0RHp1SVhIdkhWSUJGcmtYQUo4a3haQ0tWMlljbUNqQQ?oc=5",
+        "summary": "Portugal launches $26.5 billion resilience plan after storms and blackout&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T17:00:32+00:00",
+        "source": "Reuters Business",
+        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -1499,30 +1661,12 @@
         "category": "finance"
       },
       {
-        "title": "台達電 挑價內外15% - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hM3JUcFpEd1M5YUR4cUdXTGN2d2xMUXEzZVhoS3hHWDNJOGVKdXA1M0hQWnBUZjkyWTlJUGh2N2Z3dWNzXzNuV2J4Rmw1SDRpbnk1SEdNMnlHZ9IBX0FVX3lxTE92bVBRREQzSVRoLVhRdXhVMjBpMEtuSDdtc19QSjZmcG1BajdRaVNPWWVWMVdXZWpVbmI3Z2UzWklDRTVlaFJEMkF3bVltNWZGWnc0NHJsZ3dTNWlVWXlV?oc=5",
-        "summary": "台達電 挑價內外15%&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T16:13:18+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "盤中速報 - API3大漲9.34%，報0.355美元 - news.cnyes.com",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YdENNMmltVlp5RWtOYmRYMXpxZ2FWb0hRaDZReUZpM1NQQjRYbkl1cVNWRjh6Vld0bEc3VlhqYmJNSkd5VERFbjZBR3RKSkE?oc=5",
         "summary": "盤中速報 - API3大漲9.34%，報0.355美元&nbsp;&nbsp;news.cnyes.com",
         "published": "2026-04-28T16:06:28+00:00",
         "source": "鉅亨網",
         "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "CVC weighs €9bn bid for Italian payments group Nexi - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUVHSXkwdUdyOHRFZzluaUNiSzUyejVhM040WktSWE9uZXNCNVZaWHp6dGUyM21RS0ZmNHV1aHRNa09veElVdTMxSm5Ddk1fR3lZX2dGT3pRZVRsR18zQnhuQjZJcXNKb2llQXRFWjJ0a3RuMG9JVkdTS2MzZ1QtdGg2ZVk?oc=5",
-        "summary": "CVC weighs €9bn bid for Italian payments group Nexi&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T16:05:06+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -1571,11 +1715,29 @@
         "category": "finance"
       },
       {
-        "title": "AI disruption puts focus on long-term value of US equities, Goldman Sachs says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUs3dkN5YTNySVZqei1xeWJPXzd2SkdjSFlZM1BiSTh4dDd0blFLd2xrUDl3QlgydFBSWEdTc2s4LVZxLVBsNjgxdnVjVzdUSWdRb0tNczNNdzM5bU9OT3FPX0ZRSE81YjBVUmtjY1ZacTVZNW5MVEZ1NkZKODNqWVdvTHZ2OXFjZERCSXdESUtFYzNtZmJjTl9YVk51dWZfdzFvNHNMN2FqTkpZM1hOUEs4eWx5bU1LRzM3ak93?oc=5",
-        "summary": "AI disruption puts focus on long-term value of US equities, Goldman Sachs says&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T15:07:50+00:00",
+        "title": "JetBlue plans capacity cuts, fare hikes as high fuel costs widen quarterly loss - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3g3RHpPOUIwblliZmhMaEVkQWtzdnhNQkxrNUZIcHp3MURZaFQxNkVhUk1TRXBlS19yUEdaMmQ5SThWbWlSYkNCckh2SHdROEJhVW85Z0RwOTR6MmprRkctdFFoN0pIWlR6SG4ySW5pc3hIWWRISTBLcWd5dmprbVlYYTVNRGc4cjUtN056ejdaM08yZDRCWG5fWnl5WlR3OGJmTkM4NUpjYS1HbWc?oc=5",
+        "summary": "JetBlue plans capacity cuts, fare hikes as high fuel costs widen quarterly loss&nbsp;&nbsp;Reuters",
+        "published": "2026-04-28T15:22:38+00:00",
         "source": "Reuters Business",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "PR executive tried to ‘get rid’ of documents despite legal warning - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTZtTW1NSlBWNHBpRjB0aTVNTlNUdy04VVBqcnBEd05waVVsdXNPa0pqNVlMRU40eTJ1Zi1RNGxhdEo5SUl5aXJvd05QN0ZBVnBZZHBFUFBtU19Qb3pIMUxkbEpTaFNxLWtMSXI4RVlpUGx4REtXTmtUVGMzX1dERGZWU3Q?oc=5",
+        "summary": "PR executive tried to ‘get rid’ of documents despite legal warning&nbsp;&nbsp;Financial Times",
+        "published": "2026-04-28T15:14:35+00:00",
+        "source": "Financial Times",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "UPS Nears End of Restructuring as Outlook Faces Headwinds - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWHVya2J6N1JMWHhuM1JINGo2eXBBNUhjaXhuSUl6dXJrUnBLWTdLUFZhcU51a0lHU2JleVJIQ3dKbF9XUll0b0xNRWNudmphVk9FNFdzRjBfUUx2NEVZS1Z4RThPdTVxSmltWWZyVUI5TF9PamVMeXZRbXBtSDNyY0tLaTMxSGU5R000TFRFV1E3RnZCeEtDOVpfUlI0THVYT0E?oc=5",
+        "summary": "UPS Nears End of Restructuring as Outlook Faces Headwinds&nbsp;&nbsp;WSJ",
+        "published": "2026-04-28T15:06:00+00:00",
+        "source": "WSJ",
         "source_weight": 3,
         "category": "finance"
       },
@@ -1652,15 +1814,6 @@
         "category": "finance"
       },
       {
-        "title": "台積電收低35元失守5日線 台股收跌218點 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRGN4emZVdWIwWlZOSGZkVFpUZThRQTJnYWxlM3JSbWlzVnpQRHVfc0M0Njl1X1Y1VFRZa1RURm9sSWxTamh0ODdaQlZ6SVFkaU9MU01DeEhEQdIBX0FVX3lxTE14ZlNSNG5HUFVYTkF5QWo0dXBUNHlGdU1HLVZ4U1VNa0NWWkttMU9Jc3FvYTg3SDFYUmZUc3plUGlLajVnRnpYVjBLQ0RXaHhqS2dJVUNoOGhidlpGdmQ0?oc=5",
-        "summary": "台積電收低35元失守5日線 台股收跌218點&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T14:00:00+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "川普：伊朗求開放荷姆茲海峽 稱陷「崩潰狀態」 - news.cnyes.com",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nS0Y2aW14c294SFhjOVRaNEhpV2JudjFtWnI2SlJoVFZxa1ZNZzN1Tmx6dlVHaGRNM0VMQ0NSNGhxcEpDZUpCOWFnd3hWeGs?oc=5",
         "summary": "川普：伊朗求開放荷姆茲海峽 稱陷「崩潰狀態」&nbsp;&nbsp;news.cnyes.com",
@@ -1706,6 +1859,15 @@
         "category": "finance"
       },
       {
+        "title": "U.S. Home Price Growth Slowed in February - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3kwbWNnS21WZ19zaG1xcHNhVEFMWHFIMUFyTTc0dTZmaE1BMmUxNVR0R3ZQTmhaSzJIU28yZzVpSGlCeF9EU01walVXWU1aU0lqcms0am9PSjJCbWhHQ25LWUlQZnVBajZhb1pCNlRUMExlT2ZtM2U4dmZBLUc3VjF2X2hCVnhBQlVJNGt3?oc=5",
+        "summary": "U.S. Home Price Growth Slowed in February&nbsp;&nbsp;WSJ",
+        "published": "2026-04-28T13:11:00+00:00",
+        "source": "WSJ",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
         "title": "Corning Profit, Core Revenue Rises - WSJ",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGpLcmNnbmxCRXdkQU1JYjNKWGR1LUJiZDIteGFoN0JTOWJDXzJzYzYweUsycWJsWEJ6b0MzNEZoVEZBZkJ0V0Z6MU9Jck9FTjVQd2hTZ2Niem5ZQnhwZk1waHJyeGhwVVM1MThVajdJbUQxNGZWbmgtWHlkY3RPLUVOdTRMR0k?oc=5",
         "summary": "Corning Profit, Core Revenue Rises&nbsp;&nbsp;WSJ",
@@ -1724,6 +1886,15 @@
         "category": "finance"
       },
       {
+        "title": "暴雷！比亞迪Q1淨利人民幣40.85億元 年減逾55％ - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwdmFlUFhwc2d2TzVZM0hhN2NLRkZCdUFOWWpxb19CQ19GWUxPX2c4czVVc2JrR2ZYQkE1dTU1MzJDeVpnMlNVc2pSa0ZzbzV4V0N4bjFWSDQ0NXU4azB3?oc=5",
+        "summary": "暴雷！比亞迪Q1淨利人民幣40.85億元 年減逾55％&nbsp;&nbsp;工商時報",
+        "published": "2026-04-28T12:36:00+00:00",
+        "source": "工商時報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "UAE to leave Opec in blow to oil cartel - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmgxM2R4dkJmSUdneVpFYTVOSXZ5ZVFpRk1xdFA0ako0TlhYQ0lyMUwxNkYweUZ0dzh6eTdDbkt1OFdfRVNDeDRsVmR6clBIQ3ZRQ29TSkRJUi1OakxhMW5HVlUzUWQzc0JDWTJGbGN2dk9VZUNWWkJlcVRWYmF6ZHdJUEQ?oc=5",
         "summary": "UAE to leave Opec in blow to oil cartel&nbsp;&nbsp;Financial Times",
@@ -1739,6 +1910,15 @@
         "published": "2026-04-28T12:31:04+00:00",
         "source": "鉅亨網",
         "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "Penguin Random House owner Bertelsmann Combines Music Arm With Concord - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGFPMnZBZ0ctRXc4U052M0JoMWR6TDJ1X190UkFJSjlpV1hNXzRzblFQZTNNTE9lalRCRTNLRnMtaTVOTzF1VHkxYzl1dUJUMVh6eU1TZTBKQk5LRkhhSXlRS3B0SlhJRWZab3AxMUNBbXVYVHpSOHJCc3lXejV1TW1WSzFkNWpKMC1xM3hTRGgxQ21RZDZBRm5wZnE1Q0FpX0JZclRRV1c0TC04RHJ0dDl4Zk0?oc=5",
+        "summary": "Penguin Random House owner Bertelsmann Combines Music Arm With Concord&nbsp;&nbsp;WSJ",
+        "published": "2026-04-28T12:20:00+00:00",
+        "source": "WSJ",
+        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -1796,101 +1976,11 @@
         "category": "finance"
       },
       {
-        "title": "Get used to the long Iran war - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDdKbU5PY01RREdJZUNoaVFNbER2bmtaZy1xblJfZmprV0tpbnRwRTRnNjA5d3Z6djRwRGV2UHpjMGtkeFJzRVFaX0NHVjFvZTBYX3NOYnJIWmtjUUdxakdzZi1IUUJkbnZ4SnpTQ2RPZi1JWFZjX25QUlJLRmoxYmEwanA?oc=5",
-        "summary": "Get used to the long Iran war&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T11:17:57+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "牌照稅再放寬居所與身障者同戶籍也可免稅- 要聞 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGS1d0NXVycTJEQ01OLU82WEFkM0NwaVBqVnA1RWRRNVNBT09KYnJGc3JnbHBTck81SERiZnBMUkJEdHpKQ05qQ2lTU1Rwa1N0QTJyQmNuUkhkX25rLUlr?oc=5",
-        "summary": "牌照稅再放寬居所與身障者同戶籍也可免稅- 要聞&nbsp;&nbsp;工商時報",
-        "published": "2026-04-28T11:13:00+00:00",
-        "source": "工商時報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWNVVzdGMmUtRnY2VTJ5S0hkXzJtZGdNY0NBdlpPc0FlRnc2QkRXY2I2dEpndjJuUDl2cTN3ZkVnckNpYWZkT0c3cUNlWG1VS1JLQ1l6Wk5IQ003UUJjWEpKS25Qem85R1VncVlhXzh6djZ0UW12bUkyWFNJeGpSLW5PdGVRUjEwTWlUQjBEZ2huV2ZCRFVfWGlMNkpuWUVOSzMzMXVKa09EaWZNSl9YN0ZRR3Zad0lJUTNxWC1LVWtaZw?oc=5",
-        "summary": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T11:09:38+00:00",
-        "source": "Reuters Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "台積電處分股權投資 每股207.65美元全數出清 ARM 持股 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eG8wMUtSSDQ3U1QwanRkM1VxRmlKRnRscXNNc3NyRVNIVkhINU1Ra3hKM2pDT0JrM1dYSkc0LTJTeTRtb002TXNpTERpLTBYYW1WYjVrb0VUQdIBX0FVX3lxTE5SSkFZUW5jdC05OTNidkFJeEdMU2MxMXk1RVAxaGljdzUwSkRSVUo4cUJlR2xkVGg5UHhnLWdTTVVrMUhlQmZOOFJXbV9zTVZ3MUNrMm9SbGVneGR4SGE0?oc=5",
-        "summary": "台積電處分股權投資 每股207.65美元全數出清 ARM 持股&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T11:00:00+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "BYD profits drop by more than half as Chinese sales slow - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0tJcExEbU9WeUZhR0hqaFNRQ1FGRW9IZnQ2N1JiYThwVEJ0ejlndGo3RjRweVJBZHg3V0RZQ1VwZlN2LTMzNGszTGMtNllEd3ZVS2trZUhhR2V5RGRoWFZVQ0pMZFF2R2lIeHE5eUY2TXFaVV9XcUZrakdUOGNuRXFoNVY?oc=5",
-        "summary": "BYD profits drop by more than half as Chinese sales slow&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T10:59:00+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "光鼎生技布局日本市場 董事長親訪日本大塚電子共商戰略發展 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y05BY19HWVl2X1FReDFPX09TWDBOWW9BdExkRkpNeElGaldUOTlLdVllTC1sNGVVcEt6WmFYalo4TjFqTU0zcFlZaENpVVdfWGNPR2dPY3JEZ9IBX0FVX3lxTFB0Mkd1NVJpVmQxdkl3c0swODJRLUV5NjlQUlBad0Fhd0JVc0dWTzJEbUNyTk1ITUMtV0xnc01uRHlIUi1nNmFiWUZ4VkNIQ1BLajZUR1FwT2tqR1FURDJJ?oc=5",
-        "summary": "光鼎生技布局日本市場 董事長親訪日本大塚電子共商戰略發展&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T10:55:53+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Kimmel Pushes Back on Trump’s Calls for Disney to Fire Him After Melania Joke - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNV9sS1F0NTNENU53Y0dib1ZBWWZzVXZBWG1ONHQydWt3N2tUckJVRGVzUFl4b29SWjd0eFBwS0ZFOUVDcExQd1BxYTFNVTIyQkJZLVhQZlBWNDdidFRHblhIejVyc3Vjc1dQd3pBNWlTSFFHZTBVMnlMd3RRY0MwaHVWOHVJaVBkcFVXa3ln?oc=5",
-        "summary": "Kimmel Pushes Back on Trump’s Calls for Disney to Fire Him After Melania Joke&nbsp;&nbsp;WSJ",
-        "published": "2026-04-28T10:53:00+00:00",
-        "source": "WSJ",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "期交所4月29日調高元晶期貨契約保證金比例 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlanMzalV2RVotZ0RmcWMzUHhEN3dRRlBoa0RPaFVSdmQ5OVQwM3VwSHRCQzE0a3RHQ3NYb1RqNXZPUlhaM1dKNDl1RE5XQTRiR1RkaTl5a0Jjb0nSAWBBVV95cUxOSU4zU3JCc1JtbnByRG5FZEZ1NHpKclZ0em5QMy1MdXkxdndwbEtFS0FCU0lIMGZfQlM3dE1sS3JRS29vTkJyU1lJYWFuMlppYVdONlNZX3JYajJGbUJ4TWk?oc=5",
-        "summary": "期交所4月29日調高元晶期貨契約保證金比例&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T10:52:08+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "Airlines cutting fares to lure hesitant customers, says Wizz Air",
         "link": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&at_campaign=rss",
         "summary": "Boss József Váradi says European firms want to boost flyers put off by fares inflated by jet fuel costs.",
         "published": "2026-04-28T10:25:31+00:00",
         "source": "BBC Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "韓股緊追台股，躍升全球第8！AI燒出的錢潮，三星、SK海力士股價狂飆－中央社 - 商周",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BTkhsYVdPeEhZUEVyQ2kxUDFnMFh5VjJ0d0t3aWJNQkxaaVZoSFZRdWNSYWZVVlcycmMwcVVJUVZCY3ZtMXhQZ0s3bTRuNkJTYjZfS0hJUkdDRGVoU25PNkx4TXFYMkdhZkszVw?oc=5",
-        "summary": "韓股緊追台股，躍升全球第8！AI燒出的錢潮，三星、SK海力士股價狂飆－中央社&nbsp;&nbsp;商周",
-        "published": "2026-04-28T10:14:38+00:00",
-        "source": "商業周刊",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Exclusive: EQT-backed IT firm Virtusa seeks $1 billion in India IPO, sources say - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEtvSS1GMmhCWGQ3ZzdkRFR1eXJkMWUxUXpMZDhSWnJkVDctdVEyNGNmRnR5VWVTa3hMQVRQYVVzenFWX1Ntd2pUcUpYR3EtVUVWU094bHZQWDk0ZlBwcnBmSmIxSzN6aE5aZmhBemFNeHl1bTh1OVZIVDlPOVRveU1iN2dvMmxuQVBmU1JtYTdBZ0Vndk5DUEcyalZaOUlWTWgxaVR2cExVbm5ROUlaLVB3?oc=5",
-        "summary": "Exclusive: EQT-backed IT firm Virtusa seeks $1 billion in India IPO, sources say&nbsp;&nbsp;Reuters",
-        "published": "2026-04-28T10:12:52+00:00",
-        "source": "Reuters Business",
         "source_weight": 3,
         "category": "finance"
       },
@@ -1901,87 +1991,6 @@
         "published": "2026-04-28T10:11:28+00:00",
         "source": "BBC Business",
         "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "英業達砸32億元擴充桃園大溪廠AI伺服器產能 年底投產 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wWld1dXZER3pUN2E0UnFjM3hHRXRBT2hmVFlUM0ZVdzBvZEVwMko5eDZ0dTdCUVdqSFY3MFNjdkhQWmVnTHlrTDZFY2hjVVk?oc=5",
-        "summary": "英業達砸32億元擴充桃園大溪廠AI伺服器產能 年底投產&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-04-28T10:02:15+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "台灣首家！南亞科打入 Vera Rubin 鏈 毛利率叩關七成 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2OTA5WmxrSURSZUw5ZnBhUkEtaGdXcGJNT0V5Tjc3TXRMbE5uUENVNU12UWxhd2w1X0w5Yk9DS1pyUldXQUttdHdQRmUyclRsSTJWTzdEdGxod9IBX0FVX3lxTE9RakJWaE5RbWlPWFMyUEpiMnFSSng4dFRHMWcwckRxdVF6MnhXTWVtOWRPM2VWSVdPLThmLW4xN1RpVVo3Zk1BaC1rdGw0bEdYeDhUOVRpRnF6Rmdmb2JJ?oc=5",
-        "summary": "台灣首家！南亞科打入 Vera Rubin 鏈 毛利率叩關七成&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T10:00:00+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "陳忠義 - 鉅亨號",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sRnRkN1ZJaWdpeWJVc0pQWmhQYUgzLVZJRE43WWNKd1BtLTBYcUNSTEFPX2tXaVdHWUktWnpTdXdCUjdja3c?oc=5",
-        "summary": "陳忠義&nbsp;&nbsp;鉅亨號",
-        "published": "2026-04-28T09:40:03+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "The Fed’s Rate Cuts Are On Pause. But Are They Also Off the Table? - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGcyb1FoNWt1d296cTZHekV2Y2phOWNuQllsV3NjZnZWZUtIaGlveFNGTmYwSDh5SGFLTHhKemFjckN0dGtxR3dMNlZpYl92cFVFcWMyOHEzbW5pS3FLZC1TbGliTEJkbGJsc3FNRmJYUDJyWmFSRHlhd29YT0hYX3NFSS13MVNJLW92NXRUdDJJSHQxNjFJUGhlU0FNSmd2S0RDUGFQREl5dl9hRUoyUUxvNUpiY28?oc=5",
-        "summary": "The Fed’s Rate Cuts Are On Pause. But Are They Also Off the Table?&nbsp;&nbsp;WSJ",
-        "published": "2026-04-28T09:30:00+00:00",
-        "source": "WSJ",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "買了真的賣不掉？網揭「避雷房型」：不要碰！ - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwcVlDS29Kc0E4Nmo3MHgyTW9oZndzaS1kVVpkb0tFSEJTUlQ2S2k4aFdLSHNCZWROMEttMjMzS2FONXVzNUp5dVNJaHlyeU1RWnk5UW01RVdsbXRxU1B3?oc=5",
-        "summary": "買了真的賣不掉？網揭「避雷房型」：不要碰！&nbsp;&nbsp;工商時報",
-        "published": "2026-04-28T09:30:00+00:00",
-        "source": "工商時報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Barclays takes £228mn hit from collapse of UK mortgage lender MFS - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnA4SHEtWG1uMC1RV0JWME02R3I1VXdmRWRyYkJncmJjYTlWa3dpck14akJvWkE5TWE2NUtLUVRRSVAzNEhDLW9PckRPMV9nNXlsUU42elVUS0dKR1dkc1RhZWhkWGQxNkpXNFhCeU9xcmtIS2JUXzlBRnFYUlFoR0dDV00?oc=5",
-        "summary": "Barclays takes £228mn hit from collapse of UK mortgage lender MFS&nbsp;&nbsp;Financial Times",
-        "published": "2026-04-28T09:27:16+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "《科技》MLCC供應商定價現分歧H2價可望溫和上行- 產業 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qU2VnUEZCY2xNWjRjaWFSNTYxZ2Z0bGlGUF9kZ2d0SzE1OEhMMTJoZVNsMEI2dF9sWU5fYVllX05uS2tRVnhXUHJ2R0lpbDdwUF9RbGRsakRFNzR1UDc4?oc=5",
-        "summary": "《科技》MLCC供應商定價現分歧H2價可望溫和上行- 產業&nbsp;&nbsp;工商時報",
-        "published": "2026-04-28T09:26:00+00:00",
-        "source": "工商時報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "Anglo American Continues Portfolio Optimization, Backs Guidance - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObHZaNW5uSTRwMnNkWllLWDlHU2xMZl8yYnpBOU85dVBWSW42Z1JMSFFYbmZlVk5wbExuczhiSDhPc25nR3d1ZnQ4ZG8xck9IWEVsTnBVbXowUUJkZFJvblpsd3VkX2F3T1lMc2pRSnhNTHJMT2U2cUFMZm1oc2ZwNXhRYi0yWVZKTk5zX3dlLWJTallpM19sSXFWNHpoN2owekJaYmpXU0R2c3UyZVdxMUd3?oc=5",
-        "summary": "Anglo American Continues Portfolio Optimization, Backs Guidance&nbsp;&nbsp;WSJ",
-        "published": "2026-04-28T09:22:00+00:00",
-        "source": "WSJ",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "這檔股票外資喊快買 股價潛在上漲空間超過六成！ - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NVDV0ZGNkX1d5YjJVSXVDM2NSNXRlZFFKN2RubGQtcDNORGQ3blhsUGhhOHdFX2hTM3ppZHV0aFhON0lGZkQ1VHhzWHFPeV9rdkh5NzJZZlppd9IBX0FVX3lxTE1USHdmSG5KOUI5aTFwZ2ZZT0I4MkxjZ1VPMmlhc1lFMVJ6WlUwakxJRG1MMjhwMHU0X2JrOWpqa1pIY0VZUmhlYzhjZmwzb0N5amRnTGdHVU1uX09pSjJN?oc=5",
-        "summary": "這檔股票外資喊快買 股價潛在上漲空間超過六成！&nbsp;&nbsp;經濟日報",
-        "published": "2026-04-28T09:08:58+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -2012,15 +2021,6 @@
         "category": "finance"
       },
       {
-        "title": "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
-        "link": "https://www.bbc.com/news/articles/cg4047qnpk2o?at_medium=RSS&at_campaign=rss",
-        "summary": "All of the chain's standalone stores have stopped trading in the UK and Ireland.",
-        "published": "2026-04-27T16:36:50+00:00",
-        "source": "BBC Business",
-        "source_weight": 3,
-        "category": "finance"
-      },
-      {
         "title": "Retirement contribution limits will rise in 2019",
         "link": "http://money.cnn.com/2018/11/01/retirement/irs-contributions/index.html?section=money_latest",
         "summary": "Good news retirement savers: The Internal Revenue Service announced cost of living increases to the contribution limits for retirement-related plans in 2019.",
@@ -2031,6 +2031,141 @@
       }
     ],
     "crypto": [
+      {
+        "title": "Tether leads Belo's $14 million raise to expand stablecoin payments across Latin America",
+        "link": "https://www.coindesk.com/business/2026/04/28/tether-leads-belo-s-usd14-million-raise-to-expand-stablecoin-payments-across-latin-america",
+        "summary": "",
+        "published": "2026-04-29T11:13:32+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "Pump.fun 銷毀 3.7 億美元 PUMP 代幣：未來營收 50% 買回再燒",
+        "link": "https://abmedia.io/pumpfun-burns-370-million-pump-token-50-percent-revenue-buyback-2026",
+        "summary": "Solana 主力 memecoin 發行平台 Pump.fun 4 月 28 日宣布一次性銷毀過去 9 個月以營收回購累積的 1,280 億顆 PUMP 代幣，市值約 3.7 億美元，等同於流通量的約 36%。同時宣告新的買回燒毀計畫：未來一年將以平台 50% 營收進行 programmatic buyback-burn，剩下 50% 投入產品、行銷與生態擴張。共同創辦人 Alon Cohen 親自說明分配邏輯。消息發布後 PUMP…",
+        "published": "2026-04-29T11:13:15+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "美方禁向中國第二大晶圓廠華虹出貨：5 月川習會前再升溫",
+        "link": "https://abmedia.io/us-halts-chip-equipment-shipments-china-hua-hong-2026-04-28",
+        "summary": "美國商務部上週以信函通知 Lam Research、Applied Materials、KLA 等半導體設備龍頭，要求暫停部分對中國第二大晶圓廠華虹半導體（Hua Hong）及旗下華力微電子（Huali）的設備出貨。封鎖目標包括華力上海正在準備的 7nm 製程量產線——預計 2026 年底達月產數千片 7nm 晶圓。此舉繼華為、SMIC 之後再升一級，且時機正好在川普與習近平 5 月北京會面之前。 這篇文章 美方禁向中國第二大晶圓廠華虹…",
+        "published": "2026-04-29T11:13:07+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin rebounds from key support as traders eye renewed push toward $80,000",
+        "link": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rebounds-from-key-support-as-traders-eye-renewed-push-toward-usd80-000",
+        "summary": "",
+        "published": "2026-04-29T10:48:18+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "美股七巨頭微軟、Google、Meta、亞馬遜財報開獎，AI 資本牽動台積電走勢",
+        "link": "https://abmedia.io/magnificent-seven-earnings-ai-tsmc",
+        "summary": "美股四大科技巨頭 Alphabet、Amazon、Meta 與 Microsoft 將於今日（4 月 29 日 [&#8230;] 這篇文章 美股七巨頭微軟、Google、Meta、亞馬遜財報開獎，AI 資本牽動台積電走勢 最早出現於 鏈新聞 ABMedia。",
+        "published": "2026-04-29T10:32:53+00:00",
+        "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Mezo unveils institutional bitcoin yield vaults as demand grows to put idle BTC to work",
+        "link": "https://www.coindesk.com/business/2026/04/29/mezo-unveils-institutional-bitcoin-yield-vaults-as-demand-grows-to-put-idle-btc-to-work",
+        "summary": "",
+        "published": "2026-04-29T10:28:02+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "Celsius founder Alex Mashinsky settles FTC case with $10M payment",
+        "link": "https://cointelegraph.com/news/celsius-founder-settlement-includes-10m-payment-suspended-47b-judgment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "summary": "The FTC order ties Mashinsky’s $10 million payment to a mostly suspended $4.72 billion judgment that can be revived over asset disclosures.",
+        "published": "2026-04-29T10:10:18+00:00",
+        "source": "Cointelegraph",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Fake Hong Kong stablecoins start trading as real ones remain absent",
+        "link": "https://www.coindesk.com/policy/2026/04/29/fake-hong-kong-stablecoins-start-trading-as-real-ones-remain-absent",
+        "summary": "",
+        "published": "2026-04-29T10:06:08+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "Judge Shoots Down Sam Bankman-Fried's Bid for New Trial",
+        "link": "https://decrypt.co/365915/judge-shoots-down-sam-bankman-frieds-bid-for-new-trial",
+        "summary": "The judge dismissed the FTX founder’s claims that potential witnesses faced \"government threats and retaliation\" as \"wildly conspiratorial.”",
+        "published": "2026-04-29T09:55:18+00:00",
+        "source": "Decrypt",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "我在貝佐斯私人派對上學到的富豪心態：「同理心是弱點、沒有失敗、都不重要」",
+        "link": "https://www.blocktempo.com/noah-hawley-atlantic-bezos-campfire-billionaire-free-consequence-empathy-essay/",
+        "summary": "Fargo 影集主要創作者 Noah Hawley 在《大西洋月刊》五月號刊出長文，他回憶 2018 年受邀參 [&#8230;] 〈我在貝佐斯私人派對上學到的富豪心態：「同理心是弱點、沒有失敗、都不重要」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-04-29T09:52:42+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Canada proposes crypto ATM ban over scams and money laundering",
+        "link": "https://cointelegraph.com/news/canada-proposes-crypto-atm-ban-over-scams-and-money-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "summary": "Ottawa says Bitcoin ATMs have become a key tool for scammers, as regulators move to tighten oversight of high-risk parts of the crypto sector.",
+        "published": "2026-04-29T09:49:45+00:00",
+        "source": "Cointelegraph",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "KuCoin EU hires anti-money laundering talent to appease Austrian regulator",
+        "link": "https://www.coindesk.com/policy/2026/04/29/kucoin-eu-hires-anti-money-laundering-talent-to-appease-austrian-regulator",
+        "summary": "",
+        "published": "2026-04-29T09:27:10+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair",
+        "link": "https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "summary": "Bitcoin fell after each new Federal Reserve chair began work, data showed, while Kevin Warsh gave mixed signals over policy for risk assets.",
+        "published": "2026-04-29T09:19:21+00:00",
+        "source": "Cointelegraph",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "There's a social media groundswell predicting bitcoin above $90,000. That might be a problem.",
+        "link": "https://www.coindesk.com/markets/2026/04/29/there-s-a-social-media-groundswell-predicting-bitcoin-above-usd90-000-that-might-be-a-problem",
+        "summary": "",
+        "published": "2026-04-29T09:11:43+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "Pump.fun has been using all its revenue to burn its token. Now it’s changing course",
+        "link": "https://www.coindesk.com/markets/2026/04/29/pump-fun-burns-36-of-pump-supply-in-usd370-million-wipe-locks-50-revenue-into-ongoing-buybacks",
+        "summary": "",
+        "published": "2026-04-29T08:55:12+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
       {
         "title": "三星晶圓代工 4 奈米良率突破 80% 門檻，正面迎戰台積電",
         "link": "https://abmedia.io/samsung-4nm-yield-80-percent-tsmc",
@@ -2185,28 +2320,10 @@
         "category": "crypto"
       },
       {
-        "title": "法國公民遭 SDNY 判 8 年：4.7 億美元加密洗錢，2026 年迄今最大個人判例",
-        "link": "https://www.blocktempo.com/french-national-sentenced-eight-years-sdny-crypto-shell-company-laundering/",
-        "summary": "美國司法部紐約南區檢察官辦公室（SDNY）於 2026 年 4 月 29 日宣布，一名法國公民因透過空殼公司與 [&#8230;] 〈法國公民遭 SDNY 判 8 年：4.7 億美元加密洗錢，2026 年迄今最大個人判例〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
-        "published": "2026-04-29T06:09:14+00:00",
-        "source": "BlockTempo 動區",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
         "title": "首檔預測市場 ETF 下週上市，公開下注美國國會大選結果",
         "link": "https://abmedia.io/prediction-market-etf-us-elections",
         "summary": "根據市場消息指出，新型態金融商品 「預測市場 ETF」（Prediction Market ETFs）預計將 [&#8230;] 這篇文章 首檔預測市場 ETF 下週上市，公開下注美國國會大選結果 最早出現於 鏈新聞 ABMedia。",
         "published": "2026-04-29T06:04:35+00:00",
-        "source": "ABMedia 鏈新聞",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "禁藥版奧運 Enhanced Games 5/21 開打：他們相信什麼？",
-        "link": "https://abmedia.io/enhanced-games-transhumanism-anti-doping-2026-may-las-vegas-thiel",
-        "summary": "Enhanced Games 是一場容許運動員公開使用 PED（performance-enhancing drugs，效能提升藥物）的奧運替代賽事，由澳洲商人 Aron D’Souza 創辦，Peter Thiel 與 Donald Trump Jr. 旗下 1789 Capital 出資，預定 2026 年 5 月 21 至 24 日於拉斯維加斯首發。賽事核心是一套被稱為「人類增強主義」（transhumanism）的世界觀，但 W…",
-        "published": "2026-04-29T05:49:17+00:00",
         "source": "ABMedia 鏈新聞",
         "source_weight": 2,
         "category": "crypto"
@@ -2227,15 +2344,6 @@
         "published": "2026-04-29T05:14:33+00:00",
         "source": "CoinDesk",
         "source_weight": 3,
-        "category": "crypto"
-      },
-      {
-        "title": "史丹佛大學成矽谷人才採礦場，Theo Baker 揭學術殿堂如何統治世界",
-        "link": "https://abmedia.io/theo-baker-how-to-rule-the-world",
-        "summary": "即將於2026年5月出版的《如何統治世界》（How to Rule the World），由史丹佛大學學生兼調 [&#8230;] 這篇文章 史丹佛大學成矽谷人才採礦場，Theo Baker 揭學術殿堂如何統治世界 最早出現於 鏈新聞 ABMedia。",
-        "published": "2026-04-29T05:14:00+00:00",
-        "source": "ABMedia 鏈新聞",
-        "source_weight": 2,
         "category": "crypto"
       },
       {
@@ -2262,15 +2370,6 @@
         "summary": "Robinhood’s Q1 earnings per share and revenue figures missed industry expectations, sending the company’s shares down nearly 10%.",
         "published": "2026-04-29T04:22:36+00:00",
         "source": "Cointelegraph",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "台積電處分英國 CPU 設計公司安謀 (Arm) 股份，獲利 1.74 億美元",
-        "link": "https://abmedia.io/tsmc-cpu-arm-holdings-intel-amd",
-        "summary": "在近期全球 CPU 架構大戰與 AI 算力熱潮中，與 Intel、AMD 鼎足而立的英國晶片設計 IP 巨頭 [&#8230;] 這篇文章 台積電處分英國 CPU 設計公司安謀 (Arm) 股份，獲利 1.74 億美元 最早出現於 鏈新聞 ABMedia。",
-        "published": "2026-04-29T04:18:33+00:00",
-        "source": "ABMedia 鏈新聞",
         "source_weight": 2,
         "category": "crypto"
       },
@@ -2482,48 +2581,12 @@
         "category": "crypto"
       },
       {
-        "title": "The age of Agentic Commerce has arrived. Consensus 2026 is where you can experience it IRL",
-        "link": "https://www.coindesk.com/opinion/2026/04/28/the-age-of-agentic-commerce-has-arrived-consensus-2026-is-where-you-can-experience-it-irl",
-        "summary": "",
-        "published": "2026-04-28T17:00:00+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
-      },
-      {
         "title": "Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware",
         "link": "https://decrypt.co/365840/stablecoin-giant-tether-modular-bitcoin-mining-hardware",
         "summary": "Leading stablecoin issuer Tether has teamed with Canaan and ACME Swisstech to develop customizable, upgradable Bitcoin mining rigs.",
         "published": "2026-04-28T16:50:38+00:00",
         "source": "Decrypt",
         "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "Polymarket reportedly seeking CFTC approval to reopen main exchange to U.S. traders",
-        "link": "https://www.coindesk.com/policy/2026/04/28/polymarket-seeks-cftc-approval-to-reopen-main-exchange-to-u-s-traders",
-        "summary": "",
-        "published": "2026-04-28T16:35:02+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
-      },
-      {
-        "title": "Riot extends $200 million Coinbase credit facility, and bitcoin weakness could mean more sales",
-        "link": "https://www.coindesk.com/markets/2026/04/28/riot-extends-usd200-million-coinbase-credit-facility-and-bitcoin-weakness-could-mean-more-sales",
-        "summary": "",
-        "published": "2026-04-28T16:30:52+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
-      },
-      {
-        "title": "Microsoft says legacy banks are hitting a breaking point as AI takes over the heavy lifting",
-        "link": "https://www.coindesk.com/business/2026/04/28/microsoft-says-legacy-banks-are-hitting-a-breaking-point-as-ai-takes-over-the-heavy-lifting",
-        "summary": "",
-        "published": "2026-04-28T16:10:59+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
         "category": "crypto"
       },
       {
@@ -2545,42 +2608,6 @@
         "category": "crypto"
       },
       {
-        "title": "BitMart x EAT Trade-to-Feed competition to pay out $4.4m USDT to traders in May 2026",
-        "link": "https://cointelegraph.com/press-releases/bitmart-x-eat-trade-to-feed-competition-to-pay-out-44m-usdt-to-traders-in-may-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "summary": "The 30-day Trade-to-Feed competition marks BitMart's 8th anniversary and the exchange's strategic listing of EAT, the first cause coin.",
-        "published": "2026-04-28T15:45:04+00:00",
-        "source": "Cointelegraph",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "A crypto coalition releases technical proposal to save Aave users from a massive token exploit",
-        "link": "https://www.coindesk.com/tech/2026/04/28/a-crypto-coalition-releases-technical-proposal-to-save-aave-users-from-a-massive-token-exploit",
-        "summary": "",
-        "published": "2026-04-28T15:43:15+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
-      },
-      {
-        "title": "Bitcoin price drops below $76K as onchain data sends mixed signals",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-drops-to-76k-as-onchain-data-sends-mixed-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "summary": "Bitcoin failed to break $80,000 resistance amid weak onchain fundamentals, but rising spot CVD could support a recovery.",
-        "published": "2026-04-28T15:37:33+00:00",
-        "source": "Cointelegraph",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "Every blockchain transaction is a gift to your competition",
-        "link": "https://www.coindesk.com/opinion/2026/04/28/every-blockchain-transaction-is-a-gift-to-your-competition",
-        "summary": "",
-        "published": "2026-04-28T15:30:00+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
-      },
-      {
         "title": "Hyperliquid Gains Counter $216 Million Q1 Loss at Novogratz's Galaxy Digital",
         "link": "https://decrypt.co/365814/hyperliquid-gains-counter-216m-q1-loss-galaxy-digital",
         "summary": "CEO Mike Novogratz said Galaxy Digital’s balance sheet suffered because crypto prices are down, yet Hyperliquid partially offset losses.",
@@ -2588,51 +2615,105 @@
         "source": "Decrypt",
         "source_weight": 2,
         "category": "crypto"
-      },
-      {
-        "title": "'Crypto Godfather' says bitcoin has not reached its bottom and a new all-time high is off the table for 2026",
-        "link": "https://www.coindesk.com/markets/2026/04/28/crypto-godfather-says-bitcoin-has-not-reached-its-bottom-and-a-new-all-time-high-is-off-the-table-for-2026",
-        "summary": "",
-        "published": "2026-04-28T15:18:44+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
-      },
-      {
-        "title": "Galaxy Digital posts $216M Q1 loss as crypto market slides 20%",
-        "link": "https://cointelegraph.com/news/galaxy-216-million-q1-2026-loss-crypto-market-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "summary": "Mike Novogratz's Galaxy Digital posted a $216 million first-quarter loss as weaker crypto prices hit asset values, while Helios data center revenue nears.",
-        "published": "2026-04-28T15:06:32+00:00",
-        "source": "Cointelegraph",
-        "source_weight": 2,
-        "category": "crypto"
-      },
-      {
-        "title": "Meta Turns to Space-Based Solar Energy to Power AI Data Centers on Earth",
-        "link": "https://decrypt.co/365805/meta-turns-space-based-solar-energy-power-ai-data-centers",
-        "summary": "Facebook parent company Meta secured up to 1 gigawatt of orbital solar power as AI drives demand for electricity.",
-        "published": "2026-04-28T14:34:16+00:00",
-        "source": "Decrypt",
-        "source_weight": 2,
-        "category": "crypto"
       }
     ],
     "tech": [
+      {
+        "title": "資料韌性（Data Resilience） - iThome",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYUxqSldfYjd1bFpYWWYtVXBva0lRV1NkVk1DMGNjbXNadE1NZ001dng5b29TU1ZiS05YUjlJMlhqM0hiZGZTN2hBN2R5Z0NXT3NKaERQVVp2WTFxdWlCaTN0S0xZdzkxLUtwc1dPblB0RmtObVc4TFNyQTFZU2pPZ21OUDNUZjJ1Ulg0QXNEVkVINzlyczJYek9WRTZCcm95Qnc?oc=5",
+        "summary": "資料韌性（Data Resilience）&nbsp;&nbsp;iThome",
+        "published": "2026-04-29T11:02:36+00:00",
+        "source": "iThome",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU",
+        "link": "https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification",
+        "summary": "Meta is breaching Europe's Digital Services Act (DSA) rules by failing to prevent children under 13 from using Facebook and Instagram, according to a preliminary decision issued by the European Commission. The Commission…",
+        "published": "2026-04-29T10:46:24+00:00",
+        "source": "The Verge",
+        "source_weight": 2,
+        "category": "tech"
+      },
+      {
+        "title": "China freezes new robotaxi licenses after Baidu chaos",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+        "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt…",
+        "published": "2026-04-29T10:39:21+00:00",
+        "source": "The Verge",
+        "source_weight": 2,
+        "category": "tech"
+      },
+      {
+        "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
+        "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+        "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allo…",
+        "published": "2026-04-29T10:04:25+00:00",
+        "source": "The Verge",
+        "source_weight": 2,
+        "category": "tech"
+      },
+      {
+        "title": "CVE-2026-5966 - iThome",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4N1dpb21yOUs1dTJIMFFlZG9PbzNtVTlvVFg4b0FvTzRldkNDUnpJaXVzbTNldW9ic1pVWGZrQlJsRXltckE1Rjc1eTVKaTd5WGljdVZXaw?oc=5",
+        "summary": "CVE-2026-5966&nbsp;&nbsp;iThome",
+        "published": "2026-04-29T09:59:24+00:00",
+        "source": "iThome",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "自動化漏洞發現與修補 - iThome",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON2JlQTJ6QTkyOXN0V3JKNWpnc1M4cVVvNTdCMks5eXRybC1DaTNUTnk4aGMwN09CaE5sSmdJSlNXdTZlSThYeTBldEdLOFdJNGthelZYa3hEMVFYWXk1MWRKQ2RsQWZ6S1hMY1FFS2lNcUNqT0s2dnVPVFRJb3hRWWZta3V2N1NzRDlVZF9weWpzMzNhcl8xalpKWGszVHFGeUhCRDdlMWNtbkJBUWVKaDdpby1wbEpYOTZ6aS13?oc=5",
+        "summary": "自動化漏洞發現與修補&nbsp;&nbsp;iThome",
+        "published": "2026-04-29T09:55:46+00:00",
+        "source": "iThome",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
+        "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+        "summary": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
+        "published": "2026-04-29T09:45:00+00:00",
+        "source": "TechCrunch",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "勒索軟體VECT 2.0加密檔案出錯，受害者付錢也無法完全復原檔案 - iThome",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01djB5aVRrNS0wbTdBcFVOM09vTXBQOWltSE1oS0N2YzBkUHNsVjFoQ1hoX1lVeXBxMjIwV2NFUnVaTGlLS2JSTkZVVkR3QQ?oc=5",
+        "summary": "勒索軟體VECT 2.0加密檔案出錯，受害者付錢也無法完全復原檔案&nbsp;&nbsp;iThome",
+        "published": "2026-04-29T09:21:57+00:00",
+        "source": "iThome",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "把65萬Gogoro車主帶去全聯！「換電7天送100元」誘因背後，電動機車龍頭看中什麼？ - 數位時代",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EYW5FYVJITDBqLWV4bUllM01CbnJuUl91dk0tckJ4bXRuSHFtc1kwV0tlTHN0dUNZdjBFYWNadzBDakJQRU1DMzVuekV0c0g0bHdyUUUzZkZjNWVrQmtlX1Z4ZEdpUTJfR2s4?oc=5",
+        "summary": "把65萬Gogoro車主帶去全聯！「換電7天送100元」誘因背後，電動機車龍頭看中什麼？&nbsp;&nbsp;數位時代",
+        "published": "2026-04-29T09:16:00+00:00",
+        "source": "數位時代",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "General Motors is adding Gemini to four million cars",
+        "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+        "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible…",
+        "published": "2026-04-29T09:14:38+00:00",
+        "source": "The Verge",
+        "source_weight": 2,
+        "category": "tech"
+      },
       {
         "title": "跨境電商連5年衰退、十年縮水21%！台灣出口包裹只剩540萬件，賣家為何卡在原地？ - 數位時代",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iVVhrci13OEw3M3JNbUlJci1GODJpOU9yN1dKMWQzWHd0NVIzeHZWLU1FRnVMZm9aRFpLaVh4YVhWZXhZNHZOVE1ha0JvSm9lS1pQS0Z1cDdkUy1KX293MEgtem12Q29PQ0h4N3JNTW52bjRQVnhpNlFB?oc=5",
         "summary": "跨境電商連5年衰退、十年縮水21%！台灣出口包裹只剩540萬件，賣家為何卡在原地？&nbsp;&nbsp;數位時代",
         "published": "2026-04-29T07:49:00+00:00",
         "source": "數位時代",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "指令注入 - iThome",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YZC1JVldTQUxPa3dQaVpOVERxOWdDRDRDcklVQVhrOEFLNE5jekJKcmdDa2F3TUR1Q01tbkw3dGJrTE5vSnpiNWpaV1k0Qmk1bXhWVktmRWh5dVY2cTlFNTkxWm5lcGdZaS1NX0tFcFNJTllfMWc?oc=5",
-        "summary": "指令注入&nbsp;&nbsp;iThome",
-        "published": "2026-04-29T07:47:27+00:00",
-        "source": "iThome",
         "source_weight": 3,
         "category": "tech"
       },
@@ -2682,11 +2763,11 @@
         "category": "tech"
       },
       {
-        "title": "2026繳綜所稅刷哪張信用卡？免手續費、高回饋、分期0利率··· 各銀行方案一次整理 - 數位時代",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0x6akdyaXI5VHp6cjdkZi1hUm9qbm1OZllhMFlfOHU2WFUxRzd4eTVtNmdrMElHRTRlRWJCRVFYTkMwODIwZ1c0cFZhcHRrcU5XWTRpMUlEamdLREtjRWdxYXJfUlRKVVhGT0M5RWNmZk0wZU5IcVRfeWxhbm5NcU5EeXphR2Vj?oc=5",
-        "summary": "2026繳綜所稅刷哪張信用卡？免手續費、高回饋、分期0利率··· 各銀行方案一次整理&nbsp;&nbsp;數位時代",
-        "published": "2026-04-29T06:57:00+00:00",
-        "source": "數位時代",
+        "title": "CVE-2026-42208 - iThome",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoSElQcEt6MUdYanptTFBfMHVvWVFXZjdLVjJoRGJFaTRjcjJ5TExwLU5Ba0NQSzRyTm9wVGZkRkdDRnI5blNVeVNRWU42UkcxUUZkN2h6R2Y?oc=5",
+        "summary": "CVE-2026-42208&nbsp;&nbsp;iThome",
+        "published": "2026-04-29T06:59:07+00:00",
+        "source": "iThome",
         "source_weight": 3,
         "category": "tech"
       },
@@ -2732,15 +2813,6 @@
         "summary": "新光三越搶下北車經營權！專家點出2大關鍵，有機會捅破微風20年做不到的「30億天花板」&nbsp;&nbsp;數位時代",
         "published": "2026-04-29T04:11:07+00:00",
         "source": "數位時代",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "| iThome - iThome",
-        "link": "https://news.google.com/rss/articles/CBMilAVBVV95cUxPSmdFVVo0N0hxTXc0WVJNTEk4VzlSMk9hV0pHZlVDbGRKV2tNNnZGNS04MUhfRy1DeTMyV193VWtlMk5LamozRldNSW5JNmQ1d1lfYy0zdUVlRE1MejBzR3JMXzZPbHNybVFpVEY2VUxoRlZlMU90ZktSYzRnclZLdEhYcEI3T0JOOGZXa0JuQUtxcFFsTHFxUU9OSkVHSVJzMlhiOHdOTDBka2VuQWQ5YVNxZTVNbHBIdzB0TjB6OHo5VGZpNWlpeGFFNjJ5aDBNYWFqOHctUV94dUh3aWxWa2dtdERJR1hQWFlxMmFmdkUtWWRfYUhKWnFZV29CTXBpLXJpMWsyQ1dOd1lsbGhwNk5sTFhzZFVNSzNsMWU5TVkyN0RqazRvMlowcElKYU5hVy1NZFhnN2ljOFhMTlRKLVFqcGtfYnM3d2c0U21rVEJKMWRRQW52THVmeUVRbGVVSTB4Sm5YX1hVTExDeDhBNU1PUlY1MEN6bUk4cmVNRVFCX21lWW1UZ2FQcWdCU2hXcU1JOWNzdnByWmxYTy1QZ2tiMXdXa3RZanMzN183S0lJNU1rS3FXZThFalg1aXBaTmt1aFFGdmZ6VGVweExJelp5a3d5NDVZdFdYbGRtcHNQUXNRRy0tRldSRmFmcUlqZnd0a0dGb3F6UGJpNnVZcE1WX1hrZmw5MDZhb0JHUWttQlNnQnNOT0l5V3R1dGlSeEtMZjc5RkNneDdLbWN2a2FGeHRBb0NXSEtza1NXMlBFcWNIOGJTWU1hT1J5amRENWkzc2dtaE9kMlAxVm01bUp0Ums4VjNOQ3ZmblctSUVoMnhzS0tlOU9HY2x2dUF3cXk4SEx6OG5pbUNveWc3R2ZkRmw?oc=5",
-        "summary": "| iThome&nbsp;&nbsp;iThome",
-        "published": "2026-04-29T03:34:10+00:00",
-        "source": "iThome",
         "source_weight": 3,
         "category": "tech"
       },
@@ -2898,9 +2970,18 @@
         "category": "tech"
       },
       {
+        "title": "Tenable修補Nessus弱點掃描代理程式漏洞，未更新可能導致攻擊者取得SYSTEM權限 - iThome",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UME5mNnhEYlFaRW9Vek10N2Q0V19ZWEJvdFlzOWpsandIeTZHelJHMU9GT3dhSUJYczl6bXltU1F2RTFFMThxZkVKQndKQQ?oc=5",
+        "summary": "Tenable修補Nessus弱點掃描代理程式漏洞，未更新可能導致攻擊者取得SYSTEM權限&nbsp;&nbsp;iThome",
+        "published": "2026-04-28T20:48:29+00:00",
+        "source": "iThome",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
         "title": "Elon Musk tells the jury that all he wants to do is save humanity",
         "link": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
-        "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as…",
+        "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as…",
         "published": "2026-04-28T20:46:54+00:00",
         "source": "The Verge",
         "source_weight": 2,
@@ -2961,48 +3042,12 @@
         "category": "tech"
       },
       {
-        "title": "The FCC is going after the broadcast licenses of Disney-owned ABC stations",
-        "link": "https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat",
-        "summary": "The Federal Communications Commission has ordered the ABC stations owned and operated by Disney to file for an early license renewal, as reported earlier by The New York Times. In a filing on Tuesday, the FCC claims it m…",
-        "published": "2026-04-28T19:36:14+00:00",
-        "source": "The Verge",
-        "source_weight": 2,
-        "category": "tech"
-      },
-      {
-        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding miss…",
-        "published": "2026-04-28T19:27:50+00:00",
-        "source": "The Verge",
-        "source_weight": 2,
-        "category": "tech"
-      },
-      {
-        "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
-        "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38…",
-        "published": "2026-04-28T19:00:13+00:00",
-        "source": "The Verge",
-        "source_weight": 2,
-        "category": "tech"
-      },
-      {
         "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
         "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
         "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
         "published": "2026-04-28T18:49:54+00:00",
         "source": "TechCrunch",
         "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "You can get dragged into a police investigation by proximity alone — for now",
-        "link": "https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants",
-        "summary": "A years-old bank heist may soon have major privacy implications for every American who owns a cellphone. On Monday, the Supreme Court heard arguments in Chatrie v. United States, a case involving police's use of controve…",
-        "published": "2026-04-28T18:45:00+00:00",
-        "source": "The Verge",
-        "source_weight": 2,
         "category": "tech"
       },
       {
@@ -3159,15 +3204,6 @@
         "category": "tech"
       },
       {
-        "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
-        "link": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-        "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
-        "published": "2026-04-28T13:19:34+00:00",
-        "source": "TechCrunch",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
         "title": "一卡通導入行動身分識別，靠電信門號身分驗證強化電支交易安全 - iThome",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tNlNWWEFiRjZTSDA4bnRJRlNLODRtd1NwV19TbnI0RmFoMWpoYmR6RTB3Y0xObDdrUDJ0QWZ3TUpjMk5TdklGdUVrSmtRZw?oc=5",
         "summary": "一卡通導入行動身分識別，靠電信門號身分驗證強化電支交易安全&nbsp;&nbsp;iThome",
@@ -3201,42 +3237,6 @@
         "published": "2026-04-28T11:05:46+00:00",
         "source": "Ars Technica",
         "source_weight": 2,
-        "category": "tech"
-      },
-      {
-        "title": "TokaMind - iThome",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80NnlGSmxGU2dVXzBpRkRKa2hJcjhTLXBNOVRFQTFHdVVIMjJ3VWtjRjEwNDllRUNwbkg3XzhZbjFBNk12S1k4a2hNSFZCZWlJ?oc=5",
-        "summary": "TokaMind&nbsp;&nbsp;iThome",
-        "published": "2026-04-28T10:05:40+00:00",
-        "source": "iThome",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "羅正漢 - iThome",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxMWVkSE5HdlV2X3FhbVRqaEtWSXB2TURFVEZKNFJMVXpBS0s3dWdjcVQ4aDduLUJocXBzMkJpbnFOc09MSzhKWUtENUwxcVN5SFpkQUxQRlp2eDE3N2lSblp4Q0pYRXRJX3cyOHd3ZTZVZ0MyZmZv?oc=5",
-        "summary": "羅正漢&nbsp;&nbsp;iThome",
-        "published": "2026-04-28T10:03:55+00:00",
-        "source": "iThome",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "全光網路 - iThome",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyaUYyMkx4ZVRacTZnVThRU0g1WXNVSm9pWktDV0txaG9KempYdmszWmpldGlURlBsdHVQaXJhZ21JU3h3YXU3Zi1oTklIUHQ1VF9NLXBBb0pELS1Wc1hEclllZnV5SlZPQjF1bFlCUjcyX1JkSFE?oc=5",
-        "summary": "全光網路&nbsp;&nbsp;iThome",
-        "published": "2026-04-28T09:51:59+00:00",
-        "source": "iThome",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "Command Injection - iThome",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIM2Y5LWkxTUd6N1h0WXpzWk92YVRUNlpCTG9zRjgzQWJXS0YwREM1RzVGakthNFVLajY2eE9Lc1dCbnk3cTdGa2s1Wk9yMzFaUXRtQ0hJQ3dvUDVR?oc=5",
-        "summary": "Command Injection&nbsp;&nbsp;iThome",
-        "published": "2026-04-28T09:43:55+00:00",
-        "source": "iThome",
-        "source_weight": 3,
         "category": "tech"
       },
       {
@@ -3314,6 +3314,150 @@
     ],
     "entertainment": [
       {
+        "title": "BAFTA Television Special Award to Go to British Finance Journalist Martin Lewis",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/bafta-television-special-award-2026-martin-lewis-1236573450/",
+        "summary": "\"Martin has been a powerful voice in British television, informing millions across the U.K. how to manage their finances and empowering them to understand and stand up for their rights,\" said BAFTA CEO Jane Millichip.",
+        "published": "2026-04-29T11:00:00+00:00",
+        "source": "Hollywood Reporter",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "Netflix’s Harlan Coben Series ‘The Woods’ Unveils Cast Led by Tom Bateman, Michelle Keegan",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/netflix-harlan-coben-the-woods-michelle-keegan-tom-bateman-1236580029/",
+        "summary": "They star as Paul \"Cope\" Copeland and Lucy Silverfield in what will be the 14th Coben series produced for the streamer.",
+        "published": "2026-04-29T11:00:00+00:00",
+        "source": "Hollywood Reporter",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "‘Fool Me Once’ Star Michelle Keegan Reunites With Harlan Coben and Netflix for ‘The Woods’ Series Adaptation",
+        "link": "https://variety.com/2026/tv/global/michelle-keegan-harlan-coben-netflix-the-woods-adaptation-1236732988/",
+        "summary": "“Fool Me Once” star Michelle Keegan is reuniting with Netflix and Harlan Coben for another of the writer’s adaptations, “The Woods.” She will star in the eight-episode series alongside Tom Bateman, Mandeep Dhillon and Pe…",
+        "published": "2026-04-29T11:00:00+00:00",
+        "source": "Variety",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "‘CBS Mornings’ To Hold Town Hall With Artemis Mission Astronauts",
+        "link": "https://deadline.com/2026/04/cbs-mornings-artemis-town-hall-1236875305/",
+        "summary": "CBS Mornings will feature a town hall on Friday with the astronauts from NASA&#8217;s Artemis II mission. Co-host Gayle King and CBS Evening News anchor Tony Dokoupil will moderate the town hall, titled CBS Mornings Pres…",
+        "published": "2026-04-29T11:00:00+00:00",
+        "source": "Deadline",
+        "source_weight": 2,
+        "category": "entertainment"
+      },
+      {
+        "title": "Bill Nighy & Makram Khoury ‘A Town In Nova Scotia’ First Look Unveiled As Paradise City Launches Sales – Cannes Market",
+        "link": "https://deadline.com/2026/04/bill-nighy-town-in-nova-scotia-first-look-cannes-market-1236875650/",
+        "summary": "Paris-based Paradise City Sales has released a first look of Bill Nighy and Makram Khoury in Babak Jalali’s Liverpool-set drama A Town in Nova Scotia as it gears up to launch the title in next month. Nighy plays Irishman…",
+        "published": "2026-04-29T11:00:00+00:00",
+        "source": "Deadline",
+        "source_weight": 2,
+        "category": "entertainment"
+      },
+      {
+        "title": "Netflix Lands On Latest Harlan Coben Adaptation With ‘The Woods’ Starring Tom Bateman & Michelle Keegan",
+        "link": "https://deadline.com/2026/04/netflix-the-woods-harlan-coben-tv-series-michelle-keegan-1236875658/",
+        "summary": "Netflix has landed on its latest Harlan Coben adaptation. The streamer is continuing its lucrative partnership with the American author with a British version of The Woods starring Based on a True Story&#8217;s Tom Batem…",
+        "published": "2026-04-29T11:00:00+00:00",
+        "source": "Deadline",
+        "source_weight": 2,
+        "category": "entertainment"
+      },
+      {
+        "title": "‘Cantona’: Cinetic To Handle Sales On Cannes-Bound Documentary About Soccer Great, Details Revealed",
+        "link": "https://deadline.com/2026/04/eric-cantona-documentary-film-details-revealed-cinetic-1236875631/",
+        "summary": "EXCLUSIVE: Cinetic will handle sales on Cannes-bound documentary Cantona, about soccer great turned actor Eric Cantona. The Cannes Special Screening, one of only three UK films in the festival&#8217;s official selection,…",
+        "published": "2026-04-29T10:48:08+00:00",
+        "source": "Deadline",
+        "source_weight": 2,
+        "category": "entertainment"
+      },
+      {
+        "title": "Locarno: Artist Cindy Sherman Designs 2026 Festival Poster",
+        "link": "https://deadline.com/2026/04/locarno-cindy-sherman-2026-poster-1236875648/",
+        "summary": "Veteran American artist Cindy Sherman has designed the official poster for this year’s Locarno Film Festival, which runs from August 5-15.&#160; The poster features a character created by Cindy Sherman, rendered in black…",
+        "published": "2026-04-29T10:24:26+00:00",
+        "source": "Deadline",
+        "source_weight": 2,
+        "category": "entertainment"
+      },
+      {
+        "title": "Keira Knightley, Stephen Dillane, Luke Thompson Team for West End Adaptation of ‘The Lives of Others’",
+        "link": "https://www.hollywoodreporter.com/lifestyle/arts/keira-knightley-stephen-dillane-luke-thompson-play-west-end-1236580017/",
+        "summary": "It's the first time Florian Henckel von Donnersmarck's Oscar-winning drama has been translated for the stage.",
+        "published": "2026-04-29T10:11:46+00:00",
+        "source": "Hollywood Reporter",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "Aimee Lou Wood Pokes Fun at ‘SNL’ Teeth Sketch Ahead of Hosting U.K. Version: ‘This Is All Just One Big Set-Up to Humiliate Me, Then?’",
+        "link": "https://variety.com/2026/tv/global/aimee-lou-wood-snl-teeth-sketch-hosting-1236732960/",
+        "summary": "“White Lotus” star Aimee Lou Wood has addressed the “SNL” teeth-controversy head-on ahead of her “SNL U.K.” hosting gig this weekend. To recap: Last April the original &#8220;Saturday Night Live&#8221; saw Sarah Sherman…",
+        "published": "2026-04-29T09:46:49+00:00",
+        "source": "Variety",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "Sara Driver’s ‘The Odd Enchantment Of Madam P’ To Star Maria De Medeiros, Trine Dyrholm, Emily Beecham, Tom Austen, Mathieu Amalric, Alex Descas, Aurélia Thiérrée, Orion Lee & More",
+        "link": "https://deadline.com/2026/04/sara-driver-odd-enchantment-madam-p-movie-wraps-portugal-1236875573/",
+        "summary": "EXCLUSIVE: Filming has recently wrapped in northern Portugal on feature drama The Odd Enchantment Of Madam P, starring Maria de Medeiros (Pulp Fiction), Trine Dyrholm (Queen Of Hearts), Emily Beecham (Little Joe), Tom Au…",
+        "published": "2026-04-29T09:42:10+00:00",
+        "source": "Deadline",
+        "source_weight": 2,
+        "category": "entertainment"
+      },
+      {
+        "title": "Cannes: European Film Promotion Reveals 20 Producers on the Move",
+        "link": "https://www.hollywoodreporter.com/movies/movie-news/cannes-2026-european-film-promotion-producers-on-the-move-1236579999/",
+        "summary": "This year's cohort reflects \"the breadth and vitality of contemporary European filmmaking\" and \"underscores a strong focus on female-driven storytelling.\"",
+        "published": "2026-04-29T09:40:15+00:00",
+        "source": "Hollywood Reporter",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "娛樂風波 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SNi04UnROSWQwRkFfX1pVZno1Ykh5MkN3S3ltdk9oMFdkTi1VcW1QSkNSRUhuRFZPTUhIQXRkRllPdVVNUnViMWFHVjR4Vy1rQnh3N3JqXzh4QkNNcHVsSk1uaFR2aWZhSjRXbEk2Q1BCcGc?oc=5",
+        "summary": "娛樂風波&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T09:36:09+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "屍速禁區 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByRk9tSGFpMlZUNkliRm5MSmMwYTdNWFBJZ3pqS2h6LTVla2R0NThMemJHSEt5V25tZkl6WW1IOTh6TjhiZ1c4SG9aaGV2VTlFbk13VmlKWFlkWEZwakhFMmxORVlObkl6NGJncy1LY3RGNzg?oc=5",
+        "summary": "屍速禁區&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T09:36:09+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "Some Film & TV Companies Imposing “Strict Internal Controls” On Artificial Intelligence – ScreenSkills UK Report",
+        "link": "https://deadline.com/2026/04/screenskills-report-artificial-intelligence-redundancies-1236875572/",
+        "summary": "Some UK film and TV industry organizations are imposing &#8220;strict internal controls&#8221; around artificial intelligence, according to a new report from training body ScreenSkills. The report, which examined skills…",
+        "published": "2026-04-29T09:30:00+00:00",
+        "source": "Deadline",
+        "source_weight": 2,
+        "category": "entertainment"
+      },
+      {
+        "title": "Sheffield DocFest Unveils 2026 Public Program: Over 100 World, International, European Premieres, Oscar-Stature Filmmakers, 100th-Birthday Tribute To David Attenborough",
+        "link": "https://deadline.com/2026/04/sheffield-docfest-2026-public-program-1236875578/",
+        "summary": "Sheffield DocFest, the UK’s leading documentary film festival, will be welcoming some of nonfiction film’s biggest talents to the 33rd edition of the international event. The full public program announced Wednesday featu…",
+        "published": "2026-04-29T09:15:37+00:00",
+        "source": "Deadline",
+        "source_weight": 2,
+        "category": "entertainment"
+      },
+      {
         "title": "‘Palestine 36’ Leads Nominations For 10th Critics Awards For Arab Films",
         "link": "https://deadline.com/2026/04/palestine-36-2026-nominations-critics-awards-arab-films-1236875567/",
         "summary": "Annemarie Jacir’s award-winning film Palestine 36 leads the nominations for the 10th edition of the Critics Awards For Arab Films, which were announced today. The annual prizes, organized by the Arab Cinema Centre (ACC),…",
@@ -3350,6 +3494,15 @@
         "category": "entertainment"
       },
       {
+        "title": "才陷性交爭議！9頭身女神G.NA遭傳「已婚生子」真實近況曝光 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92bmc2XzFwS1htZVJDM2VsSHo4SW41YVZmZTBvMmVrVkVLZFFSdVI2aVZlN1BpYjc1OHo1VzcxbnRfeXVPOWNrWWRqVkNSYjR3eUE3MGVfN08zeG9ILTBoV2wxQVR5UHdkU2fSAWpBVV95cUxPdm5nNl8xcEtYbWVSQzNlbEh6OEluNWFWZmUwbzJla1ZFS2RRUnVSNmlWZTdQaWI3NTh6NVc3MW50X3l1Tzlja1lkalZDUmI0d3lBNzBlXzdPM3hvSC0waFdsMUFUeVB3ZFNn?oc=5",
+        "summary": "才陷性交爭議！9頭身女神G.NA遭傳「已婚生子」真實近況曝光&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T08:31:00+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
         "title": "Aimee Lou Wood Wastes No Time In Roasting ‘SNL’s Teeth Sketch Ahead Of ‘SNL UK’ Hosting Duties",
         "link": "https://deadline.com/2026/04/aimee-lou-wood-snl-teeth-roast-1236875543/",
         "summary": "Aimee Lou Wood has immediately confronted the elephant in the room as she prepares to host Saturday Night Live UK this weekend. In a promo video ahead of the show, the Sex Education and White Lotus star roasted a 2025 SN…",
@@ -3368,30 +3521,12 @@
         "category": "entertainment"
       },
       {
-        "title": "小S回歸臉上多2顆痣！網友瘋猜原因　經紀人出面解答了 - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GZXNWMVBoMFFDelFiMmpJb1VpanJzeFluOXhrWmNiaWZucDAyLU9DWUlRWHlMYWRHVDAtekNFVVJndXRLTWowRk9aNnJUV0Vra1JiaGJFM0hKMC01RDA2X2wzWjRCeVo0UWfSAWpBVV95cUxNRmVzVjFQaDBRQ3pRYjJqSW9VaWpyc3hZbjl4a1pjYmlmbnAwMi1PQ1lJUVh5TGFkR1QwLXpDRVVSZ3V0S01qMEZPWjZyVFdFa2tSYmhiRTNISjAtNUQwNl9sM1o0QnlaNFFn?oc=5",
-        "summary": "小S回歸臉上多2顆痣！網友瘋猜原因 經紀人出面解答了&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-29T08:09:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
         "title": "EXO現在剩幾個人？ Kai鬆口回答「團體人數」 - ETtoday星光雲| ETtoday新聞雲",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12eVNKYXpsUktlS0xnVWMzUGpWM2hjM0w2b09zdnplQUFiWHgwT3ZZbWdHNjRJQmpaU1FRN3JNYkZmZ2hIU3VjN0ZoQTFmdw?oc=5",
         "summary": "EXO現在剩幾個人？ Kai鬆口回答「團體人數」&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
         "published": "2026-04-29T08:08:00+00:00",
         "source": "ETtoday 娛樂",
         "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "Dom Bird’s New Indie Lands Debut Greenlight With Extended Series Of BBC’s ‘Marvellous Miniature Workshop’ Presented By New Radio 2 Breakfast Host Sara Cox",
-        "link": "https://deadline.com/2026/04/marvellous-miniature-workshop-renewed-season-2-bbc-sara-cox-1236875539/",
-        "summary": "Dom Bird’s new indie EarlyBird has landed its first commission, an extended edition of BBC series The Marvellous Miniature Workshop. The Gladiators exec and former Amazon MGM Studios UK unscripted chief is behind a 20-ep…",
-        "published": "2026-04-29T08:00:33+00:00",
-        "source": "Deadline",
-        "source_weight": 2,
         "category": "entertainment"
       },
       {
@@ -3413,15 +3548,6 @@
         "category": "entertainment"
       },
       {
-        "title": "Rebel Wilson Denies Dumping Phone Ahead Of ‘The Deb’ Trial & Says Alleged Sexual Harassment Complaint Was “Nightmare Situation”",
-        "link": "https://deadline.com/2026/04/rebel-wilson-dump-phone-the-deb-nightmare-1236875525/",
-        "summary": "Rebel Wilson has endured a second day of searching questions, as the Pitch Perfect star defends her integrity during a defamation trial in Sydney, Australia. Wilson is being sued by Charlotte MacInnes, the lead actress i…",
-        "published": "2026-04-29T07:41:36+00:00",
-        "source": "Deadline",
-        "source_weight": 2,
-        "category": "entertainment"
-      },
-      {
         "title": "菩提臨世 - ETtoday星光雲| ETtoday新聞雲",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12ajlXYWlzQkt1RnVfSS1xSnA1NGVPU3R1V1NRc1o4dTdrVVZoN083c0lPTHktdW5EQUpuWndRVVFYRkRPS0JfcWdJak1JUjZoRTQ1S0NQS1dmX1V1VjNhUlVPdWpES2oyRXBLNDFVckNGTlE?oc=5",
         "summary": "菩提臨世&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
@@ -3431,11 +3557,11 @@
         "category": "entertainment"
       },
       {
-        "title": "李翊君金曲再翻紅　與動力火車合唱的〈痛〉掀起翻唱潮 - 鏡週刊Mirror Media",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RYkE5djF0OC1WM0RReThxZE0wRjY5b244ajY5eDFmOHFJSlBLZzRhNWlnNW5paTk3dTluRGFWYWtWYk9qZ3p0RkU0U05VVERXbmo0MGcteEM4bjTSAWBBVV95cUxQcDZpREJydjk2ZmpLWjE2VnFxaWZKWUxPd1h2dW92N0Q1ZEtSVkpxRWdOMWNsM0NzQVZEelRsRlFkTG9hcGhVdkl3S0YxVmtyaGJ0ejQzUDVSdlZKVjlqaVY?oc=5",
-        "summary": "李翊君金曲再翻紅 與動力火車合唱的〈痛〉掀起翻唱潮&nbsp;&nbsp;鏡週刊Mirror Media",
-        "published": "2026-04-29T07:25:00+00:00",
-        "source": "鏡週刊 娛樂",
+        "title": "《急盜阿嬤團》遭「失控卡車衝撞」4人重傷　緊急停工…監製發聲 - ETtoday星光雲| ETtoday新聞雲",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kX0hZaWlNMThrVkh5cXNBN0drLXNpUTdSRl9JQmMzVS05N1ZRS0l5QWZrSDg4NEJFVWNTZ1VJVHlCZUJ1S1FzUjB4OVZKUdIBakFVX3lxTE1WMnFQT3E3TjMwTHZhUzJqazR1QUdMMTY2UThDTDU4SGdLVkJJdU03U1JYdXBkcUY5b0U3Y201YkdIYnJvT01Sa0sxRENCckthMlh3azVSeEdEVXBXbzJQLWVrZWp1d0Z6NUE?oc=5",
+        "summary": "《急盜阿嬤團》遭「失控卡車衝撞」4人重傷 緊急停工…監製發聲&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-04-29T07:29:00+00:00",
+        "source": "ETtoday 娛樂",
         "source_weight": 3,
         "category": "entertainment"
       },
@@ -3449,37 +3575,10 @@
         "category": "entertainment"
       },
       {
-        "title": "Israel’s ‘Significant Other’ Set To Be Remade In France Several Years After Nicola Shindler Produced UK Version Starring Katherine Parkinson",
-        "link": "https://deadline.com/2026/04/yes-studios-significant-other-remade-france-itv-shindler-1236874447/",
-        "summary": "EXCLUSIVE: Your Honor producer yes Studios has struck its latest international deal for Significant Other, the hit Israeli TV show that became a UK series starring Katherine Parkinson. Babylone Hills Productions and Scre…",
-        "published": "2026-04-29T07:00:00+00:00",
-        "source": "Deadline",
-        "source_weight": 2,
-        "category": "entertainment"
-      },
-      {
         "title": "JANET聞王俐人上SWAG賺錢　「為了生活沒有不可以」 - ETtoday星光雲| ETtoday新聞雲",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93MGgtWEY2NDE2WWZ5Q1FIM2V0VEVraEtCcmlKeVJza0tYY2tEYjJXNlQwZmF1N3hrSTRHUUtRUXVuOWxmb0o2T2RBTXhGWlE0dEp2bXE3US0yYktUME9JMnI0MFVhWG1FT0HSAWpBVV95cUxPdzBoLVhGNjQxNllmeUNRSDNldFRFa2hLQnJpSnlSc2tLWGNrRGIyVzZUMGZhdTd4a0k0R1FLUVF1bjlsZm9KNk9kQU14RlpRNHRKdm1xN1EtMmJLVDBPSTJyNDBVYVhtRU9B?oc=5",
         "summary": "JANET聞王俐人上SWAG賺錢 「為了生活沒有不可以」&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
         "published": "2026-04-29T06:58:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "YT流量雪崩「變成幾百」！歐陽靖認了會難過：沒拿過收益也沒接過業配 - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WcjNDWWNSczZCemNpakVHc3ZiSVNqYmZfUmRvOUtHV0FBOThHOTVQWUpyQTQ5djRaZVY0VzR4ckpWbzBYYk40aGIzUjhxTS0td3lQaGZyUzFjMnlEVFRab08wMlVPVmd0RWfSAWpBVV95cUxOVnIzQ1ljUnM2QnpjaWpFR3N2YklTamJmX1JkbzlLR1dBQTk4Rzk1UFlKckE0OXY0WmVWNFc0eHJKVm8wWGJONGhiM1I4cU0tLXd5UGhmclMxYzJ5RFRUWm9PMDJVT1ZndEVn?oc=5",
-        "summary": "YT流量雪崩「變成幾百」！歐陽靖認了會難過：沒拿過收益也沒接過業配&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-29T06:58:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "清純女偶像接演「成人19禁漫改劇」！　大尺度露骨劇情曝光 - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RTm1BZWlwZkQ3UjRwRW5HR204NTQ2VjJuWmFPWVhkZTVjODh3OFpGRTJpeDFtNkpWM0dwM3VtMDhKRU9ZbVNSTEJWSjFxM1BTOTBiLWFfSzRJN1RNY3RuTW1pZkRHelVkM3fSAWpBVV95cUxPUU5tQWVpcGZEN1I0cEVuR0dtODU0NlYyblphT1lYZGU1Yzg4dzhaRkUyaXgxbTZKVjNHcDN1bTA4SkVPWW1TUkxCVkoxcTNQUzkwYi1hX0s0STdUTWN0bk1taWZER3pVZDN3?oc=5",
-        "summary": "清純女偶像接演「成人19禁漫改劇」！ 大尺度露骨劇情曝光&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-29T06:39:00+00:00",
         "source": "ETtoday 娛樂",
         "source_weight": 3,
         "category": "entertainment"
@@ -3512,30 +3611,12 @@
         "category": "entertainment"
       },
       {
-        "title": "Kimmel Calls Out Trump’s Joke About His Own Death",
-        "link": "https://deadline.com/2026/04/kimmel-trump-death-joke-1236875518/",
-        "summary": "One day after Donald Trump said Jimmy Kimmel should be fired for making a joke about the president&#8217;s marriage, Kimmel called out similar remarks from Trump. For those unaware of the backstory, Kimmel’s skit last Th…",
-        "published": "2026-04-29T05:20:31+00:00",
-        "source": "Deadline",
-        "source_weight": 2,
-        "category": "entertainment"
-      },
-      {
         "title": "蓁蓁 - ETtoday星光雲| ETtoday新聞雲",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tVUdVcEFVQ0ExR0phMWVfQWk0d2VKOFdSejhwcTlDWXdwNGNkVkpLNmFIZWJ3WGJzUENNS1RRaXl0WHJxUUxDVFRUUFRHd1FoMlZOU2QxVGJEMzA?oc=5",
         "summary": "蓁蓁&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
         "published": "2026-04-29T05:08:50+00:00",
         "source": "ETtoday 娛樂",
         "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "Breaking Baz: Keira Knightley, Stephen Dillane & Luke Thompson To Lead Stage Adaptation Of Oscar Winner ‘The Lives Of Others’ Into West End",
-        "link": "https://deadline.com/2026/04/the-lives-of-others-play-keira-knightley-stephen-dillane-1236875223/",
-        "summary": "EXCLUSIVE: Keira Knightley (Black Doves), Stephen Dillane (Game of Thrones) and Luke Thompson (Bridgerton) will star this fall in a London stage adaptation of the Oscar-winning German movie The Lives of Others, a love st…",
-        "published": "2026-04-29T05:00:00+00:00",
-        "source": "Deadline",
-        "source_weight": 2,
         "category": "entertainment"
       },
       {
@@ -3611,11 +3692,11 @@
         "category": "entertainment"
       },
       {
-        "title": "Stephen Colbert Says He Made ‘The Late Show’ More Political After His Producer Told Him ‘That’s the Part the Audience Wants to See’",
-        "link": "https://variety.com/2026/tv/news/stephen-colbert-late-show-political-audience-wants-to-see-1236732906/",
-        "summary": "Stephen Colbert recently told The New York Times that, after an uneven first couple of months of “The Late Show,” his producer encouraged him to lean back into his political roots. Colbert said at first, the plan was to…",
-        "published": "2026-04-29T02:45:21+00:00",
-        "source": "Variety",
+        "title": "孫藝真首曬兒「小豆子」正面照　神複製玄彬被讚翻版爸爸 - 鏡週刊Mirror Media",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4R29COXJpbDd1bG1kTUNCckkwWG1VMEZUT29jTUU3cEJWLV9RNFlwLTNCTGJDRFRWS2pZcTRvWmt2QU56YUZaYjAwUjRhbnVYQXpMMkJHOVRKWFXSAWBBVV95cUxPTXRucGloOVdIUkxGYktxdHpvQ24wVFhLZDJwYUFIb19WSnBmQkEtcnZpTHRrYzhYT3NMazRDazU1WXQzVkNsNUxhd19MRkViYUlCTXFkYzF0WWVLSjdhODM?oc=5",
+        "summary": "孫藝真首曬兒「小豆子」正面照 神複製玄彬被讚翻版爸爸&nbsp;&nbsp;鏡週刊Mirror Media",
+        "published": "2026-04-29T02:44:00+00:00",
+        "source": "鏡週刊 娛樂",
         "source_weight": 3,
         "category": "entertainment"
       },
@@ -3625,15 +3706,6 @@
         "summary": "The British singer delivered a theatrical performance of her critically acclaimed album, never once breaking character, to a packed theater in downtown Los Angeles.",
         "published": "2026-04-29T02:10:29+00:00",
         "source": "Hollywood Reporter",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "‘Daredevil’ Star Reveals [SPOILER]’s Shocking Death Was Changed After Filming: ‘They CGI’ed Me Shooting Him in the Head’",
-        "link": "https://variety.com/2026/tv/news/daredevil-daniel-blake-death-michael-gandolfini-cgi-changed-1236731692/",
-        "summary": "SPOILER ALERT: This article contains major spoilers for the seventh episode of &#8220;Daredevil: Born Again&#8221; Season 2, now streaming on Disney+. &#8220;Daredevil: Born Again&#8221; has killed off another major char…",
-        "published": "2026-04-29T02:00:00+00:00",
-        "source": "Variety",
         "source_weight": 3,
         "category": "entertainment"
       },
@@ -3653,33 +3725,6 @@
         "published": "2026-04-29T01:50:52+00:00",
         "source": "Hollywood Reporter",
         "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "Colbert Says “Something Changed” In The Way CBS Viewed His Show In The Past Few Years",
-        "link": "https://deadline.com/2026/04/colbert-talks-late-show-canceled-cbs-1236875400/",
-        "summary": "Much has been said about Stephen Colbert&#8217;s May 21 curtain call on The Late Show. In fact, Colbert often jokes about it on air. But with less than a month to go, the late-night host sat down with the New York Times…",
-        "published": "2026-04-29T01:39:38+00:00",
-        "source": "Deadline",
-        "source_weight": 2,
-        "category": "entertainment"
-      },
-      {
-        "title": "‘Devil Wears Prada 2’ To Glam Up Start Of Summer Box Office With Near $180M Worldwide Opening – Preview",
-        "link": "https://deadline.com/2026/04/box-office-devil-wears-prada-2-weekend-projection-1236875194/",
-        "summary": "Typically it&#8217;s the fanboys who fire off summer, but this year it&#8217;s the fangirls as 20th Century Studios/Disney&#8217;s anticipated The Devil Wears Prada 2 looks to keep the box office pizzazz going after the…",
-        "published": "2026-04-29T01:18:18+00:00",
-        "source": "Deadline",
-        "source_weight": 2,
-        "category": "entertainment"
-      },
-      {
-        "title": "Ariana Grande Sets ‘Petal’ Album Release Date For July",
-        "link": "https://deadline.com/2026/04/ariana-grande-petal-album-release-date-1236875371/",
-        "summary": "Ariana Grande has finally revealed that Petal is the title of her new album set for release on July 31. The singer took to social media to share the cover art for her new album, which shows her smiling and looking blissf…",
-        "published": "2026-04-29T00:30:00+00:00",
-        "source": "Deadline",
-        "source_weight": 2,
         "category": "entertainment"
       },
       {
@@ -3710,29 +3755,11 @@
         "category": "entertainment"
       },
       {
-        "title": "Adam Carolla Defends Jimmy Kimmel Amid Melania Trump “Expectant Widow” Backlash: “Pretty Typical Roast Joke”",
-        "link": "https://www.hollywoodreporter.com/tv/tv-news/adam-carolla-jimmy-kimmel-widow-melania-joke-1236579756/",
-        "summary": "The right-leaning comedian reacted to the comments the late night host made at his faux White House Correspondents’ Dinner on Thursday.",
-        "published": "2026-04-28T23:53:30+00:00",
-        "source": "Hollywood Reporter",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
         "title": "粿王判決書曝光！「偷情親密關鍵證據」掀全網瘋搜關鍵字　 神釣到范姜彥豐律師親解答 - 鏡週刊Mirror Media",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM2dJSGJkenJGM2VLelJZUlhGYm5RemZVZDlBeE16MkhkZ3QzaVpXRG9vVVhGZlE2VUIyMXJzbTY3aGNyZjBvcHFLVWhRY3Y4THpUZ3pkSDdjeDDSAWBBVV95cUxQODFLaGh6cTN0eldJRkd5eVozME8zWTdMNU9qZV9DQzFMVERIWlZQT2l5Yk9QZmVoUDh1Rm9GMzlYR19XcllSVnBHaUpkTEpFaTJ4dG9WLUQ1SC1fU09IWUs?oc=5",
         "summary": "粿王判決書曝光！「偷情親密關鍵證據」掀全網瘋搜關鍵字 神釣到范姜彥豐律師親解答&nbsp;&nbsp;鏡週刊Mirror Media",
         "published": "2026-04-28T23:24:00+00:00",
         "source": "鏡週刊 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "Mariska Hargitay Discusses Doc ‘My Mom Jayne,’ Reveals She’ll Direct 600th ‘SVU’ Episode — and That She and Chris Meloni Filmed a Kiss (Exclusive)",
-        "link": "https://www.hollywoodreporter.com/movies/movie-news/mariska-hargitay-christopher-meloni-svu-kiss-interview-1236579222/",
-        "summary": "The beloved TV star, whose HBO doc about her late mother, movie star Jayne Mansfield, is in contention for the best documentary special Emmy, spoke with THR at the Napa Valley StreamFest.",
-        "published": "2026-04-28T22:58:28+00:00",
-        "source": "Hollywood Reporter",
         "source_weight": 3,
         "category": "entertainment"
       },
@@ -3751,24 +3778,6 @@
         "summary": "富二代夜會主播3／和李雅楹形影不離！ 宣昶有被爆「低調再婚有孩子」3人關係撲朔迷離&nbsp;&nbsp;鏡週刊Mirror Media",
         "published": "2026-04-28T22:28:56+00:00",
         "source": "鏡週刊 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "‘Dancing With the Stars’ Bosses Talk Casting Ciara and Maura for Season 35, ‘Next Pro’ Spinoff and Emmys Hopes",
-        "link": "https://www.hollywoodreporter.com/tv/tv-features/dancing-with-the-stars-season-35-ciara-maura-next-pro-emmys-1236579655/",
-        "summary": "Showrunner Conrad Green and executive producer-casting head Deena Katz spoke with THR recently at an Emmys FYC event at the Dolby Theatre, where they shared plans for the upcoming installment and the franchise's continue…",
-        "published": "2026-04-28T22:10:12+00:00",
-        "source": "Hollywood Reporter",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "‘Widow’s Bay’ Review: Matthew Rhys Anchors Apple’s Intriguingly Creepy, Oddly Cozy, Unevenly Effective Horror-Comedy",
-        "link": "https://www.hollywoodreporter.com/tv/tv-reviews/widows-bay-review-matthew-rhys-apple-1236578528/",
-        "summary": "Stephen Root and Kate O'Flynn also star in the series by 'Parks and Recreation' vet Katie Dippold, set in a small island town beset by disturbing supernatural events.",
-        "published": "2026-04-28T21:51:49+00:00",
-        "source": "Hollywood Reporter",
         "source_weight": 3,
         "category": "entertainment"
       },
@@ -3800,28 +3809,10 @@
         "category": "entertainment"
       },
       {
-        "title": "EXO現在剩幾個人？Kai鬆口回答「團體人數」　粉絲淚：他是對的 - ETtoday星光雲| ETtoday新聞雲",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wRGdvNkdscFIwUTdIbE9fUDNvX202M2djbXBvNDlKTnZ3cFczVS1TNzNtcEc0Q1lHdlo0LTgwZEVxZkxBU09hQTZPRkNEZ9IBakFVX3lxTE44eEhWYXhkajlwcUFMZTJPMHZRWWRJNDZ1V1JYUkdpM0VzNktsbnNCSzlZai1NRzUyWjFWMXYyVDh6V084T3VZVVRpQUdhM0Qya1V1ZnZHeWZfQlg1UXlSLUphWDRMM214TGc?oc=5",
-        "summary": "EXO現在剩幾個人？Kai鬆口回答「團體人數」 粉絲淚：他是對的&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
-        "published": "2026-04-28T10:27:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
         "title": "粿王之亂判決出爐！偷吃人妻要賠100萬、判決書不能蓋牌　王子反應曝光 - 鏡週刊Mirror Media",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82aFRzbTNnTUxmbTBsUDlNYTlOMzVCcFdpY0xSX2I1Y0NHVTBnRE5ZUlZGVWVRV3g0dGJnOVFBWDNxczBwWlpQWXI2VmJsMlk5dFRxZmlQMmp6SXfSAWBBVV95cUxObVNCQmlrSHlIcEpSejhUbjB2LXFvRWVuWklpUE1Td1ZoMDZDa2pWSFJyX2RDNzBLTDNfR0gxUzllQnpPQXJNTGRwejNBTk9xaWJSa05HbVJOcnVYeEJ4b04?oc=5",
         "summary": "粿王之亂判決出爐！偷吃人妻要賠100萬、判決書不能蓋牌 王子反應曝光&nbsp;&nbsp;鏡週刊Mirror Media",
         "published": "2026-04-28T09:53:00+00:00",
-        "source": "鏡週刊 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
-        "title": "阿Sa老公是誰？時薪8000下班還進修1事超上進　「老母」曝婚禮內幕 - 鏡週刊Mirror Media",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kTEt4dHdEU0N2RXd0bEZsQTQtb3ZjbXNadlNURjJQMGxNZ0hQMnVNbVJTZmd2SHQ0bmJRMUp3ODZDMjEydnVKa1NnTHpmc28tVDRVZ0xscFZzWXPSAWBBVV95cUxQdTd6UVh5VjVZZTZmWmpkXzVfZlRjaU9wMXZaVWw1eUphRmJwN1R6VHlNUUI3V0J6NTh1VjFHQVNocHZ0QlNhZjgtSWh2RVZmazRvY0JXZEJ0NnF4WUpRREI?oc=5",
-        "summary": "阿Sa老公是誰？時薪8000下班還進修1事超上進 「老母」曝婚禮內幕&nbsp;&nbsp;鏡週刊Mirror Media",
-        "published": "2026-04-28T06:48:00+00:00",
         "source": "鏡週刊 娛樂",
         "source_weight": 3,
         "category": "entertainment"
@@ -3840,6 +3831,15 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45TUdrdDJPRFB0cWdPT0o0a3V2d2hzcTZCZjlhZjRIU1JYNThCMWFhQ0JvRmpKMHo0blBadW92bG13M0QzSVRJaHFfZXBJWEltVjQwTGROU0ZJa0HSAWBBVV95cUxOeWxBZUhURk83czdCZjNLOV9SLW9MOGF0U1pyelVVYkxUUjMtRUdFWmgzNUVicWJrRmpGaGlkRU5yVGVDNENZcDU0ejE0aE5yX1FJcUN0dWdBUlJyWlVYWmI?oc=5",
         "summary": "「KTV南霸天」享溫馨上市 董座李東和：我們不僅是一家生活娛樂平台&nbsp;&nbsp;鏡週刊Mirror Media",
         "published": "2026-04-28T01:48:00+00:00",
+        "source": "鏡週刊 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
+        "title": "新兵退伍後／獨家！平日手頭不寬裕　爆阿龐遭經紀人私吞酬勞 - 鏡週刊Mirror Media",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2aWp4bi15aHJaSy1wYjFpMmVVWW12ZVVrSHZKRnBvbzhqZWh5UUx0WEprN0NXcE1VSElIWHlIaTZrbVYwX0U0YUJqbnpvX3laZnpxamdHQjJzWFNN0gFgQVVfeXFMT1pRbVZKS1NFN3F1MUU0Mm82V19DRHgwTWM0R2cwWnNfeG13QWk3SmZqT0Z3TzdkU21OcEVaQjFvMGNWSmtvVWRpOU5tSTZtYXRjTDRDaW9Gd0FqR2hWa0p3?oc=5",
+        "summary": "新兵退伍後／獨家！平日手頭不寬裕 爆阿龐遭經紀人私吞酬勞&nbsp;&nbsp;鏡週刊Mirror Media",
+        "published": "2026-04-28T00:28:59+00:00",
         "source": "鏡週刊 娛樂",
         "source_weight": 3,
         "category": "entertainment"

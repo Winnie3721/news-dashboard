@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-29T09:08:33.325147+00:00",
+  "fetched_at": "2026-04-29T11:21:15.308730+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 76977,
-      "market_cap_usd": 1541730799157,
-      "total_volume_usd": 33406148427,
-      "change_24h_pct": 0.20405379098139698,
-      "change_7d_pct": -1.3847423972084587,
-      "high_24h": 77343,
+      "price_usd": 77531,
+      "market_cap_usd": 1553215339913,
+      "total_volume_usd": 35983419435,
+      "change_24h_pct": 1.438838710315453,
+      "change_7d_pct": -0.7849825197357269,
+      "high_24h": 77808,
       "low_24h": 75706
     },
     {
@@ -19,22 +19,22 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2323.61,
-      "market_cap_usd": 280487525761,
-      "total_volume_usd": 14351769966,
-      "change_24h_pct": 1.6843635391742913,
-      "change_7d_pct": -2.8192232907914985,
-      "high_24h": 2336.29,
+      "price_usd": 2331.65,
+      "market_cap_usd": 281636533052,
+      "total_volume_usd": 15256996440,
+      "change_24h_pct": 2.3945141988738405,
+      "change_7d_pct": -2.4537751622134873,
+      "high_24h": 2344.02,
       "low_24h": 2263.65
     }
   ],
   "global": {
-    "total_market_cap_usd": 2657582223525.165,
-    "total_volume_usd": 83156879247.21306,
-    "btc_dominance": 58.03339025758124,
-    "eth_dominance": 10.553770838419878,
-    "market_cap_change_24h_pct": 0.37557561430774594,
-    "active_cryptocurrencies": 17526
+    "total_market_cap_usd": 2672173824005.4,
+    "total_volume_usd": 88456674464.12619,
+    "btc_dominance": 58.121750636762734,
+    "eth_dominance": 10.537370002048426,
+    "market_cap_change_24h_pct": 1.5586323313505739,
+    "active_cryptocurrencies": 17505
   },
   "fear_greed": {
     "value": 26,
