@@ -1,0 +1,1019 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>新聞看板 — Daily Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Noto+Serif+TC:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fafaf7;
+    --paper: #ffffff;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --ink-mute: #8a8a8a;
+    --rule: #e3e0d8;
+    --rule-strong: #1a1a1a;
+    --accent: #c8102e;
+    --green: #0a7a3a;
+    --red: #c8102e;
+    --serif-en: "Playfair Display", Georgia, serif;
+    --serif-tc: "Noto Serif TC", "PingFang TC", "Microsoft JhengHei", serif;
+    --sans: "Inter", -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 14px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* === Masthead === */
+  .masthead {
+    border-top: 8px solid var(--ink);
+    border-bottom: 1px solid var(--rule-strong);
+    background: var(--paper);
+    padding: 22px 32px 14px;
+  }
+  .masthead-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .masthead h1 {
+    font-family: var(--serif-en);
+    font-weight: 900;
+    font-size: 38px;
+    margin: 0;
+    letter-spacing: -0.5px;
+  }
+  .masthead h1 .tc {
+    font-family: var(--serif-tc);
+    font-weight: 700;
+    margin-right: 12px;
+  }
+  .masthead-meta {
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+  }
+  .masthead-meta strong { color: var(--accent); font-weight: 600; }
+  .tagline {
+    margin-top: 4px;
+    font-family: var(--serif-en);
+    font-style: italic;
+    font-size: 13px;
+    color: var(--ink-mute);
+  }
+
+  /* === Intelligence Layer === */
+  .intel-layer {
+    background: #faf6ec;
+    border-bottom: 2px solid var(--ink);
+    padding: 26px 32px 24px;
+  }
+  .intel-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 14px;
+    border-bottom: 1px dashed var(--rule);
+    padding-bottom: 10px;
+  }
+  .intel-head h2 {
+    font-family: var(--serif-en);
+    font-weight: 700;
+    font-size: 22px;
+    margin: 0;
+    color: var(--ink);
+  }
+  .intel-head h2 .icon { margin-right: 8px; }
+  .intel-head h2 .tc {
+    font-family: var(--serif-tc);
+    font-weight: 700;
+    margin-right: 10px;
+  }
+  .intel-edited {
+    font-family: var(--sans);
+    font-size: 11px;
+    color: var(--ink-mute);
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+  }
+  .intel-edited strong { color: var(--accent); }
+
+  .intel-thesis {
+    font-family: var(--serif-tc);
+    font-size: 19px;
+    line-height: 1.5;
+    font-weight: 500;
+    margin: 0 0 18px;
+    padding-left: 14px;
+    border-left: 4px solid var(--accent);
+    color: var(--ink);
+  }
+
+  .intel-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  @media (max-width: 980px) {
+    .intel-grid { grid-template-columns: 1fr; gap: 18px; }
+    .intel-layer { padding: 20px 18px; }
+  }
+  .intel-box {
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    padding: 14px 16px;
+  }
+  .intel-box-title {
+    font-family: var(--sans);
+    font-weight: 700;
+    font-size: 11px;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    margin: 0 0 10px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .intel-box-title .badge {
+    background: var(--ink);
+    color: #fff;
+    font-size: 9px;
+    padding: 2px 6px;
+    letter-spacing: 1px;
+  }
+  .intel-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .intel-list li {
+    font-family: var(--sans);
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--ink);
+    padding: 6px 0;
+    border-bottom: 1px dotted var(--rule);
+    display: flex;
+    gap: 8px;
+  }
+  .intel-list li:last-child { border-bottom: 0; }
+  .intel-list .num {
+    font-family: var(--serif-en);
+    font-weight: 700;
+    color: var(--accent);
+    font-size: 14px;
+    flex-shrink: 0;
+    min-width: 14px;
+  }
+  .intel-list .arrow {
+    color: var(--accent);
+    flex-shrink: 0;
+    font-weight: 700;
+  }
+  .intel-list .impl {
+    color: var(--ink-soft);
+    font-size: 12px;
+    display: block;
+    margin-top: 2px;
+  }
+
+  /* === Section signal === */
+  .section-signal {
+    font-family: var(--sans);
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    background: #fbf8ee;
+    border-left: 3px solid var(--accent);
+    padding: 8px 12px;
+    margin: 0 0 14px;
+    line-height: 1.5;
+  }
+  .section-signal::before {
+    content: "💡 ";
+    margin-right: 2px;
+  }
+
+  /* === Report takeaway === */
+  .report-takeaway {
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+    padding-left: 14px;
+    border-left: 2px solid var(--accent);
+    line-height: 1.45;
+  }
+  .report-takeaway::before { content: "💡 "; }
+
+  /* === Ticker bar (top) === */
+  .ticker {
+    background: var(--ink);
+    color: #f5f3ec;
+    padding: 0;
+    overflow: hidden;
+    border-bottom: 1px solid #000;
+    position: relative;
+  }
+  .ticker-track {
+    display: flex;
+    gap: 36px;
+    padding: 12px 32px;
+    white-space: nowrap;
+    width: max-content;
+    animation: scroll-left 90s linear infinite;
+  }
+  .ticker:hover .ticker-track { animation-play-state: paused; }
+  @keyframes scroll-left {
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+  .ticker-item {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 8px;
+    font-family: var(--sans);
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+    flex-shrink: 0;
+  }
+  .ticker-item .label {
+    color: #9d9a91;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-size: 10px;
+  }
+  .ticker-item .price {
+    font-weight: 600;
+    font-size: 13px;
+    color: #f5f3ec;
+  }
+  .ticker-item .pct.up { color: #6ce39c; }
+  .ticker-item .pct.down { color: #ff6b6b; }
+
+  /* === Market table (in-section) === */
+  .market-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 14px;
+    font-variant-numeric: tabular-nums;
+  }
+  .market-table th, .market-table td {
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--rule);
+    font-size: 12px;
+    text-align: right;
+  }
+  .market-table th {
+    text-align: left;
+    font-family: var(--sans);
+    font-weight: 600;
+    color: var(--ink-mute);
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    font-size: 10px;
+    background: var(--bg);
+  }
+  .market-table th:first-child, .market-table td:first-child {
+    text-align: left;
+    font-weight: 500;
+  }
+  .market-table .up { color: var(--green); }
+  .market-table .down { color: var(--red); }
+
+  /* === Layout === */
+  .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 24px 32px 60px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 32px;
+  }
+  @media (max-width: 900px) {
+    .grid { grid-template-columns: 1fr; gap: 24px; }
+    .container { padding: 18px 16px 40px; }
+    .masthead { padding: 16px; }
+    .masthead h1 { font-size: 26px; }
+  }
+
+  /* === Section card === */
+  .section {
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    padding: 22px 24px 14px;
+  }
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 10px;
+    margin-bottom: 14px;
+  }
+  .section-title {
+    font-family: var(--serif-tc);
+    font-weight: 700;
+    font-size: 22px;
+    margin: 0;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .section-title .icon { font-size: 18px; }
+  .section-title .en {
+    font-family: var(--serif-en);
+    font-weight: 700;
+    font-size: 14px;
+    color: var(--ink-mute);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-left: 6px;
+  }
+  .section-count {
+    font-family: var(--sans);
+    font-size: 11px;
+    color: var(--ink-mute);
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+  }
+
+  /* === Article === */
+  .article {
+    padding: 12px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .article:last-child { border-bottom: 0; }
+  .article-meta {
+    font-family: var(--sans);
+    font-size: 11px;
+    color: var(--ink-mute);
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    margin-bottom: 4px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .article-meta .source {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .article-meta .dot { color: var(--rule); }
+  .article-title {
+    font-family: var(--serif-tc);
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.4;
+    margin: 0 0 4px;
+  }
+  .article-title a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color .15s;
+  }
+  .article-title a:hover {
+    border-bottom-color: var(--ink);
+  }
+  .article-summary {
+    font-family: var(--sans);
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  /* === Crypto / Reports special sections === */
+  .crypto-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .coin {
+    border: 1px solid var(--rule);
+    padding: 10px 12px;
+  }
+  .coin-name {
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--ink-soft);
+    margin-bottom: 4px;
+  }
+  .coin-price {
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 17px;
+    font-variant-numeric: tabular-nums;
+  }
+  .coin-change {
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+    margin-top: 2px;
+  }
+  .coin-change.up { color: var(--green); }
+  .coin-change.down { color: var(--red); }
+  .fg-box {
+    border: 1px solid var(--rule);
+    padding: 10px 12px;
+    background: var(--bg);
+    text-align: center;
+  }
+  .fg-value {
+    font-family: var(--serif-en);
+    font-size: 26px;
+    font-weight: 700;
+  }
+  .fg-label {
+    font-family: var(--sans);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--ink-mute);
+  }
+
+  /* === Refresh button === */
+  .refresh-btn {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: var(--ink);
+    color: #fff;
+    border: 2px solid var(--ink);
+    padding: 12px 20px;
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    cursor: pointer;
+    box-shadow: 0 4px 16px rgba(0,0,0,.18);
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    z-index: 999;
+    transition: transform .15s ease, background .15s ease;
+  }
+  .refresh-btn:hover {
+    background: var(--accent);
+    border-color: var(--accent);
+    transform: translateY(-2px);
+  }
+  .refresh-btn:disabled {
+    opacity: 0.7;
+    cursor: wait;
+  }
+  .refresh-btn .refresh-icon {
+    font-size: 16px;
+    display: inline-block;
+  }
+  .refresh-btn.spinning .refresh-icon {
+    animation: spin 1s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @media (max-width: 600px) {
+    .refresh-btn { bottom: 16px; right: 16px; padding: 10px 16px; font-size: 12px; }
+  }
+
+  /* === Toast === */
+  .toast {
+    position: fixed;
+    bottom: 88px;
+    right: 24px;
+    background: var(--paper);
+    color: var(--ink);
+    border: 1px solid var(--ink);
+    padding: 12px 18px;
+    font-family: var(--sans);
+    font-size: 13px;
+    box-shadow: 0 4px 16px rgba(0,0,0,.18);
+    z-index: 1000;
+    max-width: 320px;
+    line-height: 1.4;
+    opacity: 0;
+    transform: translateY(8px);
+    transition: opacity .2s, transform .2s;
+    pointer-events: none;
+  }
+  .toast.show { opacity: 1; transform: translateY(0); pointer-events: auto; }
+  .toast.error { border-color: var(--accent); }
+  .toast .toast-title { font-weight: 700; margin-bottom: 4px; }
+  .toast code { font-family: ui-monospace, monospace; background: var(--bg); padding: 1px 4px; }
+
+  /* === Reports list === */
+  .report-item {
+    padding: 10px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .report-item:last-child { border-bottom: 0; }
+  .report-meta {
+    font-family: var(--sans);
+    font-size: 11px;
+    color: var(--ink-mute);
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    margin-bottom: 3px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .report-meta .source {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .report-title {
+    font-family: var(--serif-tc);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.4;
+    margin: 0;
+  }
+  .report-title a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+  }
+  .report-title a:hover { border-bottom-color: var(--ink); }
+
+  /* === Footer === */
+  .footer {
+    text-align: center;
+    padding: 32px 16px 8px;
+    font-family: var(--sans);
+    font-size: 11px;
+    color: var(--ink-mute);
+    letter-spacing: 0.6px;
+  }
+
+  /* Empty state */
+  .empty {
+    padding: 18px;
+    color: var(--ink-mute);
+    font-size: 12px;
+    text-align: center;
+    border: 1px dashed var(--rule);
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-row">
+    <div>
+      <h1><span class="tc">新聞看板</span><span>The Daily Brief</span></h1>
+      <div class="tagline">Curated for 鮪魚 · World, Money &amp; Markets at a glance</div>
+    </div>
+    <div class="masthead-meta">
+      <div id="today-date">—</div>
+      <div>Built <strong>__BUILT_AT__</strong> TPE</div>
+    </div>
+  </div>
+</header>
+
+<div class="ticker" aria-label="market ticker">
+  <div class="ticker-track" id="ticker"></div>
+</div>
+
+<section class="intel-layer" id="intel-layer">
+  <div class="intel-head">
+    <h2><span class="icon">🧠</span><span class="tc">今日洞察</span><span>Today&rsquo;s Intelligence</span></h2>
+    <div class="intel-edited" id="intel-edited">—</div>
+  </div>
+  <p class="intel-thesis" id="intel-thesis">—</p>
+  <div class="intel-grid">
+    <div class="intel-box">
+      <div class="intel-box-title">最重要 3 件事 <span class="badge">TOP 3</span></div>
+      <ul class="intel-list" id="intel-top3"></ul>
+    </div>
+    <div class="intel-box">
+      <div class="intel-box-title">Why It Matters</div>
+      <ul class="intel-list" id="intel-why"></ul>
+    </div>
+    <div class="intel-box">
+      <div class="intel-box-title">Cross Signals 🔗</div>
+      <ul class="intel-list" id="intel-cross"></ul>
+    </div>
+  </div>
+</section>
+
+<main class="container">
+  <div class="grid" id="sections"></div>
+</main>
+
+<button id="refresh-btn" class="refresh-btn" title="重新抓取最新資料">
+  <span class="refresh-icon">⟳</span>
+  <span class="refresh-label">立即更新</span>
+</button>
+<div id="toast" class="toast"></div>
+
+<footer class="footer">
+  新聞看板 v0.1 · No API keys, no tracking · Built with ☕ in Taipei
+</footer>
+
+<script id="news-data" type="application/json">/*__NEWS_DATA__*/null</script>
+<script id="crypto-data" type="application/json">/*__CRYPTO_DATA__*/null</script>
+<script id="market-data" type="application/json">/*__MARKET_DATA__*/null</script>
+<script id="reports-data" type="application/json">/*__REPORTS_DATA__*/null</script>
+<script id="intel-data" type="application/json">/*__INTEL_DATA__*/null</script>
+
+<script>
+const NEWS = JSON.parse(document.getElementById('news-data').textContent);
+const CRYPTO = JSON.parse(document.getElementById('crypto-data').textContent);
+const MARKET = JSON.parse(document.getElementById('market-data').textContent);
+const REPORTS = JSON.parse(document.getElementById('reports-data').textContent) || {items: []};
+const INTEL = JSON.parse(document.getElementById('intel-data').textContent) || {};
+
+const CATEGORIES = [
+  { key: 'world',         tc: '世界',     en: 'World',         icon: '🌍', topN: 6 },
+  { key: 'finance',       tc: '財經',     en: 'Finance',       icon: '💰', topN: 6 },
+  { key: 'crypto',        tc: '加密',     en: 'Crypto',        icon: '🪙', topN: 6, special: 'crypto' },
+  { key: 'tech',          tc: '科技',     en: 'Technology',    icon: '💻', topN: 6 },
+  { key: 'entertainment', tc: '影視',     en: 'Entertainment', icon: '🎬', topN: 6 },
+  { key: 'reports',       tc: '機構報告', en: 'Reports',       icon: '📚', topN: 0, special: 'reports' },
+];
+
+function fmtRelative(iso) {
+  if (!iso) return '';
+  const now = new Date();
+  const t = new Date(iso);
+  const diff = (now - t) / 1000;
+  if (diff < 60) return 'just now';
+  if (diff < 3600) return Math.floor(diff/60) + 'm ago';
+  if (diff < 86400) return Math.floor(diff/3600) + 'h ago';
+  if (diff < 86400*7) return Math.floor(diff/86400) + 'd ago';
+  return t.toLocaleDateString('zh-TW');
+}
+
+function fmtNum(n, dp=2) {
+  if (n === null || n === undefined) return '—';
+  if (Math.abs(n) >= 1e12) return (n/1e12).toFixed(dp) + 'T';
+  if (Math.abs(n) >= 1e9)  return (n/1e9).toFixed(dp) + 'B';
+  if (Math.abs(n) >= 1e6)  return (n/1e6).toFixed(dp) + 'M';
+  return n.toLocaleString('en-US', {maximumFractionDigits: dp});
+}
+
+function fmtPct(p) {
+  if (p === null || p === undefined) return '';
+  const sign = p >= 0 ? '+' : '';
+  return sign + p.toFixed(2) + '%';
+}
+
+function escHtml(s) {
+  return (s || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+}
+
+/* ===== Intelligence Layer ===== */
+function renderIntel() {
+  if (!INTEL || !INTEL.thesis) {
+    document.getElementById('intel-layer').style.display = 'none';
+    return;
+  }
+
+  // Edited time
+  const e = INTEL.edited_at || '';
+  const t = e ? new Date(e) : null;
+  const stamp = t ? `${(t.getMonth()+1).toString().padStart(2,'0')}/${t.getDate().toString().padStart(2,'0')} ${t.getHours().toString().padStart(2,'0')}:${t.getMinutes().toString().padStart(2,'0')}` : '—';
+  document.getElementById('intel-edited').innerHTML = `Curated by analyst · <strong>${stamp}</strong> TPE`;
+
+  // Thesis
+  document.getElementById('intel-thesis').textContent = INTEL.thesis;
+
+  // Top 3
+  const top3 = (INTEL.top_3_events || []).map((x, i) => `
+    <li>
+      <span class="num">${i + 1}</span>
+      <div>
+        <div>${escHtml(x.event)}</div>
+        ${x.implication ? `<span class="impl">→ ${escHtml(x.implication)}${x.source ? ` <span style="color:var(--ink-mute)">(${escHtml(x.source)})</span>` : ''}</span>` : ''}
+      </div>
+    </li>
+  `).join('');
+  document.getElementById('intel-top3').innerHTML = top3 || '<li>—</li>';
+
+  // Why it matters
+  const why = (INTEL.why_it_matters || []).map(x => `
+    <li><span class="arrow">→</span><span>${escHtml(x)}</span></li>
+  `).join('');
+  document.getElementById('intel-why').innerHTML = why || '<li>—</li>';
+
+  // Cross signals (combined with what_changed if exists)
+  const cross = [];
+  (INTEL.cross_signals || []).forEach(x => cross.push(x));
+  const crossHtml = cross.map(x => `
+    <li><span class="arrow">→</span><span>${escHtml(x)}</span></li>
+  `).join('');
+  document.getElementById('intel-cross').innerHTML = crossHtml || '<li>—</li>';
+}
+
+/* ===== Today date ===== */
+function renderDate() {
+  const d = new Date();
+  const wd = ['週日','週一','週二','週三','週四','週五','週六'][d.getDay()];
+  const el = document.getElementById('today-date');
+  el.textContent = `${d.getFullYear()}/${(d.getMonth()+1).toString().padStart(2,'0')}/${d.getDate().toString().padStart(2,'0')} (${wd})`;
+}
+
+/* ===== Source diversification (round-robin) ===== */
+function diversify(items, maxPerSource = 3) {
+  const bySource = {};
+  for (const it of items) {
+    if (!bySource[it.source]) bySource[it.source] = [];
+    bySource[it.source].push(it);
+  }
+  // sort each source's items by published desc
+  for (const s of Object.keys(bySource)) {
+    bySource[s].sort((a, b) => (b.published || '').localeCompare(a.published || ''));
+  }
+  // round-robin pull
+  const result = [];
+  const idx = Object.fromEntries(Object.keys(bySource).map(s => [s, 0]));
+  let pass = 0;
+  while (pass < maxPerSource) {
+    let added = false;
+    for (const s of Object.keys(bySource)) {
+      if (idx[s] < Math.min(bySource[s].length, maxPerSource)) {
+        result.push(bySource[s][idx[s]]);
+        idx[s] += 1;
+        added = true;
+      }
+    }
+    if (!added) break;
+    pass += 1;
+  }
+  return result;
+}
+
+/* ===== Sections ===== */
+function renderArticle(a) {
+  return `
+    <article class="article">
+      <div class="article-meta">
+        <span class="source">${escHtml(a.source)}</span>
+        <span class="dot">·</span>
+        <span>${fmtRelative(a.published)}</span>
+      </div>
+      <h3 class="article-title"><a href="${escHtml(a.link)}" target="_blank" rel="noopener">${escHtml(a.title)}</a></h3>
+      ${a.summary ? `<p class="article-summary">${escHtml(a.summary)}</p>` : ''}
+    </article>
+  `;
+}
+
+function renderCryptoBlock() {
+  const fg = CRYPTO.fear_greed || {};
+  const coins = CRYPTO.coins || [];
+  const g = CRYPTO.global || {};
+  let html = '<div class="crypto-grid">';
+  coins.forEach(c => {
+    const dir = (c.change_24h_pct || 0) >= 0 ? 'up' : 'down';
+    const arrow = (c.change_24h_pct || 0) >= 0 ? '▲' : '▼';
+    html += `
+      <div class="coin">
+        <div class="coin-name">${escHtml(c.symbol)} · ${escHtml(c.name)}</div>
+        <div class="coin-price">$${fmtNum(c.price_usd, 2)}</div>
+        <div class="coin-change ${dir}">${arrow} ${fmtPct(c.change_24h_pct)} (24h)</div>
+      </div>
+    `;
+  });
+  html += `
+    <div class="fg-box">
+      <div class="fg-label">Fear &amp; Greed</div>
+      <div class="fg-value">${fg.value !== undefined ? fg.value : '—'}</div>
+      <div class="fg-label">${escHtml(fg.label || '')}</div>
+    </div>
+  `;
+  if (g.total_market_cap_usd) {
+    const mcDir = (g.market_cap_change_24h_pct || 0) >= 0 ? 'up' : 'down';
+    const mcArr = (g.market_cap_change_24h_pct || 0) >= 0 ? '▲' : '▼';
+    html += `
+      <div class="fg-box">
+        <div class="fg-label">Total Market Cap</div>
+        <div class="fg-value">$${fmtNum(g.total_market_cap_usd, 2)}</div>
+        <div class="coin-change ${mcDir}">${mcArr} ${fmtPct(g.market_cap_change_24h_pct)} (24h)</div>
+      </div>
+      <div class="fg-box">
+        <div class="fg-label">BTC Dominance</div>
+        <div class="fg-value">${g.btc_dominance ? g.btc_dominance.toFixed(1) + '%' : '—'}</div>
+        <div class="fg-label">of total market</div>
+      </div>
+    `;
+  }
+  html += '</div>';
+  return html;
+}
+
+function renderFinanceMarket() {
+  const idx = MARKET.indices || [];
+  if (!idx.length) return '';
+  const rows = idx.map(m => {
+    const dir = (m.change_pct || 0) >= 0 ? 'up' : 'down';
+    const arrow = (m.change_pct || 0) >= 0 ? '▲' : '▼';
+    return `
+      <tr>
+        <td>${escHtml(m.label)}</td>
+        <td>${m.price !== null ? m.price.toLocaleString('en-US', {maximumFractionDigits: 2}) : '—'}</td>
+        <td class="${dir}">${arrow} ${fmtPct(m.change_pct)}</td>
+      </tr>
+    `;
+  }).join('');
+  return `
+    <table class="market-table">
+      <thead><tr><th>指數 / 匯率</th><th style="text-align:right">收盤</th><th style="text-align:right">漲跌</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  `;
+}
+
+function findTakeaway(title) {
+  const tk = (INTEL && INTEL.report_takeaways) || {};
+  if (!title) return '';
+  for (const key of Object.keys(tk)) {
+    if (key && title.toLowerCase().includes(key.toLowerCase()) && tk[key]) {
+      return tk[key];
+    }
+  }
+  return '';
+}
+
+function renderReports() {
+  const items = REPORTS.items || [];
+  if (!items.length) {
+    return `<div class="empty">本次未抓到機構報告。請點右下角「立即更新」重試。</div>`;
+  }
+  return items.slice(0, 8).map(r => {
+    const takeaway = findTakeaway(r.title);
+    return `
+      <article class="report-item">
+        <div class="report-meta">
+          <span class="source">${escHtml(r.source)}</span>
+          <span class="dot">·</span>
+          <span>${fmtRelative(r.published)}</span>
+        </div>
+        <h3 class="report-title"><a href="${escHtml(r.link)}" target="_blank" rel="noopener">${escHtml(r.title)}</a></h3>
+        ${takeaway ? `<div class="report-takeaway">${escHtml(takeaway)}</div>` : ''}
+      </article>
+    `;
+  }).join('');
+}
+
+/* ===== Top ticker ===== */
+function renderTicker() {
+  const items = [];
+  (MARKET.indices || []).forEach(m => {
+    const dir = (m.change_pct || 0) >= 0 ? 'up' : 'down';
+    const arrow = (m.change_pct || 0) >= 0 ? '▲' : '▼';
+    items.push(`
+      <div class="ticker-item">
+        <span class="label">${escHtml(m.label)}</span>
+        <span class="price">${m.price !== null ? m.price.toFixed(2) : '—'}</span>
+        <span class="pct ${dir}">${arrow} ${fmtPct(m.change_pct)}</span>
+      </div>
+    `);
+  });
+  (CRYPTO.coins || []).forEach(c => {
+    const dir = (c.change_24h_pct || 0) >= 0 ? 'up' : 'down';
+    const arrow = (c.change_24h_pct || 0) >= 0 ? '▲' : '▼';
+    items.push(`
+      <div class="ticker-item">
+        <span class="label">${escHtml(c.symbol)}</span>
+        <span class="price">$${fmtNum(c.price_usd, 2)}</span>
+        <span class="pct ${dir}">${arrow} ${fmtPct(c.change_24h_pct)}</span>
+      </div>
+    `);
+  });
+  if (CRYPTO.fear_greed) {
+    const fg = CRYPTO.fear_greed;
+    items.push(`
+      <div class="ticker-item">
+        <span class="label">Fear &amp; Greed</span>
+        <span class="price">${fg.value}</span>
+        <span class="pct">${escHtml(fg.label)}</span>
+      </div>
+    `);
+  }
+  // duplicate items so the marquee loop is seamless
+  const html = items.concat(items).join('');
+  document.getElementById('ticker').innerHTML = html;
+}
+
+function renderSections() {
+  const root = document.getElementById('sections');
+  const cats = NEWS.categories || {};
+  const sigs = (INTEL && INTEL.section_signals) || {};
+  const html = CATEGORIES.map(c => {
+    const raw = cats[c.key] || [];
+    const diversified = diversify(raw, 3);
+    const items = diversified.slice(0, c.topN);
+    let body = '';
+
+    // Section signal (analyst's one-line market read)
+    const signal = sigs[c.key];
+    if (signal) {
+      body += `<div class="section-signal">${escHtml(signal)}</div>`;
+    }
+
+    if (c.key === 'finance') body += renderFinanceMarket();
+    if (c.special === 'crypto') body += renderCryptoBlock();
+    if (c.special === 'reports') {
+      body += renderReports();
+    } else if (items.length === 0) {
+      body += '<div class="empty">本次抓取沒有資料</div>';
+    } else {
+      body += items.map(renderArticle).join('');
+    }
+    const countLabel = c.special === 'reports' ? '—' : `${items.length} stories`;
+    return `
+      <section class="section">
+        <div class="section-head">
+          <h2 class="section-title">
+            <span class="icon">${c.icon}</span>
+            <span>${c.tc}</span>
+            <span class="en">${c.en}</span>
+          </h2>
+          <span class="section-count">${countLabel}</span>
+        </div>
+        ${body}
+      </section>
+    `;
+  }).join('');
+  root.innerHTML = html;
+}
+
+renderIntel();
+renderDate();
+renderTicker();
+renderSections();
+
+/* ===== Toast helper ===== */
+function showToast(msg, type='info') {
+  const t = document.getElementById('toast');
+  t.innerHTML = msg;
+  t.classList.toggle('error', type === 'error');
+  t.classList.add('show');
+  clearTimeout(window.__toastT);
+  window.__toastT = setTimeout(() => t.classList.remove('show'), 5000);
+}
+
+/* ===== Refresh button ===== */
+document.getElementById('refresh-btn').addEventListener('click', async () => {
+  const btn = document.getElementById('refresh-btn');
+  const label = btn.querySelector('.refresh-label');
+
+  if (location.protocol === 'file:') {
+    showToast(`<div class="toast-title">需要本機伺服器才能更新</div>
+請先在終端機執行：<br><code>python src\\serve.py</code><br>
+（會自動開啟可用「立即更新」的版本）`, 'error');
+    return;
+  }
+
+  btn.disabled = true;
+  btn.classList.add('spinning');
+  label.textContent = '抓取中…（約 30 秒）';
+  try {
+    const r = await fetch('/api/refresh', { method: 'POST' });
+    const j = await r.json();
+    if (j.ok) {
+      label.textContent = '完成！重新載入…';
+      showToast(`<div class="toast-title">✓ 抓取成功</div>${j.summary || ''}`);
+      setTimeout(() => location.reload(), 800);
+    } else {
+      label.textContent = '失敗';
+      btn.disabled = false;
+      btn.classList.remove('spinning');
+      showToast(`<div class="toast-title">✗ 抓取失敗</div>${j.error || '請看終端機 log'}`, 'error');
+    }
+  } catch (e) {
+    label.textContent = '失敗';
+    btn.disabled = false;
+    btn.classList.remove('spinning');
+    showToast(`<div class="toast-title">✗ 連線失敗</div>${e.message}`, 'error');
+  }
+});
+</script>
+
+</body>
+</html>

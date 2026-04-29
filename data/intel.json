@@ -1,0 +1,67 @@
+{
+  "edited_at": "2026-04-29T11:30:00+08:00",
+  "edited_by": "macro analyst (manual)",
+  "thesis": "全球同步修正、避險旋轉浮現；澳洲通膨意外走低，重新點燃降息預期",
+
+  "top_3_events": [
+    {
+      "event": "澳洲 Q1 通膨低於市場預期",
+      "source": "CNBC",
+      "implication": "全球降息預期再起，AUD 與大宗商品定價重置"
+    },
+    {
+      "event": "OpenAI 營收受質疑、Claude 擴展至 Photoshop / Premiere / Blender",
+      "source": "商業周刊 / 動區",
+      "implication": "AI 競爭從 LLM 模型走向生產力工具生態"
+    },
+    {
+      "event": "中東地緣持續：以伊衝突、Gaza Beit Hanoun 重大破壞",
+      "source": "Al Jazeera / BBC",
+      "implication": "能源溢價與避險需求未完全消退"
+    }
+  ],
+
+  "why_it_matters": [
+    "通膨數據疲弱 → 利率預期下行 → 但今日科技股反向回檔，反映「短線估值修正 vs 中期利多」的分歧",
+    "AI 競爭從 LLM 模型擴散到工具生態 → 雲端與半導體 Capex 邏輯延續，但 LLM 廠商利潤面臨壓力",
+    "地緣未解 → 油價與黃金結構性需求 → 通膨議題未完全消退，與利率下行邏輯產生對沖"
+  ],
+
+  "what_changed": [
+    "全球指數同步下跌：台股 -0.86%、Nasdaq -0.90%、日經 -1.02%、S&P -0.49%",
+    "Dow Jones 僅 -0.05%（防禦類抗跌）→ 內部避險旋轉訊號",
+    "美元指數 +0.18%、USD/TWD 升至 31.54（小幅走貶）",
+    "BTC $76K (-0.29%)、ETH $2,288 (+0.18%)、F&G 維持 26（Fear）"
+  ],
+
+  "cross_signals": [
+    "通膨 ↓ → 利率預期 ↓ → Nasdaq 中期估值利多 vs 短線壓力",
+    "地緣 ↑ → 油價 ↑ → 通膨上行風險，與利率下行邏輯對沖",
+    "Dow 抗跌 > Nasdaq 領跌 → 防禦 / 成長旋轉訊號成立",
+    "BTC 守穩 $76K + F&G Fear → 加密市場觀望，等情緒翻轉"
+  ],
+
+  "section_signals": {
+    "world":         "→ 中東地緣張力主導，能源與避險商品需追蹤",
+    "finance":       "→ 全球同步修正但內部分化，防禦旋轉成立；澳洲通膨低於預期重啟降息預期",
+    "crypto":        "→ BTC 在 $76K 整理，F&G Fear 偏觀望；AI 與加密交集議題增加",
+    "tech":          "→ AI 競爭走向工具生態（雲端 / 半導體中期偏多、LLM 廠商利潤承壓）",
+    "entertainment": "→ AI 生成內容與創作者權益議題持續，串流獲利模式為下季關鍵"
+  },
+
+  "report_takeaways": {
+    "Middle East War to Spark Biggest Energy Price Surge": "若衝突擴大，油價結構性風險上行；對亞洲能源進口國通膨壓力顯著",
+    "Global Asset Management Report 2026": "資管業競爭從費率走向科技平台與另類投資；數位通路加速整合",
+    "Technology Convergence": "技術整合（AI × 雲 × 邊緣）為下一波競爭優勢，平台化與生態系是關鍵",
+    "Why the UAE Walked Out on OPEC": "OPEC 內部產能配額爭議升溫，原油定價權重新分配",
+    "IMF Executive Board": "IMF 持續評估高負債國融資條件，全球流動性風險仍可控",
+    "TAICCA SCHOOL": "台灣文創人才培育計畫；產業端對跨域影視 / 內容人才需求上升",
+    "資策會MIC發布2026年十大重點科技趨勢": "AI 需求旺、3 奈米以下製程產能吃緊、AI 伺服器與 AI BOX 為成長主軸",
+    "工研院揭2026通訊業4大趨勢": "AI 原生網路、智慧終端、衛星整合與電信轉型四大主軸；對台灣電信與晶片業具長期戰略意義",
+    "工研院剖析醫療產業發展": "台灣具 ICT × 醫療三大優勢，數位健康與精準醫療為產業升級切入點",
+    "Senior Analyst": null,
+    "Can a Royal Visit Salvage": "美英特殊關係出現結構性裂痕，外交 / 防務協同度下降"
+  },
+
+  "_notes_for_editor": "每天早上 5-10 分鐘編輯這個檔案。執行 run_all.py / 按更新按鈕不會覆蓋此檔（只更新新聞與市場）。建議在每天看完早報後重寫 thesis + top_3 + cross_signals。"
+}
