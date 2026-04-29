@@ -2,10 +2,12 @@ name: Auto Update Dashboard
 
 on:
   schedule:
-    # 台灣時間每天 06:55 (UTC 22:55, 前一天) → 訊息約 07:00 TPE 抵達
-    - cron: '55 22 * * *'
-    # 台灣時間每天 17:55 (UTC 09:55) → 訊息約 18:00 TPE 抵達
-    - cron: '55 9 * * *'
+    # 台灣時間每天 06:50 啟動（UTC 22:50，前一天）→ Dashboard 約 06:51 完成
+    # 之後等到 07:15 TPE 才推 Telegram
+    - cron: '50 22 * * *'
+    # 台灣時間每天 17:50 啟動（UTC 09:50）→ Dashboard 約 17:51 完成
+    # 之後等到 18:15 TPE 才推 Telegram
+    - cron: '50 9 * * *'
   workflow_dispatch:  # 可在 GitHub 介面手動觸發
 
 permissions:
@@ -18,7 +20,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 40  # 允許 sleep 等待 25 分鐘 + 其他步驟
 
     steps:
       - name: Checkout repo
@@ -50,8 +52,29 @@ jobs:
             git push
           fi
 
-      # 早上 06:50 + 晚上 18:00 排程，以及任何手動觸發 → 推 Telegram
-      # send_telegram.py 會依當下時間自動切換早安/晚安問候
+      # 排程觸發時：等到指定的台灣時間（07:15 / 18:15）再推 Telegram
+      # 手動觸發（workflow_dispatch）跳過等待，立即推
+      - name: Wait until Telegram push time (TPE 07:15 or 18:15)
+        if: github.event_name == 'schedule'
+        run: |
+          if [[ "${{ github.event.schedule }}" == "50 22 * * *" ]]; then
+            TARGET_HM="07:15"
+          else
+            TARGET_HM="18:15"
+          fi
+          NOW_EPOCH=$(TZ='Asia/Taipei' date +%s)
+          TARGET_EPOCH=$(TZ='Asia/Taipei' date -d "today $TARGET_HM" +%s)
+          NOW_TPE=$(TZ='Asia/Taipei' date +'%Y-%m-%d %H:%M:%S')
+          echo "Now (TPE): $NOW_TPE"
+          echo "Target: $TARGET_HM TPE"
+          if [ $NOW_EPOCH -lt $TARGET_EPOCH ]; then
+            SLEEP=$((TARGET_EPOCH - NOW_EPOCH))
+            echo "Sleeping ${SLEEP}s..."
+            sleep $SLEEP
+          else
+            echo "Already past target time, sending immediately"
+          fi
+
       - name: Send Telegram brief
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         working-directory: src
