@@ -100,9 +100,20 @@ def build_brief() -> str:
     cn_wd = ["一", "二", "三", "四", "五", "六", "日"][tpe.weekday()]
     date_str = f"{tpe.month:02d}/{tpe.day:02d} (週{cn_wd})"
 
+    # 依當下 TPE 時間切換早安 / 晚安
+    is_evening = tpe.hour >= 14
+    if is_evening:
+        icon = "🌙"
+        greet = "鮪魚晚安！"
+        intro = "日終市場 + 今日重點整理"
+    else:
+        icon = "☀️"
+        greet = "鮪魚早安！"
+        intro = "過去 24 小時重點整理"
+
     lines = []
-    lines.append(f"☀️ <b>{date_str} 鮪魚早安！</b>")
-    lines.append("過去 24 小時重點整理")
+    lines.append(f"{icon} <b>{date_str} {greet}</b>")
+    lines.append(intro)
     lines.append("")
 
     # Today's thesis (from intel.json)
