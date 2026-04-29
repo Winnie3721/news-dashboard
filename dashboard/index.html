@@ -590,7 +590,7 @@
     </div>
     <div class="masthead-meta">
       <div id="today-date">—</div>
-      <div>Built <strong>2026-04-29 14:58</strong> TPE</div>
+      <div>更新於 <strong>2026-04-29 15:01</strong> TPE</div>
     </div>
   </div>
 </header>
@@ -602,7 +602,6 @@
 <section class="intel-layer" id="intel-layer">
   <div class="intel-head">
     <h2><span class="icon">🧠</span><span class="tc">今日洞察</span><span>Today&rsquo;s Intelligence</span></h2>
-    <div class="intel-edited" id="intel-edited">—</div>
   </div>
   <p class="intel-thesis" id="intel-thesis">—</p>
   <div class="intel-grid">
@@ -693,12 +692,6 @@ function renderIntel() {
     document.getElementById('intel-layer').style.display = 'none';
     return;
   }
-
-  // Edited time
-  const e = INTEL.edited_at || '';
-  const t = e ? new Date(e) : null;
-  const stamp = t ? `${(t.getMonth()+1).toString().padStart(2,'0')}/${t.getDate().toString().padStart(2,'0')} ${t.getHours().toString().padStart(2,'0')}:${t.getMinutes().toString().padStart(2,'0')}` : '—';
-  document.getElementById('intel-edited').innerHTML = `更新於 <strong>${stamp}</strong> TPE`;
 
   // Thesis
   document.getElementById('intel-thesis').textContent = INTEL.thesis;
