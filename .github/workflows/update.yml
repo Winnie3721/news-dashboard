@@ -2,12 +2,12 @@ name: Auto Update Dashboard
 
 on:
   schedule:
-    # 台灣時間每天 06:50 啟動（UTC 22:50，前一天）→ Dashboard 約 06:51 完成
-    # 之後等到 07:15 TPE 才推 Telegram
-    - cron: '50 22 * * *'
-    # 台灣時間每天 17:50 啟動（UTC 09:50）→ Dashboard 約 17:51 完成
+    # 台灣時間每天 06:00 啟動（UTC 22:00，前一天）→ Dashboard 約 06:01 完成
+    # 之後等到 07:15 TPE 才推 Telegram (75 分鐘容忍度，吸收 GitHub Actions cron 延遲)
+    - cron: '0 22 * * *'
+    # 台灣時間每天 17:00 啟動（UTC 09:00）→ Dashboard 約 17:01 完成
     # 之後等到 18:15 TPE 才推 Telegram
-    - cron: '50 9 * * *'
+    - cron: '0 9 * * *'
   workflow_dispatch:  # 可在 GitHub 介面手動觸發
 
 permissions:
@@ -20,7 +20,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 40  # 允許 sleep 等待 25 分鐘 + 其他步驟
+    timeout-minutes: 90  # 允許 sleep 等待最多 75 分鐘 + 其他步驟
 
     steps:
       - name: Checkout repo
@@ -57,7 +57,7 @@ jobs:
       - name: Wait until Telegram push time (TPE 07:15 or 18:15)
         if: github.event_name == 'schedule'
         run: |
-          if [[ "${{ github.event.schedule }}" == "50 22 * * *" ]]; then
+          if [[ "${{ github.event.schedule }}" == "0 22 * * *" ]]; then
             TARGET_HM="07:15"
           else
             TARGET_HM="18:15"
