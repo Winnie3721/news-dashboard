@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-05-05T10:45:20.113420+00:00",
+  "fetched_at": "2026-05-05T22:55:20.236664+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 80806,
-      "market_cap_usd": 1617744377417,
-      "total_volume_usd": 43617891464,
-      "change_24h_pct": 2.2986302031968253,
-      "change_7d_pct": 5.515144692104303,
-      "high_24h": 81136,
-      "low_24h": 78603
+      "price_usd": 81149,
+      "market_cap_usd": 1625932394135,
+      "total_volume_usd": 41817935253,
+      "change_24h_pct": 1.360437568832318,
+      "change_7d_pct": 6.152607254059429,
+      "high_24h": 81698,
+      "low_24h": 79750
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2375.87,
-      "market_cap_usd": 286908034651,
-      "total_volume_usd": 18483185984,
-      "change_24h_pct": 1.468333494910602,
-      "change_7d_pct": 3.9176286076353013,
-      "high_24h": 2386.66,
-      "low_24h": 2327.79
+      "price_usd": 2367.51,
+      "market_cap_usd": 285777109359,
+      "total_volume_usd": 17236456989,
+      "change_24h_pct": 0.5690800843029726,
+      "change_7d_pct": 3.130817565613935,
+      "high_24h": 2396.0,
+      "low_24h": 2344.89
     }
   ],
   "global": {
-    "total_market_cap_usd": 2753558587184.901,
-    "total_volume_usd": 102707318641.55983,
-    "btc_dominance": 58.72957685116346,
-    "eth_dominance": 10.416365699184054,
-    "market_cap_change_24h_pct": 1.963486527805978,
-    "active_cryptocurrencies": 17403
+    "total_market_cap_usd": 2765762231637.3364,
+    "total_volume_usd": 99091347186.55205,
+    "btc_dominance": 58.693245429679095,
+    "eth_dominance": 10.302543565350357,
+    "market_cap_change_24h_pct": 1.2667030359365696,
+    "active_cryptocurrencies": 17418
   },
   "fear_greed": {
     "value": 50,
