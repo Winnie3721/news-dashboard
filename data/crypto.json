@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-05-05T22:55:20.236664+00:00",
+  "fetched_at": "2026-05-06T11:06:13.458202+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 81149,
-      "market_cap_usd": 1625932394135,
-      "total_volume_usd": 41817935253,
-      "change_24h_pct": 1.360437568832318,
-      "change_7d_pct": 6.152607254059429,
-      "high_24h": 81698,
-      "low_24h": 79750
+      "price_usd": 82406,
+      "market_cap_usd": 1649261327914,
+      "total_volume_usd": 44522097499,
+      "change_24h_pct": 1.9583901498421183,
+      "change_7d_pct": 6.151839939452894,
+      "high_24h": 82344,
+      "low_24h": 80813
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2367.51,
-      "market_cap_usd": 285777109359,
-      "total_volume_usd": 17236456989,
-      "change_24h_pct": 0.5690800843029726,
-      "change_7d_pct": 3.130817565613935,
-      "high_24h": 2396.0,
-      "low_24h": 2344.89
+      "price_usd": 2411.29,
+      "market_cap_usd": 290939188929,
+      "total_volume_usd": 19272612270,
+      "change_24h_pct": 1.4526160403844623,
+      "change_7d_pct": 3.370657265392582,
+      "high_24h": 2412.78,
+      "low_24h": 2355.69
     }
   ],
   "global": {
-    "total_market_cap_usd": 2765762231637.3364,
-    "total_volume_usd": 99091347186.55205,
-    "btc_dominance": 58.693245429679095,
-    "eth_dominance": 10.302543565350357,
-    "market_cap_change_24h_pct": 1.2667030359365696,
-    "active_cryptocurrencies": 17418
+    "total_market_cap_usd": 2811448450736.667,
+    "total_volume_usd": 112566857549.22202,
+    "btc_dominance": 58.61299657251982,
+    "eth_dominance": 10.344714002827669,
+    "market_cap_change_24h_pct": 1.8763545293141368,
+    "active_cryptocurrencies": 17431
   },
   "fear_greed": {
-    "value": 50,
-    "label": "Neutral",
-    "timestamp": "2026-05-05T00:00:00+00:00"
+    "value": 46,
+    "label": "Fear",
+    "timestamp": "2026-05-06T00:00:00+00:00"
   }
 }
