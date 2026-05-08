@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-08T10:24:25.346016+00:00",
+  "fetched_at": "2026-05-08T22:55:09.881376+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 79850,
-      "market_cap_usd": 1598451759343,
-      "total_volume_usd": 38084780652,
-      "change_24h_pct": -1.2389346643873838,
-      "change_7d_pct": 3.3907357904366426,
-      "high_24h": 81158,
+      "price_usd": 80278,
+      "market_cap_usd": 1608320560559,
+      "total_volume_usd": 34961041566,
+      "change_24h_pct": 0.46951056934220003,
+      "change_7d_pct": 3.1068540171429713,
+      "high_24h": 80354,
       "low_24h": 79287
     },
     {
@@ -19,22 +19,22 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2282.18,
-      "market_cap_usd": 275327636712,
-      "total_volume_usd": 20908633325,
-      "change_24h_pct": -1.845965761112166,
-      "change_7d_pct": 0.06469060314293974,
-      "high_24h": 2334.85,
+      "price_usd": 2310.94,
+      "market_cap_usd": 279019003767,
+      "total_volume_usd": 18344839497,
+      "change_24h_pct": 1.062097622120894,
+      "change_7d_pct": 1.1629095175231614,
+      "high_24h": 2320.17,
       "low_24h": 2268.68
     }
   ],
   "global": {
-    "total_market_cap_usd": 2735233712427.4785,
-    "total_volume_usd": 102795212740.78207,
-    "btc_dominance": 58.42760761610612,
-    "eth_dominance": 10.065430062172416,
-    "market_cap_change_24h_pct": -1.1882058491790464,
-    "active_cryptocurrencies": 17409
+    "total_market_cap_usd": 2762578760002.627,
+    "total_volume_usd": 97646892905.99864,
+    "btc_dominance": 58.214910966286446,
+    "eth_dominance": 10.100415282332891,
+    "market_cap_change_24h_pct": 0.9422521844850971,
+    "active_cryptocurrencies": 17423
   },
   "fear_greed": {
     "value": 38,
