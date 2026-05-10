@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-05-09T22:43:13.290712+00:00",
+  "fetched_at": "2026-05-10T10:14:15.829456+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 80759,
-      "market_cap_usd": 1616998162819,
-      "total_volume_usd": 19459298038,
-      "change_24h_pct": 0.5709887893870532,
-      "change_7d_pct": 2.573415979161877,
+      "price_usd": 80755,
+      "market_cap_usd": 1617195254275,
+      "total_volume_usd": 15211042909,
+      "change_24h_pct": 0.6914367928813192,
+      "change_7d_pct": 3.022046114563996,
       "high_24h": 81023,
-      "low_24h": 80129
+      "low_24h": 80199
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2331.38,
-      "market_cap_usd": 281304765509,
-      "total_volume_usd": 11170541235,
-      "change_24h_pct": 0.8345189792592704,
-      "change_7d_pct": 0.24250401849893402,
+      "price_usd": 2324.9,
+      "market_cap_usd": 280590380486,
+      "total_volume_usd": 9856689847,
+      "change_24h_pct": 0.5569191545752313,
+      "change_7d_pct": 0.7326816623283344,
       "high_24h": 2336.75,
       "low_24h": 2302.74
     }
   ],
   "global": {
-    "total_market_cap_usd": 2775645512125.1445,
-    "total_volume_usd": 63251704019.877464,
-    "btc_dominance": 58.25447504943738,
-    "eth_dominance": 10.131285350028918,
-    "market_cap_change_24h_pct": 0.5077402811300143,
-    "active_cryptocurrencies": 17437
+    "total_market_cap_usd": 2775150071848.178,
+    "total_volume_usd": 56121246758.20425,
+    "btc_dominance": 58.259071422140515,
+    "eth_dominance": 10.111996742964905,
+    "market_cap_change_24h_pct": 0.4596054724454509,
+    "active_cryptocurrencies": 17420
   },
   "fear_greed": {
-    "value": 38,
-    "label": "Fear",
-    "timestamp": "2026-05-09T00:00:00+00:00"
+    "value": 47,
+    "label": "Neutral",
+    "timestamp": "2026-05-10T00:00:00+00:00"
   }
 }
