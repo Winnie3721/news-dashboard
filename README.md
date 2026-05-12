@@ -99,19 +99,42 @@ python src\serve.py
 ### 想加股票/指數
 編輯 `src/config.py` 裡的 `STOCK_TICKERS`，代號見 [Yahoo Finance](https://finance.yahoo.com/)。
 
+### 想暫時手動接管「今日洞察」
+建立 `data/intel.override.json`（schema 同 intel.json），AI 會自動跳過。用完刪掉此檔即恢復自動。
+
+```jsonc
+{
+  "edited_at": "2026-05-13T07:00:00+08:00",
+  "edited_by": "manual",
+  "thesis": "...",
+  "top_3_events": [...],
+  ...
+}
+```
+
+也可以直接在 GitHub 網頁編輯 `data/intel.override.json`，commit 後下次 cron 跑就生效。
+
+### AI 寫的內容品質不好怎麼辦
+1. **改 prompt**：編輯 `src/intel_prompt.py` 的 `SYSTEM_PROMPT`，加 few-shot 範例
+2. **加禁用詞**：編輯 `src/intel_validator.py` 的 `BANNED_WORDS`，把空泛詞加進去
+3. **換大模型**：編輯 `src/intel_prompt.py` 的 `MODEL_NAME`，可換成 `openai/gpt-4o`、`meta/Meta-Llama-3.1-70B-Instruct` 等
+4. **永久 override**：留著 `data/intel.override.json` 不刪
+
 ---
 
-## 📅 v0.1 範圍
+## 📅 v0.2 範圍（2026-05-12 更新）
 
 - ✅ 22 個資料來源 RSS 抓取
 - ✅ 加密貨幣即時行情
 - ✅ 全球指數 / 匯率
 - ✅ The Economist 風格 Dashboard
-- ✅ WhatsApp 訊息預覽
-- ❌ AI 摘要（待 Claude API key）
-- ❌ WhatsApp 推播（待 CallMeBot 設定）
-- ❌ GitHub Pages 部署（待下一階段）
-- ❌ 機構報告掃描（Phase 2）
+- ✅ **AI 自動生成 Intelligence Layer**（GitHub Models / `openai/gpt-4o-mini`，無需 API key）
+- ✅ **Telegram 推播**（取代原 WhatsApp 計畫）
+- ✅ **GitHub Pages 部署 + 每日自動更新**（06:00 + 17:00 TPE cron）
+- ✅ **機構報告抓取**（13 個來源、126 篇）
+- ✅ **3 層驗證機制**（JSON schema + 禁用詞掃描 + 數字交叉驗證）
+- ✅ **失敗保護**：AI 失敗保留昨日 intel.json，連續 3 天失敗 Telegram 警報
+- ✅ **手動 Override**：建 `data/intel.override.json` 可隨時接管
 
 ---
 
