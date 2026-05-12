@@ -95,10 +95,16 @@ def run(data_dir: Path = None, gemini_client=None) -> dict:
     # 1. Override path
     override_path = data_dir / "intel.override.json"
     if override_path.exists():
-        shutil.copy(override_path, data_dir / "intel.json")
-        print("[OVERRIDE] 使用 intel.override.json,跳過 AI 生成")
-        tracker.reset()
-        return {"status": "override", "detail": "override file present"}
+        try:
+            override_data = json.loads(override_path.read_text(encoding="utf-8"))
+            validate_schema(override_data)
+        except (json.JSONDecodeError, ValidationError) as e:
+            print(f"[OVERRIDE-ERROR] intel.override.json 格式錯誤,忽略 override 並改走 AI 流程:{e}")
+        else:
+            shutil.copy(override_path, data_dir / "intel.json")
+            print("[OVERRIDE] 使用 intel.override.json,跳過 AI 生成")
+            tracker.reset()
+            return {"status": "override", "detail": "override file present"}
 
     # 2. Load inputs
     market = _load_json(data_dir / "market.json")
@@ -120,7 +126,10 @@ def run(data_dir: Path = None, gemini_client=None) -> dict:
             print(f"[OK] intel.json 已更新 (attempt {attempt + 1})")
             tracker.reset()
             return {"status": "ok", "detail": f"generated on attempt {attempt + 1}"}
-        except (ValidationError, json.JSONDecodeError, RuntimeError, Exception) as e:
+        except Exception as e:
+            # Catches: ValidationError (validation), JSONDecodeError (bad Gemini output),
+            # RuntimeError (Gemini API failures), and any unexpected SDK exception.
+            # Does NOT catch SystemExit / KeyboardInterrupt (those inherit from BaseException).
             last_error = e
             print(f"[RETRY] attempt {attempt + 1} 失敗:{type(e).__name__}: {e}")
             if attempt < RETRY_COUNT:

@@ -1,7 +1,7 @@
 """Tests for generate_intel orchestration (Gemini client mocked)."""
 import json
 import pytest
-from unittest.mock import MagicMock, patch
+from unittest.mock import MagicMock
 from pathlib import Path
 
 import generate_intel
@@ -54,8 +54,10 @@ def _make_mock_client(text_output: str):
 
 
 def test_override_skips_gemini(fake_data_dir):
-    """如果 intel.override.json 存在,完全跳過 AI 呼叫。"""
-    override = {"thesis": "manual override", "edited_by": "manual"}
+    """如果 intel.override.json 存在且格式正確,完全跳過 AI 呼叫。"""
+    # Must use a schema-valid override so the new validation lets it through
+    override = json.loads(VALID_GEMINI_OUTPUT)
+    override["thesis"] = "manual override 台股 -0.86% 人工覆寫"
     (fake_data_dir / "intel.override.json").write_text(
         json.dumps(override, ensure_ascii=False), encoding="utf-8"
     )
@@ -65,7 +67,7 @@ def test_override_skips_gemini(fake_data_dir):
 
     assert result["status"] == "override"
     intel = json.loads((fake_data_dir / "intel.json").read_text(encoding="utf-8"))
-    assert intel["thesis"] == "manual override"
+    assert intel["thesis"] == "manual override 台股 -0.86% 人工覆寫"
     mock_client.models.generate_content.assert_not_called()
 
 
@@ -81,8 +83,9 @@ def test_success_writes_intel_and_resets_failures(fake_data_dir):
     assert (fake_data_dir / ".intel_failures").read_text(encoding="utf-8").strip() == "0"
 
 
-def test_validation_failure_keeps_yesterday_and_increments_counter(fake_data_dir):
+def test_validation_failure_keeps_yesterday_and_increments_counter(fake_data_dir, monkeypatch):
     """If output fails validation twice, keep old intel.json + increment counter."""
+    monkeypatch.setattr(generate_intel.time, "sleep", lambda _: None)
     # seed yesterday's intel
     yesterday = {"thesis": "yesterday", "edited_by": "manual"}
     (fake_data_dir / "intel.json").write_text(
@@ -104,7 +107,8 @@ def test_validation_failure_keeps_yesterday_and_increments_counter(fake_data_dir
     assert mock_client.models.generate_content.call_count == 2
 
 
-def test_gemini_api_exception_treated_as_failure(fake_data_dir):
+def test_gemini_api_exception_treated_as_failure(fake_data_dir, monkeypatch):
+    monkeypatch.setattr(generate_intel.time, "sleep", lambda _: None)
     mock_client = MagicMock()
     mock_client.models.generate_content.side_effect = RuntimeError("api down")
 
@@ -121,3 +125,32 @@ def test_strips_markdown_fence_from_gemini_output(fake_data_dir):
     result = generate_intel.run(data_dir=fake_data_dir, gemini_client=mock_client)
 
     assert result["status"] == "ok"
+
+
+def test_malformed_override_falls_through_to_ai(fake_data_dir, monkeypatch):
+    """An override file with bad JSON should be ignored and AI flow runs."""
+    monkeypatch.setattr(generate_intel.time, "sleep", lambda _: None)
+    # Write malformed JSON as override
+    (fake_data_dir / "intel.override.json").write_text("{ this is not valid json", encoding="utf-8")
+    mock_client = _make_mock_client(VALID_GEMINI_OUTPUT)
+
+    result = generate_intel.run(data_dir=fake_data_dir, gemini_client=mock_client)
+
+    # AI was actually called because override was rejected
+    assert result["status"] == "ok"
+    mock_client.models.generate_content.assert_called()
+
+
+def test_override_with_invalid_schema_falls_through_to_ai(fake_data_dir, monkeypatch):
+    """Valid JSON but missing required intel fields → reject, fall through."""
+    monkeypatch.setattr(generate_intel.time, "sleep", lambda _: None)
+    # Write valid JSON but missing required fields like thesis, top_3_events
+    (fake_data_dir / "intel.override.json").write_text(
+        json.dumps({"some_field": "value"}, ensure_ascii=False), encoding="utf-8"
+    )
+    mock_client = _make_mock_client(VALID_GEMINI_OUTPUT)
+
+    result = generate_intel.run(data_dir=fake_data_dir, gemini_client=mock_client)
+
+    assert result["status"] == "ok"
+    mock_client.models.generate_content.assert_called()
