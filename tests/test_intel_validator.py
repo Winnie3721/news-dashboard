@@ -57,3 +57,38 @@ def test_event_missing_implication_fails():
     ]}
     with pytest.raises(ValidationError):
         validate_schema(bad)
+
+
+from intel_validator import scan_banned_words
+
+
+def test_no_banned_words_passes():
+    scan_banned_words("台股 -0.86%,避險旋轉浮現")  # should not raise
+
+
+def test_structural_word_fails():
+    with pytest.raises(ValidationError):
+        scan_banned_words("市場面臨結構性挑戰")
+
+
+def test_continuous_word_fails():
+    with pytest.raises(ValidationError):
+        scan_banned_words("通膨壓力持續存在")
+
+
+def test_long_term_growth_fails():
+    with pytest.raises(ValidationError):
+        scan_banned_words("產業呈現長期增長態勢")
+
+
+def test_comprehensive_fails():
+    with pytest.raises(ValidationError):
+        scan_banned_words("全面性的下跌風險")
+
+
+def test_banned_word_inside_intel_object():
+    """The full-intel helper applies banned-word scan across all text fields."""
+    from intel_validator import scan_intel_for_banned_words
+    bad_intel = {**VALID_INTEL, "thesis": "市場面臨結構性挑戰"}
+    with pytest.raises(ValidationError):
+        scan_intel_for_banned_words(bad_intel)

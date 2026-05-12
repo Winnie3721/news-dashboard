@@ -74,3 +74,36 @@ def validate_schema(intel: dict) -> None:
     if errors:
         msgs = "; ".join(f"{list(e.path)}: {e.message}" for e in errors[:5])
         raise ValidationError(f"schema invalid: {msgs}")
+
+
+BANNED_WORDS = [
+    "結構性",
+    "持續",
+    "長期增長",
+    "長期成長",
+    "全面",
+    "廣泛",
+    "趨勢",
+]
+
+
+def scan_banned_words(text: str) -> None:
+    """Raise ValidationError if text contains banned filler words."""
+    for word in BANNED_WORDS:
+        if word in text:
+            raise ValidationError(f"banned word found: '{word}' in text")
+
+
+def scan_intel_for_banned_words(intel: dict) -> None:
+    """Recursively scan all string values in intel dict."""
+    def walk(node):
+        if isinstance(node, str):
+            scan_banned_words(node)
+        elif isinstance(node, dict):
+            for v in node.values():
+                walk(v)
+        elif isinstance(node, list):
+            for v in node:
+                walk(v)
+
+    walk(intel)
