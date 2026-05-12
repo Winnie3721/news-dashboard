@@ -107,3 +107,77 @@ def scan_intel_for_banned_words(intel: dict) -> None:
                 walk(v)
 
     walk(intel)
+
+
+PCT_RE = re.compile(r"[+-]?\d+\.\d{1,2}%")
+PRICE_RE = re.compile(r"\$\d{1,3}(?:,\d{3})+|\$\d+")
+
+
+def extract_numbers(text: str) -> dict:
+    """Return {'pct': [...], 'price': [...]} of numbers found in text."""
+    return {
+        "pct": PCT_RE.findall(text),
+        "price": PRICE_RE.findall(text),
+    }
+
+
+def _pct_to_float(s: str) -> float:
+    return float(s.replace("%", ""))
+
+
+def _price_to_float(s: str) -> float:
+    return float(s.replace("$", "").replace(",", ""))
+
+
+def _collect_source_pcts(market: dict, crypto: dict) -> list:
+    out = []
+    for idx in market.get("indices", []):
+        if idx.get("change_pct") is not None:
+            out.append(float(idx["change_pct"]))
+    for c in crypto.get("coins", []):
+        if c.get("change_24h_pct") is not None:
+            out.append(float(c["change_24h_pct"]))
+    return out
+
+
+def _collect_source_prices(market: dict, crypto: dict) -> list:
+    out = []
+    for idx in market.get("indices", []):
+        if idx.get("price") is not None:
+            out.append(float(idx["price"]))
+    for c in crypto.get("coins", []):
+        if c.get("price_usd") is not None:
+            out.append(float(c["price_usd"]))
+    return out
+
+
+def verify_numbers_against_source(
+    text: str, market: dict, crypto: dict,
+    pct_tolerance: float = 0.05,
+    price_relative_tolerance: float = 0.005,
+) -> None:
+    """
+    Raise ValidationError if any pct / price in text has no match in source data.
+    pct_tolerance: absolute (e.g. 0.05 = 0.05 percentage point)
+    price_relative_tolerance: relative (e.g. 0.005 = 0.5%)
+    """
+    nums = extract_numbers(text)
+    source_pcts = _collect_source_pcts(market, crypto)
+    source_prices = _collect_source_prices(market, crypto)
+
+    for pct_str in nums["pct"]:
+        target = _pct_to_float(pct_str)
+        if not any(abs(target - sp) <= pct_tolerance for sp in source_pcts):
+            raise ValidationError(
+                f"hallucinated pct '{pct_str}' (no match within {pct_tolerance}pp of source data)"
+            )
+
+    for price_str in nums["price"]:
+        target = _price_to_float(price_str)
+        if not any(
+            abs(target - sp) / max(sp, 1e-9) <= price_relative_tolerance
+            for sp in source_prices
+        ):
+            raise ValidationError(
+                f"hallucinated price '{price_str}' (no match within {price_relative_tolerance*100}% of source data)"
+            )

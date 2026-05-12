@@ -92,3 +92,58 @@ def test_banned_word_inside_intel_object():
     bad_intel = {**VALID_INTEL, "thesis": "市場面臨結構性挑戰"}
     with pytest.raises(ValidationError):
         scan_intel_for_banned_words(bad_intel)
+
+
+from intel_validator import extract_numbers, verify_numbers_against_source
+
+
+def test_extract_percentages():
+    nums = extract_numbers("台股 -0.86%、Nasdaq -0.90%、Dow +0.05%")
+    assert {"-0.86%", "-0.90%", "+0.05%"} == set(nums["pct"])
+
+
+def test_extract_prices():
+    nums = extract_numbers("BTC $76,000、ETH $2,288")
+    assert "$76,000" in nums["price"] and "$2,288" in nums["price"]
+
+
+SAMPLE_MARKET = {
+    "indices": [
+        {"label": "台股加權", "price": 39521.73, "change_pct": -0.8612},
+        {"label": "Nasdaq", "price": 21500.0, "change_pct": -0.9034},
+    ]
+}
+
+SAMPLE_CRYPTO = {
+    "coins": [
+        {"id": "bitcoin", "price_usd": 76000, "change_24h_pct": -0.29},
+        {"id": "ethereum", "price_usd": 2288, "change_24h_pct": 0.18},
+    ]
+}
+
+
+def test_valid_pct_within_tolerance():
+    """-0.86% 與來源 -0.8612 容忍 0.05pp 內,應通過。"""
+    text = "台股 -0.86%、Nasdaq -0.90%"
+    verify_numbers_against_source(text, SAMPLE_MARKET, SAMPLE_CRYPTO)
+
+
+def test_hallucinated_pct_fails():
+    """-9.99% 找不到對應,應 raise。"""
+    with pytest.raises(ValidationError):
+        verify_numbers_against_source(
+            "台股 -9.99%", SAMPLE_MARKET, SAMPLE_CRYPTO
+        )
+
+
+def test_valid_btc_price_within_tolerance():
+    """BTC $76,300 與來源 $76,000 在 0.5% 內,應通過。"""
+    text = "BTC $76,300"
+    verify_numbers_against_source(text, SAMPLE_MARKET, SAMPLE_CRYPTO)
+
+
+def test_hallucinated_price_fails():
+    with pytest.raises(ValidationError):
+        verify_numbers_against_source(
+            "BTC $99,999", SAMPLE_MARKET, SAMPLE_CRYPTO
+        )
