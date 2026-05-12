@@ -154,3 +154,37 @@ def test_override_with_invalid_schema_falls_through_to_ai(fake_data_dir, monkeyp
 
     assert result["status"] == "ok"
     mock_client.models.generate_content.assert_called()
+
+
+def test_alert_sent_on_third_consecutive_failure(fake_data_dir, monkeypatch):
+    """連續第 3 次失敗時呼叫 telegram alert function。"""
+    monkeypatch.setattr(generate_intel.time, "sleep", lambda _: None)
+    (fake_data_dir / ".intel_failures").write_text("2", encoding="utf-8")  # 已經 2 次
+
+    bad_output = json.dumps({**json.loads(VALID_GEMINI_OUTPUT), "thesis": "市場結構性挑戰"})
+    mock_client = _make_mock_client(bad_output)
+
+    alert_calls = []
+    monkeypatch.setattr(generate_intel, "_send_alert", lambda msg: alert_calls.append(msg))
+
+    result = generate_intel.run(data_dir=fake_data_dir, gemini_client=mock_client)
+
+    assert result["status"] == "failed"
+    assert len(alert_calls) == 1
+    assert "3" in alert_calls[0]
+    # alert sent 後,counter 應被 reset 為 0(避免每次都發)
+    assert (fake_data_dir / ".intel_failures").read_text(encoding="utf-8").strip() == "0"
+
+
+def test_alert_not_sent_below_threshold(fake_data_dir, monkeypatch):
+    """連續第 1 次失敗時不發警報。"""
+    monkeypatch.setattr(generate_intel.time, "sleep", lambda _: None)
+    bad_output = json.dumps({**json.loads(VALID_GEMINI_OUTPUT), "thesis": "市場結構性挑戰"})
+    mock_client = _make_mock_client(bad_output)
+
+    alert_calls = []
+    monkeypatch.setattr(generate_intel, "_send_alert", lambda msg: alert_calls.append(msg))
+
+    generate_intel.run(data_dir=fake_data_dir, gemini_client=mock_client)
+
+    assert len(alert_calls) == 0

@@ -87,6 +87,22 @@ def _try_generate(client, user_prompt: str, market: dict, crypto: dict) -> dict:
     return intel
 
 
+def _send_alert(message: str) -> None:
+    """Send Telegram alert. Silent no-op if creds missing (e.g. local testing)."""
+    token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
+    if not token or not chat_id:
+        print(f"[ALERT-SKIP] 缺少 Telegram 憑證,警報未送出:{message}")
+        return
+    import requests
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    try:
+        requests.post(url, json={"chat_id": chat_id, "text": message}, timeout=10)
+        print(f"[ALERT-SENT] {message}")
+    except Exception as e:
+        print(f"[ALERT-ERROR] {e}")
+
+
 def run(data_dir: Path = None, gemini_client=None) -> dict:
     """Main entry. Returns {'status': 'ok'|'override'|'failed', 'detail': str}."""
     data_dir = Path(data_dir or DEFAULT_DATA_DIR)
@@ -140,7 +156,8 @@ def run(data_dir: Path = None, gemini_client=None) -> dict:
     print(f"[FAIL] 保留昨日 intel.json,連續失敗 {tracker.count()} 次。最後錯誤:{last_error}")
 
     if tracker.should_alert(threshold=FAILURE_THRESHOLD):
-        print(f"[ALERT] 連續失敗達 {FAILURE_THRESHOLD} 次,應發送 Telegram 警報")
+        _send_alert(f"⚠️ 新聞看板 AI Intel 已連續失敗 {tracker.count()} 次。請檢查 GitHub Actions log。")
+        tracker.reset()
 
     return {"status": "failed", "detail": str(last_error)}
 
