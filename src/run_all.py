@@ -8,7 +8,14 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
 HERE = Path(__file__).resolve().parent
-SCRIPTS = ["fetch_news.py", "fetch_crypto.py", "fetch_market.py", "fetch_reports.py", "build_dashboard.py"]
+SCRIPTS = [
+    "fetch_news.py",
+    "fetch_crypto.py",
+    "fetch_market.py",
+    "fetch_reports.py",
+    "generate_intel.py",
+    "build_dashboard.py",
+]
 
 
 def main():

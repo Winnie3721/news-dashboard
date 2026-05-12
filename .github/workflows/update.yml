@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  models: read
 
 concurrency:
   group: update-dashboard
@@ -37,6 +38,10 @@ jobs:
 
       - name: Run pipeline
         working-directory: src
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python run_all.py
 
       - name: Commit & push if changed
