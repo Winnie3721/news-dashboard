@@ -109,7 +109,7 @@ def scan_intel_for_banned_words(intel: dict) -> None:
     walk(intel)
 
 
-PCT_RE = re.compile(r"[+-]?\d+\.\d{1,2}%")
+PCT_RE = re.compile(r"[+-]?\d+(?:\.\d+)?%")
 PRICE_RE = re.compile(r"\$\d{1,3}(?:,\d{3})+|\$\d+")
 
 

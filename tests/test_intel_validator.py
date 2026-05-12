@@ -147,3 +147,25 @@ def test_hallucinated_price_fails():
         verify_numbers_against_source(
             "BTC $99,999", SAMPLE_MARKET, SAMPLE_CRYPTO
         )
+
+
+def test_extract_integer_percentages():
+    """Integer percentages without decimal point are also extracted."""
+    nums = extract_numbers("市場 +5%、加密 -3%")
+    assert "+5%" in nums["pct"]
+    assert "-3%" in nums["pct"]
+
+
+def test_extract_high_precision_percentages():
+    """Percentages with >2 decimals also extracted (real market data has these)."""
+    nums = extract_numbers("台股 -0.8612%、Nasdaq -0.9034%")
+    assert "-0.8612%" in nums["pct"]
+    assert "-0.9034%" in nums["pct"]
+
+
+def test_hallucinated_integer_pct_fails():
+    """Integer percentage hallucination should also be caught."""
+    with pytest.raises(ValidationError):
+        verify_numbers_against_source(
+            "台股 -50%", SAMPLE_MARKET, SAMPLE_CRYPTO
+        )
