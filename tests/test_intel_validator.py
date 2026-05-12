@@ -71,9 +71,23 @@ def test_structural_word_fails():
         scan_banned_words("市場面臨結構性挑戰")
 
 
-def test_continuous_word_fails():
+def test_continuous_attention_phrase_fails():
+    """'持續關注' is fluff and should be caught."""
     with pytest.raises(ValidationError):
-        scan_banned_words("通膨壓力持續存在")
+        scan_banned_words("市場需持續關注後續發展")
+
+
+def test_continuous_observation_phrase_fails():
+    """'持續觀察' is fluff and should be caught."""
+    with pytest.raises(ValidationError):
+        scan_banned_words("地緣風險持續觀察中")
+
+
+def test_bare_continuous_word_passes():
+    """Bare '持續' is no longer banned (was too aggressive).
+    Legitimate use: '中東地緣衝突持續' or 'F&G 持續 Fear'."""
+    scan_banned_words("中東地緣衝突持續：以伊事件升溫")  # should not raise
+    scan_banned_words("F&G 持續 Fear (26)")  # should not raise
 
 
 def test_long_term_growth_fails():
