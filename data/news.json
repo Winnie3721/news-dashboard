@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-12T06:27:26.692434+00:00",
+  "fetched_at": "2026-05-12T06:39:50.477355+00:00",
   "categories": {
     "world": [
       {
@@ -228,15 +228,6 @@
         "category": "world"
       },
       {
-        "title": "Trump says Iran ceasefire is 'on life support' as hopes for a deal fade - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTFIeHh6enp1TW1pNmRpVy1pZ1ZtaVFvNTF2emxOOUg3VXV1RWE3SkFqb3pwY28yS0pBTDF3MjRFSVNRclFhTWtCZlN0SmQ1MDV2YUZJSXJhdXRUdldyM3VZbEkzYnIxUXlvSk1JREJwVURVVGJhcV9vcEU2WnlLcVZKaXZQX0Fac1VEWW1VZjlwdDNNWHp5ZENCNTROaEhsVFRuQ2ZUd0gwTmc?oc=5",
-        "summary": "Trump says Iran ceasefire is 'on life support' as hopes for a deal fade&nbsp;&nbsp;Reuters",
-        "published": "2026-05-11T22:31:38+00:00",
-        "source": "Reuters World",
-        "source_weight": 3,
-        "category": "world"
-      },
-      {
         "title": "Netflix sued by Texas for allegedly spying on children, addicting users - Reuters",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWVZRHcweHdqVEZ2Y3FlNzBGUlNBX0ZrbFhWOU55NVJzd1FvMWhKOUtBcHQ3TWhVRExYZENHcHkzbk1UcTJPWV9CbUg2Xzd4SXVSVWdZLUtDa3ZHNENBcktQNk5wTXEwOEhfY0Y1TUNHc0hWNGtST3pMUVhmaTdSdGR1MFZkUkFfT3VEVXhhNFF6b0JV?oc=5",
         "summary": "Netflix sued by Texas for allegedly spying on children, addicting users&nbsp;&nbsp;Reuters",
@@ -422,6 +413,15 @@
         "summary": "Israel’s efforts to influence Eurovision’s vote were broader and started years earlier than previously known.",
         "published": "2026-05-11T15:23:28+00:00",
         "source": "NYT World",
+        "source_weight": 3,
+        "category": "world"
+      },
+      {
+        "title": "Hungary to review Paks nuclear plant expansion, ministerial nominee says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjc2U0tndmpBbk5Rd045b1ktV0dEMlZsb3h1akRNYjJXNDZ4RlFLWVpZaXBGVEJVdjIyX2tVY2JKNThWT0M2SFZqZTNScDlNWmx6MzUxdE8xNWdNRHdZQWgwQTg4MzcyZnA5aV9lZ3QySGsxNjlfTWEyTVdZMmMxWWxweEI1TDRSZGVxVmc5elFtX3AtUWNKRkdfZk1hNUppOS1BUWlucDNhM3R1V25Z?oc=5",
+        "summary": "Hungary to review Paks nuclear plant expansion, ministerial nominee says&nbsp;&nbsp;Reuters",
+        "published": "2026-05-11T14:55:39+00:00",
+        "source": "Reuters World",
         "source_weight": 3,
         "category": "world"
       },
@@ -679,6 +679,51 @@
       }
     ],
     "finance": [
+      {
+        "title": "鉅亨速報 - Factset 最新調查：緯創(3231-TW)EPS預估上修至13.56元，預估目標價為195元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoOVpuZk5JbEFkR3BVTENvajBubkdtWXNLeDAyaXJQcjRpWmxxRndpODV1ZHVpd3RrM3hlU0ZKX0xGakJwSjZuc2RnU0xJMmM?oc=5",
+        "summary": "鉅亨速報 - Factset 最新調查：緯創(3231-TW)EPS預估上修至13.56元，預估目標價為195元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-05-12T06:11:03+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "鉅亨速報 - Factset 最新調查：京元電子(2449-TW)EPS預估下修至9.77元，預估目標價為370元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8talZVcC1CNlRUb1k3WmhXRzZlVUJja1lvYVFnN3loUjZ2UC1VWjBRV0g3aUViTTRoSElRWmNsM1lqWkZlQ0FMbzRiOTNWaTA?oc=5",
+        "summary": "鉅亨速報 - Factset 最新調查：京元電子(2449-TW)EPS預估下修至9.77元，預估目標價為370元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-05-12T06:11:00+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "鉅亨速報 - Factset 最新調查：力旺(3529-TW)EPS預估下修至36.74元，預估目標價為4155元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoRWhkUnpHMFJaOGQ3RVllMUFTakJtVUFnOHU3QTBqY2ppTTlSUnZRX2JDSnNhc3M0QUJ6U0tzVmh5Nkt1UHlybEdJX0dmUDA?oc=5",
+        "summary": "鉅亨速報 - Factset 最新調查：力旺(3529-TW)EPS預估下修至36.74元，預估目標價為4155元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-05-12T06:10:57+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "鉅亨速報 - Factset 最新調查：華邦電(2344-TW)EPS預估上修至16.96元，預估目標價為145元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKVDFJQ1JPWXJjbUgzOHBBR3Nqb0QzTmpLVmg3Mmg2TkcwMThuVmE1UFlvU0RYMFhwZXNWQUhGSFlZVmZKTHlvMEcyNmhRa3M?oc=5",
+        "summary": "鉅亨速報 - Factset 最新調查：華邦電(2344-TW)EPS預估上修至16.96元，預估目標價為145元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-05-12T06:10:55+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "鉅亨速報 - Factset 最新調查：群創(3481-TW)EPS預估上修至0.5元，預估目標價為27元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XdUFyYmRkQkN0NWx5VGJMVUFXaFhBWHNIclVaVjZyczhScUotZk5hWU4xX0RTbFl3YVJFZnprS2ZYWFdzNTVSaUNya203czg?oc=5",
+        "summary": "鉅亨速報 - Factset 最新調查：群創(3481-TW)EPS預估上修至0.5元，預估目標價為27元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-05-12T06:10:50+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
+        "category": "finance"
+      },
       {
         "title": "鉅亨速報 - Factset 最新調查：台燿(6274-TW)EPS預估上修至31.27元，預估目標價為1650元 - news.cnyes.com",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UMFBQRjdSdm9ETHJnR2MzZ0ZMQl9EMi1uOFZYaHc2ZmhXMjRySktCOF9zUWN2YjV3Tng5ckh0a0QwQWJteVRweVpTenhfZDg?oc=5",
@@ -1139,15 +1184,6 @@
         "category": "finance"
       },
       {
-        "title": "〈美股盤後〉美伊停火岌岌可危 川習會即將登場 那指標普改寫歷史新高 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSTFKNlVOOWg0RTAzTVZHOE5DVVV2cVFTa09iTFZ0U2tFdDFEY2JEQlNfSnBqRHZkTHozLTcyVHg5TnFxYm9MS1cxUzhoWTA?oc=5",
-        "summary": "〈美股盤後〉美伊停火岌岌可危 川習會即將登場 那指標普改寫歷史新高&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-05-11T21:12:39+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "Boeing Bets Its Comeback on Trump, China and an Elusive New Plane - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0FXQS1jNE1qQlI3SGd5TXdFNGhldmJMSVBpY2R5MlR6dHkzZkwya1IyUUlMUHU3OHBMZnp3VVNobWFJZlNNeDVxd0x6bGRjZVpKOHA2Z1ZHbnVHdTdDYWxndkdHaEZlZE1SSjVsS2tCalJwSjNaV3NOdThzTm5hLTJhb2hvWEpsTW9fVk10WEkwYjZ3TDhjSzkxOVp2OHMzbTVfSkVMZk1WNlpMS0U2M3UzckJlVHJzYkY0WA?oc=5",
         "summary": "Boeing Bets Its Comeback on Trump, China and an Elusive New Plane&nbsp;&nbsp;Bloomberg.com",
@@ -1208,6 +1244,15 @@
         "published": "2026-05-11T19:46:08+00:00",
         "source": "Bloomberg",
         "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "盤中速報 - Saga大漲25.17%，報0.02美元 - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43dnZUVGQ4d3hNOGdnTkRMRDNaT0tJTC1nZFp1MmZWejlQUVY1aHBXWkVWM1VtT3Y0a0xPOThfUy0xdGRKcHhuV1pnaS1oZ0U?oc=5",
+        "summary": "盤中速報 - Saga大漲25.17%，報0.02美元&nbsp;&nbsp;news.cnyes.com",
+        "published": "2026-05-11T19:31:04+00:00",
+        "source": "鉅亨網",
+        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1391,15 +1436,6 @@
         "category": "finance"
       },
       {
-        "title": "群光第2季業績看增 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jZmJvLWdWMGt2VjNaSzdTVHhnbk1zRWJPbDdLU21mWXhZV2R5NkoyZFZNVTJYeW9aN0M2UzY0SFlLUWF1d2NwdE5PMnZka2NZS08tNVNRYkdKZ9IBX0FVX3lxTFAwc3RObVBMMWhkbTVaZWNSQWRlYkVRTzI3ZHg1RGdXTnR3alBEd0tpZmp4dHZVV3d2ZGdvUHZJTlQ1UEkyUzc5RzJaUTJCR1NVRkQ1Yldad1ZseFhEOU9r?oc=5",
-        "summary": "群光第2季業績看增&nbsp;&nbsp;經濟日報",
-        "published": "2026-05-11T16:36:19+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "Sony, GIC Venture Strikes Deal to Buy Recognition Music Catalog From Blackstone - WSJ",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUNuTUVWZjR5X2paVFBEV25BOVJNa2JGd01ta05oaXc0aWY5T3BJVlZseXluU1ZBejBISXg2dnl3ZUhKSmg2SmFwNDhiblVlemlzbE1OWlBubm8wOHVQN096VGZfRF9xZWpsY0Z2MUJlUjcwNm9SMEcxdmNCY1JNRDBJX2gyT1h3OXd3SS1iamNCQk9NTkxRZlVJa2tTQjNnQktRRzI0clQtOEF1dG1fR0wxRElhQm1ZcWZPMWR3bw?oc=5",
         "summary": "Sony, GIC Venture Strikes Deal to Buy Recognition Music Catalog From Blackstone&nbsp;&nbsp;WSJ",
@@ -1460,15 +1496,6 @@
         "published": "2026-05-11T16:14:32+00:00",
         "source": "Reuters Business",
         "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "盤中速報 - Saga大漲25.17%，報0.02美元 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43dnZUVGQ4d3hNOGdnTkRMRDNaT0tJTC1nZFp1MmZWejlQUVY1aHBXWkVWM1VtT3Y0a0xPOThfUy0xdGRKcHhuV1pnaS1oZ0U?oc=5",
-        "summary": "盤中速報 - Saga大漲25.17%，報0.02美元&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-05-11T16:07:12+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1562,6 +1589,15 @@
         "category": "finance"
       },
       {
+        "title": "記憶體反攻號角響起？ 外資、投信都大買這幾檔 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wSzgtWnFxMmhLVy1fOGMxbkUxSV9keVlNUi1mTE96YUEteXBGNkRzVjdOQjcwQVFkNmFzd3p4YXg0dXEzUXNhOVJPaUhTRWxBR3VHOV90cWlVQdIBX0FVX3lxTE1LeHJRYW1VRC0zYXc3U1F6RDVXaTRLSjVNU21VTkh5cUh1SkFvWEEwemM1aGJYMGRFMENJUUxJbWd5RnJoVTFZTUJsU2UxdlVyaEo0SUZZZVdDQ0lSSkdr?oc=5",
+        "summary": "記憶體反攻號角響起？ 外資、投信都大買這幾檔&nbsp;&nbsp;經濟日報",
+        "published": "2026-05-11T14:00:00+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzBVZGx1c2JvQTRJeWZ2d1FPQU1GTnhSaEZONVV0YmpaRnI4WE50Q25udWxlNC1LbVR0ZkJnTzJYM0dRekdNZWVVempHSEZJT1ZTS1Q3bDI0NHJRdW5lOURaUmNPX0UtQVNnUXNyQUhXQnhvd1lYT1JZdXl5dWtiNk9CblcxV1FHQmdoSGpiekJjX3kwSlZSeHVOcE93ZHY1VU92bldWRTZqb2NKck1yUlRqWjkzRk0?oc=5",
         "summary": "OpenAI creates new unit with $4 billion investment to aid corporate AI push&nbsp;&nbsp;Reuters",
@@ -1577,15 +1613,6 @@
         "published": "2026-05-11T13:56:00+00:00",
         "source": "WSJ",
         "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "法國進口的 CITROËN C5 AIRCROSS 售價 貼近國產中大型休旅車價格 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80STlmdWV2T0dmM2tLMzVlaHZfa184eWtJdEJYVHJndC02Sm9JcFFmU0I4T01CZC1HMjhDOFRKQm94cDBPYjdEbXZqSm5KUUpLb0ZZdjNta3pJQdIBX0FVX3lxTE1BU21MRkI2cG9PaWlBbk5GS0FCQUVrVncyRFZlVWwxcThxV0c1bmtEeFRtbUt2UVRMdDBwVDQxVnlmU2JISk9OYXMxd3B5aFVVSGhObWZRX0luWmlDUkZR?oc=5",
-        "summary": "法國進口的 CITROËN C5 AIRCROSS 售價 貼近國產中大型休旅車價格&nbsp;&nbsp;經濟日報",
-        "published": "2026-05-11T13:28:03+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1625,19 +1652,19 @@
         "category": "finance"
       },
       {
-        "title": "頭條新聞 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEt6c1kwWEU5cXBpT3lJaElQQ0c3OTlZWGNsb0UtX2ZxSUpuRnJmM1NOS3hNbjlla3ZsWGhxQjRDTGZwZHphYlpUTGppLUlrZHBaSVA3SGZLX2FneV9mYzhFdklwRncwbFZZRzJyRTA0dDhxV3JYWlJEdHAydGhrOGV0dWoyYmVoaUlZS0V6UjJvOHVVWGV0TTdCSFBOUzBELUJFa0FB?oc=5",
-        "summary": "頭條新聞&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-05-11T12:21:36+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
         "title": "A weakened Trump arrives at Xi’s court - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3JpaXFMbHVzRlAtZlZZQmNDb1JMS0k0S0JjdkRlUG5vbVJWV01rNmZ6UDhfMHpFQzFZMkgzR0NLSENUVF9nb3NFa3RCOXFuZkxBdXhKeEhST203S2Z3RW4tancxeEZndktNRGp3bGVmYWhyZGM3N1RwdW83NGpySDduaEo?oc=5",
         "summary": "A weakened Trump arrives at Xi’s court&nbsp;&nbsp;Financial Times",
         "published": "2026-05-11T12:05:59+00:00",
+        "source": "Financial Times",
+        "source_weight": 3,
+        "category": "finance"
+      },
+      {
+        "title": "There was nothing here to save Starmer - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWY3Y0l3NFZjTmhiWUZZV2Q2aW5kSWhJdnFnc0hJM0trSGozUFBkUnNGeVlxLTFHMUVpR1h4VDVuMGxHT0Z1THB1am05MWVCWkxtR29oQ08xMXY2dDV4c2F2SDdhQkxMUWhleXBSUVBkUTgzSlhURUxIdF9YWWFudEVLVlQ?oc=5",
+        "summary": "There was nothing here to save Starmer&nbsp;&nbsp;Financial Times",
+        "published": "2026-05-11T11:56:02+00:00",
         "source": "Financial Times",
         "source_weight": 3,
         "category": "finance"
@@ -1658,15 +1685,6 @@
         "published": "2026-05-11T11:22:01+00:00",
         "source": "BBC Business",
         "source_weight": 3,
-        "category": "finance"
-      },
-      {
-        "title": "施振榮將贈與1.7萬張宏基予其妻葉紫華 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzTWlhZkFZZEswSkJUTGY0NENZanFIQm1RVkZJMDNnU2UxbmRBWFEybkFEUVZ0dE9oWkFXa3QxVW8zSlNTZ1M2MXcxLVNqZk8xT0hCVUh1M2lhd9IBX0FVX3lxTE45eXhLSGhkVmVxQ0o5NGlfcmNqUFVUQTVoMnBJWXdSNXF5ZENseGJnQmpWckhRazUwcHB5NVhxUnhXc0FhLUhLT1k2b1hYazRTa2F2al8wRnlOU0JYYWhj?oc=5",
-        "summary": "施振榮將贈與1.7萬張宏基予其妻葉紫華&nbsp;&nbsp;經濟日報",
-        "published": "2026-05-11T11:11:42+00:00",
-        "source": "經濟日報",
-        "source_weight": 2,
         "category": "finance"
       },
       {
@@ -1841,6 +1859,24 @@
         "category": "finance"
       },
       {
+        "title": "士電營收／4月34億元、年增32％續創同期新高 AI 帶旺電力市場 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtc0xfSHpEMGVpU1loX19VaUJEck12S1E2bTJxNFJuN2RyeWJqU1I2TDcxaDRzYmIyeTlZYzRhUk8zdGV4ZUptVmJ0TWJWTzY0dmoyZFlSV2M4d9IBX0FVX3lxTFBOOWNDaTJWVWFlLXNJcm5hZlhUVzVla0JpMHFnMXhuc25kOUFZS09QbVBaVldJb25uVHc2b0tIUkJndkFzZW9zRnQteS16MVhQcmNBRzlWWlRUaXNCN3N3?oc=5",
+        "summary": "士電營收／4月34億元、年增32％續創同期新高 AI 帶旺電力市場&nbsp;&nbsp;經濟日報",
+        "published": "2026-05-11T09:12:19+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
+        "title": "面板三虎為何集體暴走？群創衝15年高點、友達攻20元、彩晶重返票面 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PdDZwUHVyNE1kUnZ4Ui00OWRia0pZMi1WbGtELW1CaDhEWlc3S1pYLTBRdHF1ZnhXYjNRZXBteThzcWZMeTVYZFlOT3lBZVpjQU00R1VMNzd1QdIBX0FVX3lxTE04WEdzemVUajFaelVDcFBOdGlOQzBDQ3ZaS1JVZ252N0RsMk5hUVFmVWtsX2lSU3dBcGZVdGxtMmppa0QwV01OX1BhejlwQjA1V1NEQUIyLThqODdXOERj?oc=5",
+        "summary": "面板三虎為何集體暴走？群創衝15年高點、友達攻20元、彩晶重返票面&nbsp;&nbsp;經濟日報",
+        "published": "2026-05-11T09:00:00+00:00",
+        "source": "經濟日報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "AI算力革命引爆PCB升級潮，從CCL到高層板，聯茂與健鼎迎結構性成長機會 | 市場焦點 | 證券 - 經濟日報",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3T1hoVkZxVkJBdDdWa1BTeXlLRERleUZqazVYbW5IODlreEZnMFpXeFotZi13VTVXVG5sN2tvMHBHSm1OelN3T29LaE5jQ1pqN2ZoMlNwVlFmZw?oc=5",
         "summary": "AI算力革命引爆PCB升級潮，從CCL到高層板，聯茂與健鼎迎結構性成長機會 | 市場焦點 | 證券&nbsp;&nbsp;經濟日報",
@@ -1877,6 +1913,15 @@
         "category": "finance"
       },
       {
+        "title": "新興4月營收4.03億元、年減5.46％ 出售2艘船獲利貢獻稅前EPS 2.25元 - 工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NQ1VWZzdLdUZuSnpuZ3hQQ2Q1THctSVpQazdWWGwtWEpIVWtidGpSVDJQVWJLRUFfQWVIMGFsMldHVGM0bWtWZmU0eF94bW05RXIxVjNqUVBlcmRMSnRr?oc=5",
+        "summary": "新興4月營收4.03億元、年減5.46％ 出售2艘船獲利貢獻稅前EPS 2.25元&nbsp;&nbsp;工商時報",
+        "published": "2026-05-11T08:01:00+00:00",
+        "source": "工商時報",
+        "source_weight": 2,
+        "category": "finance"
+      },
+      {
         "title": "大陸民營煉油企業虧損嚴重傳尋求中央批准降低開工率- 兩岸 - 工商時報",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3YUZucUxNX1RVM01Ic0dDazZlNEVLakxoT1VNZF9EbWRhX3VtUFF2YzFTbzV6UkRfMkZnajh6dk9KTmxmUTlPX1ZibUdZYnZDU0poSmhYWkE4OFVLa2c4?oc=5",
         "summary": "大陸民營煉油企業虧損嚴重傳尋求中央批准降低開工率- 兩岸&nbsp;&nbsp;工商時報",
@@ -1895,57 +1940,12 @@
         "category": "finance"
       },
       {
-        "title": "頭條新聞 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MUkU5ZzA1Q055dnRXcVJraUc3ZVVnYnNodDlYTGprcEN3eUt1d3FVZ05leEk2QlFUU0dYbWY3VlhDclR5cGZkbnJxYXVDZFBWOUEw?oc=5",
-        "summary": "頭條新聞&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-05-11T07:04:03+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "頭條新聞 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mclRZckFIejJXaWMxb1dqMnRKSUI4QWhzal9Lc3hhWDJrdW9OcXNJaHdEQWk0cTZjOHhGLUlNVXdkZzZ0ZXJPN3JfWGgzckZaMVZz?oc=5",
-        "summary": "頭條新聞&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-05-11T06:59:27+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "迎暑假出國旺季 永豐推5大外幣8%優利 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81R3J1Y2xpVHQ4MHZCTWxSRXpieS1SQ0wteWg2QkdqcUpSWGdCOGxHTFBMSWxGaHhRcVlKTFhoVmJRaS1rWnRaNFZ3UmxVZTRyZVFQOUtWMmdMQdIBX0FVX3lxTE56dTJhZ3NZblRrX24tWlB2aUxsb2ZDdGZFazh0NjlwYktDMFROYWVLVHJHZ2NQdTgtenp0Y2QxOEtqX2dJQUh5eEJUbml1cWlpX2lZTXBRU0ZDOWpJSVp3?oc=5",
-        "summary": "迎暑假出國旺季 永豐推5大外幣8%優利&nbsp;&nbsp;經濟日報",
-        "published": "2026-05-11T06:44:33+00:00",
+        "title": "台指期夜盤試撮驚見雪崩跌停4,196點 法人：大戶兩操作為測試市場 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SLTJCa3k4d21ESkFhX2dNTUVDa25CMXRLUzZFYzc1VHNSWTFjN2JCRmxXVFVyeWFmVU1RVGNwbV9BX1A1NzVwNFh5YlFqN3hHUVUtLVRoY3VDUW_SAWBBVV95cUxQeUxVSF9Lb2F4S0VhYzl6djFORFR5eEoydFh4QWcxQ2pDM2xWaDdSeGluVWRrRzJZa3F0X21zR1FvU0I1d2pURmhIWFprTWUzNnRpVEdfQzFCQXNKcVZ0WkE?oc=5",
+        "summary": "台指期夜盤試撮驚見雪崩跌停4,196點 法人：大戶兩操作為測試市場&nbsp;&nbsp;經濟日報",
+        "published": "2026-05-11T07:23:17+00:00",
         "source": "經濟日報",
         "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "獲利狀況逐漸好轉！相隔1年中鋼4月營收再站上300億元- 產業 - 工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BMENoSjRWV1llUkFKLVRlMm1xZGkyRmNvQ0lFM0IyQWFMVFNrdHNHSjJNX2JFVDR0TGlRR0FHNFpJQjdzV1NSQWxrUi1jc1hYLXVxZmFpQXVxNWlBZ2hR?oc=5",
-        "summary": "獲利狀況逐漸好轉！相隔1年中鋼4月營收再站上300億元- 產業&nbsp;&nbsp;工商時報",
-        "published": "2026-05-11T06:33:00+00:00",
-        "source": "工商時報",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "頭條新聞 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qWlQzMXBmVUtGSDNULWRhemZpbndPd1c5WWdzV0ljTmo2TzgzMXVySF91QnVpSTJlQmFCRS1DZllPZGpySWxxejFlTXpYUkZuT3c4?oc=5",
-        "summary": "頭條新聞&nbsp;&nbsp;news.cnyes.com",
-        "published": "2026-05-11T06:30:38+00:00",
-        "source": "鉅亨網",
-        "source_weight": 2,
-        "category": "finance"
-      },
-      {
-        "title": "NHS to grant Palantir contractors ‘unlimited access’ to patient data - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFg3V1p0Y1VnVHpnNjJYZk1nbDNGQUxRSjZITHFUdUNZVURwMHJaUDA5Y2JHMXZya01UQk0xYjZPemJXekxYbGlQOXVPN1B1dUZ0UTlLdDNVTk1nUkx6VE9iY1ZFN18yeF80MXdjakZacUpwb2lQQjdhUlk2Ui1rZV9HX2Y?oc=5",
-        "summary": "NHS to grant Palantir contractors ‘unlimited access’ to patient data&nbsp;&nbsp;Financial Times",
-        "published": "2026-05-11T06:28:07+00:00",
-        "source": "Financial Times",
-        "source_weight": 3,
         "category": "finance"
       },
       {
@@ -1996,6 +1996,33 @@
     ],
     "crypto": [
       {
+        "title": "OpenAI 警告灰色股權交易：代幣化股權、SPV、遠期合約皆屬無效轉讓",
+        "link": "https://www.blocktempo.com/openai-warns-unauthorized-spv-tokenized-equity-transfers-void-no-value/",
+        "summary": "OpenAI 近期公開發布未授權股權轉讓聲明，明確表示所有未獲書面同意的直接或間接股權轉讓一律無效，並點名 S [&#8230;] 〈OpenAI 警告灰色股權交易：代幣化股權、SPV、遠期合約皆屬無效轉讓〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-05-12T06:36:03+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "Aave launches binding Arbitrum vote to move $71 million in disputed ETH",
+        "link": "https://www.coindesk.com/markets/2026/05/12/aave-launches-binding-arbitrum-vote-to-move-usd71-million-disputed-eth",
+        "summary": "",
+        "published": "2026-05-12T06:35:55+00:00",
+        "source": "CoinDesk",
+        "source_weight": 3,
+        "category": "crypto"
+      },
+      {
+        "title": "比特幣衝85000美元有望？資金費率逾一個月來翻正、衝上 6%，但選擇權 Put 溢價揭露鯨魚狙擊",
+        "link": "https://www.blocktempo.com/bitcoin-funding-rate-positive-85k-target-options-put-premium-warning/",
+        "summary": "比特幣永續期貨年化資金費率週一短暫衝至 6%，創逾一個月來首次進入中性偏多領域，守穩 $80,000 一週的多 [&#8230;] 〈比特幣衝85000美元有望？資金費率逾一個月來翻正、衝上 6%，但選擇權 Put 溢價揭露鯨魚狙擊〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-05-12T06:26:46+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
         "title": "老牌連鎖書店 Barnes and Noble 逆轉歹命，將以40億美元估值上市",
         "link": "https://abmedia.io/barnes-and-noble-ipo-plan",
         "summary": "老牌連鎖書店品牌巴諾書店（Barnes &#38; Noble）歷經對手亞馬遜的衝擊與私有重組後，現憑藉 Ti [&#8230;] 這篇文章 老牌連鎖書店 Barnes and Noble 逆轉歹命，將以40億美元估值上市 最早出現於 鏈新聞 ABMedia。",
@@ -2005,11 +2032,29 @@
         "category": "crypto"
       },
       {
+        "title": "Ourbit SuperCEX 兩週年慶｜「Trade Everything」時代正式啟航",
+        "link": "https://www.blocktempo.com/ourbit-supercex-2nd-anniversary-launches-trade-everything-era/",
+        "summary": "加密貨幣交易所 Ourbit 慶祝成立兩週年，並正式宣告其「Trade Everything」新時代的來臨。 [&#8230;] 〈Ourbit SuperCEX 兩週年慶｜「Trade Everything」時代正式啟航〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-05-12T06:00:49+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
         "title": "Ourbit SuperCEX 兩週年慶，「Trade Everything 」時代正式啟航",
         "link": "https://abmedia.io/ourbit-supercex-trade-everything-anniversary",
         "summary": "成立兩年，Ourbit 完成了從一家 Memecoin 切入的新興交易所，到全球 Top 30 SuperCE [&#8230;] 這篇文章 Ourbit SuperCEX 兩週年慶，「Trade Everything 」時代正式啟航 最早出現於 鏈新聞 ABMedia。",
         "published": "2026-05-12T06:00:36+00:00",
         "source": "ABMedia 鏈新聞",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "畫筆下的複利人生！PixelRuRu 跨界開課：專為小資族打造的「理財美學」實戰講座",
+        "link": "https://www.blocktempo.com/pixelruru-launches-investment-course-for-beginners/",
+        "summary": "知名像素藝術家 PixelRuRu 跨界推出專為理財新手設計的《新時代投資課》，將分享她從藝術創作到實現複利收 [&#8230;] 〈畫筆下的複利人生！PixelRuRu 跨界開課：專為小資族打造的「理財美學」實戰講座〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-05-12T05:53:42+00:00",
+        "source": "BlockTempo 動區",
         "source_weight": 2,
         "category": "crypto"
       },
@@ -2140,6 +2185,24 @@
         "category": "crypto"
       },
       {
+        "title": "我把生命投入 OpenAI 不希望它被摧毀，前首席科學家作證：Altman 挑撥高管關係製造混亂",
+        "link": "https://www.blocktempo.com/sutskever-7-billion-openai-stake-altman-ouster-musk-trial-testimony/",
+        "summary": "馬斯克訴訟 OpenAI 案進入最後階段，前首席科學家 Sutskever 作證指出 Altman 破壞高管關 [&#8230;] 〈我把生命投入 OpenAI 不希望它被摧毀，前首席科學家作證：Altman 挑撥高管關係製造混亂〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-05-12T04:03:29+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "MARA Q1 營收年減 18% 低於預期、13 億美元淨虧壓垮盤後股價",
+        "link": "https://www.blocktempo.com/mara-q1-revenue-miss-1-3b-net-loss/",
+        "summary": "比特幣礦商 MARA Holdings 公布 2026 年第一季財報，營收 1.746 億美元年減 18%、低 [&#8230;] 〈MARA Q1 營收年減 18% 低於預期、13 億美元淨虧壓垮盤後股價〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-05-12T03:54:42+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
         "title": "Karpathy：AI 不該停在 Markdown！HTML 是未來，終局是可探索的互動式場景",
         "link": "https://abmedia.io/karpathy-ai-markdown-html",
         "summary": "Andrej Karpathy 近日在 X 平台回應 Anthropic Claude Code 團隊工程師 [&#8230;] 這篇文章 Karpathy：AI 不該停在 Markdown！HTML 是未來，終局是可探索的互動式場景 最早出現於 鏈新聞 ABMedia。",
@@ -2149,11 +2212,47 @@
         "category": "crypto"
       },
       {
+        "title": "聯邦銀行入股 MaiCoin 母公司遭金管會駁回：無營運事實不符銀行法，改走這替代方案",
+        "link": "https://www.blocktempo.com/lienbank-maicoin-fsc-rejects-offshore-holding-company-shareholder-alternative-investment/",
+        "summary": "金管會以「境外控股公司無營運事實、不符銀行法規定」為由，封殺聯邦銀行（2838）直接入股 MaiCoin 集團 [&#8230;] 〈聯邦銀行入股 MaiCoin 母公司遭金管會駁回：無營運事實不符銀行法，改走這替代方案〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-05-12T03:46:07+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "OpenAI 一輪 1,220 億美元融資，投後估值推上 8,520 億美元，改寫矽谷單輪融資紀錄",
+        "link": "https://www.blocktempo.com/openai-ipo-q4-2026-1-trillion-valuation-retail-investors-short/",
+        "summary": "傳聞 OpenAI 正籌備於 2026 年底以高達一兆美元的估值進行 IPO。在最新一輪巨額融資後，該公司展現 [&#8230;] 〈OpenAI 一輪 1,220 億美元融資，投後估值推上 8,520 億美元，改寫矽谷單輪融資紀錄〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-05-12T03:30:27+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
         "title": "MARA shares sink on first-quarter revenue miss, $1.3B loss",
         "link": "https://cointelegraph.com/news/mara-shares-sink-on-q1-revenue-miss-1b-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "summary": "MARA Holdings says Bitcoin mining remains the company’s “operational foundation” while it moves to expand into AI.",
         "published": "2026-05-12T03:30:13+00:00",
         "source": "Cointelegraph",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "軟體工程師，仍是份可以做一輩子的穩定職業嗎？",
+        "link": "https://www.blocktempo.com/software-engineers-ai-tools-skills-atrophy-career-lifespan-fifteen-years/",
+        "summary": "工程師 Sean Goedecke 撰文指出，AI 輔助開發可能讓工程師的技術能力隨時間退化，但即便如此，工程 [&#8230;] 〈軟體工程師，仍是份可以做一輩子的穩定職業嗎？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-05-12T03:15:39+00:00",
+        "source": "BlockTempo 動區",
+        "source_weight": 2,
+        "category": "crypto"
+      },
+      {
+        "title": "OpenAI 推出 Daybreak 資安計畫：四大能力偵測高風險漏洞，正面挑戰 Claude Mythos",
+        "link": "https://www.blocktempo.com/openai-daybreak-security-ai-codex-gpt-55-cyber-anthropic-glasswing-rivals/",
+        "summary": "OpenAI 正式推出 Daybreak 資安 AI 計畫，整合 Codex 代理與 GPT-5.5-Cybe [&#8230;] 〈OpenAI 推出 Daybreak 資安計畫：四大能力偵測高風險漏洞，正面挑戰 Claude Mythos〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+        "published": "2026-05-12T03:06:48+00:00",
+        "source": "BlockTempo 動區",
         "source_weight": 2,
         "category": "crypto"
       },
@@ -2480,15 +2579,6 @@
         "source": "CoinDesk",
         "source_weight": 3,
         "category": "crypto"
-      },
-      {
-        "title": "CoinDesk 20 performance update: SUI surges 25% over weekend",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/05/11/coindesk-20-performance-update-sui-surges-25-over-weekend",
-        "summary": "",
-        "published": "2026-05-11T13:17:36+00:00",
-        "source": "CoinDesk",
-        "source_weight": 3,
-        "category": "crypto"
       }
     ],
     "tech": [
@@ -2552,6 +2642,15 @@
         "summary": "2026《台灣區塊鏈產業生態地圖》出爐！虛擬資產專法進入關鍵年，百家業者集結新金融版圖&nbsp;&nbsp;數位時代",
         "published": "2026-05-12T04:38:00+00:00",
         "source": "數位時代",
+        "source_weight": 3,
+        "category": "tech"
+      },
+      {
+        "title": "電子病歷系統 - iThome",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1IwVkd4VGh6dVNSN0J1MG5yaUFUaXlrOTA0SG4wYkZHUGIwdXlkZS1qVmx5OXdsZEV0VXB3cWdOdzhxNjBzZFpHWEtoWDRZS25LQXJwbFFqbVZjZzE1UkZ1bVBuWXRnTmhyNjZsQVZhTjI2QzNhUGJzU2kxVjMxX0p1aFRXMndPUHRxVk5B?oc=5",
+        "summary": "電子病歷系統&nbsp;&nbsp;iThome",
+        "published": "2026-05-12T04:13:58+00:00",
+        "source": "iThome",
         "source_weight": 3,
         "category": "tech"
       },
@@ -2695,15 +2794,6 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iMXBnNWV1QzNPWlhwMjZVcXk5QXJVTUF2bi1CZU5FUFBsS2tvRlBCYWRiQ2FpZ09qZlNEY3Vuc3doZFh6NWZFZHdQdTd3czYyM2ZOcw?oc=5",
         "summary": "Filemanager&nbsp;&nbsp;iThome",
         "published": "2026-05-12T02:41:38+00:00",
-        "source": "iThome",
-        "source_weight": 3,
-        "category": "tech"
-      },
-      {
-        "title": "金融韌性發展藍圖 - iThome",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2pTOThfVDJyTHhPWVdTeHhOTWNESzc2azdrbVNwUjgxdGNLZmpKd2VWSWptYjIwVW1LYnhXWm5JUkdUZHRweGZ2T3M0emp3dGU4Yy1CdnB6U2x4OGxQSkNJczJwWlVVRzNGNGF6eXJOUjZKbVctOWFDSTA4WGM5MmxWR3ItSG9WcFFfUjdGcTZaWURYekZDazk4Q3hXYlhoTi14Y2l3?oc=5",
-        "summary": "金融韌性發展藍圖&nbsp;&nbsp;iThome",
-        "published": "2026-05-12T02:06:29+00:00",
         "source": "iThome",
         "source_weight": 3,
         "category": "tech"
@@ -3296,15 +3386,6 @@
         "category": "entertainment"
       },
       {
-        "title": "幻藍小熊火辣為2萬人「開機」！　無預警曝喜訊嗨翻全場 - ETtoday星光雲",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yT3lfempYN2V3cXZsVDJhQmtVWHc2ZDZmY3VhQmM1NnRxMHhIUDdkTnlBRjViUlNLb1IySjhBdmdualdlLXNjT2lVOERaaFh6Ri1kcFhqdE92NDVFR0thVVdPX1owM19YUGfSAWpBVV95cUxOMk95X3pqWDdld3F2bFQyYUJrVVh3NmQ2ZmN1YUJjNTZ0cTB4SFA3ZE55QUY1YlJTS29SMko4QXZnbmpXZS1zY09pVThEWmhYekYtZHBYanRPdjQ1RUdLYVVXT19aMDNfWFBn?oc=5",
-        "summary": "幻藍小熊火辣為2萬人「開機」！ 無預警曝喜訊嗨翻全場&nbsp;&nbsp;ETtoday星光雲",
-        "published": "2026-05-12T05:21:00+00:00",
-        "source": "ETtoday 娛樂",
-        "source_weight": 3,
-        "category": "entertainment"
-      },
-      {
         "title": "Cannes Market Goes Beyond Film Sales With AI, Creator Economy Focus",
         "link": "https://www.hollywoodreporter.com/business/business-news/cannes-market-goes-beyond-film-with-ai-creator-economy-1236591832/",
         "summary": "Cannes Marché Chief Guillaume Esmiol on bringing innovation, AI, and the creator economy to the Cannes Market without losing focus on the movie business.",
@@ -3342,7 +3423,7 @@
       },
       {
         "title": "愷樂懷雙胞胎「曝光胎兒性別」！　突然變三寶媽傻眼：我也是嚇歪歪 - ETtoday星光雲",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NckZEQ1FDdFNqRVJUWk5jdDNHU1doRnlSWnR2SUpha1lINWZ5OHVTYTJYQUx2ZVNZVGYxM3Z5dmJYSUVacXZBMWRydG54UdIBakFVX3lxTE9nTldDS2VhWnRpcjQyUjZRQWp6OVZrSkFnbjM2d3dDa0ZVWDhBaWh5cXRMNlZrcTRnMnAyX3RWRzNXajd2bzFMRHgtaWRZSkhOTnowS3NTSElEWDdFU0lYRE1fVDRLcFJoVlE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nTldDS2VhWnRpcjQyUjZRQWp6OVZrSkFnbjM2d3dDa0ZVWDhBaWh5cXRMNlZrcTRnMnAyX3RWRzNXajd2bzFMRHgtaWRZSkhOTnowS3NTSElEWDdFU0lYRE1fVDRLcFJoVlHSAWpBVV95cUxPZ05XQ0tlYVp0aXI0MlI2UUFqejlWa0pBZ24zNnd3Q2tGVVg4QWloeXF0TDZWa3E0ZzJwMl90VkczV2o3dm8xTER4LWlkWUpITk56MEtzU0hJRFg3RVNJWERNX1Q0S3BSaFZR?oc=5",
         "summary": "愷樂懷雙胞胎「曝光胎兒性別」！ 突然變三寶媽傻眼：我也是嚇歪歪&nbsp;&nbsp;ETtoday星光雲",
         "published": "2026-05-12T05:00:00+00:00",
         "source": "ETtoday 娛樂",
@@ -3378,7 +3459,7 @@
       },
       {
         "title": "崔智友父親驟逝！老公、女兒全程守在靈堂　14日上午出殯 - ETtoday星光雲",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCUTNsRFl4V2l3cER5T241YzlGS1hPam9LV3ZtakVWbFVSRWZqSlVGb2ZSSlg3dW5wNE9rX244MUVhUElTQ2FvZjFGYnZ3SWtYelhMNTJHLXQwRXBNUXE0alpPbzJPdEUwVHfSAWpBVV95cUxQQlEzbERZeFdpd3BEeU9uNWM5RktYT2pvS1d2bWpFVmxVUkVmakpVRm9mUkpYN3VucDRPa19uODFFYVBJU0Nhb2YxRmJ2d0lrWHpYTDUyRy10MEVwTVFxNGpaT28yT3RFMFR3?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NODA5NWF2OWQ5NlhVTTFHQXlXczBpeDdiSGRTeHVGXzRjdUlZamZXRGtxVFdWQTJRalVtR2FhZGZiS214MmlUTHRKQWJVZ9IBakFVX3lxTFBCUTNsRFl4V2l3cER5T241YzlGS1hPam9LV3ZtakVWbFVSRWZqSlVGb2ZSSlg3dW5wNE9rX244MUVhUElTQ2FvZjFGYnZ3SWtYelhMNTJHLXQwRXBNUXE0alpPbzJPdEUwVHc?oc=5",
         "summary": "崔智友父親驟逝！老公、女兒全程守在靈堂 14日上午出殯&nbsp;&nbsp;ETtoday星光雲",
         "published": "2026-05-12T04:13:00+00:00",
         "source": "ETtoday 娛樂",
@@ -3665,6 +3746,15 @@
         "category": "entertainment"
       },
       {
+        "title": "《換乘戀愛4》允寧爆熱戀有植！　同地點打卡被抓包…她親出面說明 - ETtoday星光雲",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zZENDcVFqd1BsWDluTFRpNmRIak9UcDZDa1hSYkk5X3dqaVNCZUwxVFJZenBhZC1zLUtSWEhRNVBZWUgwNC1lNkdYZ0h6T2JkUnFuV3A4TS1KOF9SRU9Hak5tVTltVEludVHSAWpBVV95cUxOc2RDQ3FRandQbFg5bkxUaTZkSGpPVHA2Q2tYUmJJOV93amlTQmVMMVRSWXpwYWQtcy1LUlhIUTVQWVlIMDQtZTZHWGdIek9iZFJxbldwOE0tSjhfUkVPR2pObVU5bVRJbnVR?oc=5",
+        "summary": "《換乘戀愛4》允寧爆熱戀有植！ 同地點打卡被抓包…她親出面說明&nbsp;&nbsp;ETtoday星光雲",
+        "published": "2026-05-11T08:40:00+00:00",
+        "source": "ETtoday 娛樂",
+        "source_weight": 3,
+        "category": "entertainment"
+      },
+      {
         "title": "威廉閃兵淡出螢光幕近況曝！轉戰幕後「勤奮求生」　小煜暖心喊話 - ETtoday星光雲",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5LVMtekgwQThrUzhNeWlJc1ZXdldvSFBIdDZnWFlRakpVOW9aLTlDckl1bkw1NmZPWW5lSnZPQUM5UjhiZVBzR2NIaFZVOXRhU3hqbzNoTGRTZHB5TjdncHpwclRjXzVYbnfSAWpBVV95cUxQeS1TLXpIMEE4a1M4TXlpSXNWV3ZXb0hQSHQ2Z1hZUWpKVTlvWi05Q3JJdW5MNTZmT1luZUp2T0FDOVI4YmVQc0djSGhWVTl0YVN4am8zaExkU2RweU43Z3B6cHJUY181WG53?oc=5",
         "summary": "威廉閃兵淡出螢光幕近況曝！轉戰幕後「勤奮求生」 小煜暖心喊話&nbsp;&nbsp;ETtoday星光雲",
@@ -3710,19 +3800,19 @@
         "category": "entertainment"
       },
       {
-        "title": "一線女星才剛宣布懷孕！富豪尪驚爆「性侵親弟12年」家族全知情　崩壞毀三觀內幕曝光 - 鏡週刊Mirror Media",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3RHlSVGtjdzNLbEN3LThBNEdHTlhIUGFSVkhnMEhEc2ZtNmdwMGlIRG5aak5KS19NVUs0VmstVlhvSVdhc25xWF9LNWd5QWhlSTByVjBXUW0tRkHSAWBBVV95cUxONTBkMTFRd1pGY3BtbXhqWFN4S2VSbDY2MFJoY1R3U1l5S21fSVY3QVFrY2hKOW1IVGpPQzZYQml2VjFJX1NFbEZBaDBRREMtaDM2U0ZXa1BDaUJvMDRTd3M?oc=5",
-        "summary": "一線女星才剛宣布懷孕！富豪尪驚爆「性侵親弟12年」家族全知情 崩壞毀三觀內幕曝光&nbsp;&nbsp;鏡週刊Mirror Media",
-        "published": "2026-05-11T02:43:00+00:00",
+        "title": "狂收關心訊息！　潘裕文前女友發聲「盼別過多猜測」：我們都各自安好 - 鏡週刊Mirror Media",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ZUdOeGJ4MDBTbXlXQnZPSnBVbWM2cnNzN2lUdmNsSWM2RUlZWlc0cTR2XzVmUXdid2pvLWJkNFRNTktOT2liLWZHM010Y0NEXzZfM2tGUGV4VU3SAWBBVV95cUxOZnplTjNmaUtIUFFsbnFQZ3VTdFAzbkV1bWJSUklCaXdPOW5jYlRVTVVxWG0yZHViaWtweVFndVRDMmdtbXJ4aHdMdlpxYmQ1LTZHRWt1Vlk4dmRZalFCRHA?oc=5",
+        "summary": "狂收關心訊息！ 潘裕文前女友發聲「盼別過多猜測」：我們都各自安好&nbsp;&nbsp;鏡週刊Mirror Media",
+        "published": "2026-05-11T05:07:00+00:00",
         "source": "鏡週刊 娛樂",
         "source_weight": 3,
         "category": "entertainment"
       },
       {
-        "title": "遭霸凌躲廁所哭！「起亞虎女神」鄭嘉睿宣布來台定居 - 鏡週刊Mirror Media",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GcE1lMk9FTTl0Y1pyVGJBNG43OW5hZ18tR3kzZlpYT3VkNmJNVUcwWUdhaVp1NnFremhqc1I2eEstZGdrYVNCOFYtOFhWd2owTlpNNjFsbFRzY0V5ZUNUb01OaXpMZ9IBa0FVX3lxTE5oYnR6QzExc3hVWFp6Wmt6NG93UUc0SlZ5LUhRN0pCMDJybDMzcG9oQkF5Smo4VmRRcXpJWkNWZk9SRTRFQV9LWHpUdDgyNXVFVFV1aGFhX2V0VjN4OUJ6RU5NajRVMFdKMjRV?oc=5",
-        "summary": "遭霸凌躲廁所哭！「起亞虎女神」鄭嘉睿宣布來台定居&nbsp;&nbsp;鏡週刊Mirror Media",
-        "published": "2026-05-11T02:36:00+00:00",
+        "title": "一線女星才剛宣布懷孕！富豪尪驚爆「性侵親弟12年」家族全知情　崩壞毀三觀內幕曝光 - 鏡週刊Mirror Media",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3RHlSVGtjdzNLbEN3LThBNEdHTlhIUGFSVkhnMEhEc2ZtNmdwMGlIRG5aak5KS19NVUs0VmstVlhvSVdhc25xWF9LNWd5QWhlSTByVjBXUW0tRkHSAWBBVV95cUxONTBkMTFRd1pGY3BtbXhqWFN4S2VSbDY2MFJoY1R3U1l5S21fSVY3QVFrY2hKOW1IVGpPQzZYQml2VjFJX1NFbEZBaDBRREMtaDM2U0ZXa1BDaUJvMDRTd3M?oc=5",
+        "summary": "一線女星才剛宣布懷孕！富豪尪驚爆「性侵親弟12年」家族全知情 崩壞毀三觀內幕曝光&nbsp;&nbsp;鏡週刊Mirror Media",
+        "published": "2026-05-11T02:43:00+00:00",
         "source": "鏡週刊 娛樂",
         "source_weight": 3,
         "category": "entertainment"
@@ -3750,7 +3840,7 @@
   "totals": {
     "world": 75,
     "finance": 146,
-    "crypto": 55,
+    "crypto": 65,
     "tech": 77,
     "entertainment": 62
   }
