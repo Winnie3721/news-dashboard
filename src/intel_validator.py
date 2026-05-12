@@ -32,6 +32,10 @@ INTEL_SCHEMA = {
                 },
             },
         },
+        # Note: minLength=1 (not 5) for the three list fields below is intentional.
+        # Schema validates STRUCTURE only. Semantic quality (no fluff words, real
+        # numbers, factual grounding) is enforced by scan_banned_words() and
+        # verify_numbers_against_source() in this same module (added in Tasks 4-5).
         "why_it_matters": {
             "type": "array",
             "minItems": 2,
