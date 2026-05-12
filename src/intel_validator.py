@@ -77,17 +77,33 @@ def validate_schema(intel: dict) -> None:
 
 
 BANNED_WORDS = [
+    # Hard fluff (always blocked)
     "結構性",
-    "持續關注",
-    "持續觀察",
-    "持續發酵",
-    "持續走強",
-    "持續走弱",
     "長期增長",
     "長期成長",
     "全面",
     "廣泛",
     "趨勢",
+    # Continuation-fluff bigrams
+    "持續關注",
+    "持續觀察",
+    "持續發酵",
+    "持續走強",
+    "持續走弱",
+    "持續創新",
+    # Soft-fluff phrases the AI tends to fill blanks with
+    "投資者情緒",
+    "市場信心",
+    "風險偏好提升",
+    "風險偏好改善",
+    "吸引資金",
+    "獲資金支持",
+    "企業創新",
+    "加速企業",
+    "值得關注",
+    "有待觀察",
+    "謹慎樂觀",
+    "樂觀情緒",
 ]
 
 

@@ -183,3 +183,25 @@ def test_hallucinated_integer_pct_fails():
         verify_numbers_against_source(
             "台股 -50%", SAMPLE_MARKET, SAMPLE_CRYPTO
         )
+
+
+@pytest.mark.parametrize("fluff", [
+    "投資者情緒改善",
+    "市場信心回升",
+    "風險偏好提升",
+    "值得關注",
+    "謹慎樂觀的氛圍",
+    "AI 部署將加速企業創新",
+])
+def test_new_soft_fluff_phrases_fail(fluff):
+    """New BANNED_WORDS additions should reject typical AI fluff."""
+    with pytest.raises(ValidationError):
+        scan_banned_words(fluff)
+
+
+def test_legitimate_phrases_with_partial_overlap_pass():
+    """Some legit phrases share substrings with banned words — make sure no false positives."""
+    # "情緒" alone is OK (only "投資者情緒" is banned)
+    scan_banned_words("Fear & Greed 指數 26,投資者偏觀望")
+    # "資金" alone is OK
+    scan_banned_words("Bitcoin ETF 資金流入連續 5 日")
