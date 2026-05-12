@@ -2,7 +2,7 @@
 import json
 
 
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "openai/gpt-4o-mini"
 
 SYSTEM_PROMPT = """你是新聞看板的資深市場觀察員。任務:根據今日抓取的新聞、市場、加密、機構報告數據,產出當日 intel.json。
 

@@ -1,4 +1,4 @@
-"""Tests for generate_intel orchestration (Gemini client mocked)."""
+"""Tests for generate_intel orchestration (LLM client mocked)."""
 import json
 import pytest
 from unittest.mock import MagicMock
@@ -45,11 +45,15 @@ VALID_GEMINI_OUTPUT = json.dumps({
 
 
 def _make_mock_client(text_output: str):
-    """Helper to build a Gemini client mock that returns the given text."""
+    """Helper to build an OpenAI-compatible client mock that returns the given text."""
     client = MagicMock()
+    message = MagicMock()
+    message.content = text_output
+    choice = MagicMock()
+    choice.message = message
     response = MagicMock()
-    response.text = text_output
-    client.models.generate_content.return_value = response
+    response.choices = [choice]
+    client.chat.completions.create.return_value = response
     return client
 
 
@@ -68,7 +72,7 @@ def test_override_skips_gemini(fake_data_dir):
     assert result["status"] == "override"
     intel = json.loads((fake_data_dir / "intel.json").read_text(encoding="utf-8"))
     assert intel["thesis"] == "manual override 台股 -0.86% 人工覆寫"
-    mock_client.models.generate_content.assert_not_called()
+    mock_client.chat.completions.create.assert_not_called()
 
 
 def test_success_writes_intel_and_resets_failures(fake_data_dir):
@@ -103,14 +107,14 @@ def test_validation_failure_keeps_yesterday_and_increments_counter(fake_data_dir
     assert intel["thesis"] == "yesterday"
     # counter incremented
     assert (fake_data_dir / ".intel_failures").read_text(encoding="utf-8").strip() == "1"
-    # generate_content called twice (1 retry)
-    assert mock_client.models.generate_content.call_count == 2
+    # chat.completions.create called twice (1 retry)
+    assert mock_client.chat.completions.create.call_count == 2
 
 
 def test_gemini_api_exception_treated_as_failure(fake_data_dir, monkeypatch):
     monkeypatch.setattr(generate_intel.time, "sleep", lambda _: None)
     mock_client = MagicMock()
-    mock_client.models.generate_content.side_effect = RuntimeError("api down")
+    mock_client.chat.completions.create.side_effect = RuntimeError("api down")
 
     result = generate_intel.run(data_dir=fake_data_dir, gemini_client=mock_client)
 
@@ -118,7 +122,7 @@ def test_gemini_api_exception_treated_as_failure(fake_data_dir, monkeypatch):
 
 
 def test_strips_markdown_fence_from_gemini_output(fake_data_dir):
-    """Gemini sometimes wraps JSON in ```json fences; we tolerate it."""
+    """LLM sometimes wraps JSON in ```json fences; we tolerate it."""
     fenced = f"```json\n{VALID_GEMINI_OUTPUT}\n```"
     mock_client = _make_mock_client(fenced)
 
@@ -138,7 +142,7 @@ def test_malformed_override_falls_through_to_ai(fake_data_dir, monkeypatch):
 
     # AI was actually called because override was rejected
     assert result["status"] == "ok"
-    mock_client.models.generate_content.assert_called()
+    mock_client.chat.completions.create.assert_called()
 
 
 def test_override_with_invalid_schema_falls_through_to_ai(fake_data_dir, monkeypatch):
@@ -153,7 +157,7 @@ def test_override_with_invalid_schema_falls_through_to_ai(fake_data_dir, monkeyp
     result = generate_intel.run(data_dir=fake_data_dir, gemini_client=mock_client)
 
     assert result["status"] == "ok"
-    mock_client.models.generate_content.assert_called()
+    mock_client.chat.completions.create.assert_called()
 
 
 def test_alert_sent_on_third_consecutive_failure(fake_data_dir, monkeypatch):

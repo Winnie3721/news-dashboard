@@ -10,7 +10,9 @@ def test_system_prompt_contains_iron_rules():
 
 
 def test_model_name_defined():
-    assert MODEL_NAME.startswith("gemini")
+    """Model name follows GitHub Models 'provider/model' format."""
+    assert "/" in MODEL_NAME
+    assert len(MODEL_NAME) > 5
 
 
 def test_build_user_prompt_includes_all_sections():

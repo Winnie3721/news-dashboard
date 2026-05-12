@@ -62,23 +62,23 @@ def _validate_full(intel: dict, market: dict, crypto: dict) -> None:
     walk(intel)
 
 
-def _call_gemini(client, user_prompt: str) -> str:
-    """Single Gemini call, returns raw text."""
-    response = client.models.generate_content(
+def _call_llm(client, user_prompt: str) -> str:
+    """Single LLM call via OpenAI-compatible API, returns raw text."""
+    response = client.chat.completions.create(
         model=MODEL_NAME,
-        contents=[{"role": "user", "parts": [{"text": user_prompt}]}],
-        config={
-            "system_instruction": SYSTEM_PROMPT,
-            "response_mime_type": "application/json",
-            "temperature": 0.4,
-        },
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user_prompt},
+        ],
+        temperature=0.4,
+        response_format={"type": "json_object"},
     )
-    return response.text
+    return response.choices[0].message.content
 
 
 def _try_generate(client, user_prompt: str, market: dict, crypto: dict) -> dict:
-    """One attempt: call Gemini, parse, validate. Raise on any failure."""
-    raw = _call_gemini(client, user_prompt)
+    """One attempt: call LLM, parse, validate. Raise on any failure."""
+    raw = _call_llm(client, user_prompt)
     text = _strip_code_fence(raw)
     intel = json.loads(text)
     intel["edited_at"] = _now_tpe_iso()
@@ -163,12 +163,19 @@ def run(data_dir: Path = None, gemini_client=None) -> dict:
 
 
 def _build_real_client():
-    """Lazy import google-genai only when actually running."""
-    from google import genai
-    api_key = os.environ.get("GEMINI_API_KEY", "")
-    if not api_key:
-        raise RuntimeError("缺少 GEMINI_API_KEY 環境變數")
-    return genai.Client(api_key=api_key)
+    """Lazy import openai SDK pointed at GitHub Models endpoint.
+
+    GitHub Models is OpenAI-API-compatible. Authenticates via GITHUB_TOKEN
+    which is auto-provided by GitHub Actions (no user-managed secret).
+    """
+    from openai import OpenAI
+    token = os.environ.get("GITHUB_TOKEN", "")
+    if not token:
+        raise RuntimeError("缺少 GITHUB_TOKEN 環境變數(GitHub Actions 應自動提供)")
+    return OpenAI(
+        base_url="https://models.github.ai/inference",
+        api_key=token,
+    )
 
 
 def main():
