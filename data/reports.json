@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-12T06:00:26.285103+00:00",
+  "fetched_at": "2026-05-12T06:27:40.915722+00:00",
   "items": [
     {
       "title": "Bain & Company invests in the OpenAI Deployment Company, a new venture to deploy AI at enterprise scale",
@@ -236,6 +236,12 @@
       "source": "工研院 IEK"
     },
     {
+      "title": "State of AI trust in 2026: Shifting to the agentic era",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc2dvaER3NVh1WlZRbWtwSWI2bWE2OWxPc2JQZ1VPUWdMM291bGtwSmlXeEZPeVJLN1VGZXdxbkpFRzVKdVU3SUFHamcxY3h5SDNpS3QtV1JaM3VaWExOVU4zVy1WZVhoRm9Xb2JwcEZoankwaVAzLUZzcElzeGR2YzgxMElvUDdKa2MxNnZWTVV6UlQyZzRkWHdyN21nNXpRNlU5WmJGNHNxTXEteVlUN1llaTNxazlib2NvQ3lXcU9wQ1psUklrZA?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": "McKinsey"
+    },
+    {
       "title": "How Will AI Affect the US Labor Market?",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGRxQTBKa1JQSmJQUkNnTWlzXzFSeDJkcXhSeVYwSWZpOHZSYUNialVlem1mWnhBck94dkgwVG1OTkFEeHlVblV2b2VHNjdhTDF1VmhRRlByUVRjS1VlZ3QtM05faWJHZy05ZnZRNVR0SEdKVUNibXh0R3IyNWUtTmo3djRBQnRWbC1vSWRR?oc=5",
       "published": "2026-03-18T07:00:00+00:00",
@@ -274,6 +280,12 @@
     {
       "title": "工研院剖析醫療產業發展 台灣擁ICT與醫療技術3優勢",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pcWIyWVJiekN1NUEyZUJybGQzdTVvbERjUWZIeDEyZ2xGN0JoSGlldHpRc1V4ZTljYzJOSzVma1p6NVcyU3NEZWo4eGNIdlNqYmpJc2p3RW1hTkdEVGc?oc=5",
+      "published": "2026-01-28T08:00:00+00:00",
+      "source": "工研院 IEK"
+    },
+    {
+      "title": "從MEDICA到CES 工研院盤點全球醫療產業趨勢",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVzJEcnBuRTc0U1czRVc4WjF0QVRLZEcxUjNIbGtjZTZ5UVFWRkxtOXhQLWlQc2k5MHpFZlpZdDhkOWdGOTZBOXUyZkR5RFRtei0xSkRwNFFfMGp0NkJldlRwMV9ick5fbU1taXdfejEySGlMeEJ6VWV6R2FwZ3Y3RXo0bUVlNGprYVNYS3JJNGtpYkNYSFBnMXIxeDd3Wm5SM0FiOXd3Szl0MU5mUVBKMmRkeGd2MFBmaUpfanVqWWNOOGpaY1VfalhjcURRdW4yc29iZklpb1NLNGFETE5vWGwwWTZSZk91b2lNZnVvRjlENlZJWWRodDlFdDFNeXhReUhxdGxON2tLSnZ3bk1LOVloU24?oc=5",
       "published": "2026-01-28T08:00:00+00:00",
       "source": "工研院 IEK"
     },
@@ -356,12 +368,6 @@
       "source": "工研院 IEK"
     },
     {
-      "title": "眺望2026產發趨勢 工研院剖析主要國家照護科技動態與市場成長潛力",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYZGx6TEY5aVU1c0FWZU15TTFMOUZmZk11M01wbUJCZTdEbDFudGdQbFo1X25qd0paMnd1X21lY2JMVEgxV0JVNVhqbG81YjNVY0VXRFBtb0FVVDdZSHBLZGJ4dWJLc2lkYWlfU0tycw?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": "工研院 IEK"
-    },
-    {
       "title": "The state of AI in 2025: Agents, innovation, and transformation",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkNzT2lMcURPYXQxQmh0azdzbjVrNFktNzZFLTZacnFlR2xZYXczRnI4MHh2amsya2xOOEh1QURSbFUxU0ZUWGQ5WE5kVHJtbEFJb0NOdTNVUVhPeC1iVVJOZk1VbXpwLVBuYzVod0tMVmlYbVdzNjgwcF83MTVJTWNvVFRaZw?oc=5",
       "published": "2025-11-05T08:00:00+00:00",
@@ -426,12 +432,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanBoYnpWQ3hNNWlPWkZCU3ZPZmRMSEFHQjRsa2I0eVFoeGZVUktKT3hNMEplN1dFR05sdmJhZnNCQm0yNGRoYTc0ZDZma2Q0SGFkU0h3Y0ZHTFlWc0ZkRHFSbXFZV1FJcklvTkg4dDY3cUZucWpzem9IR0FlNEdsU2ljNUJTclhmSUJVWG5idlgwcGtYM2U2RHBLTFdBc3pWRnJvMXFhRmJGVXdPZUlxdVMzeWF1bzQ?oc=5",
       "published": "2025-03-25T07:00:00+00:00",
       "source": "Deloitte"
-    },
-    {
-      "title": "Superagency in the workplace: Empowering people to unlock AI’s full potential",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMjR2aHBQWXZiUHd6aWJxVkV4bEd6MVJ4d1pTQlVBam9xVm1xZU4tMDU5OTQ0UTNjRk5PSE9VYTZyMGhJT3N2MjJrdERIeWZRWURZSllDOVJSenI0TUxBVGo1R2Rfc3BmcXhqWjIxLUNHdG5BaDhkbjcxWFJUektLcTJZMVc1S09xX3h4Ym9xSFBsN29EUmpYSjFyQlB5VEhKdjh1MlhnU1Q4WmlDaTBlcTNDWEUzNjM1R1FETHR0T3BKbFpQNzJkWjdxM0JaNkJvZ3kyOXdZUmtiTndIMDhF?oc=5",
-      "published": "2025-01-28T08:00:00+00:00",
-      "source": "McKinsey"
     },
     {
       "title": "Luxury in Transition: Securing Future Growth",
