@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-05-13T11:30:20.075890+00:00",
+  "fetched_at": "2026-05-13T23:05:17.319534+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 80576,
-      "market_cap_usd": 1614447372493,
-      "total_volume_usd": 40140218042,
-      "change_24h_pct": -0.021163058983216874,
-      "change_7d_pct": -1.67924694210429,
+      "price_usd": 79372,
+      "market_cap_usd": 1589849277877,
+      "total_volume_usd": 44892352068,
+      "change_24h_pct": -1.5589722754541662,
+      "change_7d_pct": -2.654106058476421,
       "high_24h": 81263,
-      "low_24h": 79880
+      "low_24h": 78795
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2301.14,
-      "market_cap_usd": 277918859200,
-      "total_volume_usd": 12996157675,
-      "change_24h_pct": 0.8228101656793052,
-      "change_7d_pct": -4.554745985325163,
+      "price_usd": 2257.89,
+      "market_cap_usd": 272546201060,
+      "total_volume_usd": 14039644572,
+      "change_24h_pct": -1.0462664829818522,
+      "change_7d_pct": -3.8147906073763678,
       "high_24h": 2321.39,
-      "low_24h": 2257.72
+      "low_24h": 2237.51
     }
   ],
   "global": {
-    "total_market_cap_usd": 2781892530743.107,
-    "total_volume_usd": 100390643171.96544,
-    "btc_dominance": 58.17104951147621,
-    "eth_dominance": 10.011295381514765,
-    "market_cap_change_24h_pct": 0.2683886815714007,
-    "active_cryptocurrencies": 17401
+    "total_market_cap_usd": 2734170661147.064,
+    "total_volume_usd": 104398832021.00778,
+    "btc_dominance": 58.150916376401206,
+    "eth_dominance": 9.966352969405747,
+    "market_cap_change_24h_pct": -1.1250756128896267,
+    "active_cryptocurrencies": 17404
   },
   "fear_greed": {
     "value": 42,
