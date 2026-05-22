@@ -1,51 +1,49 @@
 {
-  "edited_at": "2026-05-20T19:49:39+08:00",
+  "edited_at": "2026-05-22T19:45:51+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "全球市場指數下跌;台股因對降息的擔憂持平，S&P 500 則因油價上漲而下跌",
+  "thesis": "台股上漲 2.17% 至 42267.97，受益於美股穩定及地緣政治影響",
   "top_3_events": [
     {
-      "event": "UK waters down new Russian oil sanctions as fuel prices rise",
-      "source": "BBC Business",
-      "implication": "油價上漲影響市場情緒，S&P 500 -0.67%"
+      "event": "Nato chief welcomes US sending 5,000 troops to Poland",
+      "source": "BBC World",
+      "implication": "地緣政治緊張加劇 → 投資者避險需求上升"
     },
     {
-      "event": "台股高檔震盪，市場真正畏懼的早已不是「延後降息」",
-      "source": "商業周刊",
-      "implication": "台股因降息擔憂而下跌 -0.39%"
+      "event": "IMF Executive Board Completes Second Review of the Extended Arrangement Under the Extended Fund Facility and Concludes 2026 Article IV Consultation with Argentina",
+      "source": "IMF",
+      "implication": "阿根廷經濟政策獲得支持 → 投資者信心提升"
     },
     {
-      "event": "Bank Indonesia Delivers First Rate Hike in Years as Rupiah Flounders, Risks Rise",
-      "source": "WSJ",
-      "implication": "印尼加息影響亞洲市場情緒，台股持平"
+      "event": "US Data Center Power Demand Projected to Double by 2027",
+      "source": "Goldman Sachs",
+      "implication": "數據中心需求上升 → 技術股受益"
     }
   ],
   "why_it_matters": [
-    "S&P 500 下跌 -0.67% 至 7353.61，反映市場對油價上漲的擔憂 (market.json)",
-    "台股下跌 -0.39% 至 40020.82，顯示對降息的擔憂持續 (market.json)",
-    "印尼加息後，亞洲市場面臨更大不確定性，影響投資者行為 (news_titles)"
+    "台股加權指數上漲 2.17% → 反映市場對於地緣政治局勢的反應",
+    "美股 S&P 500 小幅上漲 0.17% → 提升全球市場情緒",
+    "Bitcoin 價格上漲 0.09% → 顯示加密市場的穩定性"
   ],
   "what_changed": [
-    "台股 -0.39% 至 40020.82，前收盤 40175.56",
-    "S&P 500 -0.67% 至 7353.61，前收盤 7403.05",
-    "日經 -1.23% 至 59804.41，前收盤 60550.59"
+    "台股加權 +2.17% 至 42267.97",
+    "日經 225 +2.68% 至 63339.07",
+    "S&P 500 +0.17% 至 7445.72"
   ],
   "cross_signals": [
-    "油價上漲 → S&P 500 下跌 → 市場情緒轉弱",
-    "台股因降息擔憂 → 投資者避險情緒升高 → 亞洲市場震盪",
-    "印尼加息 → 亞洲市場不確定性增加 → 台股持平"
+    "Nato 部隊增派 → 地緣政治緊張加劇 → 投資者避險需求上升",
+    "IMF 對阿根廷的支持 → 投資信心提升 → 股市上漲",
+    "數據中心需求預測上升 → 技術股受益 → 投資者增加配置"
   ],
   "section_signals": {
-    "world": "→ 中東局勢緊張，伊朗威脅擴大",
-    "finance": "→ 油價上漲影響全球市場",
-    "crypto": "→ 比特幣持平於 $77332，市場情緒謹慎",
-    "tech": "→ AI 技術持續受到關注，相關報告發布",
-    "entertainment": "→ Netflix 宣布新計畫，影響媒體市場"
+    "world": "→ 地緣政治影響市場動態",
+    "finance": "→ 阿根廷經濟政策獲得支持",
+    "crypto": "→ Bitcoin 價格小幅上漲",
+    "tech": "→ 數據中心需求預測上升",
+    "entertainment": "→ 影視產業活動增多"
   },
   "report_takeaways": {
-    "IMF Staff Completes": "IMF 完成對布隆迪的 2026 年度檢查",
-    "United Kingdom: Staff": "英國 2026 年度檢查結論發布",
-    "The Future of Digital": "數位資產在金融中的未來展望",
-    "Shawn Tuteja on": "對泡沫擔憂與 AI 貿易的見解",
-    "Annual Meeting on": "網絡安全成為經濟戰略優先事項"
+    "IMF Executive": "阿根廷經濟政策獲得支持",
+    "US Data Center": "數據中心需求預計到 2027 年將翻倍",
+    "AI Agents": "AI 代理預計將提升科技現金流"
   }
 }
