@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-23T10:25:57.607048+00:00",
+  "fetched_at": "2026-05-23T22:53:56.748307+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 74653,
-      "market_cap_usd": 1495530140420,
-      "total_volume_usd": 66159123960,
-      "change_24h_pct": -3.3666682906998946,
-      "change_7d_pct": -4.756792785536012,
-      "high_24h": 77434,
+      "price_usd": 76477,
+      "market_cap_usd": 1532341050847,
+      "total_volume_usd": 32696550526,
+      "change_24h_pct": 1.0844998941228465,
+      "change_7d_pct": -2.275238224868722,
+      "high_24h": 77084,
       "low_24h": 74344
     },
     {
@@ -19,22 +19,22 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2026.63,
-      "market_cap_usd": 244634461902,
-      "total_volume_usd": 16572809759,
-      "change_24h_pct": -4.470236760726646,
-      "change_7d_pct": -7.577917974312983,
-      "high_24h": 2132.8,
+      "price_usd": 2113.74,
+      "market_cap_usd": 255205145758,
+      "total_volume_usd": 16823713064,
+      "change_24h_pct": 2.097523231192995,
+      "change_7d_pct": -3.1298467226455537,
+      "high_24h": 2141.81,
       "low_24h": 2020.99
     }
   ],
   "global": {
-    "total_market_cap_usd": 2576468533508.1987,
-    "total_volume_usd": 122707992518.55965,
-    "btc_dominance": 58.06325138302887,
-    "eth_dominance": 9.49595584420541,
-    "market_cap_change_24h_pct": -3.215992076032782,
-    "active_cryptocurrencies": 17388
+    "total_market_cap_usd": 2639774210116.281,
+    "total_volume_usd": 85051676474.08665,
+    "btc_dominance": 58.04482518015443,
+    "eth_dominance": 9.662567324823103,
+    "market_cap_change_24h_pct": 1.0624862348655595,
+    "active_cryptocurrencies": 17398
   },
   "fear_greed": {
     "value": 28,
