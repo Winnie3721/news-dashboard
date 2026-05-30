@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-05-29T23:12:12.454091+00:00",
+  "fetched_at": "2026-05-30T10:47:15.553314+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 73366,
-      "market_cap_usd": 1470172404892,
-      "total_volume_usd": 36127596762,
-      "change_24h_pct": -0.14129372086043662,
-      "change_7d_pct": -3.3507981965974984,
+      "price_usd": 73555,
+      "market_cap_usd": 1473642126116,
+      "total_volume_usd": 30676931374,
+      "change_24h_pct": 0.060661798066941185,
+      "change_7d_pct": -1.3936168109773706,
       "high_24h": 74214,
       "low_24h": 72515
     },
@@ -19,26 +19,26 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2009.95,
-      "market_cap_usd": 242660430503,
-      "total_volume_usd": 14053747739,
-      "change_24h_pct": 0.2212253912691797,
-      "change_7d_pct": -3.1758422925838627,
+      "price_usd": 2017.63,
+      "market_cap_usd": 243507072760,
+      "total_volume_usd": 11962492518,
+      "change_24h_pct": 0.4530199389960742,
+      "change_7d_pct": -0.38360269671868363,
       "high_24h": 2039.75,
       "low_24h": 1981.99
     }
   ],
   "global": {
-    "total_market_cap_usd": 2554130622081.6665,
-    "total_volume_usd": 88883531619.79298,
-    "btc_dominance": 57.55638580994425,
-    "eth_dominance": 9.499416351434519,
-    "market_cap_change_24h_pct": 0.0020997906003972664,
-    "active_cryptocurrencies": 17410
+    "total_market_cap_usd": 2564301787484.627,
+    "total_volume_usd": 82796879392.73242,
+    "btc_dominance": 57.456578610722765,
+    "eth_dominance": 9.493515272987986,
+    "market_cap_change_24h_pct": 0.37042406010528806,
+    "active_cryptocurrencies": 17392
   },
   "fear_greed": {
     "value": 23,
     "label": "Extreme Fear",
-    "timestamp": "2026-05-29T00:00:00+00:00"
+    "timestamp": "2026-05-30T00:00:00+00:00"
   }
 }
