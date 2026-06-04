@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-04T11:52:25.330603+00:00",
+  "fetched_at": "2026-06-04T23:08:56.304614+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 62399,
-      "market_cap_usd": 1250410660853,
-      "total_volume_usd": 65147055804,
-      "change_24h_pct": -6.870543534893122,
-      "change_7d_pct": -15.009339384135668,
-      "high_24h": 67119,
+      "price_usd": 63742,
+      "market_cap_usd": 1277344976750,
+      "total_volume_usd": 66077105728,
+      "change_24h_pct": -1.084029962296403,
+      "change_7d_pct": -13.122915824995601,
+      "high_24h": 64641,
       "low_24h": 61557
     },
     {
@@ -19,22 +19,22 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1747.29,
-      "market_cap_usd": 210871274229,
-      "total_volume_usd": 27887029719,
-      "change_24h_pct": -6.804664315971945,
-      "change_7d_pct": -12.221941299357965,
-      "high_24h": 1875.84,
+      "price_usd": 1772.71,
+      "market_cap_usd": 213812865275,
+      "total_volume_usd": 26904768429,
+      "change_24h_pct": -2.485274761197498,
+      "change_7d_pct": -11.532751655895769,
+      "high_24h": 1822.83,
       "low_24h": 1733.65
     }
   ],
   "global": {
-    "total_market_cap_usd": 2256503838631.192,
-    "total_volume_usd": 394630265953.2122,
-    "btc_dominance": 55.3746215125584,
-    "eth_dominance": 9.326804473760216,
-    "market_cap_change_24h_pct": -5.986443261220517,
-    "active_cryptocurrencies": 17374
+    "total_market_cap_usd": 2285452193828.2363,
+    "total_volume_usd": 218929261574.06665,
+    "btc_dominance": 55.82461021378504,
+    "eth_dominance": 9.324216684096422,
+    "market_cap_change_24h_pct": -1.531405574174061,
+    "active_cryptocurrencies": 17380
   },
   "fear_greed": {
     "value": 12,
