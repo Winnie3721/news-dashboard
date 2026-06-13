@@ -1,51 +1,51 @@
 {
-  "edited_at": "2026-05-25T20:30:56+08:00",
+  "edited_at": "2026-06-13T19:13:59+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "油價因美伊和平協議希望下滑，台股大漲 3.26% 反映市場情緒改善。",
+  "thesis": "中東局勢緊張:以色列對黎巴嫩空襲，影響全球市場情緒",
   "top_3_events": [
     {
-      "event": "Oil prices slide on hopes of US-Iran peace deal",
-      "source": "BBC Business",
-      "implication": "油價下滑 → 市場預期改善 → 台股 +3.26%"
+      "event": "以色列對黎巴嫩空襲，伊朗聲稱與美國接近達成協議",
+      "source": "BBC World",
+      "implication": "中東地緣政治緊張加劇 → 全球市場情緒受壓"
     },
     {
-      "event": "US, Iran Edge Closer to Deal But Still Need to Negotiate Points",
-      "source": "Bloomberg",
-      "implication": "美伊接近達成協議 → 投資者信心提升 → 台股成交量回升"
+      "event": "IMF與烏克蘭達成擴展基金設施協議",
+      "source": "IMF",
+      "implication": "烏克蘭獲得資金支持 → 可能穩定當地經濟"
     },
     {
-      "event": "Delivery Hero shares surge to 18-month high as Uber eyes takeover",
-      "source": "Reuters Business",
-      "implication": "Delivery Hero 股價上漲 → 整體科技股受到正面影響 → Nasdaq +0.19%"
+      "event": "美國國務卿否認阿聯酋向伊朗轉移資金的報導",
+      "source": "CNBC",
+      "implication": "減少市場對中東資金流動的擔憂 → 短期內市場情緒回暖"
     }
   ],
   "why_it_matters": [
-    "台股上漲 3.26% 至 43644.40，顯示市場情緒改善。",
-    "油價因美伊和平希望下滑，影響全球市場動向。",
-    "比特幣價格上漲至 77322 美元，市場對加密貨幣的需求回升。"
+    "以色列空襲導致中東局勢不穩，影響全球股市，台股上漲 2.36%",
+    "IMF協議可能促進烏克蘭經濟復甦，影響歐洲市場",
+    "美國國務卿的否認有助於穩定市場預期，降低地緣風險"
   ],
   "what_changed": [
-    "台股 +3.26% 至 43644.40，前收 42267.97。",
-    "S&P 500 +0.37% 至 7473.47，前收 7445.72。",
-    "Nasdaq +0.19% 至 26343.97，前收 26293.10。"
+    "台股加權 +2.36% 至 44169.04",
+    "S&P 500 +0.50% 至 7431.46",
+    "日經 225 +2.81% 至 66020.04"
   ],
   "cross_signals": [
-    "美伊和平協議希望 → 油價下滑 → 台股上漲",
-    "Delivery Hero 股價上漲 → 科技股表現改善 → Nasdaq 上漲",
-    "比特幣需求回升 → 整體加密市場活躍 → 加密資產價格上升"
+    "以色列空襲 → 中東局勢緊張 → 全球市場情緒受壓",
+    "IMF協議達成 → 烏克蘭經濟穩定 → 歐洲市場回暖",
+    "美國國務卿否認報導 → 市場預期改善 → 股市小幅上漲"
   ],
   "section_signals": {
-    "world": "→ 美伊和平協議希望持續發展",
-    "finance": "→ 油價下滑影響全球市場",
-    "crypto": "→ 比特幣價格回升至 77322 美元",
-    "tech": "→ Delivery Hero 股價創新高",
-    "entertainment": "→ 無顯著變化"
+    "world": "→ 以色列空襲黎巴嫩 → 中東局勢緊張",
+    "finance": "→ IMF與烏克蘭達成協議 → 歐洲市場情緒改善",
+    "crypto": "→ 比特幣小幅上漲 0.19% → 市場回暖",
+    "tech": "→ AI技術進步 → 科技股受益",
+    "entertainment": "→ 影視活動增加 → 娛樂市場活躍"
   },
   "report_takeaways": {
-    "Bain": "Bain & Company 報告未提供具體內容。",
-    "GDP": "IMF 預測全球 GDP 增長。",
-    "How Hedge Funds": "對半導體股票的交易策略分析。",
-    "Stock Markets": "股市對上升的債券收益率越來越脆弱。",
-    "Why Rates": "分析利率上升的潛在原因。"
+    "IMF": "IMF與烏克蘭達成擴展基金設施協議",
+    "Goldman Sachs": "私募市場在數據中心融資中將扮演越來越重要的角色",
+    "CFR": "FIFA承諾的經濟繁榮未必實現，美國市場可能出現空置",
+    "BCG": "代理AI將工業化金融詐騙，銀行需做好準備",
+    "World Bank": "2025年集裝箱港口表現指數報告"
   }
 }
