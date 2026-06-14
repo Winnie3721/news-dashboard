@@ -1,39 +1,39 @@
 {
-  "fetched_at": "2026-06-14T11:29:52.126190+00:00",
+  "fetched_at": "2026-06-14T23:09:19.667829+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 64546,
-      "market_cap_usd": 1293577813375,
-      "total_volume_usd": 17958111427,
-      "change_24h_pct": 0.9773641830298349,
-      "change_7d_pct": 3.5107106481267984,
-      "high_24h": 64633,
-      "low_24h": 63870
+      "price_usd": 65389,
+      "market_cap_usd": 1308279793550,
+      "total_volume_usd": 22055257498,
+      "change_24h_pct": 1.5048077437944314,
+      "change_7d_pct": 3.958938310077105,
+      "high_24h": 65423,
+      "low_24h": 63663
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1673.99,
-      "market_cap_usd": 201993901325,
-      "total_volume_usd": 5309513291,
-      "change_24h_pct": -0.19548327980131275,
-      "change_7d_pct": 2.519982262639584,
-      "high_24h": 1688.12,
-      "low_24h": 1670.05
+      "price_usd": 1721.38,
+      "market_cap_usd": 207286281461,
+      "total_volume_usd": 8016213135,
+      "change_24h_pct": 2.4148612749321474,
+      "change_7d_pct": 2.7962864493331354,
+      "high_24h": 1726.07,
+      "low_24h": 1654.74
     }
   ],
   "global": {
-    "total_market_cap_usd": 2282744903808.9263,
-    "total_volume_usd": 51635133002.39346,
-    "btc_dominance": 56.64532811648924,
-    "eth_dominance": 8.845353347299861,
-    "market_cap_change_24h_pct": 0.5467227105949382,
+    "total_market_cap_usd": 2311630841861.4854,
+    "total_volume_usd": 55629819478.85205,
+    "btc_dominance": 56.60776963683234,
+    "eth_dominance": 8.973763931431005,
+    "market_cap_change_24h_pct": 1.2570365245119854,
     "active_cryptocurrencies": 17446
   },
   "fear_greed": {
