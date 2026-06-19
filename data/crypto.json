@@ -1,39 +1,39 @@
 {
-  "fetched_at": "2026-06-19T12:45:05.389069+00:00",
+  "fetched_at": "2026-06-19T22:57:19.482210+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 62507,
-      "market_cap_usd": 1252640968779,
-      "total_volume_usd": 29439597379,
-      "change_24h_pct": -2.7209803587214485,
-      "change_7d_pct": -1.7758313291318921,
-      "high_24h": 64342,
-      "low_24h": 62304
+      "price_usd": 63282,
+      "market_cap_usd": 1268504548404,
+      "total_volume_usd": 22079825084,
+      "change_24h_pct": 0.7318766047046142,
+      "change_7d_pct": -0.22896680162267066,
+      "high_24h": 63299,
+      "low_24h": 62314
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1686.69,
-      "market_cap_usd": 203593840257,
-      "total_volume_usd": 10841535272,
-      "change_24h_pct": -3.533091341995291,
-      "change_7d_pct": 0.7985910686061949,
-      "high_24h": 1749.41,
-      "low_24h": 1674.89
+      "price_usd": 1706.75,
+      "market_cap_usd": 205969565339,
+      "total_volume_usd": 7540858773,
+      "change_24h_pct": 0.07667361398347326,
+      "change_7d_pct": 2.627460002785347,
+      "high_24h": 1715.1,
+      "low_24h": 1679.19
     }
   ],
   "global": {
-    "total_market_cap_usd": 2237365959313.4663,
-    "total_volume_usd": 77109326220.43756,
-    "btc_dominance": 55.98998334902121,
-    "eth_dominance": 9.098187764442963,
-    "market_cap_change_24h_pct": -2.561595192638274,
+    "total_market_cap_usd": 2260137548955.726,
+    "total_volume_usd": 60614243348.60473,
+    "btc_dominance": 56.12062748770834,
+    "eth_dominance": 9.113676772926178,
+    "market_cap_change_24h_pct": 0.3210029183893401,
     "active_cryptocurrencies": 17423
   },
   "fear_greed": {
