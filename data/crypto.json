@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-06-22T23:19:23.665597+00:00",
+  "fetched_at": "2026-06-23T12:06:07.619458+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 63859,
-      "market_cap_usd": 1280191444962,
-      "total_volume_usd": 27934004274,
-      "change_24h_pct": 0.33620889134051846,
-      "change_7d_pct": -3.506220438533348,
+      "price_usd": 62412,
+      "market_cap_usd": 1251887360070,
+      "total_volume_usd": 30909981534,
+      "change_24h_pct": -3.4871432351758083,
+      "change_7d_pct": -6.086589199375127,
       "high_24h": 65469,
-      "low_24h": 63232
+      "low_24h": 62045
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1720.77,
-      "market_cap_usd": 207705186678,
-      "total_volume_usd": 14886817158,
-      "change_24h_pct": 0.6091630937348623,
-      "change_7d_pct": -3.83424887861342,
+      "price_usd": 1658.45,
+      "market_cap_usd": 200141758295,
+      "total_volume_usd": 11961571285,
+      "change_24h_pct": -5.9667644695495925,
+      "change_7d_pct": -7.732315794026992,
       "high_24h": 1773.96,
-      "low_24h": 1704.6
+      "low_24h": 1642.63
     }
   ],
   "global": {
-    "total_market_cap_usd": 2278390996304.5034,
-    "total_volume_usd": 74746246057.09181,
-    "btc_dominance": 56.244564807041975,
-    "eth_dominance": 9.129658471985021,
-    "market_cap_change_24h_pct": 0.8648744336445975,
-    "active_cryptocurrencies": 17410
+    "total_market_cap_usd": 2228661364093.8457,
+    "total_volume_usd": 78042586056.83786,
+    "btc_dominance": 56.172980186692826,
+    "eth_dominance": 8.980405857189815,
+    "market_cap_change_24h_pct": -3.284841491745621,
+    "active_cryptocurrencies": 17408
   },
   "fear_greed": {
-    "value": 20,
+    "value": 23,
     "label": "Extreme Fear",
-    "timestamp": "2026-06-22T00:00:00+00:00"
+    "timestamp": "2026-06-23T00:00:00+00:00"
   }
 }
