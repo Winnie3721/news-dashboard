@@ -1,51 +1,51 @@
 {
-  "edited_at": "2026-06-23T07:19:49+08:00",
+  "edited_at": "2026-06-27T07:05:50+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "美股指數普遍下跌，台股受惠於油價回穩，逆勢上漲 1.28%",
+  "thesis": "美國對伊朗的軍事行動引發市場波動;台股小幅上漲,日經大幅上漲",
   "top_3_events": [
     {
-      "event": "美國放寬對伊朗的石油制裁",
+      "event": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
+      "source": "NYT World",
+      "implication": "美國對伊朗的軍事行動引發地緣政治緊張 → 投資者避險情緒上升"
+    },
+    {
+      "event": "US conducts strikes on Iran after attack on cargo ship",
       "source": "BBC World",
-      "implication": "油價回穩 → 台股加權上漲 1.28%"
+      "implication": "伊朗局勢升溫 → 全球市場波動加劇，特別是能源相關資產"
     },
     {
-      "event": "IMF 報告指出援助快速下降",
-      "source": "IMF",
-      "implication": "非洲國家面臨財政壓力 → 影響全球市場穩定性"
-    },
-    {
-      "event": "PwC 預測全球娛樂和媒體廣告收入將於 2030 年達到 1.4 兆美元",
-      "source": "PwC",
-      "implication": "娛樂產業回暖 → 相關股市表現可能提升"
+      "event": "日經 225 上漲 4.61% 至 72366.34",
+      "source": "市場數據",
+      "implication": "日經指數大幅上漲 → 日本股市對地緣政治事件反應相對強勁"
     }
   ],
   "why_it_matters": [
-    "美國放寬對伊朗的石油制裁，可能導致油價回穩，影響全球市場動向。",
-    "IMF 報告顯示非洲援助快速下降，可能加劇該地區的經濟困境。",
-    "PwC 預測全球娛樂和媒體廣告收入將於 2030 年達到 1.4 兆美元，顯示該行業的潛在增長。"
+    "美國對伊朗的軍事行動可能影響全球油價，進一步影響通脹預期 (Bloomberg)",
+    "日經指數大幅上漲 4.61% → 顯示市場對日本經濟的信心回升 (市場數據)",
+    "台股小幅上漲 0.46% → 投資者對台灣市場的信心相對穩定 (市場數據)"
   ],
   "what_changed": [
-    "台股加權 +1.28% 至 46465.20",
-    "S&P 500 -0.37% 至 7472.79",
-    "Nasdaq -1.32% 至 26166.60"
+    "台股加權 +0.46% 至 46255.26",
+    "S&P 500 -0.05% 至 7354.02",
+    "日經 225 +4.61% 至 72366.34"
   ],
   "cross_signals": [
-    "美國放寬對伊朗的石油制裁 → 油價回穩 → 台股加權上漲",
-    "IMF 報告顯示援助下降 → 非洲國家經濟壓力加大 → 全球市場不穩定",
-    "PwC 預測娛樂廣告收入增長 → 相關行業股市表現改善"
+    "美國對伊朗的軍事行動 → 地緣政治緊張 → 投資者避險情緒上升",
+    "日經指數大幅上漲 → 日本股市信心回升 → 台股小幅上漲",
+    "S&P 500 下跌 → 投資者對美國市場的謹慎情緒加劇"
   ],
   "section_signals": {
-    "world": "→ 美國放寬對伊朗的石油制裁",
-    "finance": "→ IMF 報告指出援助快速下降",
-    "crypto": "→ Bitcoin 價格小幅上漲 0.34%",
-    "tech": "→ Tesla 推遲對 Autopilot 敘述的反駁",
-    "entertainment": "→ PwC 預測娛樂和媒體廣告收入增長"
+    "world": "→ 美國對伊朗的軍事行動引發地緣政治緊張",
+    "finance": "→ 全球股市波動加劇，特別是能源相關資產",
+    "crypto": "→ 加密市場恐懼情緒持續，BTC 價格穩定在 $60013",
+    "tech": "→ 科技股受地緣政治影響，市場反應謹慎",
+    "entertainment": "→ 娛樂產業持平，無重大新聞影響"
   },
   "report_takeaways": {
-    "Deloitte": "分析與洞察專家報告",
-    "IMF": "援助快速下降，非洲國家應對策略",
-    "PwC": "全球娛樂和媒體廣告收入將達 1.4 兆美元",
-    "CFR": "下一代 AI 的警示",
-    "Goldman Sachs": "油價可能因美伊協議而下滑"
+    "US Medtech Deals Midyear Outlook 2026": "企業在不確定性中持續投資",
+    "Game Changers 2026": "印度品牌報告顯示市場潛力",
+    "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency": "伊朗戰爭影響亞洲能源依賴",
+    "The Longevity Dividend": "健康與財富的連結帶來商業機會",
+    "Portugal: 2026 Article IV Consultation": "IMF 對葡萄牙經濟的評估"
   }
 }

@@ -1,39 +1,39 @@
 {
-  "fetched_at": "2026-06-26T11:44:12.618157+00:00",
+  "fetched_at": "2026-06-26T23:05:24.656107+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 59383,
-      "market_cap_usd": 1190533945942,
-      "total_volume_usd": 48686453521,
-      "change_24h_pct": -3.044704973794223,
-      "change_7d_pct": -4.756630774962704,
-      "high_24h": 61321,
-      "low_24h": 58189
+      "price_usd": 60013,
+      "market_cap_usd": 1202570614771,
+      "total_volume_usd": 39622528439,
+      "change_24h_pct": 0.404483367429171,
+      "change_7d_pct": -5.142475530289969,
+      "high_24h": 60592,
+      "low_24h": 58320
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1546.1,
-      "market_cap_usd": 186519523029,
-      "total_volume_usd": 18032917963,
-      "change_24h_pct": -5.144730944513483,
-      "change_7d_pct": -8.599764346786456,
-      "high_24h": 1637.27,
+      "price_usd": 1577.37,
+      "market_cap_usd": 190277417339,
+      "total_volume_usd": 14779903590,
+      "change_24h_pct": 0.6388495015643026,
+      "change_7d_pct": -7.553597616037728,
+      "high_24h": 1584.67,
       "low_24h": 1517.21
     }
   ],
   "global": {
-    "total_market_cap_usd": 2135580793351.3145,
-    "total_volume_usd": 108672505897.70721,
-    "btc_dominance": 55.7369240166501,
-    "eth_dominance": 8.733198548206863,
-    "market_cap_change_24h_pct": -2.403266619580183,
+    "total_market_cap_usd": 2158331477103.3875,
+    "total_volume_usd": 95243313748.6843,
+    "btc_dominance": 55.66782893063712,
+    "eth_dominance": 8.808504548668575,
+    "market_cap_change_24h_pct": 0.5196013817221486,
     "active_cryptocurrencies": 17449
   },
   "fear_greed": {
