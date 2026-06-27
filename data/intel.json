@@ -1,51 +1,51 @@
 {
-  "edited_at": "2026-06-27T18:57:28+08:00",
+  "edited_at": "2026-06-28T07:02:26+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "中東地緣衝突升溫:美國對伊朗發動攻擊，推動市場避險情緒",
+  "thesis": "中東地緣衝突升溫:美國對伊朗進行第二夜空襲，市場反應負面",
   "top_3_events": [
     {
-      "event": "美國對伊朗發動攻擊",
+      "event": "US launches second night of strikes against Iran after ship struck by drone",
+      "source": "Al Jazeera",
+      "implication": "地緣衝突加劇 → 台股下跌 -3.64%"
+    },
+    {
+      "event": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
       "source": "BBC World",
-      "implication": "地緣政治緊張加劇 → 原油價格上漲，影響全球市場"
+      "implication": "以色列與黎巴嫩緊張局勢上升 → 日經下跌 -4.15%"
     },
     {
-      "event": "SK海力士逆襲三星",
-      "source": "商業周刊",
-      "implication": "半導體市場競爭激烈 → 台股半導體類股壓力加大"
-    },
-    {
-      "event": "Vitalik Buterin 轉移 7,000 枚 ETH",
-      "source": "BlockTempo 動區",
-      "implication": "市場恐慌情緒加劇 → 加密貨幣價格波動加大"
+      "event": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency",
+      "source": "CFR",
+      "implication": "能源危機風險上升 → 全球市場不安"
     }
   ],
   "why_it_matters": [
-    "美國對伊朗的攻擊導致中東局勢不穩，可能影響全球油價，進而影響經濟增長 (BBC World)",
-    "SK海力士的逆襲顯示出半導體市場的競爭壓力，可能影響台股的表現 (商業周刊)",
-    "Vitalik Buterin的轉移引發市場恐慌，可能導致以太坊價格進一步下跌 (BlockTempo 動區)"
+    "美國對伊朗的空襲行動可能引發更大範圍的衝突，影響全球能源供應。",
+    "台股下跌至 44571.76，創下新低，顯示投資者對中東局勢的擔憂。",
+    "日經指數下跌至 69360.88，反映市場對地緣政治風險的敏感度。"
   ],
   "what_changed": [
-    "台股加權指數 -3.64% 至 44571.76",
-    "日經225指數 -4.15% 至 69360.88",
-    "Bitcoin 價格 +1.84% 至 60303 USD"
+    "台股 -3.64% 至 44571.76",
+    "日經 -4.15% 至 69360.88",
+    "Nasdaq -0.24% 至 25297.62"
   ],
   "cross_signals": [
-    "美國對伊朗發動攻擊 → 地緣政治緊張升高 → 市場避險情緒上升",
-    "SK海力士逆襲 → 半導體市場競爭加劇 → 台股半導體類股壓力增加",
-    "Vitalik Buterin 轉移 ETH → 市場恐慌情緒加重 → 加密貨幣價格波動加大"
+    "美國空襲伊朗 → 地緣政治緊張升高 → 台股下跌",
+    "以色列打擊黎巴嫩 → 投資者避險情緒上升 → 日經指數下跌",
+    "中東局勢惡化 → 能源價格上漲預期 → 全球市場不安"
   ],
   "section_signals": {
-    "world": "→ 中東地緣衝突升溫 → 市場避險情緒上升",
-    "finance": "→ SK海力士逆襲 → 半導體市場競爭壓力加大",
-    "crypto": "→ Vitalik Buterin 轉移 ETH → 加密貨幣市場恐慌加重",
-    "tech": "→ Google 高層流失 → 競爭壓力加大",
-    "entertainment": "→ 金曲獎引發媒體關注 → 娛樂市場活躍"
+    "world": "→ 中東地緣衝突升溫 → 全球市場反應負面",
+    "finance": "→ 美國空襲伊朗 → 投資者避險情緒上升",
+    "crypto": "→ Bitcoin 價格小幅上漲 0.22% → 市場情緒略有回暖",
+    "tech": "→ 技術股受地緣政治影響 → 投資者謹慎",
+    "entertainment": "→ 娛樂產業受經濟影響 → 消費者支出減少"
   },
   "report_takeaways": {
-    "Why US Stocks": "美國股市可能上漲的原因分析",
-    "IEK:2008年": "整體通訊產業發展將走出低潮期",
-    "Global luxury": "全球奢侈品市場穩定，品牌需重建相關性",
-    "Asset and Wealth": "北美資產與財富管理革命",
-    "The Iran War": "伊朗戰爭使亞洲能源依賴變成緊急狀況"
+    "IEK": "2008年整體通訊產業發展將走出低潮期",
+    "CFR": "The Iran Deal Comes at a Cost to Israel. The White House Hasn’t Acknowledged It.",
+    "Goldman Sachs": "South Korea's Growing Role in Humanoid Robot Development",
+    "Deloitte": "Specialist, Analytics and Insights-Hyderabad",
+    "IMF": "Press Briefing Transcript: Julie Kozack, Director, Communications Department, June 25, 2026"
   }
 }
