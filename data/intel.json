@@ -1,51 +1,52 @@
 {
-  "edited_at": "2026-06-28T07:02:26+08:00",
+  "edited_at": "2026-06-29T21:06:09+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "中東地緣衝突升溫:美國對伊朗進行第二夜空襲，市場反應負面",
+  "thesis": "美股小幅下跌，台股上漲; SpaceX納入納斯達克100指數，帶動資金流入",
   "top_3_events": [
     {
-      "event": "US launches second night of strikes against Iran after ship struck by drone",
-      "source": "Al Jazeera",
-      "implication": "地緣衝突加劇 → 台股下跌 -3.64%"
+      "event": "SpaceX將納入那斯達克100指數，帶動被動資金流入",
+      "source": "商業周刊",
+      "implication": "預期被動資金流入將提升市場流動性"
     },
     {
-      "event": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "source": "BBC World",
-      "implication": "以色列與黎巴嫩緊張局勢上升 → 日經下跌 -4.15%"
+      "event": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
+      "source": "CNBC",
+      "implication": "美伊新一輪談判可能緩解地緣政治緊張"
     },
     {
-      "event": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency",
-      "source": "CFR",
-      "implication": "能源危機風險上升 → 全球市場不安"
+      "event": "British American Tobacco to cut 9,000 jobs",
+      "source": "BBC Business",
+      "implication": "裁員計畫顯示企業面臨經濟壓力"
     }
   ],
   "why_it_matters": [
-    "美國對伊朗的空襲行動可能引發更大範圍的衝突，影響全球能源供應。",
-    "台股下跌至 44571.76，創下新低，顯示投資者對中東局勢的擔憂。",
-    "日經指數下跌至 69360.88，反映市場對地緣政治風險的敏感度。"
+    "台股加權指數上漲 0.96% 至 44999.90，顯示市場活躍。",
+    "S&P 500 下跌 0.05% 至 7354.02，反映美股市場的微弱情緒。",
+    "Bitcoin 價格為 60014 美元，市值達 1203.27 億美元，顯示加密市場仍具規模。"
   ],
   "what_changed": [
-    "台股 -3.64% 至 44571.76",
-    "日經 -4.15% 至 69360.88",
-    "Nasdaq -0.24% 至 25297.62"
+    "台股加權指數 +0.96% 至 44999.90",
+    "S&P 500 -0.05% 至 7354.02",
+    "Nasdaq -0.24% 至 25297.62",
+    "日經 225 +0.15% 至 69468.11"
   ],
   "cross_signals": [
-    "美國空襲伊朗 → 地緣政治緊張升高 → 台股下跌",
-    "以色列打擊黎巴嫩 → 投資者避險情緒上升 → 日經指數下跌",
-    "中東局勢惡化 → 能源價格上漲預期 → 全球市場不安"
+    "美伊新一輪談判 → 地緣政治緊張緩解 → 市場情緒改善",
+    "SpaceX納入納斯達克100 → 被動資金流入 → 台股上漲",
+    "British American Tobacco裁員 → 企業經濟壓力加大 → 投資者信心下降"
   ],
   "section_signals": {
-    "world": "→ 中東地緣衝突升溫 → 全球市場反應負面",
-    "finance": "→ 美國空襲伊朗 → 投資者避險情緒上升",
-    "crypto": "→ Bitcoin 價格小幅上漲 0.22% → 市場情緒略有回暖",
-    "tech": "→ 技術股受地緣政治影響 → 投資者謹慎",
-    "entertainment": "→ 娛樂產業受經濟影響 → 消費者支出減少"
+    "world": "→ 美伊談判可能改善地緣政治緊張",
+    "finance": "→ SpaceX納入納斯達克100可能提升市場流動性",
+    "crypto": "→ Bitcoin價格穩定在60000美元上方",
+    "tech": "→ 科技業持續吸引投資",
+    "entertainment": "→ 娛樂產業持平，無明顯變化"
   },
   "report_takeaways": {
-    "IEK": "2008年整體通訊產業發展將走出低潮期",
-    "CFR": "The Iran Deal Comes at a Cost to Israel. The White House Hasn’t Acknowledged It.",
-    "Goldman Sachs": "South Korea's Growing Role in Humanoid Robot Development",
-    "Deloitte": "Specialist, Analytics and Insights-Hyderabad",
-    "IMF": "Press Briefing Transcript: Julie Kozack, Director, Communications Department, June 25, 2026"
+    "Why US Stocks Could Climb Higher": "美股可能因經濟數據改善而上漲",
+    "IEK:2008年整體通訊產業發展將走出低潮期": "通訊產業預期將進入復甦階段",
+    "The Iran Deal Comes at a Cost to Israel. The White House Hasn’t Acknowledged It.": "美伊協議對以色列的影響未被充分認識",
+    "South Korea's Growing Role in Humanoid Robot Development": "南韓在機器人發展中的角色日益重要",
+    "Global luxury stabilizes amid compounding disruptions as brands race to amplify meaning and rebuild relevance": "全球奢侈品市場在多重挑戰中穩定"
   }
 }
