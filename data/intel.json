@@ -1,51 +1,51 @@
 {
-  "edited_at": "2026-07-03T07:06:27+08:00",
+  "edited_at": "2026-07-04T18:54:08+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "台股上漲 1.94% 至 47018.99，受惠於全球市場回暖與美國經濟數據影響",
+  "thesis": "美股指數漲跌互見，台股小幅上漲，Bitcoin 價格回升至 62442 美元",
   "top_3_events": [
     {
-      "event": "Dow jumps to record closing high after soft US jobs data",
-      "source": "Reuters Business",
-      "implication": "美國經濟數據不佳 → 市場預期降息可能性提升"
+      "event": "俄羅斯宣稱已佔領烏克蘭重要城市 Kostiantynivk",
+      "source": "Al Jazeera",
+      "implication": "地緣政治緊張加劇，影響全球市場情緒"
     },
     {
-      "event": "Global M&A momentum builds in 2026 as megadeals surge",
-      "source": "Bain & Company",
-      "implication": "併購活動增加 → 市場活躍度提升"
+      "event": "英法與阿曼達成協議，確保其領海安全",
+      "source": "CNBC",
+      "implication": "中東地區安全局勢改善，可能影響油價走勢"
     },
     {
-      "event": "Japan private equity remains a standout market",
-      "source": "Bain",
-      "implication": "日本私募股權市場回暖 → 吸引更多資本進入"
+      "event": "比特幣價格回升至 62442 美元，24 小時漲幅 0.88%",
+      "source": "CoinGecko",
+      "implication": "加密市場情緒改善，Bitcoin 市值達 1.25 兆美元"
     }
   ],
   "why_it_matters": [
-    "台股市值達 47018.99，成為全球第5大市場，顯示資本市場活躍。",
-    "比特幣價格回升至 61295 美元，市場總市值達 2207.54 億美元，顯示加密市場回暖。",
-    "美元指數下跌至 100.85，可能促進新興市場資產的資金流入。"
+    "Bitcoin 價格回升 0.88% → 市場總市值達 2.25 兆美元，顯示加密資產需求回升 (CoinGecko)",
+    "俄烏衝突持續影響全球市場，烏克蘭攻擊俄羅斯油氣設施 → 可能推升能源價格 (Al Jazeera)",
+    "英法與阿曼的安全協議可能穩定中東局勢，影響全球供應鏈 (CNBC)"
   ],
   "what_changed": [
-    "台股加權 +1.94% 至 47018.99",
+    "台股加權 +0.08% 至 46780.62",
     "Nasdaq -0.80% 至 25832.67",
-    "比特幣 +1.72% 至 61295 美元"
+    "S&P 500 +0.0001% 至 7483.24"
   ],
   "cross_signals": [
-    "美國經濟數據不佳 → 降息預期提升 → 全球股市回暖",
-    "比特幣漲幅 +1.72% → 加密市場活躍度提升 → 台股受益",
-    "美元指數下跌 → 新興市場資金流入增加 → 台股上漲"
+    "俄烏衝突升溫 → 全球市場情緒緊張 → 美股漲跌互見",
+    "比特幣價格回升 → 加密市場情緒改善 → 台股小幅上漲",
+    "英法安全協議 → 中東局勢穩定 → 能源價格可能回落"
   ],
   "section_signals": {
-    "world": "→ 俄烏衝突持續:俄羅斯對烏克蘭首都發動攻擊",
-    "finance": "→ 美國經濟數據影響市場走向",
-    "crypto": "→ 比特幣回升至 61295 美元",
-    "tech": "→ AI 影響勞動市場報告引發討論",
-    "entertainment": "→ 好萊塢新片預告引發觀眾期待"
+    "world": "→ 俄烏衝突影響全球市場",
+    "finance": "→ 美股指數漲跌互見",
+    "crypto": "→ 比特幣價格回升",
+    "tech": "→ AI 影響勞動市場報告引發關注",
+    "entertainment": "→ 娛樂產業持續受到關注"
   },
   "report_takeaways": {
-    "Goldman Sachs": "AI 對勞動市場的影響將深遠。",
-    "WEF": "馬來西亞致力於建立清潔能源未來。",
-    "IMF": "埃及第七次審查達成協議。",
-    "Bain": "2026 年全球併購活動加速。",
-    "CFR": "特朗普的伊朗食品交易可能有助於政權。"
+    "How Will AI": "AI 將重塑勞動市場結構",
+    "Growth & Purpose": "數位化將推動企業成長",
+    "The oversight paradox": "人類對 AI 的控制能力可能正在減弱",
+    "Beyond Coal": "馬來西亞正致力於建立清潔能源系統",
+    "Malaysia is building": "馬來西亞的清潔能源未來將惠及所有人"
   }
 }
