@@ -1,51 +1,51 @@
 {
-  "edited_at": "2026-07-04T18:54:08+08:00",
+  "edited_at": "2026-07-06T07:00:42+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "美股指數漲跌互見，台股小幅上漲，Bitcoin 價格回升至 62442 美元",
+  "thesis": "Venezuela地震死亡人數上升至3,342人 → 全球市場避險情緒增加，台股微幅上漲0.08%",
   "top_3_events": [
     {
-      "event": "俄羅斯宣稱已佔領烏克蘭重要城市 Kostiantynivk",
-      "source": "Al Jazeera",
-      "implication": "地緣政治緊張加劇，影響全球市場情緒"
+      "event": "Venezuela地震死亡人數上升至3,342人",
+      "source": "Reuters",
+      "implication": "全球市場避險情緒增加 → 台股加權上漲36.46點，漲幅0.08%"
     },
     {
-      "event": "英法與阿曼達成協議，確保其領海安全",
+      "event": "FIFA允許美國球星Balogun參加比賽",
+      "source": "Bloomberg",
+      "implication": "體育賽事影響市場情緒 → 台股在體育相關股票上表現穩定"
+    },
+    {
+      "event": "Jim Cramer分析假期前晶片股下滑原因",
       "source": "CNBC",
-      "implication": "中東地區安全局勢改善，可能影響油價走勢"
-    },
-    {
-      "event": "比特幣價格回升至 62442 美元，24 小時漲幅 0.88%",
-      "source": "CoinGecko",
-      "implication": "加密市場情緒改善，Bitcoin 市值達 1.25 兆美元"
+      "implication": "投資人對科技股的關注增加 → Nasdaq下跌0.80%"
     }
   ],
   "why_it_matters": [
-    "Bitcoin 價格回升 0.88% → 市場總市值達 2.25 兆美元，顯示加密資產需求回升 (CoinGecko)",
-    "俄烏衝突持續影響全球市場，烏克蘭攻擊俄羅斯油氣設施 → 可能推升能源價格 (Al Jazeera)",
-    "英法與阿曼的安全協議可能穩定中東局勢，影響全球供應鏈 (CNBC)"
+    "Venezuela地震造成嚴重人道危機，死亡人數上升至3,342人，影響全球市場情緒 (Reuters)",
+    "FIFA的決策可能影響美國隊在世界盃的表現，進而影響相關股票 (Bloomberg)",
+    "Jim Cramer對晶片股的分析可能影響投資者對科技股的看法，進而影響市場走向 (CNBC)"
   ],
   "what_changed": [
     "台股加權 +0.08% 至 46780.62",
     "Nasdaq -0.80% 至 25832.67",
-    "S&P 500 +0.0001% 至 7483.24"
+    "美元指數 +0.01% 至 100.87"
   ],
   "cross_signals": [
-    "俄烏衝突升溫 → 全球市場情緒緊張 → 美股漲跌互見",
-    "比特幣價格回升 → 加密市場情緒改善 → 台股小幅上漲",
-    "英法安全協議 → 中東局勢穩定 → 能源價格可能回落"
+    "Venezuela地震 → 全球市場避險情緒上升 → 台股微幅上漲",
+    "FIFA決策 → 體育相關股票穩定 → 台股表現持平",
+    "Jim Cramer分析 → 投資者對晶片股的關注增加 → Nasdaq下跌"
   ],
   "section_signals": {
-    "world": "→ 俄烏衝突影響全球市場",
-    "finance": "→ 美股指數漲跌互見",
-    "crypto": "→ 比特幣價格回升",
-    "tech": "→ AI 影響勞動市場報告引發關注",
-    "entertainment": "→ 娛樂產業持續受到關注"
+    "world": "→ Venezuela地震影響人道危機",
+    "finance": "→ Jim Cramer分析影響科技股走勢",
+    "crypto": "→ Bitcoin漲幅0.80%至63626美元",
+    "tech": "→ AI影響勞動市場的討論持續",
+    "entertainment": "→ 世界盃賽事引發媒體熱議"
   },
   "report_takeaways": {
-    "How Will AI": "AI 將重塑勞動市場結構",
-    "Growth & Purpose": "數位化將推動企業成長",
-    "The oversight paradox": "人類對 AI 的控制能力可能正在減弱",
-    "Beyond Coal": "馬來西亞正致力於建立清潔能源系統",
-    "Malaysia is building": "馬來西亞的清潔能源未來將惠及所有人"
+    "Unlocked Potential": "BCG報告強調潛在的轉型影響",
+    "How Will AI Impact": "Goldman Sachs探討AI對勞動市場的影響",
+    "Intern - HR": "Bain報告涉及人力資源操作實習生職位",
+    "Growth & Purpose": "Deloitte報告關注數字化成長與目的",
+    "Oversight Paradox": "WEF報告分析人類對AI的控制問題"
   }
 }

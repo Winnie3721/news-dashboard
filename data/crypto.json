@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-07-05T11:02:57.291803+00:00",
+  "fetched_at": "2026-07-05T23:00:19.452840+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 62705,
-      "market_cap_usd": 1257534310212,
-      "total_volume_usd": 18259916183,
-      "change_24h_pct": 0.4450058382577444,
-      "change_7d_pct": 4.365178246322163,
-      "high_24h": 63383,
-      "low_24h": 62425
+      "price_usd": 63626,
+      "market_cap_usd": 1274672781850,
+      "total_volume_usd": 18523222560,
+      "change_24h_pct": 0.7998140480448116,
+      "change_7d_pct": 6.809356423817674,
+      "high_24h": 63626,
+      "low_24h": 62462
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1761.37,
-      "market_cap_usd": 212580449432,
-      "total_volume_usd": 12266181502,
-      "change_24h_pct": 0.31297686884443376,
-      "change_7d_pct": 11.690963601414115,
-      "high_24h": 1801.59,
+      "price_usd": 1787.16,
+      "market_cap_usd": 215564706933,
+      "total_volume_usd": 10117919673,
+      "change_24h_pct": 0.2917472492932415,
+      "change_7d_pct": 13.7478338008266,
+      "high_24h": 1800.61,
       "low_24h": 1751.18
     }
   ],
   "global": {
-    "total_market_cap_usd": 2256222077565.7764,
-    "total_volume_usd": 53910586226.268875,
-    "btc_dominance": 55.72637080875015,
-    "eth_dominance": 9.413344906368145,
-    "market_cap_change_24h_pct": 0.166227796994576,
-    "active_cryptocurrencies": 17342
+    "total_market_cap_usd": 2285468930008.4995,
+    "total_volume_usd": 51718667932.45205,
+    "btc_dominance": 55.75074949107104,
+    "eth_dominance": 9.447221044497358,
+    "market_cap_change_24h_pct": 0.5151398619861045,
+    "active_cryptocurrencies": 17345
   },
   "fear_greed": {
     "value": 23,
