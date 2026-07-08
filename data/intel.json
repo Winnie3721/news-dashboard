@@ -1,51 +1,51 @@
 {
-  "edited_at": "2026-07-06T07:00:42+08:00",
+  "edited_at": "2026-07-09T07:07:38+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "Venezuela地震死亡人數上升至3,342人 → 全球市場避險情緒增加，台股微幅上漲0.08%",
+  "thesis": "伊朗衝突升溫:美軍對伊朗發動新一輪空襲，全球市場反應負面",
   "top_3_events": [
     {
-      "event": "Venezuela地震死亡人數上升至3,342人",
-      "source": "Reuters",
-      "implication": "全球市場避險情緒增加 → 台股加權上漲36.46點，漲幅0.08%"
+      "event": "美軍對伊朗發動新一輪空襲",
+      "source": "NYT World",
+      "implication": "全球市場避險情緒上升，台股下跌 -2.31%"
     },
     {
-      "event": "FIFA允許美國球星Balogun參加比賽",
-      "source": "Bloomberg",
-      "implication": "體育賽事影響市場情緒 → 台股在體育相關股票上表現穩定"
+      "event": "Bitcoin 回落至 60,000 美元支撐位",
+      "source": "Cointelegraph",
+      "implication": "加密市場恐慌情緒加劇，Bitcoin 24 小時跌幅 -2.11%"
     },
     {
-      "event": "Jim Cramer分析假期前晶片股下滑原因",
-      "source": "CNBC",
-      "implication": "投資人對科技股的關注增加 → Nasdaq下跌0.80%"
+      "event": "IMF 更新全球經濟展望報告",
+      "source": "IMF",
+      "implication": "全球經濟面臨戰爭與科技交錯影響，市場不安"
     }
   ],
   "why_it_matters": [
-    "Venezuela地震造成嚴重人道危機，死亡人數上升至3,342人，影響全球市場情緒 (Reuters)",
-    "FIFA的決策可能影響美國隊在世界盃的表現，進而影響相關股票 (Bloomberg)",
-    "Jim Cramer對晶片股的分析可能影響投資者對科技股的看法，進而影響市場走向 (CNBC)"
+    "美軍空襲伊朗引發地緣政治緊張，台股加權指數下跌 -2.31%",
+    "Bitcoin 價格回落至 60,000 美元支撐位，顯示市場對加密貨幣的擔憂加劇",
+    "IMF 報告指出全球經濟面臨多重挑戰，影響投資者信心"
   ],
   "what_changed": [
-    "台股加權 +0.08% 至 46780.62",
-    "Nasdaq -0.80% 至 25832.67",
-    "美元指數 +0.01% 至 100.87"
+    "台股加權指數下跌 -2.31%，收於 45479.11",
+    "S&P 500 指數下跌 -0.28%，收於 7482.71",
+    "Bitcoin 價格回落至 62260 美元，24 小時跌幅 -2.11%"
   ],
   "cross_signals": [
-    "Venezuela地震 → 全球市場避險情緒上升 → 台股微幅上漲",
-    "FIFA決策 → 體育相關股票穩定 → 台股表現持平",
-    "Jim Cramer分析 → 投資者對晶片股的關注增加 → Nasdaq下跌"
+    "美軍空襲 → 全球市場避險情緒上升 → 台股下跌 -2.31%",
+    "Bitcoin 價格回落 → 加密市場恐慌情緒加劇 → Bitcoin 24 小時跌幅 -2.11%",
+    "IMF 報告發布 → 全球經濟不確定性增加 → 市場反應負面"
   ],
   "section_signals": {
-    "world": "→ Venezuela地震影響人道危機",
-    "finance": "→ Jim Cramer分析影響科技股走勢",
-    "crypto": "→ Bitcoin漲幅0.80%至63626美元",
-    "tech": "→ AI影響勞動市場的討論持續",
-    "entertainment": "→ 世界盃賽事引發媒體熱議"
+    "world": "→ 伊朗衝突升溫 → 全球市場避險情緒上升",
+    "finance": "→ IMF 更新全球經濟展望 → 投資者信心下降",
+    "crypto": "→ Bitcoin 價格回落 → 加密市場恐慌情緒加劇",
+    "tech": "→ 無明顯影響",
+    "entertainment": "→ 無明顯影響"
   },
   "report_takeaways": {
-    "Unlocked Potential": "BCG報告強調潛在的轉型影響",
-    "How Will AI Impact": "Goldman Sachs探討AI對勞動市場的影響",
-    "Intern - HR": "Bain報告涉及人力資源操作實習生職位",
-    "Growth & Purpose": "Deloitte報告關注數字化成長與目的",
-    "Oversight Paradox": "WEF報告分析人類對AI的控制問題"
+    "World Economic Outlook Update": "全球經濟面臨戰爭與科技交錯影響",
+    "IMF Staff Completes 2026 Article IV Mission": "IMF 對柬埔寨的經濟評估報告",
+    "bain-report_global-private-equity-report": "私募股權市場持續活躍",
+    "Africa Has Faced a Rare Ebola Outbreak": "非洲面臨罕見的埃博拉疫情挑戰",
+    "Simplified ESRS": "最終授權的簡化ESRS法案已通過"
   }
 }
