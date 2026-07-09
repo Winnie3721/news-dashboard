@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-07-09T11:57:42.961446+00:00",
+  "fetched_at": "2026-07-09T23:10:43.155520+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 62725,
-      "market_cap_usd": 1257760664640,
-      "total_volume_usd": 25871753954,
-      "change_24h_pct": 0.7698657246068508,
-      "change_7d_pct": 2.593040230306628,
-      "high_24h": 63078,
-      "low_24h": 61550
+      "price_usd": 63152,
+      "market_cap_usd": 1266436199491,
+      "total_volume_usd": 26301750926,
+      "change_24h_pct": 1.4055823051777425,
+      "change_7d_pct": 2.679611258414055,
+      "high_24h": 63344,
+      "low_24h": 61721
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1743.11,
-      "market_cap_usd": 210350494341,
-      "total_volume_usd": 7888094796,
-      "change_24h_pct": -0.1859201492744305,
-      "change_7d_pct": 6.158987015034226,
+      "price_usd": 1746.74,
+      "market_cap_usd": 210757319268,
+      "total_volume_usd": 7525098207,
+      "change_24h_pct": 0.3450698615333647,
+      "change_7d_pct": 2.9078953962499323,
       "high_24h": 1756.08,
-      "low_24h": 1715.91
+      "low_24h": 1723.81
     }
   ],
   "global": {
-    "total_market_cap_usd": 2240547880918.8633,
-    "total_volume_usd": 62638640972.41161,
-    "btc_dominance": 56.11509828313957,
-    "eth_dominance": 9.388039276065301,
-    "market_cap_change_24h_pct": 0.2982310116522101,
-    "active_cryptocurrencies": 13718
+    "total_market_cap_usd": 2253350245199.3716,
+    "total_volume_usd": 60962807288.10892,
+    "btc_dominance": 56.248426577120426,
+    "eth_dominance": 9.360197558369673,
+    "market_cap_change_24h_pct": 0.9801545943747403,
+    "active_cryptocurrencies": 13740
   },
   "fear_greed": {
     "value": 22,
