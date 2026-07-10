@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-07-10T11:50:30.771094+00:00",
+  "fetched_at": "2026-07-10T22:58:40.823824+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 64399,
-      "market_cap_usd": 1291622454713,
-      "total_volume_usd": 27935902084,
-      "change_24h_pct": 2.8790425153119195,
-      "change_7d_pct": 4.096516518839583,
-      "high_24h": 64430,
-      "low_24h": 62506
+      "price_usd": 64070,
+      "market_cap_usd": 1284941195340,
+      "total_volume_usd": 27742067222,
+      "change_24h_pct": 1.4104722892425596,
+      "change_7d_pct": 2.206618775450881,
+      "high_24h": 64554,
+      "low_24h": 62955
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1797.59,
-      "market_cap_usd": 216979421778,
-      "total_volume_usd": 8718495665,
-      "change_24h_pct": 3.216024888553961,
-      "change_7d_pct": 3.1791817991864737,
-      "high_24h": 1798.9,
-      "low_24h": 1733.83
+      "price_usd": 1794.27,
+      "market_cap_usd": 216542957749,
+      "total_volume_usd": 9109580240,
+      "change_24h_pct": 2.728314784160849,
+      "change_7d_pct": 1.7930681855345842,
+      "high_24h": 1805.53,
+      "low_24h": 1737.51
     }
   ],
   "global": {
-    "total_market_cap_usd": 2289537017242.8447,
-    "total_volume_usd": 64088944708.80407,
-    "btc_dominance": 56.41230804186215,
-    "eth_dominance": 9.471153114525455,
-    "market_cap_change_24h_pct": 2.1575583445993183,
-    "active_cryptocurrencies": 17449
+    "total_market_cap_usd": 2281997255079.498,
+    "total_volume_usd": 65012928296.20277,
+    "btc_dominance": 56.307233055255146,
+    "eth_dominance": 9.48755408687264,
+    "market_cap_change_24h_pct": 1.3077980767659747,
+    "active_cryptocurrencies": 17467
   },
   "fear_greed": {
     "value": 23,
