@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-12T10:26:22.958163+00:00",
+  "fetched_at": "2026-07-12T22:49:35.071306+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 63854,
-      "market_cap_usd": 1280617937376,
-      "total_volume_usd": 21685807599,
-      "change_24h_pct": -0.38827622236581966,
-      "change_7d_pct": 2.0580081839745787,
-      "high_24h": 64419,
+      "price_usd": 63708,
+      "market_cap_usd": 1277740135390,
+      "total_volume_usd": 19570181732,
+      "change_24h_pct": -0.6881657280026096,
+      "change_7d_pct": 0.9767936784133074,
+      "high_24h": 64199,
       "low_24h": 63653
     },
     {
@@ -19,22 +19,22 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1799.72,
-      "market_cap_usd": 217196446069,
-      "total_volume_usd": 6676436215,
-      "change_24h_pct": 0.19204863358962465,
-      "change_7d_pct": 1.8814596507703494,
-      "high_24h": 1827.11,
+      "price_usd": 1798.82,
+      "market_cap_usd": 217089544188,
+      "total_volume_usd": 5682748645,
+      "change_24h_pct": -0.7999844718876529,
+      "change_7d_pct": 0.6631574434707592,
+      "high_24h": 1822.87,
       "low_24h": 1782.76
     }
   ],
   "global": {
-    "total_market_cap_usd": 2276947984229.8276,
-    "total_volume_usd": 50273815796.602844,
-    "btc_dominance": 56.26131784114787,
-    "eth_dominance": 9.538786931053139,
-    "market_cap_change_24h_pct": -0.3080122707258483,
-    "active_cryptocurrencies": 17520
+    "total_market_cap_usd": 2273404343176.6714,
+    "total_volume_usd": 45408758642.4435,
+    "btc_dominance": 56.24202615187852,
+    "eth_dominance": 9.562313648309924,
+    "market_cap_change_24h_pct": -0.6325961512842585,
+    "active_cryptocurrencies": 17529
   },
   "fear_greed": {
     "value": 26,
