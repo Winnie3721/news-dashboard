@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-07-13T12:01:16.865671+00:00",
+  "fetched_at": "2026-07-13T22:55:48.099645+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 62840,
-      "market_cap_usd": 1260400310203,
-      "total_volume_usd": 20588944981,
-      "change_24h_pct": -1.7225015444695169,
-      "change_7d_pct": 0.1383046909574882,
+      "price_usd": 61920,
+      "market_cap_usd": 1242103360194,
+      "total_volume_usd": 31283378438,
+      "change_24h_pct": -3.040837824973972,
+      "change_7d_pct": -2.939976189296464,
       "high_24h": 64230,
-      "low_24h": 62590
+      "low_24h": 61850
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1779.1,
-      "market_cap_usd": 214779663454,
-      "total_volume_usd": 8068822086,
-      "change_24h_pct": -1.2859218538489663,
-      "change_7d_pct": 0.6054188437100673,
+      "price_usd": 1757.07,
+      "market_cap_usd": 212143650250,
+      "total_volume_usd": 10776286075,
+      "change_24h_pct": -2.6003875469608966,
+      "change_7d_pct": -1.9944554771139804,
       "high_24h": 1837.21,
-      "low_24h": 1775.37
+      "low_24h": 1753.21
     }
   ],
   "global": {
-    "total_market_cap_usd": 2249884246867.0796,
-    "total_volume_usd": 53070000424.98864,
-    "btc_dominance": 56.06500000220442,
-    "eth_dominance": 9.556838234461896,
-    "market_cap_change_24h_pct": -1.3732144817777752,
-    "active_cryptocurrencies": 17529
+    "total_market_cap_usd": 2220277795348.105,
+    "total_volume_usd": 69721791621.53311,
+    "btc_dominance": 55.96077148064597,
+    "eth_dominance": 9.561625248211863,
+    "market_cap_change_24h_pct": -2.457784675450329,
+    "active_cryptocurrencies": 17543
   },
   "fear_greed": {
     "value": 28,
