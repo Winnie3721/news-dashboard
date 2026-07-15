@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-07-14T22:56:25.565414+00:00",
+  "fetched_at": "2026-07-15T10:48:02.432477+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 64870,
-      "market_cap_usd": 1301379630602,
-      "total_volume_usd": 30954330869,
-      "change_24h_pct": 4.884867807464541,
-      "change_7d_pct": 2.3630383136419275,
-      "high_24h": 64938,
-      "low_24h": 61849
+      "price_usd": 64609,
+      "market_cap_usd": 1295911176745,
+      "total_volume_usd": 31714743986,
+      "change_24h_pct": 2.9265964435253813,
+      "change_7d_pct": 4.235246027624286,
+      "high_24h": 65104,
+      "low_24h": 62654
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1882.96,
-      "market_cap_usd": 227313306214,
-      "total_volume_usd": 12850290871,
-      "change_24h_pct": 7.2364291059106565,
-      "change_7d_pct": 6.219792371721082,
-      "high_24h": 1890.43,
-      "low_24h": 1755.9
+      "price_usd": 1876.6,
+      "market_cap_usd": 226465200484,
+      "total_volume_usd": 13621966840,
+      "change_24h_pct": 4.5315814333774025,
+      "change_7d_pct": 8.165957477678857,
+      "high_24h": 1890.69,
+      "low_24h": 1793.74
     }
   ],
   "global": {
-    "total_market_cap_usd": 2309375095328.263,
-    "total_volume_usd": 74836401541.43323,
-    "btc_dominance": 56.33632202862467,
-    "eth_dominance": 9.844954615696832,
-    "market_cap_change_24h_pct": 4.16239974617055,
-    "active_cryptocurrencies": 17565
+    "total_market_cap_usd": 2301493070913.2275,
+    "total_volume_usd": 76805046207.07986,
+    "btc_dominance": 56.31164516585865,
+    "eth_dominance": 9.84120203439228,
+    "market_cap_change_24h_pct": 2.5228448574252362,
+    "active_cryptocurrencies": 17577
   },
   "fear_greed": {
-    "value": 22,
+    "value": 25,
     "label": "Extreme Fear",
-    "timestamp": "2026-07-14T00:00:00+00:00"
+    "timestamp": "2026-07-15T00:00:00+00:00"
   }
 }
