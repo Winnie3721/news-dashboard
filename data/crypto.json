@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-20T11:43:42.832106+00:00",
+  "fetched_at": "2026-07-20T23:00:00.562223+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 64805,
-      "market_cap_usd": 1300185290425,
-      "total_volume_usd": 23664710319,
-      "change_24h_pct": 0.5164590891917044,
-      "change_7d_pct": 2.801830996845189,
-      "high_24h": 64979,
+      "price_usd": 65094,
+      "market_cap_usd": 1305661804096,
+      "total_volume_usd": 31534174916,
+      "change_24h_pct": 0.7066423104548852,
+      "change_7d_pct": 4.926721017755383,
+      "high_24h": 65697,
       "low_24h": 63743
     },
     {
@@ -19,22 +19,22 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1888.21,
-      "market_cap_usd": 227944194342,
-      "total_volume_usd": 9322396353,
-      "change_24h_pct": 0.7906889014229744,
-      "change_7d_pct": 5.835143204297215,
-      "high_24h": 1889.89,
+      "price_usd": 1894.14,
+      "market_cap_usd": 228564106491,
+      "total_volume_usd": 10819695187,
+      "change_24h_pct": 1.3560153897766423,
+      "change_7d_pct": 7.6350280224633345,
+      "high_24h": 1913.32,
       "low_24h": 1844.86
     }
   ],
   "global": {
-    "total_market_cap_usd": 2300916686752.181,
-    "total_volume_usd": 55300006480.436516,
-    "btc_dominance": 56.52190877916855,
-    "eth_dominance": 9.905713936166558,
-    "market_cap_change_24h_pct": 0.49050313346954233,
-    "active_cryptocurrencies": 17664
+    "total_market_cap_usd": 2308358959202.426,
+    "total_volume_usd": 72204241653.36266,
+    "btc_dominance": 56.56938254891601,
+    "eth_dominance": 9.904489743706042,
+    "market_cap_change_24h_pct": 0.6093463988791344,
+    "active_cryptocurrencies": 17674
   },
   "fear_greed": {
     "value": 29,
