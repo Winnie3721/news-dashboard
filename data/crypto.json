@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-07-21T11:06:25.877849+00:00",
+  "fetched_at": "2026-07-21T22:56:05.495815+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 66142,
-      "market_cap_usd": 1326781119899,
-      "total_volume_usd": 31980943600,
-      "change_24h_pct": 2.785916481981062,
-      "change_7d_pct": 5.732152713356786,
-      "high_24h": 66341,
-      "low_24h": 64176
+      "price_usd": 66251,
+      "market_cap_usd": 1328862598823,
+      "total_volume_usd": 30125647758,
+      "change_24h_pct": 1.77749203289226,
+      "change_7d_pct": 2.5205902509672136,
+      "high_24h": 66840,
+      "low_24h": 65094
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1931.52,
-      "market_cap_usd": 233181075698,
-      "total_volume_usd": 11964071917,
-      "change_24h_pct": 3.0981002689550627,
-      "change_7d_pct": 8.27065773540533,
+      "price_usd": 1918.7,
+      "market_cap_usd": 231543015014,
+      "total_volume_usd": 10939444482,
+      "change_24h_pct": 1.2907973625555034,
+      "change_7d_pct": 2.3531893671329045,
       "high_24h": 1946.42,
-      "low_24h": 1856.39
+      "low_24h": 1894.25
     }
   ],
   "global": {
-    "total_market_cap_usd": 2339076028672.263,
-    "total_volume_usd": 73825633385.4599,
-    "btc_dominance": 56.7305003363107,
-    "eth_dominance": 9.96992176040876,
-    "market_cap_change_24h_pct": 1.499562032252896,
-    "active_cryptocurrencies": 17688
+    "total_market_cap_usd": 2339189541615.3994,
+    "total_volume_usd": 70292160571.19334,
+    "btc_dominance": 56.807438948286595,
+    "eth_dominance": 9.898087001732609,
+    "market_cap_change_24h_pct": 1.3160059297667295,
+    "active_cryptocurrencies": 17712
   },
   "fear_greed": {
     "value": 25,
