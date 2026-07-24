@@ -1,50 +1,51 @@
 {
-  "edited_at": "2026-07-21T19:07:09+08:00",
+  "edited_at": "2026-07-25T07:01:04+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "台股上漲 4.20% 至 44232.87，帶動市場情緒回暖;比特幣漲 2.79% 至 66142 美元",
+  "thesis": "中東地緣衝突升溫:伊朗與以色列衝突持續，影響市場情緒",
   "top_3_events": [
     {
-      "event": "台股加權指數上漲 4.20% 至 44232.87",
-      "source": "市場數據",
-      "implication": "台股回升至新高，成交量可能增加"
+      "event": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
+      "source": "NYT World",
+      "implication": "美國可能加大對伊朗的軍事行動 → 地緣政治風險上升"
     },
     {
-      "event": "比特幣價格漲至 66142 美元",
-      "source": "加密數據",
-      "implication": "比特幣市場回暖，24小時漲幅達 2.79%"
+      "event": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "source": "BBC World",
+      "implication": "以色列與巴勒斯坦的衝突加劇 → 地區不穩定性提升"
     },
     {
-      "event": "IMF 完成對烏克蘭擴展資金安排的首次審查",
-      "source": "IMF",
-      "implication": "顯示國際金融機構對烏克蘭的支持力度"
+      "event": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
+      "source": "CNBC",
+      "implication": "新關稅政策引發法律挑戰 → 市場對貿易政策的不確定性增加"
     }
   ],
   "why_it_matters": [
-    "台股上漲 4.20% → 反映市場情緒改善，可能吸引更多投資",
-    "比特幣市值達 1326.78 億美元 → 加密市場活躍度提升",
-    "IMF 對烏克蘭的支持 → 可能穩定該國經濟，影響周邊市場"
+    "中東衝突升溫可能影響全球能源價格，進而影響通脹預期。",
+    "美國對伊朗的軍事行動可能導致油價波動，影響全球市場情緒。",
+    "新關稅引發的法律挑戰可能影響美國經濟增長預期，影響投資決策。"
   ],
   "what_changed": [
-    "台股加權指數 +4.20% 至 44232.87",
-    "比特幣價格 +2.79% 至 66142 美元",
-    "S&P 500 指數 -0.19% 至 7443.28",
-    "Nasdaq 指數 -0.05% 至 25508.07"
+    "台股 +0.06% 至 44850.81",
+    "S&P 500 +0.05% 至 7411.98",
+    "Nasdaq -0.64% 至 24975.82"
   ],
   "cross_signals": [
-    "台股 +4.20% → 市場情緒改善 → 投資者回流",
-    "比特幣 +2.79% → 加密市場回暖 → 風險資產偏好提升",
-    "IMF 支持烏克蘭 → 國際資本流入增加 → 新興市場穩定"
+    "中東衝突升溫 → 投資者避險情緒上升 → 黃金需求增加",
+    "新關稅政策影響 → 美股波動加大 → 台股受到影響",
+    "地緣政治風險上升 → 原油價格上漲 → 通脹預期提升"
   ],
   "section_signals": {
-    "world": "→ 中東局勢緊張持續",
-    "finance": "→ 英國公共財政挑戰加劇",
-    "crypto": "→ 加密市場活躍度回升",
-    "tech": "→ AI 相關技術持續受到關注",
-    "entertainment": "→ 娛樂產業新片計畫頻出"
+    "world": "→ 中東衝突升溫 → 地緣政治風險上升",
+    "finance": "→ 新關稅挑戰 → 市場不確定性增加",
+    "crypto": "→ 比特幣價格下跌 → 投資者避險情緒上升",
+    "tech": "→ AI 技術應用增長 → 科技股表現分化",
+    "entertainment": "→ 電影市場復甦 → 娛樂股回暖"
   },
   "report_takeaways": {
-    "WEF": "銀行需落實氣候行動，設定絕對排放目標",
-    "IMF": "IMF 完成對烏克蘭的首次審查",
-    "Goldman Sachs": "盈利、波動性與 AI 資本支出影響美國市場"
+    "IMF": "2026年巴西經濟增長預測下調",
+    "CFR": "地緣衝突可能導致供應鏈中斷",
+    "McKinsey": "全球資產負債表不平衡問題持續",
+    "Bain": "AI技術在銀行業的應用逐漸普及",
+    "Deloitte": "埃及市場潛力分析顯示增長機會"
   }
 }
