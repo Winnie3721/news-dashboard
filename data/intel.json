@@ -1,51 +1,51 @@
 {
-  "edited_at": "2026-07-25T07:01:04+08:00",
+  "edited_at": "2026-07-26T06:55:21+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "中東地緣衝突升溫:伊朗與以色列衝突持續，影響市場情緒",
+  "thesis": "美國與伊朗的緊張局勢持續升溫，影響全球市場情緒，台股小幅上漲 0.06%",
   "top_3_events": [
     {
-      "event": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
+      "event": "Iran War Live Updates: U.S.-Iran Strikes Abate, but Supporters of Both Sides Exchange Attacks",
       "source": "NYT World",
-      "implication": "美國可能加大對伊朗的軍事行動 → 地緣政治風險上升"
+      "implication": "美國與伊朗的衝突持續影響市場情緒"
     },
     {
-      "event": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "source": "BBC World",
-      "implication": "以色列與巴勒斯坦的衝突加劇 → 地區不穩定性提升"
-    },
-    {
-      "event": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
+      "event": "U.S. appeals court rules Trump cannot implement mail-in voting order",
       "source": "CNBC",
-      "implication": "新關稅政策引發法律挑戰 → 市場對貿易政策的不確定性增加"
+      "implication": "美國政治不確定性加劇，影響投資者信心"
+    },
+    {
+      "event": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis",
+      "source": "Bloomberg",
+      "implication": "美國對伊朗的軍事行動減少，可能降低地緣政治風險"
     }
   ],
   "why_it_matters": [
-    "中東衝突升溫可能影響全球能源價格，進而影響通脹預期。",
-    "美國對伊朗的軍事行動可能導致油價波動，影響全球市場情緒。",
-    "新關稅引發的法律挑戰可能影響美國經濟增長預期，影響投資決策。"
+    "台股加權指數上漲 0.06% 至 44850.81，顯示市場對地緣政治的反應。",
+    "Bitcoin 價格上漲 0.37% 至 64354 美元，顯示加密市場對不確定性的避險需求。",
+    "美元指數上漲 0.29% 至 101.43，顯示市場對美元的需求上升。"
   ],
   "what_changed": [
-    "台股 +0.06% 至 44850.81",
-    "S&P 500 +0.05% 至 7411.98",
-    "Nasdaq -0.64% 至 24975.82"
+    "台股加權指數 +0.06% 至 44850.81",
+    "日經 225 +0.46% 至 66422.60",
+    "Bitcoin +0.37% 至 64354 美元"
   ],
   "cross_signals": [
-    "中東衝突升溫 → 投資者避險情緒上升 → 黃金需求增加",
-    "新關稅政策影響 → 美股波動加大 → 台股受到影響",
-    "地緣政治風險上升 → 原油價格上漲 → 通脹預期提升"
+    "美國與伊朗緊張局勢持續 → 全球市場情緒受影響 → 台股小幅上漲",
+    "美國政治不確定性加劇 → 投資者信心下降 → 美股未來走勢不明",
+    "加密市場需求上升 → Bitcoin 價格上漲 → 投資者尋求避險"
   ],
   "section_signals": {
-    "world": "→ 中東衝突升溫 → 地緣政治風險上升",
-    "finance": "→ 新關稅挑戰 → 市場不確定性增加",
-    "crypto": "→ 比特幣價格下跌 → 投資者避險情緒上升",
-    "tech": "→ AI 技術應用增長 → 科技股表現分化",
-    "entertainment": "→ 電影市場復甦 → 娛樂股回暖"
+    "world": "→ 美國與伊朗的緊張局勢持續升溫",
+    "finance": "→ 美國政治不確定性加劇",
+    "crypto": "→ Bitcoin 價格上漲 0.37%",
+    "tech": "→ 無",
+    "entertainment": "→ 無"
   },
   "report_takeaways": {
-    "IMF": "2026年巴西經濟增長預測下調",
-    "CFR": "地緣衝突可能導致供應鏈中斷",
-    "McKinsey": "全球資產負債表不平衡問題持續",
-    "Bain": "AI技術在銀行業的應用逐漸普及",
-    "Deloitte": "埃及市場潛力分析顯示增長機會"
+    "IMF Executive Board": "IMF 完成 2026 年巴西的第四次文章 IV 諮詢",
+    "Conflict-Driven Chokepoint": "研究顯示衝突驅動的瓶頸對全球供應鏈的影響",
+    "The global balance sheet": "2026 年全球資產負債表顯示不平衡與分歧",
+    "How AI will reshape": "AI 將重塑保險經濟學的未來",
+    "What It Takes to Build": "建立 AI 原生現代銀行的必要條件"
   }
 }
