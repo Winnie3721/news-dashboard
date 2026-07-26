@@ -1,51 +1,51 @@
 {
-  "edited_at": "2026-07-26T06:55:21+08:00",
+  "edited_at": "2026-07-27T06:59:00+08:00",
   "edited_by": "ai-auto-v1",
-  "thesis": "美國與伊朗的緊張局勢持續升溫，影響全球市場情緒，台股小幅上漲 0.06%",
+  "thesis": "台股小幅上漲 0.06% 至 44850.81，日經 225 則上漲 0.46% 至 66422.60",
   "top_3_events": [
     {
-      "event": "Iran War Live Updates: U.S.-Iran Strikes Abate, but Supporters of Both Sides Exchange Attacks",
-      "source": "NYT World",
-      "implication": "美國與伊朗的衝突持續影響市場情緒"
+      "event": "日經 225 上漲 0.46% 至 66422.60",
+      "source": "市場數據",
+      "implication": "日經 225 上漲 307 點，顯示日本市場回暖"
     },
     {
-      "event": "U.S. appeals court rules Trump cannot implement mail-in voting order",
-      "source": "CNBC",
-      "implication": "美國政治不確定性加劇，影響投資者信心"
+      "event": "台股加權上漲 0.06% 至 44850.81",
+      "source": "市場數據",
+      "implication": "台股小幅上漲，成交量達 5159100 股"
     },
     {
-      "event": "US Pauses Nightly Strikes on Iran as Houthis Clash With Saudis",
-      "source": "Bloomberg",
-      "implication": "美國對伊朗的軍事行動減少，可能降低地緣政治風險"
+      "event": "Bitcoin 價格上漲 0.8% 至 65346 美元",
+      "source": "加密數據",
+      "implication": "Bitcoin 市值達 1311306401698 美元，顯示市場活躍"
     }
   ],
   "why_it_matters": [
-    "台股加權指數上漲 0.06% 至 44850.81，顯示市場對地緣政治的反應。",
-    "Bitcoin 價格上漲 0.37% 至 64354 美元，顯示加密市場對不確定性的避險需求。",
-    "美元指數上漲 0.29% 至 101.43，顯示市場對美元的需求上升。"
+    "日經 225 上漲 0.46%，顯示日本經濟活動增強，可能吸引外資進入",
+    "台股成交量達 5159100 股，反映投資者對市場的興趣",
+    "Bitcoin 價格上漲 0.8%，市場總市值達 2321866655073.95 美元，顯示加密市場回暖"
   ],
   "what_changed": [
-    "台股加權指數 +0.06% 至 44850.81",
+    "台股加權 +0.06% 至 44850.81",
     "日經 225 +0.46% 至 66422.60",
-    "Bitcoin +0.37% 至 64354 美元"
+    "Bitcoin +0.8% 至 65346 美元"
   ],
   "cross_signals": [
-    "美國與伊朗緊張局勢持續 → 全球市場情緒受影響 → 台股小幅上漲",
-    "美國政治不確定性加劇 → 投資者信心下降 → 美股未來走勢不明",
-    "加密市場需求上升 → Bitcoin 價格上漲 → 投資者尋求避險"
+    "日經 225 +0.46% → 日本市場回暖 → 可能吸引外資",
+    "台股 +0.06% → 投資者參與度提升 → 市場活躍",
+    "Bitcoin +0.8% → 加密市場回暖 → 提升投資者信心"
   ],
   "section_signals": {
-    "world": "→ 美國與伊朗的緊張局勢持續升溫",
-    "finance": "→ 美國政治不確定性加劇",
-    "crypto": "→ Bitcoin 價格上漲 0.37%",
-    "tech": "→ 無",
-    "entertainment": "→ 無"
+    "world": "→ 法國和西班牙野火持續 → 影響國際供應鏈",
+    "finance": "→ 中國證券監管機構面臨調查 → 市場不確定性增加",
+    "crypto": "→ Bitcoin 價格上漲 → 加密市場活躍",
+    "tech": "→ Apple 智能眼鏡需克服隱私問題 → 影響市場競爭",
+    "entertainment": "→ Tour De France 競賽熱度上升 → 吸引廣告商關注"
   },
   "report_takeaways": {
-    "IMF Executive Board": "IMF 完成 2026 年巴西的第四次文章 IV 諮詢",
-    "Conflict-Driven Chokepoint": "研究顯示衝突驅動的瓶頸對全球供應鏈的影響",
-    "The global balance sheet": "2026 年全球資產負債表顯示不平衡與分歧",
-    "How AI will reshape": "AI 將重塑保險經濟學的未來",
-    "What It Takes to Build": "建立 AI 原生現代銀行的必要條件"
+    "TAICCA SCHOOL": "提供多元創作課程以培養新銳人才",
+    "Business Analyst | Strategy & Transactions": "分析埃及市場的交易策略",
+    "Conflict-Driven Chokepoint Disruptions": "探討衝突如何影響供應鏈",
+    "The global balance sheet 2026": "分析全球經濟不平衡狀況",
+    "How AI will reshape the economics of insurance": "探討 AI 對保險經濟的影響"
   }
 }
