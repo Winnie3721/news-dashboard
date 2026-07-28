@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-07-27T23:01:07.468001+00:00",
+  "fetched_at": "2026-07-28T11:15:46.048473+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 63721,
-      "market_cap_usd": 1279538520356,
-      "total_volume_usd": 25400566510,
-      "change_24h_pct": -2.475631402767259,
-      "change_7d_pct": -2.3389542002513,
-      "high_24h": 65546,
-      "low_24h": 63800
+      "price_usd": 63320,
+      "market_cap_usd": 1270346801376,
+      "total_volume_usd": 25356449455,
+      "change_24h_pct": -2.7,
+      "change_7d_pct": -4.3,
+      "high_24h": 65598,
+      "low_24h": 63038
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1890.91,
-      "market_cap_usd": 228428166831,
-      "total_volume_usd": 12093379021,
-      "change_24h_pct": -2.970188342077444,
-      "change_7d_pct": -0.5532006724856612,
-      "high_24h": 1972.61,
-      "low_24h": 1893.44
+      "price_usd": 1872.43,
+      "market_cap_usd": 225969661545,
+      "total_volume_usd": 10950365679,
+      "change_24h_pct": -4.4,
+      "change_7d_pct": -3.3,
+      "high_24h": 1973.9,
+      "low_24h": 1866.32
     }
   ],
   "global": {
-    "total_market_cap_usd": 2273016410724.2505,
-    "total_volume_usd": 66364906885.2998,
-    "btc_dominance": 56.44941888663064,
-    "eth_dominance": 10.094817555755906,
-    "market_cap_change_24h_pct": -1.7129134650412579,
-    "active_cryptocurrencies": 17849
+    "total_market_cap_usd": 2253719205300.3315,
+    "total_volume_usd": 65715922269.68068,
+    "btc_dominance": 56.40926651368062,
+    "eth_dominance": 10.043529039653055,
+    "market_cap_change_24h_pct": -2.608030749250739,
+    "active_cryptocurrencies": 17857
   },
   "fear_greed": {
-    "value": 30,
+    "value": 29,
     "label": "Fear",
-    "timestamp": "2026-07-27T00:00:00+00:00"
+    "timestamp": "2026-07-28T00:00:00+00:00"
   }
 }
