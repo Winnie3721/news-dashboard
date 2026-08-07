@@ -1,10 +1,34 @@
 {
-  "fetched_at": "2026-08-06T11:22:04.821121+00:00",
+  "fetched_at": "2026-08-07T01:30:06.886423+00:00",
   "items": [
+    {
+      "title": "The Bombing of Hiroshima",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RdDhURUp6VThiSFpFdkxkcW1WQnR3VVdfb1A5Q2ZXNm5IUW1vbTN5c0t0RU8ya2JzN3d2Um5JLUdtQ0ZIWEtUWFlBbWZkMTJQazB5NHd6UlRTODhmdTBKSElSYw?oc=5",
+      "published": "2026-08-06T13:51:36+00:00",
+      "source": "CFR"
+    },
+    {
+      "title": "How AI Debt Is Reshaping Credit Markets",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0NVTjR3anNRcVNlTXVSc0wxY0xWUXNoUHdJSzI3RUlDWW5rU1l4UmpXZGpOU3RuWE5BLS1YZmxLZHRvcjBKV0JxeE96S3ZmRDdNWVhQQlJnaGVoaXhUN295ZEJCX19wSnp1WUhqYkNlZ1NLT013VVZFZUllUWRSRlA2bGJFa3VRWV8tT0hWLVM4TGJzdEUzTS1ReFYwaUV4U1p6TVJXYw?oc=5",
+      "published": "2026-08-06T07:01:05+00:00",
+      "source": "Goldman Sachs"
+    },
+    {
+      "title": "In pursuit of progress: Americans’ aspirations for economic mobility",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUE5RZC1DYlJ6TXRKYzVDeks5RmIwbVZVZHJlY203enVqV2JxcVptMjdtQ19PX0Y5aEtrVzRsZGc5alFGRWJPZFVCRURJeXEyU0Rta0lzNEQwQjl1WHlNTUJqMHE1QjZxcThva1pWeXRhVDh3XzRlNkpTdmxOT2lvSzZuclVEUXRrendEZURzMWZTdmMyaHRjYTBhMGRIXzAwaVp5OUNFNDlxLW9FTTFvVHNJSGhXOV83ZmtFN216bTJpVFpLTERRLXBPSnZKX2JqM1E?oc=5",
+      "published": "2026-08-06T00:15:39+00:00",
+      "source": "McKinsey"
+    },
     {
       "title": "The growing diversity of private capital nature investments",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1NfcVlkSDRORFBwekxYZkJoNVBnYTBSM0lrYjlPMnNEVnVQcUxnakFld2lSYU44WnNoZHJ3WGp1TUlfVVZRRWNxVV8yUC00WHZabFpEWDNWMktJQXBkVW55c2lDS2dIeEM4WnRnS3BjVDFaRXBaT2dDOVJzSDAwSlRLLWlLckxhQ21rSDljSWRPWm5DZzNfYVYyOA?oc=5",
       "published": "2026-08-05T10:09:29+00:00",
+      "source": "WEF"
+    },
+    {
+      "title": "What San Francisco can teach us about building trusted public services",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQejFKVUlGWFFPMlZ4Z1VNVjJqM3BETnpjYnZxYkZ5RlBCMTVDRXR5UkY3bFBDNlZwVzRydTBQZUx0ZzhKV1FyaVdMQXp0WFJuZzgtQVNfV1YtUlFyQzJoY0pUNWhocUhSMWxCRDA5NXFfdHVHODRRQjBBN3VQR2QwQnhqY0ItTHFTWnRr?oc=5",
+      "published": "2026-08-05T09:40:09+00:00",
       "source": "WEF"
     },
     {
@@ -18,12 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUll4Z3dTbUk0TndhLVlUUWN6eGNxUGFrZVB5YU9vNElEb21EcXhZck5YN1VrelRTeGJhSk1NNjVDVHFiamhxM24tdjgzN3JJSXBNeDUtTG1Fb0puRkR5ZFhmY1N2NDZCOV9mdmdFU3lMZkJvQzdiR0xsa1J1UzdPbFd6UlgzajhmWW5lU1l4OA?oc=5",
       "published": "2026-08-04T16:08:00+00:00",
       "source": "WEF"
-    },
-    {
-      "title": "IMF Staff Concludes Staff Visit to Syria",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnMtRDNiN00ya2RFQ2o4OUxaaUo0YWdwMWVHbVVOVWJ3c2dFNDZRM0J5RzNUR2dzbDdjRTEtZFpKemRJZVdoRnNrVldDSTFjSjg4cVBXMjRNWW1YWlJXR19QcGItRGl5R0ZlOFUtTXZnUTJZSGliN3hpRFVYdExnbnNwelBKaEhVcG1XRXZEcm16bTRqTUZ5bA?oc=5",
-      "published": "2026-08-04T14:05:35+00:00",
-      "source": "IMF"
     },
     {
       "title": "AI Offers Lifeline to Developing Economies in an Era of Weak Growth",
@@ -92,6 +110,12 @@
       "source": "Goldman Sachs"
     },
     {
+      "title": "Rising Global Imbalances Underscore Need to Confront Domestic Distortions",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRllYQUp5cEFLM2VTcjBPZ2dzaU9ZR1Qtd25ETC1UN1MxY1RCZ0tWaTJ4a05EeTBJcU1aTHYzTndoaUpkYU1HNldrY3FoWm5nR09VS3BOdUVaVzFOdlB5a3JqN2JnZjdWblI4eS1teU1ab2xQWHZpUWEzT3V2b1VEZWV0Y2RnMW9RcVNNRlM3TnlFekcwaEdpZmRRVE1MNWZPZHN2T3UxYUFJM2dmMHMzYlUwdDRwaDRMRGdxUXE1aw?oc=5",
+      "published": "2026-07-30T13:09:48+00:00",
+      "source": "IMF"
+    },
+    {
       "title": "2026 External Sector Report: Amid Rising Imbalances, the Case for Rebalancing",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVk40Y1lpVHI3UUtkejZCc0tlTWNxMUl2RVBmdWhLa1ljZEoxdkVNbGNPOG83ZnJMR2RMQ1NfX24tNmY1NTV2Y3R4TFFwbG94TUxESnR5WWpRcnQ2dlNqVG5TajhfRXQtOWxjM3FmR1ZzV2QxMF9YSTdBLVJVaG9maHJKWVdiVGh3OV9pektn?oc=5",
       "published": "2026-07-30T13:04:15+00:00",
@@ -106,14 +130,8 @@
     {
       "title": "How is AI changing the skills for leadership and how should organizations prepare?",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaXU5NEtpNnNwUk9LWHMwcUs5TENMczNiNmJzbndoeUZIREpfQ3dmcloxTGZ3c1FBeEZSUGVycmZUd1VRX0Jzd2dHZGItcEtGVlBkQTdrNFNydjg2WXZ3bl9FMjNxdFNPMkxyNDdsRUhnc0JVZzRYVUdfYVB0SEJrRW8tZ3ZlYV9UYW04dUJCa3M3UnZ5Sy1RaVRMaXpwM0FEeGJvZHlJajFCem5ZUnBFMjhqdWNwZHJ1cTBEV3pWNG9ETko1SDZTczZtRHpkb0pHZWJ5cg?oc=5",
-      "published": "2026-07-29T15:03:00+00:00",
+      "published": "2026-07-29T07:00:00+00:00",
       "source": "WEF"
-    },
-    {
-      "title": "Saudi Arabia: 2026 Article IV Consultation-Press Release; and Staff Report",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMU5MMi16dGpQRlM0a29DT1lzVV9jVk0tQmQwZy1IN2xzaFF6NzI2RktfWS1BREdiOEpGM01RTGFyek1XbUJqdmR0bFZGUDY2VXA4UUg2UnF1b2o5VjR3Z2hiNkpWMVF5NHM0WGRBU0Jrc0ktZ3VUOEZtRE9OcHlNNzA0TjBCTzVoTEVGSlEwZHAzXzBGZF9YSnlPaURhLWx3TWpHa2pSVkR6Q28zeThIMDA0WGw3RG84Mk5wOUVUemlQS2ZsME9tU0g3YmswNWxmS2c?oc=5",
-      "published": "2026-07-28T07:00:00+00:00",
-      "source": "IMF"
     },
     {
       "title": "Agentic AI Governance, Risk, and Controls for Business Leaders",
@@ -140,6 +158,12 @@
       "source": "BCG"
     },
     {
+      "title": "The Generalized Jevons Paradox and the Future of Energy",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDVwRVpWNTduOC1IVXh6Sk9NUzJHSXQtbVd0Ml9mdkFDTFRxdUI4V081UVBCbU1rSWRYVExEME1CMTdqaWdDQ2c0bHdxWUk5cERrLUs5eDdGWmpUUmtBY0dQVU82ajNHeXZOU0xNQXY2SXR4bVliUXFYVm1NNnJ2bGdFLUYwY2xhTVFLM3NlNVp0SjgxMmoyNVgyTFVwWjAzZUZhc1A4M0psTkN0VVFIaVhKa0JQODkzU2tv?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "source": "IMF"
+    },
+    {
       "title": "Business Analyst | Strategy & Transactions | Valuations & Modellings | Modeling and Insights | Egypt",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM1B0M0hNOHUxdmhBY0VISVZoWE0zcV9Rbzc4VjAzRS1jS21TTzV1emotVFRIenZuMGQ3RUwyUnZ1aFU4UUNiUDdTNS1xcW9VRk1VZUo5Zno3c2VING5yeFh0U2JJQlE4ZlNUZHdFcU4wTW4weXczT0hJQzJERHNCaEhsY3FDVVY5OHRJbmMtazJPTWI1d29PTThEQUdHc0pYTm1ReWhycFd0LVIxUUtMTmRRdEszXzZvRGJtMWl5TU1jVk9zQWNseWYybFVxVTk5Ry0zd3g3MmNvSnpHcGk5WjVrQi0tYnJWRlVEODBScTRHRW1vOFd3S0JXbFlHNXU1ZEhnbA?oc=5",
       "published": "2026-07-23T07:00:00+00:00",
@@ -158,16 +182,16 @@
       "source": "TAICCA"
     },
     {
+      "title": "2026 年文策院 Taiwan Beats 海外商務活動 聯合徵件 入選公告",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01RnVfMXBIZWs3RWFzTjl6ck04X3lxSnd0UkFyWHVIRlFMV1lZWFhhTmpCXzlYdkRQVEpCRjBuZ3MwMVBxUHd6dm5WM3VCTXlHYjZlREx6VGhMSFBqaFpBSlFTZmo?oc=5",
+      "published": "2026-07-17T10:17:05+00:00",
+      "source": "TAICCA"
+    },
+    {
       "title": "Accessibility Conformance Report",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PYUpzR0RxcGxZckVLX1ZfT0lrdnhjN3llYnRMbzBGd3NqYXFVSGZKNDB2aDk0bFlNSjhMaGduMEh6bzNSYmFnRmRmSTEtQ0ZEcy1mZWgxdTNZNWJ3bjNIc0R1NWRhYU5UbDZZX2ppTQ?oc=5",
       "published": "2026-07-14T14:10:07+00:00",
       "source": "CFR"
-    },
-    {
-      "title": "July 2026 World Economic Outlook Update: Global Economy in Crosscurrents of War and Technology",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVFCOWF1T3pVLXVfQ1lFTVBNRjJkYWp0RDhUUHM5ZGNfYmxkeFlGU3ZpLUZFLWxSUm5HN2dCTWVUdjhCdXI0bUp2b19jRExjcDV5bWh4RlRjWW9WRldiVm5ienA2Tk1vVmFiWmo3cVlYWTdwS3JZdXh6ZEF4TFk4ZXU1eUk0UWtwOXd2dA?oc=5",
-      "published": "2026-07-08T13:14:04+00:00",
-      "source": "IMF"
     },
     {
       "title": "The Strait of Hormuz Already Faces a Tough Recovery. Now Trump’s Iran Deal Is Unraveling.",
@@ -200,12 +224,6 @@
       "source": "PwC"
     },
     {
-      "title": "Specialist - Analytics and Insights - Hyderabad",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWVOd3dUMlNqa0VHc0ZZSThMRlh5ZGZ1Zl9BS2k0MGJtVlNuVHFRVDFfckkyNldVYkVPR3dSM0RVVXBjaUtGZlRwT0VxVzJEZ2pxNzk0NkZqVjlrdWNnVl9xWnpHR2JKc281R1prQmZ2RTE3ZzFFaktrc2RFVklWYnY0OVNUR0ZjekZHWU9pNjRuZUFabmlsemtidFdvbWJLNVVwVTM3Qk1iMi1kQnNLV0NjYw?oc=5",
-      "published": "2026-06-30T19:56:10+00:00",
-      "source": "Deloitte"
-    },
-    {
       "title": "Top 10 Emerging Technologies of 2026",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hLTRETkFXWnlacUZXMlJUb0d2N09KcVROWGxLSWxGbjJnWGZnRkdKVjJEU3N0ZGNzYWRtTEdubHdoeUNaYWtSODRLcFBBMkd1MFNaci1ETXpVTDRxaGhaOWlUTjhHSlhKZUFXVFNXSXBtWUZUU1B2TXVlamF3S0U?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
@@ -228,12 +246,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRF80T2FpdXNfSlFlcEdtOU4taC1aNFVFVnZoVW0yYVR4MnR2RU54b0RBTzV3ZVJGTFppTEpTaF85YkxVSEZrUlVOVGFJQ1J3N0NqVWE5Z1k0SEsyRXctSG5hUjdrbEdiSk1DSw?oc=5",
       "published": "2026-06-15T07:00:00+00:00",
       "source": "PwC"
-    },
-    {
-      "title": "Why Spain’s Economy Is Growing Three Times Faster Than the Euro Area",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdU42ZGRRWUZxeUYwWWZ2bGJwaUFEeXkzNXl6R1NHZ2h4MEVWUF9LX0g2VlM2ckQtSDFJaXdjSUZ0TFJfNXJTcXhObDlWVUlYLWh1ODFfYVhEMzlucUZ0cnRPdEh2cU53TmZWTVRoeWVJZUFIRVRVVmxNQUh2ejVBLW03TDh2ZGVTSVVWMU1rdm5qQ2I3OTE5Qkt1VnVmMVh2SFBxY3NCMnJQRHJYVGxtcS1ncVg?oc=5",
-      "published": "2026-06-04T07:00:00+00:00",
-      "source": "Goldman Sachs"
     },
     {
       "title": "助攻無人機產業接軌國際市場 工研院攜手AUVSI推動Green UAS認可評鑑",
@@ -272,16 +284,16 @@
       "source": "Deloitte"
     },
     {
+      "title": "Q3 2026 Quarterly sustainability webcast | CPE eligible",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3VrN0FZNkg2MkkyWU1NZ25GWTltN1FYcU5SVGZMMXBpQWVUNkp1UXRhb1ZseTdCZmlaaEhYX3RGTmdvLUhfaTZKMDUtdFNVZDYyeHM0MkU3SFBUVmxBX2pxZTRxT3NUN3hXbWVhRnBLamdMODk1ZE9OODNhTTVWbFYwdHF6VHg3U0tmVkJyYVoySTJkR1gxRGt2TTFtQQ?oc=5",
+      "published": "2026-05-06T16:13:35+00:00",
+      "source": "PwC"
+    },
+    {
       "title": "Tracking Trillions: The Assumptions Shaping the Scale of the AI Build-Out",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc3ptRVNtVkV4WkpWdEg1QkN2dlBiWXJUMFdsZ1o4Vm9nZmtSMDI2Q0E0bnV2T2NQQVB1VXlGQVVvamR1R2ZuMlBPam1kY252V2JKOEhaWDRzQWRUZHBZeG80OWNHQmM0ZGJCZlNDelNJXzdRVV93bjhNdzRyZ19lZmZyV0FxZ3RJXzk3S1AzWWZaYjlUdlN3SDNLM2NpUld4Rm1XV2tZdXVFLUJQU2ZQNkJTLUhXQQ?oc=5",
       "published": "2026-05-01T07:00:00+00:00",
       "source": "Goldman Sachs"
-    },
-    {
-      "title": "Beyond Tomorrow: Four Scenarios for the World of 2050",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUk1CUWNTWTJTM3AxQl81RkdyQlcyUzJCU281ejhlZlg3dEczaG9zenhWNERSMGd4cUZsZWVNVWpiY1JIbV85d0dIS05DMFkzRFJzRVUwOGUwMzd3bXZlVnowMVZySFRtS1hicUpIblRqYnJwTEllQV9tMnRDWUFEUXVZQ2RIcS1YSkpzZDBpZ19ZZjJL?oc=5",
-      "published": "2026-04-20T07:00:00+00:00",
-      "source": "BCG"
     },
     {
       "title": "AI Will Reshape More Jobs Than It Replaces",
@@ -306,12 +318,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWFiZGRZcUtEZFVoTjBUa1hsUmo3dnFsU0gxNWZmQ18tTkc1djBQckx2NFNHNGt6UjRjTTl4cnNLdkJROHkxYzRaTEpTWXM1U2FoZ3U2em5OLUQxNHZUOV9xZl9QaTJrSTdWQXZLSEFRM1JEbDRPU01xaE1HU1dCa1h5cDZucGNvNnhOQktQQTM2UnVvLUFhTXFBZ3Y1a1llTkl3?oc=5",
       "published": "2026-03-27T07:00:00+00:00",
       "source": "工研院 IEK"
-    },
-    {
-      "title": "Foreign Influence and Democratic Governance",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRy1xcTFBMmJLZ1RXRm5XNmc5NEFrenNVWVdjYkZRZGdJY0VyUDUxa052dU5FM1VnX2g2MWhhclFVdklhLUVYZUpkNDU1c3hIcXh6eUJUVFBfT2dYNzlHQUFDZ1BELUllbGJBZjhncGdUeEx6NS1RaUlpdVhQWC0wbmtPRkJEOWNGeXhvdmk0MmlQbTZOYjhObE0tcjZKYXRXS1RkRmxTSFp3c3I1TTVnVzZnUGNrM25zRlEycU5YY01sVWlud3RkbHRzMzcyMlV4S2xOQURSTmNlYXJmc184OA?oc=5",
-      "published": "2026-03-21T07:43:00+00:00",
-      "source": "CFR"
     },
     {
       "title": "2026 Global Human Capital Trends",
@@ -344,12 +350,6 @@
       "source": "Deloitte"
     },
     {
-      "title": "BCG AI Radar 2026: As AI Investments Surge, CEOs Take the Lead",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnNwSVdNZV9ROVlFVzNMREN6OFAxMUpqTHRVYzV0c2RTX242b2NpVFNuMmpMSnNCamhvRHMwa29JWGFnT19PWGswUmhMeDY5TjMzQTZTeVZ4bU5FY2xxazl0a0RXbE9DYXJiRmZZMnh4VEZ5VHNMaHlqY2gxcGZ1VXh4Z1l5bUk?oc=5",
-      "published": "2026-01-15T08:00:00+00:00",
-      "source": "BCG"
-    },
-    {
       "title": "2027 Summer Analyst Program",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEhJdzJ1cEVxRjUwaE5leUx4VV9sdzZ5aGdaQTFhZFVmTjJaUjdJT2Q5NW5GbHc1dFdqblBPSGpXMkQwQkFxWnlQLXdxR3RVckNuOUJ6dGpJVzZzLVBBZkN4UG93OC1yZGdpVWZLYUx1Vl9Wak1lTVFQd3dJU3JINHdDUmVEcmhuN0llcFhFVW85ZTY4eGxLWjlvMHMyOGtabkZGd3JoNmExd1E?oc=5",
       "published": "2025-12-22T13:03:25+00:00",
@@ -376,12 +376,6 @@
     {
       "title": "Dating the Report",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0l6YnUtMVBtWGhtMFE5YlhIWjR4ZTEwbWVDSDFXWUdXb1BHVG9HemNZZ0x1TE5PejcyX3RQTEdRb2w5SlRXQW5vaGV1d0VwQlBEVUdCTHRSV3Y4Tk1CLTRTTTZJclN3U2huZnRGSFlNUU5pa0l6eTktVmNHUF9fTkFOUDNyS2lSb0MtcGpTcldwQk1yZ3ZJbUt3dWRyd09CLWs0c1dYODJCWlF4a29WQnJ3?oc=5",
-      "published": "2025-12-01T08:00:00+00:00",
-      "source": "PwC"
-    },
-    {
-      "title": "Dating the Report",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFd6NVJCTkVhUWR0WVk2MjdrVExqT1BhUklOaUtpaVl6SlIyY3dwaFg4UW1hLUlUYWZxN0lJOUltRzJ2MnByeEFVd2M3Tmd2WDg2NVcySHlEVUpZaUtLUm16WXM2OU5rQ0d3QjRKRUc0RkZGUFZ3VERwdE5CYS10c09VWXJOZTBEWVpQWkRrY1ZpcTJhUFZqMU9jejRlaFpNTVRXdE9ITHNzdjk1TW40cDl3?oc=5",
       "published": "2025-12-01T08:00:00+00:00",
       "source": "PwC"
     },
@@ -434,6 +428,12 @@
       "source": "工研院 IEK"
     },
     {
+      "title": "How to Use AI in Your Application Process",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2NwNDVIMFZIRXNCOTRNWjhld1RzS0lfOWlkY3M0MFEtNzJNbGJwSzR1QllTU0R4cWJjN0pNel9fbHJjeVplVnJqT1lsMFNwMFJQOUx3OTNuczVtMzFqQ1hLcWFwdFlrYzRYS1FHdDdfSEtkVUxPb2NuRlNpMG9pNUxR?oc=5",
+      "published": "2025-08-11T07:29:20+00:00",
+      "source": "BCG"
+    },
+    {
       "title": "World Economic Outlook Update, July 2025: Global Economy: Tenuous Resilience amid Persistent Uncertainty",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVG83NUw0ZlhKUkJXY2F0Nm5sV01jVkRzbXdYXzZVcTRhZDZ0eVFTZ2tPZkZvQ2NEaEhUVTdxVVV3VmdtQ3NqZ3RjU2NhOVN0MUJrdmw1VFZnUzIwcndidDlWRENWaDFaUGxKejRFRkFtU2RQM3lLZkFxUXkzQktMbHoyeDRiQjVyNXJRbk1pTDhMY3BqeGVlS1dLUE9QSVpXVmI0VXQ0aTQ2RUZvcVJ1cGZIclJTTGV6QlY2ag?oc=5",
       "published": "2025-07-29T07:00:00+00:00",
@@ -452,16 +452,22 @@
       "source": "資策會 MIC"
     },
     {
+      "title": "Gen Zs and millennials at work: Pursuing a balance of money, meaning, and well-being",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3J1a1dCb0dBX0RjWm41WHNSZy1ZdGVoRVVUcnZYOUFoSk4wajNrNi04eVN5SzBDdHVpM2xiZVhqYjYtR0laaUpxN2MtNGkzZFAyaWpURklUQXkwa3BfcE9qSTRnOEtCTWl3VWdPb0wtcHl2SGdyT1lYNUtFWUp3bmc3VUY0bDRmSjVSWkVEaHQ?oc=5",
+      "published": "2025-06-02T07:00:00+00:00",
+      "source": "Deloitte"
+    },
+    {
       "title": "The $2 trillion global wellness market gets a millennial and Gen Z glow-up",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUtiaGVzeFRHZHprRklkVVNPeUI4UjF5allYSDNvQkt5MGVoTERDbEJGQnVudmxmUVlBdmw3SmlCZTdkekFDcTRGWXJSY0p1WHAxeUcyMVJIYU5MU0g5aEw2cGJYdHRRWlVkN3RaVnBUSkpIYTVYQ2tXOEpnV1BPdGhJYmxRZUtLMXQxVHV5QkRvQW53ckdfQk9KSmF1MGc?oc=5",
       "published": "2025-05-29T07:00:00+00:00",
       "source": "McKinsey"
     },
     {
-      "title": "The cost of compute: A $7 trillion race to scale data centers",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUEpUbTMxT2xQMDVIcy03SkpPNG5TSFFwcXQ1dUQ1NzM1b1psaklESUpscWNPQTlXbXlzX3BZMy0tOFBBSU9NSGNFdmNpMXltSncxQXJORHhHQmNmbjRhY3JxN2tVeHBYdGxHVlo4bDlsX3BmVEprUXhqTlhoUFVzbVo2NlRmbjBpOFlySFhNeElHQjdIam9YQ0hkaDl1WGk1NWM5YVVhNTU0MmRuVTlzbjhzanZMTmpiTDBDd2M1aWhfeHlzSURGNGZqZ3dWQ0lzbXNycWNOR3lVMTIwYWN3NG5jN0RsUS1MX1Bz?oc=5",
-      "published": "2025-04-28T07:00:00+00:00",
-      "source": "McKinsey"
+      "title": "Data Explorer",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tVkpWN2RaZHRfazVSRlF6UVg5NzlxWG9LS05VbnREUmFGaWpyclVsZ1YxaWhNZlNaTmlReEJDVWRIQk5YNUVSVThFYm1tZw?oc=5",
+      "published": "2025-03-29T14:13:43+00:00",
+      "source": "IMF"
     },
     {
       "title": "2025 Digital Media Trends: Social platforms are becoming a dominant force in media and entertainment",
@@ -494,12 +500,6 @@
       "source": "WEF"
     },
     {
-      "title": "3. Skills outlook - The Future of Jobs Report 2025",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2pwV05zTHNSY1R5TnIwWFVudzJHcVB1ZzJFTmZ5OWZwN0dYNTVWMEl5RkF5R2ZCUXFkNWNManQ3R3dNRkoyQzBnVEZiSXVheV9JY1h6d2pPMngwSWZ3SVVyMlJrVXI5eWQzSkVNbkEyMHEzWW9ySHZsdlNESUduNDAzNEVlM1N5STZTa3J6cUQ1dmQ4bEdyNQ?oc=5",
-      "published": "2025-01-07T08:00:00+00:00",
-      "source": "WEF"
-    },
-    {
       "title": "雙11參與比例高達95% 最大宗網友全年參與2個電商購物節購買品項增幅前三保健醫療、居家生活用品、個人清潔",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5elNRc0VMQlNZOVc2T1Y3RDBrOXItcVpDWk04NVZEdUR1bTMzMVYxVnUwMGNmb2tCNF82dW9OOGV1ZlBhNU54WWNvSWtnTWJn?oc=5",
       "published": "2024-12-27T08:00:00+00:00",
@@ -518,27 +518,33 @@
       "source": "World Bank"
     },
     {
+      "title": "Case Interview Preparation",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HQ3N3ZG1hLVd1RXpia0hOZjRTVG9PZEk3QXBEOE9pMXVna2o4Vkc5ZXQ4QW42TWx3OC1fVmRHTHhNRkplUzVnX1ctOHIzdWlvNFBkTGt0TVlkR0lYR2dVeG1EdXRPTFBDcXcxUQ?oc=5",
+      "published": "2024-10-04T13:39:34+00:00",
+      "source": "BCG"
+    },
+    {
       "title": "Events at BCG | Events 1 to 24 in Event Listing",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Xajhld0JaV2dXa29xWGNQZm9nUVdVQUdRN3hIZDJBMzN4TkpqQnc5TVA4STZ2VHR4UWFYeDJrbEQ3MnRQU3oydDBMVlZjNkZPZHc?oc=5",
       "published": "2024-10-04T10:50:06+00:00",
       "source": "BCG"
     },
     {
-      "title": "Kidult玩具熱潮發燒，泡泡瑪特進軍國際，營收再創新高",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ed1dIdFZzallIbmVsNWgzbmh4NHktTjgyUFp3Um5RU1gyMzNkZTJQaGp4ZlBjNGtoQl9UdFZOS3RTNzU2TWJjZ1JwRFh3WjJWNDlzMzNldFRQUVRRdmZwR3lGTzJXczF3akRaU1d6Y2l5YWVVU0NpMUo2VQ?oc=5",
-      "published": "2024-09-05T07:00:00+00:00",
-      "source": "TAICCA"
-    },
-    {
-      "title": "New Associate Programme",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLS1sOWhpZ3NoYXBTRkdPSk1XSlp2Nm1HZXl0Y0pmTzRteFBzTjdZWFNnRmJsUFZRNW9DVWVQOG5QNEFtbHhVTkUxQ1JwOTBDblBsRTd5UTBGblFvMF85T0dLelEyS25mNUFicXhSY0VRZGNOdFZsTkpwUGZnMmV0QktaSDQ2UVBlVFQ0UVY0VDFBX0xxT3hUVlJZZklDWFdl?oc=5",
-      "published": "2024-08-01T07:15:58+00:00",
+      "title": "2027 Summer Analyst Program",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUW9XMXdiREFBN0g1SVFrb2NWSUs3d0RlWXVRWGVHYzNXS0VOeG03N1lVY2UyMlI4TDJBdHRPVnQtbkc2Q0wtc3RBMzZpc2ZSUm9hMTAzSnpDQWlBXy13SFROQ25udlVRYkgwTWk1dTJqd01Ga1lBQ2U4Mm41Z3pVMjM2TU9TcmlWWjRHVUlvZFdPZUs4cm1zaWhneTVyRFpN?oc=5",
+      "published": "2024-08-01T14:46:03+00:00",
       "source": "Goldman Sachs"
     },
     {
-      "title": "Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jTnZrbnI2bHczanp4c2YySkZqNnJRY01tRGRPcUNfcXFGbWs4Q0NCOVFvWkRpSFpHWWstY1FaWWZCa1QtWjFnMGJaUEM5RTR1UU5Edy1GMEVlekhKTVRUMUJXMl9LMFpTZUZNTGhB?oc=5",
-      "published": "2024-08-01T02:25:01+00:00",
+      "title": "2027 Summer Analyst Programme",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1I0X1dnYzNLYmEwVVY4cGl1Z3B5UVdoWmphTVU5V1dWTkJKRGcxUUI3ZGNxQUdNYTMyVnlsSS1EVEQ1N1V5dnZLeDBYWUxJcjlEdnBzTElqSFFBNGpydUhucHo4R2JMX0VOTXhvTndsZkpzaTUwbjlRdGZ2RmRSOUEtUzc4YVp5RG9zN1E3MzVJMnY5WWs2SmpVcHMtU3VWYlE?oc=5",
+      "published": "2024-08-01T06:47:12+00:00",
+      "source": "Goldman Sachs"
+    },
+    {
+      "title": "The Markets",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlRjRYT2Z6RTBOcE9xSWtPZGxSTjdQYmlmN2diTEFoRTJmYjhVNDRiU3hmMW9oQTg2YXh2WnMzLTRuQWtLZTRTOW5sMFktc2pHbk9ZN1FNMVBXb2ZWeUE?oc=5",
+      "published": "2024-08-01T02:24:13+00:00",
       "source": "Goldman Sachs"
     },
     {
@@ -563,12 +569,6 @@
       "title": "Southeast Asia’s Green Economy 2023 Report",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ycXBCNTN5T3RDU0lCUUNYc0VZOXlzSjBwWnQ4V0VOOWNjd2Y1dDEwTEphR1hsbkdsemwwcnJDTmVHQ29OeGZkMVFHdVljX2g2VGN5UlJ2NnJBcGlQeTQyQlNFNjk2ZTJMMU9IekJYM2E0dXc?oc=5",
       "published": "2023-06-06T07:00:00+00:00",
-      "source": "Bain"
-    },
-    {
-      "title": "Summer Associate",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGttTlZZaTc2eW1iRVNzaExVV0pxX25MeWJZYWVFNDFXaVlwbWxGZEN2R0g4THZsNFVkZDk0cWlGWkJQNzdMMWoyTHQwaVZYcUZ3ZTg2XzNwRXp1OFp3dGN5RXlscXM1dlplM3BveWNYV1dZYloyVC1uNEpEbjZTSDkyaVRaVUE?oc=5",
-      "published": "2023-06-01T01:57:32+00:00",
       "source": "Bain"
     },
     {
@@ -602,6 +602,12 @@
       "source": "WEF"
     },
     {
+      "title": "A Private Equity Lens on the Energy Transition",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzlVLUFqdU1LT2hZemdqTDMtRlNORXV6WnI5QmVUTGVWVTBLYlYwX0dEVnRPOHNnX3BsNFZOZUZZcXVUUnVoSTNGMWlIejNBbEZKeWVPa0gxbVZnVG5QVjJybWExc2VaSDBEWF95eWdNTzBuZ1plOWMwS05VYmVibFVqOTBLMkczVjhYbmQ3OXpFT3c1SGZGZDlIa3NzRWVWX1VzS2E2ZXM?oc=5",
+      "published": "2023-02-27T08:00:00+00:00",
+      "source": "Bain"
+    },
+    {
       "title": "Requirement to Restrict the Use of the SOC 2 Report",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQelp6bFo2bXRFS0FNLWZOS0UzMlozbWRtNWxWRVJtUS11Vy1oeUh5NFRDVWs2bE5jZHJ3Q0x4cmJ1V0tqTUFyR0tWRm1jR09IcFROUUEzbC1XVGxkZXVmZTdEdjNsUC1EbXF2bWhodElyQjJqV1Jub3ViZDA4aFpPQS1zVVJoSzhGOHJ5REVzbUU2bEZ6T0lFOE1qTWV5UW9ZMWlIbmRweGFCN1VIcjhoV1YyWUJ5NFlkckp5R21GeTlsUXhFR1hYT2FDcC1kSmx5WWVHdVBKVWIxZE1PdWItdkNnQ0ljemJfS2Y4?oc=5",
       "published": "2022-10-15T07:00:00+00:00",
@@ -618,6 +624,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LTUpnaEJpWnBSZGhtbm5ERmw5RWxVU1dmYzRaSWtCVUFVZkc2RHBqR0pGaXpXY0RvVzBEMlF0NjNGZjd5d3E0c2hnM2trckRX?oc=5",
       "published": "2021-10-25T10:08:13+00:00",
       "source": "Deloitte"
+    },
+    {
+      "title": "Assessing BNPL’s Benefits and Challenges",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUtCamJPaHY0WVhnM2Zja2pJZHU4ZHk2VUpKY002QllpMmxEM3RaUkUwSFBHVXRFcFUtVEdUQV9SUmE0OFRuU0dEMm54WlRjNjJGM3BvLTBHUTNrMUVVOE1QRkZMbldfNkhMNGFCTy05M2pVbGh2d0hRamxzNDI2OFpQOEhHbWlX?oc=5",
+      "published": "2021-10-19T07:00:00+00:00",
+      "source": "Bain"
     },
     {
       "title": "Documents & Reports",
@@ -638,16 +650,16 @@
       "source": "World Bank"
     },
     {
-      "title": "Global Investment Research",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40cGNsSHNCTHBIZlBVY2NhZHNJdmxvaWVxVkZsZHpWX0hrLVlYMUROWlVqMS1DcnJ2Z2toSXpVSnV2SHJQUEZxMUNIYmt0aWdZVFl0SWRqQW10MHht?oc=5",
-      "published": "2018-09-11T05:22:12+00:00",
-      "source": "Goldman Sachs"
+      "title": "Open Knowledge Repository",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlZXOGk5ZGR0d2Z0UmVNTGNua0UxeWQ5dUpLXzNMMXIyTVZCdUpaREFLVDNCM0EzbkF1anhmZUtxY0psS2tRdlRJUWd3YjE2WGEtUVVwbG9oRmhTVlhvaHNlc25HQm42SUJuYWgyM3NVNjR1QVp3SF9VLUdNSk4zTHJsQjUxY3dQTzU1R2JocjB3UjlRTzVnQQ?oc=5",
+      "published": "2018-09-20T07:00:00+00:00",
+      "source": "World Bank"
     },
     {
-      "title": "Global Private Equity Report 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQSnNha21USlE4WE5sN2NFaGYyQWx4UmZFNHdKUkJQVlpEVi1BSElKNFZIdW5uQzJQTEN3VHYzc1NRY0dWZDNfSFZXX2dZTl82RUh0VE5Qb3I2ZUNDUlBkLW5sblVPMnRFLXZzY2hWZ1gxeThO?oc=5",
-      "published": "2018-08-10T12:14:18+00:00",
-      "source": "Bain"
+      "title": "Fiscal Monitor",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wbVA1clFWd3lqd3dHc2Z3Q28wM0RqbGM1cWlFSnV5Sk1sNVNuN2dXc1p3eDJyOVo3OW9RUGlaclZxR3hkWlRFbWhUb0prTFU?oc=5",
+      "published": "2018-01-29T23:03:30+00:00",
+      "source": "IMF"
     },
     {
       "title": "Deloitte US | Together Makes Progress",
@@ -656,9 +668,9 @@
       "source": "Deloitte"
     },
     {
-      "title": "Population, total",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUFdrVGE0Ulk2U0tnSnZJcERTek12SjFobHhrd0pkcG4xa1BKaDQwYlZZelRSWll3cTNWV3J5bXdSTEdBYkstY1ZYQWFqMG53QWJNdG5qaFFIcnFJ?oc=5",
-      "published": "2017-06-27T06:17:28+00:00",
+      "title": "GDP (current US$)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOTjBrRm1vTE9Zc2d2V1JRdTE5cC10TTk4OWJhaHpUbG95YzZ0ZklUazZGVHdGTzBLSGJQUnFRdTZNQmtJM0lPQTlscnpKLXNaRTM1czV1aG1xMHR4TmRGTQ?oc=5",
+      "published": "2017-07-19T13:06:16+00:00",
       "source": "World Bank"
     },
     {
@@ -684,12 +696,6 @@
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBmRHpURmhrWWNDZC1qZGFjSGw5emM1cGZEczRMc3owM3Z5SkV5dmhDUXNxZF83VHlBTnpUWkg5alpSTkhj?oc=5",
       "published": "2015-09-12T04:45:21+00:00",
       "source": "PwC"
-    },
-    {
-      "title": "Global Economic Prospects",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52NllQMWhoMVlxNTBQLXU0ejFDdC0wcWRSMkRhNzBtbjgyNGVURld2ODdINTlSZ2pJT1JwbnZrdjEyVmN5eFBpQUZZMU1aZ0tPZlZnY2dkM21pS3J3bkp4ZFl3OWRZdlFDdVhxYXl0dVBlY3lJ?oc=5",
-      "published": "2015-03-20T07:10:33+00:00",
-      "source": "World Bank"
     },
     {
       "title": "Human Rights Watch’s Devastating Myanmar Report",
@@ -728,6 +734,12 @@
       "source": "World Bank"
     },
     {
+      "title": "MIC AISP 洞察，指引走向卓越之路",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBQQzMtbkhfVGV3Q2l4eTJSM2VUSHQtRWRRWVd1bGtUc0s1b1NlN1MtMUw0UE11eTEwZ1htZjRwbnI?oc=5",
+      "published": "2010-04-30T15:59:35+00:00",
+      "source": "資策會 MIC"
+    },
+    {
       "title": "The World Economic Forum",
       "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9nSnRiYkxtdFllcko3TmtfWlpRX0RRQlRuYzBDWTBjMks5cVVmNy1nSG1HdTlLVkxBOVZHNQ?oc=5",
       "published": "2010-04-16T20:26:39+00:00",
@@ -738,12 +750,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNzVXME9vd3pMaGNKajI4SHppdlhscWx2NWV1NHlGNTF5ajJYa00zaUpILWtQNVQ1UlEtYXp5WEdiTUpEN25YbktBdm51WUdWd3dpOVJPN0lMdzJIWGNtbVpXV3J3VGFFWkhMOXpidG5OV3llOTZkY2ZtQlhqell5TmVydS1MQjQ2Z0ptbzlUOFB1dVozbk9QSkNDb3VVMjFDclNvLVBnTzFiQmc?oc=5",
       "published": "2009-06-01T07:00:00+00:00",
       "source": "McKinsey"
-    },
-    {
-      "title": "World Economic Outlook (April 2026) - Real GDP growth",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ja2RyNmhlMl9yN3dqaVJidmhuNmpKWGNYaGlPOUpjTWVNVGVFNzlaSVRIekZsNEdXYWNOdDA5c0xxY2p4YXRYNklqMWhBYjlFY0ZRZ05iSzNZNTNlOGc?oc=5",
-      "published": "2007-10-17T21:49:11+00:00",
-      "source": "IMF"
     },
     {
       "title": "Council on Foreign Relations",
@@ -771,18 +777,18 @@
     }
   ],
   "totals_by_source": {
+    "CFR": 10,
+    "Goldman Sachs": 10,
+    "McKinsey": 10,
     "WEF": 10,
     "TAICCA": 10,
-    "IMF": 10,
     "World Bank": 10,
+    "IMF": 10,
     "Deloitte": 10,
     "PwC": 10,
-    "CFR": 10,
     "BCG": 10,
-    "Goldman Sachs": 10,
     "Bain": 10,
     "工研院 IEK": 10,
-    "McKinsey": 10,
-    "資策會 MIC": 8
+    "資策會 MIC": 9
   }
 }
