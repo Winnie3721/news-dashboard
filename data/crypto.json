@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-08-08T22:27:40.748988+00:00",
+  "fetched_at": "2026-08-09T09:37:12.220095+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 64961,
-      "market_cap_usd": 1303569373293,
-      "total_volume_usd": 12465821630,
-      "change_24h_pct": 0.0,
-      "change_7d_pct": 3.6,
+      "price_usd": 64765,
+      "market_cap_usd": 1299700037560,
+      "total_volume_usd": 12255474923,
+      "change_24h_pct": -0.2,
+      "change_7d_pct": 2.1,
       "high_24h": 65140,
-      "low_24h": 64800
+      "low_24h": 64695
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1919.06,
-      "market_cap_usd": 231595886031,
-      "total_volume_usd": 3377813830,
-      "change_24h_pct": 0.3,
-      "change_7d_pct": 4.3,
+      "price_usd": 1913.69,
+      "market_cap_usd": 230947660085,
+      "total_volume_usd": 3471979797,
+      "change_24h_pct": 0.0,
+      "change_7d_pct": 2.1,
       "high_24h": 1924.43,
-      "low_24h": 1911.39
+      "low_24h": 1911.24
     }
   ],
   "global": {
-    "total_market_cap_usd": 2299995542861.2495,
-    "total_volume_usd": 31890210708.43997,
-    "btc_dominance": 56.66597677934193,
-    "eth_dominance": 10.065098549756515,
-    "market_cap_change_24h_pct": 0.3506863252832723,
-    "active_cryptocurrencies": 18268
+    "total_market_cap_usd": 2295127293910.8184,
+    "total_volume_usd": 32578870188.592373,
+    "btc_dominance": 56.625650194137044,
+    "eth_dominance": 10.05812057108234,
+    "market_cap_change_24h_pct": -0.0816746008380236,
+    "active_cryptocurrencies": 18273
   },
   "fear_greed": {
-    "value": 30,
+    "value": 31,
     "label": "Fear",
-    "timestamp": "2026-08-08T00:00:00+00:00"
+    "timestamp": "2026-08-09T00:00:00+00:00"
   }
 }
