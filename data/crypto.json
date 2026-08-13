@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-08-12T22:39:42.446101+00:00",
+  "fetched_at": "2026-08-13T10:02:41.119249+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 63349,
-      "market_cap_usd": 1271263482559,
-      "total_volume_usd": 21477710455,
-      "change_24h_pct": -0.3,
-      "change_7d_pct": -1.9,
+      "price_usd": 63723,
+      "market_cap_usd": 1278960386133,
+      "total_volume_usd": 21347682582,
+      "change_24h_pct": 0.0,
+      "change_7d_pct": -1.7,
       "high_24h": 64329,
       "low_24h": 63267
     },
@@ -19,26 +19,26 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1877.16,
-      "market_cap_usd": 226535447235,
-      "total_volume_usd": 6654512776,
-      "change_24h_pct": -0.1,
-      "change_7d_pct": -1.6,
+      "price_usd": 1888.1,
+      "market_cap_usd": 227905975726,
+      "total_volume_usd": 6968404789,
+      "change_24h_pct": 0.0,
+      "change_7d_pct": -1.3,
       "high_24h": 1918.99,
-      "low_24h": 1875.15
+      "low_24h": 1872.07
     }
   ],
   "global": {
-    "total_market_cap_usd": 2259435533211.4976,
-    "total_volume_usd": 51324870226.905495,
-    "btc_dominance": 56.25897264654137,
-    "eth_dominance": 10.022254403594292,
-    "market_cap_change_24h_pct": -0.42085771897649665,
-    "active_cryptocurrencies": 18398
+    "total_market_cap_usd": 2271408058277.4106,
+    "total_volume_usd": 50352390671.64473,
+    "btc_dominance": 56.289831619071464,
+    "eth_dominance": 10.026812825089726,
+    "market_cap_change_24h_pct": -0.43187825266472424,
+    "active_cryptocurrencies": 18408
   },
   "fear_greed": {
-    "value": 27,
+    "value": 29,
     "label": "Fear",
-    "timestamp": "2026-08-12T00:00:00+00:00"
+    "timestamp": "2026-08-13T00:00:00+00:00"
   }
 }
