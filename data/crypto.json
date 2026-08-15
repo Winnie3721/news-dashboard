@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-14T22:21:38.383359+00:00",
+  "fetched_at": "2026-08-15T09:23:48.951691+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 62775,
-      "market_cap_usd": 1259850060482,
-      "total_volume_usd": 20237629838,
-      "change_24h_pct": -0.8,
-      "change_7d_pct": -3.2,
-      "high_24h": 63544,
+      "price_usd": 62907,
+      "market_cap_usd": 1262573681630,
+      "total_volume_usd": 17599359652,
+      "change_24h_pct": 0.1,
+      "change_7d_pct": -3.1,
+      "high_24h": 63171,
       "low_24h": 62525
     },
     {
@@ -19,26 +19,26 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1875.88,
-      "market_cap_usd": 226386368197,
-      "total_volume_usd": 4970190613,
-      "change_24h_pct": -0.5,
-      "change_7d_pct": -1.9,
-      "high_24h": 1888.89,
+      "price_usd": 1875.75,
+      "market_cap_usd": 226371510928,
+      "total_volume_usd": 4325574213,
+      "change_24h_pct": 0.2,
+      "change_7d_pct": -2.0,
+      "high_24h": 1885.38,
       "low_24h": 1863.04
     }
   ],
   "global": {
-    "total_market_cap_usd": 2245504844480.8086,
-    "total_volume_usd": 48329467396.33242,
-    "btc_dominance": 56.097240422759974,
-    "eth_dominance": 10.083107619067766,
-    "market_cap_change_24h_pct": -0.8464221879793944,
-    "active_cryptocurrencies": 18412
+    "total_market_cap_usd": 2250450410530.106,
+    "total_volume_usd": 42770676491.22758,
+    "btc_dominance": 56.10013073944251,
+    "eth_dominance": 10.058830744020312,
+    "market_cap_change_24h_pct": 0.22649446064804557,
+    "active_cryptocurrencies": 18414
   },
   "fear_greed": {
-    "value": 29,
+    "value": 34,
     "label": "Fear",
-    "timestamp": "2026-08-14T00:00:00+00:00"
+    "timestamp": "2026-08-15T00:00:00+00:00"
   }
 }
