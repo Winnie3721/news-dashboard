@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-08-26T09:38:10.630958+00:00",
+  "fetched_at": "2026-08-27T02:57:24.135267+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 78516,
-      "market_cap_usd": 1576575884968,
-      "total_volume_usd": 32876420160,
-      "change_24h_pct": -1.62612,
-      "change_7d_pct": 22.4,
-      "high_24h": 79540,
-      "low_24h": 77955
+      "price_usd": 78735,
+      "market_cap_usd": 1580776348183,
+      "total_volume_usd": 27825631101,
+      "change_24h_pct": -0.4716,
+      "change_7d_pct": 13.8,
+      "high_24h": 79171,
+      "low_24h": 77648
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2449.98,
-      "market_cap_usd": 295745888228,
-      "total_volume_usd": 12171634267,
-      "change_24h_pct": -1.47856,
-      "change_7d_pct": 28.2,
-      "high_24h": 2484.35,
-      "low_24h": 2419.7
+      "price_usd": 2493.8,
+      "market_cap_usd": 300982864857,
+      "total_volume_usd": 12498775400,
+      "change_24h_pct": 1.15189,
+      "change_7d_pct": 10.6,
+      "high_24h": 2513.64,
+      "low_24h": 2433.13
     }
   ],
   "global": {
-    "total_market_cap_usd": 2654094637041.5874,
-    "total_volume_usd": 84735498412.91351,
-    "btc_dominance": 59.23312666672187,
-    "eth_dominance": 11.110819068243288,
-    "market_cap_change_24h_pct": -3.4094660021334793,
-    "active_cryptocurrencies": 18708
+    "total_market_cap_usd": 2670639480865.759,
+    "total_volume_usd": 79838624793.60834,
+    "btc_dominance": 59.094793520342314,
+    "eth_dominance": 11.252505763508374,
+    "market_cap_change_24h_pct": -2.3496054514040075,
+    "active_cryptocurrencies": 18718
   },
   "fear_greed": {
-    "value": 65,
+    "value": 71,
     "label": "Greed",
-    "timestamp": "2026-08-26T00:00:00+00:00"
+    "timestamp": "2026-08-27T00:00:00+00:00"
   }
 }
