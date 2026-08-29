@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T03:31:49.594590+00:00",
+  "fetched_at": "2026-08-29T14:09:57.770996+00:00",
   "indices": [
     {
       "ticker": "^TWII",
@@ -16,36 +16,36 @@
     {
       "ticker": "^GSPC",
       "label": "S&P 500",
-      "price": 7711.759765625,
+      "price": null,
       "prev_close": 7730.990234375,
-      "change": -19.23046875,
-      "change_pct": -0.24874522107781005,
-      "high": 7771.47998046875,
-      "low": 7700.91015625,
+      "change": null,
+      "change_pct": null,
+      "high": null,
+      "low": null,
       "volume": 2589484000.0,
       "as_of": "2026-08-28T00:00:00-04:00"
     },
     {
       "ticker": "^IXIC",
       "label": "Nasdaq",
-      "price": 26402.423828125,
+      "price": null,
       "prev_close": 26541.349609375,
-      "change": -138.92578125,
-      "change_pct": -0.523431488204836,
-      "high": 26700.677734375,
-      "low": 26359.265625,
+      "change": null,
+      "change_pct": null,
+      "high": null,
+      "low": null,
       "volume": 7526280000.0,
       "as_of": "2026-08-28T00:00:00-04:00"
     },
     {
       "ticker": "^DJI",
       "label": "Dow Jones",
-      "price": 53560.0,
+      "price": null,
       "prev_close": 53569.44140625,
-      "change": -9.44140625,
-      "change_pct": -0.01762461209628828,
-      "high": 53819.6484375,
-      "low": 53489.41015625,
+      "change": null,
+      "change_pct": null,
+      "high": null,
+      "low": null,
       "volume": 507511504.0,
       "as_of": "2026-08-28T00:00:00-04:00"
     },
@@ -76,14 +76,14 @@
     {
       "ticker": "DX-Y.NYB",
       "label": "美元指數",
-      "price": 99.677001953125,
-      "prev_close": 99.16000366210938,
-      "change": 0.516998291015625,
-      "change_pct": 0.5213778458271461,
-      "high": 99.72599792480469,
-      "low": 99.0979995727539,
+      "price": 99.16000366210938,
+      "prev_close": 99.16999816894531,
+      "change": -0.0099945068359375,
+      "change_pct": -0.010078155712891038,
+      "high": 99.26000213623047,
+      "low": 99.06999969482422,
       "volume": 0.0,
-      "as_of": "2026-08-28T00:00:00-04:00"
+      "as_of": "2026-08-27T00:00:00-04:00"
     }
   ]
 }
