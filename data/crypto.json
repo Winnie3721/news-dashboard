@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-28T20:42:20.061146+00:00",
+  "fetched_at": "2026-08-29T03:31:47.464898+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 77393,
-      "market_cap_usd": 1553701390252,
-      "total_volume_usd": 36162347562,
-      "change_24h_pct": -3.26805,
-      "change_7d_pct": 0.6,
-      "high_24h": 81282,
+      "price_usd": 77675,
+      "market_cap_usd": 1559450896139,
+      "total_volume_usd": 32243934051,
+      "change_24h_pct": -2.8503,
+      "change_7d_pct": -0.2,
+      "high_24h": 79992,
       "low_24h": 76962
     },
     {
@@ -19,26 +19,26 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2427.33,
-      "market_cap_usd": 292896676777,
-      "total_volume_usd": 15039491961,
-      "change_24h_pct": -3.1164,
-      "change_7d_pct": 0.7,
-      "high_24h": 2532.17,
+      "price_usd": 2440.18,
+      "market_cap_usd": 294479384707,
+      "total_volume_usd": 13804015527,
+      "change_24h_pct": -2.15384,
+      "change_7d_pct": -2.9,
+      "high_24h": 2520.2,
       "low_24h": 2418.11
     }
   ],
   "global": {
-    "total_market_cap_usd": 2627135788248.637,
-    "total_volume_usd": 96975331808.2076,
-    "btc_dominance": 58.95757300496025,
-    "eth_dominance": 11.113978958331614,
-    "market_cap_change_24h_pct": -5.3929129320935605,
-    "active_cryptocurrencies": 19370
+    "total_market_cap_usd": 2638674222751.007,
+    "total_volume_usd": 87546101722.74188,
+    "btc_dominance": 58.97098956907494,
+    "eth_dominance": 11.136391708244672,
+    "market_cap_change_24h_pct": -4.762241217444429,
+    "active_cryptocurrencies": 19380
   },
   "fear_greed": {
-    "value": 73,
+    "value": 68,
     "label": "Greed",
-    "timestamp": "2026-08-28T00:00:00+00:00"
+    "timestamp": "2026-08-29T00:00:00+00:00"
   }
 }
