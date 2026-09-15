@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-09-15T14:10:12.640837+00:00",
+  "fetched_at": "2026-09-15T23:59:20.028318+00:00",
   "items": [
+    {
+      "title": "McKinsey Technology Trends Outlook 2026",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5",
+      "published": "2026-09-15T21:57:33+00:00",
+      "source": "McKinsey"
+    },
+    {
+      "title": "Full Stack Software Engineer (TypeScript/Python)",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XR0Y4YW9Zc0pUdERfV08yVVZ3RV85UGpLSlJTZC1PWjdNZVlnRjF5WkhaQXZqWlVQS1g5UGxUcXY1T0ZqTkxjZmNaU3k4bUZFZjFoUGFMZXQ3MDV4U0trUVpiajM2U2hLMjR5azZrcUY?oc=5",
+      "published": "2026-09-15T15:54:55+00:00",
+      "source": "Bain"
+    },
     {
       "title": "Building Trust in AI Is Critical to the Frontier’s Future",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWVtOVYwQXBUeFZRaVNqUy1pQTc0TUJQNWxQVjdqNi1leTE4aUFHSzB1aUZIYTJUOENDVGxVeW1YRkhjSEZpUXFhdXhOM21fNE9PQzF5NHdXX0dVWFRGdmI4UGRpaEZ5SHNpVzR1N3ppYTVWOUM5WnBoSlVYVUowM0lRdnJINng3YlpXMXpB?oc=5",
@@ -26,12 +38,6 @@
       "source": "Goldman Sachs"
     },
     {
-      "title": "Why I chose to start an AI company in Europe",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZllZcjBuMzE4TDdzV0ZlZ1VxWHQ0RU8yT21EaUFjbnhVXzJoTnczMnI4WkYtMHBBczM2YnZVYUptdDdHTG44ekJOWXFLa0N1REdFUTVsMEozdmtlT281c3hJNkRRVFdNdkZPUXpWTEIxTlpGRVhsNE1QZ2tpSXBmUElERjQwNFUycjg4ZFIxNGF1R3FpVzMtcA?oc=5",
-      "published": "2026-09-11T09:43:00+00:00",
-      "source": "WEF"
-    },
-    {
       "title": "Critical infrastructure is racing to adopt AI. Why visibility must come first",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbEdlenNEbUNhNVVnQ0IteDA0N05YOXJ3VDFFTHUwNDdkdlI0ZFBFRGl4WWdEOGtzQlV6Ym8wVGtpMVB0aTdzV2lISmd1aGZyNGxMWmNEQUF6MFRYVUFtbHJleGFISHpucjBfOGp4MnZrSUJFVV9LXzlmQWYxU3FTZldJeEN4V0xHNVNPRlM3cTlBYVAzUjNLaE5Hc1U3bXFoZTZWd3pwWUVFV2owS25Hb1hKRW12R1JwNklGcWJIUnQ?oc=5",
       "published": "2026-09-11T08:33:53+00:00",
@@ -54,12 +60,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWQ3NW12Z3NrLTZERmx3ZG1LbVRfLXNjcGkzV0RnNVFPMG9pNmcyUGZRWFFIWmdNRlZoWTc0RnRnOW1qQ2VLYUhHbTF3Q0JOUy12RzM2TUNnTXhZSnozVkdFSUUtOUJSYlFnTkY0ZWl0YVZRazcyNEpyMGtmeDdFbWZhdFhYc1hySXdnaEtR?oc=5",
       "published": "2026-09-10T00:00:00+00:00",
       "source": "McKinsey"
-    },
-    {
-      "title": "IMF Staff Completes Post-Financing Assessment Mission to Angola",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDc5anh0TDd5M0E2TjBoazFmWVdrMnBMOGR4QlBhZTNpTFdGV0o3Sncyd0p5OXVsTW5PS1lfYm9Rc0NEOXFGdTNhTUZjWVZ1NHQ5VE9mSEJPOUs0WTY4YVNkQ29VWW5Iam1BU19uTThjNnlORlFSQkFKSU05YzY0cmtWRDRUSzIzWEhfdzVGZmpBa1pkOHJhejVkMjF2elhXS3R0S05HS1owQkNadzAtdWdSc0NXY00?oc=5",
-      "published": "2026-09-09T19:21:21+00:00",
-      "source": "IMF"
     },
     {
       "title": "How Will Less Fed Transparency Affect Markets and the Economy?",
@@ -87,8 +87,8 @@
     },
     {
       "title": "打造臺灣成為全球AI無人載具輸出國 工研院院士倡議四大面向推進產業發展",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNEhhYk1WMk9fWW04UlBCX1ROQ000SFZDdnZuQ0RhazBvUHJTU29MSUZaOTYwY3BaVjhLSDUtbE4xLU80T3V3N1IyUmktZklIZ2c?oc=5",
-      "published": "2026-09-09T09:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Hd0pmMVZIRjFOdHpGd1g2dWxrbU9Yck5WYkViMFZuUXBVNnBORDg0N1RlX1F6NlhZMGdITGNaS0ZUcVM5bFJCYmFHUFFwdw?oc=5",
+      "published": "2026-09-09T09:44:42+00:00",
       "source": "工研院 IEK"
     },
     {
@@ -110,22 +110,10 @@
       "source": "CFR"
     },
     {
-      "title": "A Bigger, Better, Bolder Europe",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1lDdFlxOHBkd1FBZDcyT0lXN0xSNEw0eFJ5cml2Q3F5MktFczllZkd1WFZrRFNqSGlJdk5TUWVmd1d0MG4tdTZCMThuVXNQb0RSckliNnF0MVZta3QzMWhpd2x0emMyTzZqQ1ZkNWFNYzZzNTNsNlktSUpJSlFJZUdOd0tLRWlXdUpEWTZTVEJFb0htQWh1UnVaa3d4Ni1MMld4UkhwUmM?oc=5",
-      "published": "2026-09-08T16:53:39+00:00",
-      "source": "IMF"
-    },
-    {
       "title": "Twenty-Five Years After 9/11, the United States Is Unprepared for Terrorism’s Next Wave",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2t1clN0ZnMzeE8zSG9wZW9fcFhOOTNJN0hHUG9uTDh1OWtCZGJaQWliRmhOZzhDQXRsVkdxZGFpYTlOUy1sM18waVNBS1NZUVJoWDh6WW9uVGw2c3ZsaXppTVhkWEZNR3BlcmpMTXhsSXRXYzFYaFFUTnNOMGhYSGRhYXYzdWRwdlhITURmUkdwcUJ5YWhWY2tsWTMzRHpXdXB5MU5xb0JsZzNWM0s2ZTE4aXM?oc=5",
       "published": "2026-09-08T12:00:00+00:00",
       "source": "CFR"
-    },
-    {
-      "title": "Supercharging strategy expertise: Inside PwC's new AI-powered solution",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGNjcTVSMUx6ekkzX0N1WEZ1eEUtUUMwa1ViY1FzdUtDeVJNRU44cmhXSHlMbUthajFoTzNreGFZN1N1OVRDUXVydTBnUnFDVkQ3UHdnRjA2WDhmNmhxeFhHOWE4eHFUdHQxTTQ4a1lwSV9INXU1Y3lobXh2bEdJMU5YSzV1bW1wVWxYNVpSeHc?oc=5",
-      "published": "2026-09-08T07:00:00+00:00",
-      "source": "PwC"
     },
     {
       "title": "Global farmer insights 2026: Agtech adoption trends",
@@ -230,16 +218,16 @@
       "source": "工研院 IEK"
     },
     {
-      "title": "The U.S. Munitions Crisis",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSclQwNW5pYUM1a0NRQWw5bTF6emI1RnphUUdhLTAtaEIwYm5peDlJT1VxX1p1REJKbUwzRnUxQ3VlSDFabHpCcDBEQWR4NlFIVVZ2ZEMtMG9IU00xTENpeV9WSQ?oc=5",
-      "published": "2026-08-19T07:00:00+00:00",
-      "source": "CFR"
+      "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTdJZ283VGJNM3NiQkItbDgwWjdqTU5kdDNRN25JUlZ1V29EaHNGVDMwV1JKdmNaZFpkNXZQVFEyTWdNbmMxd2dMenBCd1hIbkNqTmwzN2NKVnZfVnp5WUFBaXU0Um5wVnpUZmdHQW15MTQtQVhWNi1jTmlVOXltYW9DRFF5cTFXRjQxRWUtWTJhbDdpSjVveHp1aXRaUQ?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "source": "IMF"
     },
     {
-      "title": "Q3 2026 Quarterly accounting webcast | CPE eligible",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXpSbkxJekh6cDM4aFRLcWIzRzRDcTFtUUNHdGRNTlhmd2xNUzRwcHhjc0tjT1RmLVZsVjF5YzVKdzM4MHo4TS0wRGFqdGU1amlxNm1odS1iZUlwZlNOczdyR2cxdUczcFhjMUtVNjVIaFd3blExY1FtS29OUWZRajRPVzE3WDhmUHdIa05vS3B5a3AyLXJF?oc=5",
-      "published": "2026-06-24T22:30:32+00:00",
-      "source": "PwC"
+      "title": "Top 10 Emerging Technologies of 2026",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEdXa1R2eTlqOEpMVDRydjl4b1hPVHlKcmlORFF4RmxoZC1MOG45QjNNaThXZmdOOWUyZDFqeVBOM2RzcUo3VmlGNGt6bzRNT0xCTTZVSGpVNnRaUzdtVDA1dDJ3SUJUcFRsVktKNDZVT1kxZE1tQzRaVkh3MWNoZTFlZXA3dGxB?oc=5",
+      "published": "2026-06-23T01:38:52+00:00",
+      "source": "WEF"
     },
     {
       "title": "Global entertainment and media advertising revenues to hit US$1.4 trillion in 2030 – as global box office continues recovery",
@@ -252,6 +240,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRTM2TkR4bHhEc1A1SlJmdHU5VmpReF9NX1NaTWsxazZMS2FNczZqVFp4UGNJRjk4OE5pbUVfbFk5V1pLZU1oVWJ6U3BUS1hIQjhJbWxhSjBzZXpnYWd6VnQtZGxDanRsQ2c4bDJKeGtWaEJaZW1LcHduLW9rUEVlSDZKaG1qN3VGNlVjMkZOc3l4UQ?oc=5",
       "published": "2026-06-18T07:00:00+00:00",
       "source": "McKinsey"
+    },
+    {
+      "title": "AI Jobs Barometer",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRF80T2FpdXNfSlFlcEdtOU4taC1aNFVFVnZoVW0yYVR4MnR2RU54b0RBTzV3ZVJGTFppTEpTaF85YkxVSEZrUlVOVGFJQ1J3N0NqVWE5Z1k0SEsyRXctSG5hUjdrbEdiSk1DSw?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "source": "PwC"
     },
     {
       "title": "AI at Work: Why Strategy Matters More Than Tools",
@@ -302,21 +296,15 @@
       "source": "TAICCA"
     },
     {
-      "title": "2026 Digital Media Trends: Capturing always-on fandom between releases and seasons",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbW54LU1fLTR6VUJkTnlpUDh1WXBoY2FmMWtOT2VmSGo0aXF2bUlNYncwUkg3VTNqZ2hZZzZIeXZ3MTdIOUV1X2VQQWE4b0RwVWJCR1R5RHJUUEM5dGxlNVFITnRBTFBQTHF3eEFHYWhyWHFLdUNxNU9YUGFkeUUyMDhGY3JsS0RJX0VxdXBpWk1kVERPc1M5M0JTVEtadUdxVXBpeS0zM3ljX1oyem9TRw?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": "Deloitte"
-    },
-    {
       "title": "What a Waste 3.0",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiYUlRbjJsODZ1dlRtVlo3VVdseEs3SDUzQkZMSEo0STNweUt0cnEyUDlGRVM4ZGQ3SlVxUEdKOFJwc0NIaVg1YkxPQ0ZxNVluYnFVNVZ6V2dLT2lkVVRnODNOcw?oc=5",
       "published": "2026-03-20T23:48:19+00:00",
       "source": "World Bank"
     },
     {
-      "title": "工研院解析MWC 2026 AI重塑通訊生態 AI原生網路、智慧終端與衛星整合成產業趨勢 - Industrial Technology Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGQtaERoaG94TGFCU3dGa3FEQnZqUXRWaU1acHdMWFduaE1rUDBodnQ2dFNOd05EamhkMjFSdms0ckNfem5fUHBMYkctQ2hWbHFSand2b25mTHc5MEtDU3Y2cEZPeExUVkJkcFEzWFZuQXpNR3NKYy1UaElyOWYzcFNORVZKekZRM01kZHdjT1ZGREJSUEF4SU9SMVRDUjZkYk5EM0hWVzQ1RldmZWtpUHdBeFZaRGY3TXJMWlp3?oc=5",
-      "published": "2026-03-12T09:20:56+00:00",
+      "title": "工研院解析MWC 2026 AI重塑通訊生態 AI原生網路、智慧終端與衛星整合成產業趨勢",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40YjEtanl3TkRIbi1HTmo1c1EtdG9iaUgzbWc4Q1FYd19CYVVZQXkyMGVNTVhiSm9mVlktMjN0TkQzZHpBUDBiWEdoV2FuWjJhMVNOR0FSUjd0dw?oc=5",
+      "published": "2026-03-13T07:00:00+00:00",
       "source": "工研院 IEK"
     },
     {
@@ -350,6 +338,12 @@
       "source": "工研院 IEK"
     },
     {
+      "title": "The State of AI in the Enterprise - 2026 AI report",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWl2WjFCUTBRSlBwbk9VNmpVdjdFRGxwQkdiWE1JVmRMNHE4RjVXR2xYXzZ5SVgwdFRjdWUxUlRKLV9BNzBRVWkzbnpyOXpjMGV2ak4zLUNYb0hURWp6eU5aOWhkSWFuNXZYMjR6TVpGQ2VHaFRGc0RhZkNGMDBEamR4M1g1UXJKa1ZVTlNkRHpmVzF0RHhzOC1RRnNIemtQSlJ6U19MdzdFQjZlRzRPdmwwY3pra0VvcmE5RUZ0NWpsUFJHVDFXRA?oc=5",
+      "published": "2026-01-21T07:52:32+00:00",
+      "source": "Deloitte"
+    },
+    {
       "title": "Global Cybersecurity Outlook 2026",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vTVNvMWVrQ1ZNb09wZ05mUVkwZkRva2RLWjhYbnI5SEl3enZuVjVraVRJSFpmMl9RdEpwYk1RNGYwekJMOTZ1SlhsaFp2ckI1UHc3cW1YWUNVNTNhMnRyQmd3b1NkNFZrcUNvaG1RdThWNGE3Nnpzc2FJa0RFeXc?oc=5",
       "published": "2026-01-17T08:00:00+00:00",
@@ -374,12 +368,6 @@
       "source": "資策會 MIC"
     },
     {
-      "title": "Agents, robots, and us: Skill partnerships in the age of AI",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGR5TllRdWM0VUFxX0o1TDk1bmp2eklMTDBkTjJlbUM5eXhkSGZBSEtfNzlUSy1FdnRiVno4Mkd5LWNITV9OODZKRVhiXzRGVjdSTmJYOXJmRWdHd1hqNDZzSmY0MzhGT25Ha291azBYNDFfNjROcjdRdDdHcW1jdHhFaGNVSkJlZTFVWDV1TjEtekhKRDktX2psMk4ycjA?oc=5",
-      "published": "2025-11-25T08:00:00+00:00",
-      "source": "McKinsey"
-    },
-    {
       "title": "The State of Fashion 2026: When the rules change",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ndVBlLTlsYy1uTjJ3eWhmWXRPcHYyckpRM0hHMnJieUR0UnF5UGNjczZOTDNuTVI2Z3lIUEZpektKamtkdXEyY204dVlJQ09wVGpkTG5kM1ZibVpzNXU4MXNZSmxRZkpFYjUxQlJsdjVhNTFoTV9QREZodWU?oc=5",
       "published": "2025-11-17T08:00:00+00:00",
@@ -398,9 +386,9 @@
       "source": "工研院 IEK"
     },
     {
-      "title": "F 工研院「眺望2026產業發展趨勢研討會」登場 以AI與量子為核心 四大策略打造臺灣量子產業生態系",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFU0NjBBZHg0MTZHelRIaGIwMk1Xdjl3NWtWMDJBeVNPaXVWeDN1UEtfRU14MEZiTWVrQlJmX1NQZXZCbkVINmZmT3I5TVkwYU5BZVJ5a1poODZOa0pqU2lGNXNFcFRhWWR1SU9JYWdKTTlESDdxSVZEZklFLXZkRmVISGhRa3ROZjhuazNXZ0tOZHpiRzFLVFdJdjlLUVRKRDdJ?oc=5",
-      "published": "2025-10-29T07:00:00+00:00",
+      "title": "工研院「眺望2026產業發展趨勢研討會」登場 以AI與量子為核心 四大策略打造臺灣量子產業生態系 - Industrial Technology Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWFObkRNb0xSTHp5UGE5aGtNQWQxRmRaQUluM256Mzc4VDQtbW5JR0VIUmRrbWtDVEVhdGRPS0dfb1FsZUdSYkRfUEl2YXhVQ200TEVQUEFVNDVacGxCV0E2SFQ0Wmd1SWxIMjNqYnExVEdzRktULXFCOENGSml4UTZIZUR5ZEZIZW95aFZfWHRKbWVtUGZaQ2pUUklPRjJEdVpmT2Fua0IwSkptdnI2UWFaODVIZEFmR1NyeE1n?oc=5",
+      "published": "2025-10-28T07:00:00+00:00",
       "source": "工研院 IEK"
     },
     {
@@ -500,6 +488,12 @@
       "source": "資策會 MIC"
     },
     {
+      "title": "Determining the Period to Be Covered by the Report",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMFNscWVLTGh2cm5ZY0g4TkRfQlJFRXExZm1HNFlEaTVybzJyeEtTejEwX01FSjhmNUlmelZtdWlDV3N4ZTQ3SWdITTlNdVkzMHpGVWF1cFFyNGs1bWpnY2hSdms1TlBMQVBMZVhpQlN3QVNfV1NWdlFhQ1lXLUdHY2dJN0dqNWpLRUdmbFNybVdhWkxvYW5FcHU1a1oxb0FKQ2hlLXQ4LUt4Q1VyRkx0WkRlZlZJNTgxYnZSY2w3aEQzb19rLTloZlJiZkhTOUtGRDJXRkpRWE9ycll1RHlIRGV5ZXNabGFVaHBJNXBmUGE?oc=5",
+      "published": "2024-12-01T08:00:00+00:00",
+      "source": "PwC"
+    },
+    {
       "title": "World Bank Group - International Development, Poverty and Sustainability",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03ZG1YRTh4RFQxbUxIZHFOSGhzaXgxTFdZT1Bwd1ZPazE5QUp5VTFMamNueTAwbXdFOTQwNDZETEtmcmdRRTFRbWRuNE04dw?oc=5",
       "published": "2024-10-17T07:23:49+00:00",
@@ -510,12 +504,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ed1dIdFZzallIbmVsNWgzbmh4NHktTjgyUFp3Um5RU1gyMzNkZTJQaGp4ZlBjNGtoQl9UdFZOS3RTNzU2TWJjZ1JwRFh3WjJWNDlzMzNldFRQUVRRdmZwR3lGTzJXczF3akRaU1d6Y2l5YWVVU0NpMUo2VQ?oc=5",
       "published": "2024-09-05T07:00:00+00:00",
       "source": "TAICCA"
-    },
-    {
-      "title": "Gaming Report 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sWDkxSzFJVXg4ZDQxWnk2NXRBQlNsYl9LOTB2Z3doTVY5OHRKQk43TnZDUm5rMU1zeVVRbmhnRFNJNGk4SG8zOWkxS2MzaGs0aUJpYkRXWDhLeGYwTDRHUQ?oc=5",
-      "published": "2024-08-28T14:06:06+00:00",
-      "source": "Bain"
     },
     {
       "title": "2027 Summer Analyst Program",
@@ -536,10 +524,10 @@
       "source": "Goldman Sachs"
     },
     {
-      "title": "TAICCA issue vol.07總覽｜文化內容策進院發行",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RRk5TVy1mZWFYOS1xN2c0NTB2YmlNSzJzUlRjOHoyRVRjVzZBSmtvTi00eUtGWF9EN0Jaek5ZaVhqSFpsSlhVTnFDYTFYSDg?oc=5",
-      "published": "2024-07-31T10:55:58+00:00",
-      "source": "TAICCA"
+      "title": "Programs and Internships",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11TTB0VFN3d2phTjA1ejNGOW1YWWFTTnY0eUN6LUJtSGRNR1VYamV1RGJTblVDRmR0U09NcXp5eEhNcWloZl8ycWVHTWZpR1ZES1pGbWpLVnlpclFuR3ZHdW90ZW9lVlRXWThadVUybzl3dG5tUmZTM3NR?oc=5",
+      "published": "2024-08-01T06:09:48+00:00",
+      "source": "Goldman Sachs"
     },
     {
       "title": "LONG MOMENT FILMS",
@@ -620,12 +608,6 @@
       "source": "資策會 MIC"
     },
     {
-      "title": "The value of getting personalization right—or wrong—is multiplying",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOGxhUnlqRm8yLUI2X0hKVnJleGFaX1V3cUdRWXdiMHBRZlhsaE14NThkUlZMcEpzS2QwQzkyanZMeFhfYXBJczlxQ3lYMDZIYkRxSEdvY2VOSDFEUGI5YlFHU0pjaWJ2VzBicV9nNk9YS1ZLOFJkSjJOWldHZmRfVDRLb0FjblgzR3Nsd3BRbWpLbkN6LXltZi03azdKcVhaTEUtdGMtQ181aThHVnh2X3JPUmVTUHNNejdIMlBRbmFaSUI4cHZ0MG5ZWXZGTlpZLWlramxRaWVaMFNC?oc=5",
-      "published": "2021-11-12T08:00:00+00:00",
-      "source": "McKinsey"
-    },
-    {
       "title": "Deloitte Global | Together makes progress",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LTUpnaEJpWnBSZGhtbm5ERmw5RWxVU1dmYzRaSWtCVUFVZkc2RHBqR0pGaXpXY0RvVzBEMlF0NjNGZjd5d3E0c2hnM2trckRX?oc=5",
       "published": "2021-10-25T10:08:13+00:00",
@@ -692,6 +674,12 @@
       "source": "資策會 MIC"
     },
     {
+      "title": "IMF Publications",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iX3J0ay1sajhqa3gtOHNrVkduNEtRSmNhOE13ZGRTLUJ2MTlIRXJOeTNsd3dud0lVT1pkOXZ6VUh3Z0ttbDBKcVRuVQ?oc=5",
+      "published": "2017-01-14T22:02:28+00:00",
+      "source": "IMF"
+    },
+    {
       "title": "Seize tomorrow’s tech to reinvent your business",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10SlExYWlWRm5XYkc4VHUycndPdE9MNXdHTVNiVVFsUDEtbHctUTd1cHplMS1FQXdFUzZDQ2tKdlU4UVhI?oc=5",
       "published": "2015-09-12T12:30:23+00:00",
@@ -734,6 +722,12 @@
       "source": "WEF"
     },
     {
+      "title": "The consumer decision journey",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNzVXME9vd3pMaGNKajI4SHppdlhscWx2NWV1NHlGNTF5ajJYa00zaUpILWtQNVQ1UlEtYXp5WEdiTUpEN25YbktBdm51WUdWd3dpOVJPN0lMdzJIWGNtbVpXV3J3VGFFWkhMOXpidG5OV3llOTZkY2ZtQlhqell5TmVydS1MQjQ2Z0ptbzlUOFB1dVozbk9QSkNDb3VVMjFDclNvLVBnTzFiQmc?oc=5",
+      "published": "2009-06-01T07:00:00+00:00",
+      "source": "McKinsey"
+    },
+    {
       "title": "Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE9HWFNsbk1XSjdaRWZ6UlRTdzUyV2JBRHdpeGUwTjZCMGZ1b1liTldFcFJLZ21mbDQ?oc=5",
       "published": "2006-10-11T06:27:30+00:00",
@@ -750,18 +744,30 @@
       "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTFB2R2ZCOWVDNlhET1ZfTFE0RndMaHNaRDJDQWNucWFKek9Zc2dSMUFBWTloUjlzU3M?oc=5",
       "published": "2006-03-15T03:55:58+00:00",
       "source": "BCG"
+    },
+    {
+      "title": "Annual Report",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMXpjRmVma0k1SnpXMGFZRjZzUEpTU2l4YXRnczlkVVUwMGJrOW1feGJEWmNXV1FmbjU5cjVvQUlnSHkyRFl5YWFSZktkVGp2SVJ4Tml4dkozRWRJX3dVNGd4V3luWnBMcFUyZi02REdqaWdBX25NSGdtN3JlcTcyZUlmaUZ0My0zaHc?oc=5",
+      "published": "1972-02-28T08:00:00+00:00",
+      "source": "CFR"
+    },
+    {
+      "title": "2026年度劇本提升計畫｜長片 × 影集雙軌出擊，好萊塢及韓國一線編劇親臨授課！ | TAICCA 文化內容策進院",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CLXNSaUl0TkM2TlVVRWd1STRjTnVDLWhMYzNZc3dBSXVPTFRLdXBUajBFS2pPTHpRRzRHYWdRaDVWX2I0Z25YTE5IODJSM3VucTBXYVZRa2JmYUlKVE5vQm5ocjI?oc=5",
+      "published": "1970-01-01T00:00:00+00:00",
+      "source": "TAICCA"
     }
   ],
   "totals_by_source": {
+    "McKinsey": 10,
+    "Bain": 10,
     "CFR": 10,
     "PwC": 10,
-    "Goldman Sachs": 9,
+    "Goldman Sachs": 10,
     "WEF": 10,
-    "Bain": 10,
-    "McKinsey": 10,
-    "IMF": 10,
     "工研院 IEK": 10,
     "BCG": 10,
+    "IMF": 10,
     "Deloitte": 10,
     "World Bank": 10,
     "TAICCA": 10,
