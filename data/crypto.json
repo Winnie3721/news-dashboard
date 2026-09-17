@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-09-16T14:02:06.613835+00:00",
+  "fetched_at": "2026-09-17T00:07:20.753847+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 75588,
-      "market_cap_usd": 1518470474011,
-      "total_volume_usd": 36562380510,
-      "change_24h_pct": -1.16743,
-      "change_7d_pct": -4.9,
-      "high_24h": 77146,
-      "low_24h": 75038
+      "price_usd": 76170,
+      "market_cap_usd": 1530098700053,
+      "total_volume_usd": 30823356070,
+      "change_24h_pct": 0.61987,
+      "change_7d_pct": -2.3,
+      "high_24h": 76413,
+      "low_24h": 75161
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2391.9,
-      "market_cap_usd": 292007673787,
-      "total_volume_usd": 18138476136,
-      "change_24h_pct": -2.35692,
-      "change_7d_pct": -4.6,
-      "high_24h": 2445.14,
-      "low_24h": 2361.16
+      "price_usd": 2415.23,
+      "market_cap_usd": 294800540450,
+      "total_volume_usd": 15788320887,
+      "change_24h_pct": 0.59479,
+      "change_7d_pct": -1.4,
+      "high_24h": 2424.51,
+      "low_24h": 2371.36
     }
   ],
   "global": {
-    "total_market_cap_usd": 2590397465327.4014,
-    "total_volume_usd": 101677962419.37326,
-    "btc_dominance": 58.484876958817175,
-    "eth_dominance": 11.24803325076953,
-    "market_cap_change_24h_pct": -4.596953828020978,
-    "active_cryptocurrencies": 21283
+    "total_market_cap_usd": 2615154675257.0386,
+    "total_volume_usd": 91612883232.52472,
+    "btc_dominance": 58.40160503866905,
+    "eth_dominance": 11.251405962742387,
+    "market_cap_change_24h_pct": -1.719471178771047,
+    "active_cryptocurrencies": 21288
   },
   "fear_greed": {
-    "value": 51,
+    "value": 50,
     "label": "Neutral",
-    "timestamp": "2026-09-16T00:00:00+00:00"
+    "timestamp": "2026-09-17T00:00:00+00:00"
   }
 }
