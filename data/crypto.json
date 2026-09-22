@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-09-21T15:40:34.287569+00:00",
+  "fetched_at": "2026-09-22T00:36:37.208129+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 85900,
-      "market_cap_usd": 1725327435402,
-      "total_volume_usd": 53069961918,
-      "change_24h_pct": 6.30569,
-      "change_7d_pct": 9.7471,
-      "high_24h": 86048,
-      "low_24h": 80631
+      "price_usd": 86467,
+      "market_cap_usd": 1736573593014,
+      "total_volume_usd": 60778715615,
+      "change_24h_pct": 5.86952,
+      "change_7d_pct": 10.2586,
+      "high_24h": 87330,
+      "low_24h": 80907
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2738.43,
-      "market_cap_usd": 334255447016,
-      "total_volume_usd": 24164406758,
-      "change_24h_pct": 5.19231,
-      "change_7d_pct": 9.3944,
-      "high_24h": 2751.07,
-      "low_24h": 2607.0
+      "price_usd": 2775.96,
+      "market_cap_usd": 338729869170,
+      "total_volume_usd": 26280077972,
+      "change_24h_pct": 3.39685,
+      "change_7d_pct": 9.6267,
+      "high_24h": 2804.42,
+      "low_24h": 2646.98
     }
   ],
   "global": {
-    "total_market_cap_usd": 2918137233427.681,
-    "total_volume_usd": 141867666202.5119,
-    "btc_dominance": 58.917750272554336,
-    "eth_dominance": 11.402015885485808,
-    "market_cap_change_24h_pct": 3.7024723892914357,
-    "active_cryptocurrencies": 21356
+    "total_market_cap_usd": 2935301021367.7637,
+    "total_volume_usd": 158254571559.04922,
+    "btc_dominance": 58.845933623043024,
+    "eth_dominance": 11.476169293329404,
+    "market_cap_change_24h_pct": 2.391198975818258,
+    "active_cryptocurrencies": 21359
   },
   "fear_greed": {
-    "value": 70,
-    "label": "Greed",
-    "timestamp": "2026-09-21T00:00:00+00:00"
+    "value": 78,
+    "label": "Extreme Greed",
+    "timestamp": "2026-09-22T00:00:00+00:00"
   }
 }
