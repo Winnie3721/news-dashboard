@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-09-23T14:04:26.172522+00:00",
+  "fetched_at": "2026-09-24T00:15:12.127705+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 85855,
-      "market_cap_usd": 1725114506676,
-      "total_volume_usd": 40157779497,
-      "change_24h_pct": -0.29502,
-      "change_7d_pct": 12.9603,
+      "price_usd": 84337,
+      "market_cap_usd": 1694089169751,
+      "total_volume_usd": 43663591667,
+      "change_24h_pct": -2.32902,
+      "change_7d_pct": 11.5867,
       "high_24h": 87251,
-      "low_24h": 85266
+      "low_24h": 83654
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2719.68,
-      "market_cap_usd": 332068991136,
-      "total_volume_usd": 16357711932,
-      "change_24h_pct": -1.18104,
-      "change_7d_pct": 12.8733,
+      "price_usd": 2685.15,
+      "market_cap_usd": 327676504034,
+      "total_volume_usd": 17786837325,
+      "change_24h_pct": -2.65349,
+      "change_7d_pct": 12.3148,
       "high_24h": 2786.6,
-      "low_24h": 2707.89
+      "low_24h": 2642.7
     }
   ],
   "global": {
-    "total_market_cap_usd": 2932069593230.7554,
-    "total_volume_usd": 119320406942.85614,
-    "btc_dominance": 58.77751410757932,
-    "eth_dominance": 11.307282716734989,
-    "market_cap_change_24h_pct": -3.2159435534319414,
-    "active_cryptocurrencies": 21521
+    "total_market_cap_usd": 2871794791646.0894,
+    "total_volume_usd": 243488313756.238,
+    "btc_dominance": 58.81106317804093,
+    "eth_dominance": 11.374739442576352,
+    "market_cap_change_24h_pct": -4.961709969794752,
+    "active_cryptocurrencies": 21532
   },
   "fear_greed": {
     "value": 71,
     "label": "Greed",
-    "timestamp": "2026-09-23T00:00:00+00:00"
+    "timestamp": "2026-09-24T00:00:00+00:00"
   }
 }
