@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-09-24T14:01:26.284279+00:00",
+  "fetched_at": "2026-09-25T00:17:36.738048+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 84186,
-      "market_cap_usd": 1691120723408,
-      "total_volume_usd": 44098928248,
-      "change_24h_pct": -1.94255,
-      "change_7d_pct": 9.7432,
-      "high_24h": 84727,
+      "price_usd": 84597,
+      "market_cap_usd": 1699410924731,
+      "total_volume_usd": 38146184562,
+      "change_24h_pct": 0.25478,
+      "change_7d_pct": 10.5047,
+      "high_24h": 84843,
       "low_24h": 82941
     },
     {
@@ -19,26 +19,26 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2668.36,
-      "market_cap_usd": 325697187769,
-      "total_volume_usd": 16628213067,
-      "change_24h_pct": -1.89534,
-      "change_7d_pct": 8.4762,
-      "high_24h": 2698.41,
+      "price_usd": 2693.63,
+      "market_cap_usd": 328761484514,
+      "total_volume_usd": 14626476967,
+      "change_24h_pct": 0.22366,
+      "change_7d_pct": 9.9636,
+      "high_24h": 2700.84,
       "low_24h": 2634.74
     }
   ],
   "global": {
-    "total_market_cap_usd": 2865542162185.031,
-    "total_volume_usd": 118224329493.07687,
-    "btc_dominance": 58.66452959052668,
-    "eth_dominance": 11.31173413594527,
-    "market_cap_change_24h_pct": -4.464085539992264,
-    "active_cryptocurrencies": 21549
+    "total_market_cap_usd": 2900359737693.481,
+    "total_volume_usd": 107840024782.25693,
+    "btc_dominance": 58.587375828393654,
+    "eth_dominance": 11.335731979910472,
+    "market_cap_change_24h_pct": -2.015548533145983,
+    "active_cryptocurrencies": 21551
   },
   "fear_greed": {
     "value": 71,
     "label": "Greed",
-    "timestamp": "2026-09-24T00:00:00+00:00"
+    "timestamp": "2026-09-25T00:00:00+00:00"
   }
 }
