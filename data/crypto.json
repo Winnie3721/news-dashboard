@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-10-06T15:41:33.335975+00:00",
+  "fetched_at": "2026-10-07T01:13:47.594462+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 86194,
-      "market_cap_usd": 1732247103438,
-      "total_volume_usd": 26902644622,
-      "change_24h_pct": 1.09332,
-      "change_7d_pct": 2.812,
-      "high_24h": 86625,
-      "low_24h": 85010
+      "price_usd": 85429,
+      "market_cap_usd": 1716725604778,
+      "total_volume_usd": 26525503523,
+      "change_24h_pct": -0.6984,
+      "change_7d_pct": 2.2747,
+      "high_24h": 86648,
+      "low_24h": 85122
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2715.21,
-      "market_cap_usd": 331586962138,
-      "total_volume_usd": 10868855799,
-      "change_24h_pct": 0.64139,
-      "change_7d_pct": -0.2173,
-      "high_24h": 2722.0,
-      "low_24h": 2680.92
+      "price_usd": 2692.42,
+      "market_cap_usd": 328821286982,
+      "total_volume_usd": 11045151117,
+      "change_24h_pct": -0.938,
+      "change_7d_pct": 0.7297,
+      "high_24h": 2723.16,
+      "low_24h": 2683.98
     }
   ],
   "global": {
-    "total_market_cap_usd": 2942178649259.4263,
-    "total_volume_usd": 78753859147.80324,
-    "btc_dominance": 58.78942756387161,
-    "eth_dominance": 11.245739691891837,
-    "market_cap_change_24h_pct": -2.1545910346408457,
-    "active_cryptocurrencies": 21931
+    "total_market_cap_usd": 2916866555998.498,
+    "total_volume_usd": 63424904551651.03,
+    "btc_dominance": 58.701725606118536,
+    "eth_dominance": 11.246595740144512,
+    "market_cap_change_24h_pct": -3.2881744562305504,
+    "active_cryptocurrencies": 21956
   },
   "fear_greed": {
-    "value": 73,
+    "value": 71,
     "label": "Greed",
-    "timestamp": "2026-10-06T00:00:00+00:00"
+    "timestamp": "2026-10-07T00:00:00+00:00"
   }
 }
