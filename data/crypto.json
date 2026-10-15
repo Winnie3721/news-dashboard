@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-10-14T14:20:13.288027+00:00",
+  "fetched_at": "2026-10-15T00:17:58.932270+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 82026,
-      "market_cap_usd": 1649044274996,
-      "total_volume_usd": 30074177969,
-      "change_24h_pct": -1.89938,
-      "change_7d_pct": -1.2827,
+      "price_usd": 81723,
+      "market_cap_usd": 1642225014175,
+      "total_volume_usd": 34023105877,
+      "change_24h_pct": -1.99309,
+      "change_7d_pct": -1.9312,
       "high_24h": 84025,
-      "low_24h": 82294
+      "low_24h": 81376
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2435.63,
-      "market_cap_usd": 297477983922,
-      "total_volume_usd": 10715375540,
-      "change_24h_pct": -3.30468,
-      "change_7d_pct": -4.5035,
+      "price_usd": 2423.33,
+      "market_cap_usd": 295907942000,
+      "total_volume_usd": 14091035840,
+      "change_24h_pct": -3.28556,
+      "change_7d_pct": -5.8383,
       "high_24h": 2524.82,
-      "low_24h": 2451.72
+      "low_24h": 2405.74
     }
   ],
   "global": {
-    "total_market_cap_usd": 2777060809808.003,
-    "total_volume_usd": 76373137195762.23,
-    "btc_dominance": 59.34926212779259,
-    "eth_dominance": 10.701981461620063,
-    "market_cap_change_24h_pct": -4.161057329425729,
-    "active_cryptocurrencies": 22257
+    "total_market_cap_usd": 2765318509007.2466,
+    "total_volume_usd": 84230458523598.73,
+    "btc_dominance": 59.280510171558106,
+    "eth_dominance": 10.684876188307616,
+    "market_cap_change_24h_pct": -4.48630041306774,
+    "active_cryptocurrencies": 22260
   },
   "fear_greed": {
-    "value": 62,
-    "label": "Greed",
-    "timestamp": "2026-10-14T00:00:00+00:00"
+    "value": 53,
+    "label": "Neutral",
+    "timestamp": "2026-10-15T00:00:00+00:00"
   }
 }
