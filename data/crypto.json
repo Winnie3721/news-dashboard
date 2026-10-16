@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-10-15T13:57:04.257253+00:00",
+  "fetched_at": "2026-10-16T00:05:37.163430+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 79844,
-      "market_cap_usd": 1604924534100,
-      "total_volume_usd": 38479350808,
-      "change_24h_pct": -3.45707,
-      "change_7d_pct": -2.2683,
-      "high_24h": 82416,
-      "low_24h": 80444
+      "price_usd": 82165,
+      "market_cap_usd": 1651417392771,
+      "total_volume_usd": 40323827515,
+      "change_24h_pct": 0.54713,
+      "change_7d_pct": 0.3821,
+      "high_24h": 82508,
+      "low_24h": 79806
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2325.77,
-      "market_cap_usd": 284108266829,
-      "total_volume_usd": 18585611749,
-      "change_24h_pct": -5.73713,
-      "change_7d_pct": -7.3779,
-      "high_24h": 2454.61,
-      "low_24h": 2332.43
+      "price_usd": 2440.03,
+      "market_cap_usd": 298027801565,
+      "total_volume_usd": 19014358357,
+      "change_24h_pct": 0.67169,
+      "change_7d_pct": -1.3861,
+      "high_24h": 2463.31,
+      "low_24h": 2324.97
     }
   ],
   "global": {
-    "total_market_cap_usd": 2708807640507.595,
-    "total_volume_usd": 31205235475967.125,
-    "btc_dominance": 59.44306578705141,
-    "eth_dominance": 10.535660079741227,
-    "market_cap_change_24h_pct": -5.621077669668314,
-    "active_cryptocurrencies": 22293
+    "total_market_cap_usd": 2777380386737.2363,
+    "total_volume_usd": 1.0099443349427883e+21,
+    "btc_dominance": 59.33595815707087,
+    "eth_dominance": 10.711062263132359,
+    "market_cap_change_24h_pct": -2.1581906806404363,
+    "active_cryptocurrencies": 22296
   },
   "fear_greed": {
-    "value": 53,
-    "label": "Neutral",
-    "timestamp": "2026-10-15T00:00:00+00:00"
+    "value": 63,
+    "label": "Greed",
+    "timestamp": "2026-10-16T00:00:00+00:00"
   }
 }
