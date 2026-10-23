@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-10-22T14:20:38.211875+00:00",
+  "fetched_at": "2026-10-23T14:03:54.756006+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 81618,
-      "market_cap_usd": 1640410266633,
-      "total_volume_usd": 37964187362,
-      "change_24h_pct": -2.59824,
-      "change_7d_pct": 1.5121,
-      "high_24h": 84808,
-      "low_24h": 81331
+      "price_usd": 81881,
+      "market_cap_usd": 1645998213223,
+      "total_volume_usd": 24657868758,
+      "change_24h_pct": 0.20207,
+      "change_7d_pct": -0.1499,
+      "high_24h": 81912,
+      "low_24h": 80989
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2404.88,
-      "market_cap_usd": 293707656549,
-      "total_volume_usd": 12816798221,
-      "change_24h_pct": -2.59291,
-      "change_7d_pct": 2.6567,
-      "high_24h": 2518.86,
-      "low_24h": 2394.86
+      "price_usd": 2410.79,
+      "market_cap_usd": 294491061268,
+      "total_volume_usd": 11445776444,
+      "change_24h_pct": 0.09754,
+      "change_7d_pct": -2.0876,
+      "high_24h": 2413.54,
+      "low_24h": 2372.55
     }
   ],
   "global": {
-    "total_market_cap_usd": 2748008571582.6826,
-    "total_volume_usd": 88904100734.80537,
-    "btc_dominance": 59.4021001105788,
-    "eth_dominance": 10.636693934160245,
-    "market_cap_change_24h_pct": -4.8492013029988605,
-    "active_cryptocurrencies": 22445
+    "total_market_cap_usd": 2764536375038.397,
+    "total_volume_usd": 67485489010.69088,
+    "btc_dominance": 59.451797818494015,
+    "eth_dominance": 10.642036367275105,
+    "market_cap_change_24h_pct": -2.3399369786315978,
+    "active_cryptocurrencies": 22457
   },
   "fear_greed": {
-    "value": 68,
-    "label": "Greed",
-    "timestamp": "2026-10-22T00:00:00+00:00"
+    "value": 50,
+    "label": "Neutral",
+    "timestamp": "2026-10-23T00:00:00+00:00"
   }
 }
