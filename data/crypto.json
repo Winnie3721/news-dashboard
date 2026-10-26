@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-10-25T23:50:00.604292+00:00",
+  "fetched_at": "2026-10-26T15:51:00.141132+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 79904,
-      "market_cap_usd": 1606354203663,
-      "total_volume_usd": 13840886074,
-      "change_24h_pct": -1.11009,
-      "change_7d_pct": -0.904,
-      "high_24h": 80949,
-      "low_24h": 80035
+      "price_usd": 80629,
+      "market_cap_usd": 1620989635933,
+      "total_volume_usd": 26698105650,
+      "change_24h_pct": 0.04366,
+      "change_7d_pct": -2.1898,
+      "high_24h": 80825,
+      "low_24h": 79332
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2317.76,
-      "market_cap_usd": 283183426381,
-      "total_volume_usd": 6205367377,
-      "change_24h_pct": -1.57472,
-      "change_7d_pct": -1.165,
-      "high_24h": 2368.07,
-      "low_24h": 2317.9
+      "price_usd": 2335.89,
+      "market_cap_usd": 285377838561,
+      "total_volume_usd": 10035903086,
+      "change_24h_pct": -0.33344,
+      "change_7d_pct": -3.17,
+      "high_24h": 2359.75,
+      "low_24h": 2293.2
     }
   ],
   "global": {
-    "total_market_cap_usd": 2676502350970.271,
-    "total_volume_usd": 41170805242.885605,
-    "btc_dominance": 60.02078617782589,
-    "eth_dominance": 10.60433317793121,
-    "market_cap_change_24h_pct": -3.9121627652163213,
-    "active_cryptocurrencies": 22501
+    "total_market_cap_usd": 2717697449130.4785,
+    "total_volume_usd": 66823572891.36702,
+    "btc_dominance": 59.48507922859769,
+    "eth_dominance": 10.474467621352193,
+    "market_cap_change_24h_pct": -1.5417141941402792,
+    "active_cryptocurrencies": 22507
   },
   "fear_greed": {
-    "value": 54,
+    "value": 50,
     "label": "Neutral",
-    "timestamp": "2026-10-25T00:00:00+00:00"
+    "timestamp": "2026-10-26T00:00:00+00:00"
   }
 }
