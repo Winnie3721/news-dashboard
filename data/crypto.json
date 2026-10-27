@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-10-26T15:51:00.141132+00:00",
+  "fetched_at": "2026-10-27T01:10:17.385944+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 80629,
-      "market_cap_usd": 1620989635933,
-      "total_volume_usd": 26698105650,
-      "change_24h_pct": 0.04366,
-      "change_7d_pct": -2.1898,
-      "high_24h": 80825,
+      "price_usd": 80178,
+      "market_cap_usd": 1611892848340,
+      "total_volume_usd": 28256680212,
+      "change_24h_pct": 0.26404,
+      "change_7d_pct": -2.1331,
+      "high_24h": 80680,
       "low_24h": 79332
     },
     {
@@ -19,26 +19,26 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2335.89,
-      "market_cap_usd": 285377838561,
-      "total_volume_usd": 10035903086,
-      "change_24h_pct": -0.33344,
-      "change_7d_pct": -3.17,
-      "high_24h": 2359.75,
+      "price_usd": 2326.77,
+      "market_cap_usd": 284248661633,
+      "total_volume_usd": 9883317537,
+      "change_24h_pct": 0.27908,
+      "change_7d_pct": -3.3829,
+      "high_24h": 2338.49,
       "low_24h": 2293.2
     }
   ],
   "global": {
-    "total_market_cap_usd": 2717697449130.4785,
-    "total_volume_usd": 66823572891.36702,
-    "btc_dominance": 59.48507922859769,
-    "eth_dominance": 10.474467621352193,
-    "market_cap_change_24h_pct": -1.5417141941402792,
+    "total_market_cap_usd": 2706471390878.331,
+    "total_volume_usd": 70826474654.7124,
+    "btc_dominance": 59.42968518313143,
+    "eth_dominance": 10.480329131392113,
+    "market_cap_change_24h_pct": -1.6033738354264828,
     "active_cryptocurrencies": 22507
   },
   "fear_greed": {
-    "value": 50,
+    "value": 48,
     "label": "Neutral",
-    "timestamp": "2026-10-26T00:00:00+00:00"
+    "timestamp": "2026-10-27T00:00:00+00:00"
   }
 }
