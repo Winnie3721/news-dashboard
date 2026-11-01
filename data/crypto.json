@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-10-31T15:01:59.755122+00:00",
+  "fetched_at": "2026-11-01T00:42:42.011535+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 77445,
-      "market_cap_usd": 1557120265678,
-      "total_volume_usd": 90517925791,
-      "change_24h_pct": 0.28558,
-      "change_7d_pct": -3.929,
-      "high_24h": 77604,
-      "low_24h": 76338
+      "price_usd": 77566,
+      "market_cap_usd": 1559506466268,
+      "total_volume_usd": 43038899671,
+      "change_24h_pct": 0.36377,
+      "change_7d_pct": -3.7905,
+      "high_24h": 77657,
+      "low_24h": 77051
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2244.51,
-      "market_cap_usd": 274258838146,
-      "total_volume_usd": 8529311416,
-      "change_24h_pct": 0.30074,
-      "change_7d_pct": -5.1031,
-      "high_24h": 2252.72,
-      "low_24h": 2218.44
+      "price_usd": 2257.41,
+      "market_cap_usd": 275805475388,
+      "total_volume_usd": 4310485554,
+      "change_24h_pct": 0.47274,
+      "change_7d_pct": -3.8018,
+      "high_24h": 2264.19,
+      "low_24h": 2235.55
     }
   ],
   "global": {
-    "total_market_cap_usd": 2625203654435.6846,
-    "total_volume_usd": 128944598818.8948,
-    "btc_dominance": 59.25174598270269,
-    "eth_dominance": 10.429198512994803,
-    "market_cap_change_24h_pct": -1.993958516439348,
-    "active_cryptocurrencies": 22643
+    "total_market_cap_usd": 2629504777744.5894,
+    "total_volume_usd": 70183281608.0879,
+    "btc_dominance": 59.23538531610243,
+    "eth_dominance": 10.462342127924043,
+    "market_cap_change_24h_pct": -2.367760426546221,
+    "active_cryptocurrencies": 22670
   },
   "fear_greed": {
-    "value": 30,
+    "value": 34,
     "label": "Fear",
-    "timestamp": "2026-10-31T00:00:00+00:00"
+    "timestamp": "2026-11-01T00:00:00+00:00"
   }
 }
