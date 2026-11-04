@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-11-03T16:49:44.721011+00:00",
+  "fetched_at": "2026-11-04T01:55:07.757787+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 77378,
-      "market_cap_usd": 1556100300835,
-      "total_volume_usd": 27901534761,
-      "change_24h_pct": -0.04722,
-      "change_7d_pct": -3.262,
-      "high_24h": 77708,
+      "price_usd": 76889,
+      "market_cap_usd": 1545790949404,
+      "total_volume_usd": 25800739441,
+      "change_24h_pct": -0.32267,
+      "change_7d_pct": -4.5607,
+      "high_24h": 77966,
       "low_24h": 76303
     },
     {
@@ -19,26 +19,26 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2287.57,
-      "market_cap_usd": 279558024672,
-      "total_volume_usd": 8948913301,
-      "change_24h_pct": 0.86152,
-      "change_7d_pct": -1.4529,
+      "price_usd": 2262.93,
+      "market_cap_usd": 276481906616,
+      "total_volume_usd": 8459902980,
+      "change_24h_pct": 0.17657,
+      "change_7d_pct": -3.2544,
       "high_24h": 2301.63,
-      "low_24h": 2235.31
+      "low_24h": 2238.88
     }
   ],
   "global": {
-    "total_market_cap_usd": 2619452305288.2056,
-    "total_volume_usd": 68084855110.56763,
-    "btc_dominance": 59.24460014972841,
-    "eth_dominance": 10.642869105800088,
-    "market_cap_change_24h_pct": -2.586749348520943,
-    "active_cryptocurrencies": 22751
+    "total_market_cap_usd": 2599741629795.5225,
+    "total_volume_usd": 64189430123.814926,
+    "btc_dominance": 59.29853563404179,
+    "eth_dominance": 10.604403342065828,
+    "market_cap_change_24h_pct": -2.7800894406201295,
+    "active_cryptocurrencies": 22750
   },
   "fear_greed": {
-    "value": 26,
+    "value": 34,
     "label": "Fear",
-    "timestamp": "2026-11-03T00:00:00+00:00"
+    "timestamp": "2026-11-04T00:00:00+00:00"
   }
 }
