@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-11-11T16:52:57.263322+00:00",
+  "fetched_at": "2026-11-12T02:42:07.899257+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 74235,
-      "market_cap_usd": 1492915824898,
-      "total_volume_usd": 26639125408,
-      "change_24h_pct": 1.8845,
-      "change_7d_pct": -6.6686,
-      "high_24h": 74251,
-      "low_24h": 72769
+      "price_usd": 73769,
+      "market_cap_usd": 1483509533974,
+      "total_volume_usd": 26179462140,
+      "change_24h_pct": 0.30907,
+      "change_7d_pct": -8.5484,
+      "high_24h": 74695,
+      "low_24h": 73366
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2077.03,
-      "market_cap_usd": 253833313375,
-      "total_volume_usd": 9473735007,
-      "change_24h_pct": 2.93635,
-      "change_7d_pct": -12.7104,
-      "high_24h": 2081.3,
-      "low_24h": 2014.75
+      "price_usd": 2055.36,
+      "market_cap_usd": 251175732142,
+      "total_volume_usd": 9417804042,
+      "change_24h_pct": -0.11133,
+      "change_7d_pct": -15.3397,
+      "high_24h": 2097.43,
+      "low_24h": 2036.05
     }
   ],
   "global": {
-    "total_market_cap_usd": 2491226521702.7837,
-    "total_volume_usd": 68553591187.1797,
-    "btc_dominance": 59.768285087469486,
-    "eth_dominance": 10.15948768038531,
-    "market_cap_change_24h_pct": -1.381783364812272,
-    "active_cryptocurrencies": 22604
+    "total_market_cap_usd": 2480308253452.233,
+    "total_volume_usd": 65130481935.39383,
+    "btc_dominance": 59.850555956113695,
+    "eth_dominance": 10.136215184889497,
+    "market_cap_change_24h_pct": -2.3334616481755885,
+    "active_cryptocurrencies": 22607
   },
   "fear_greed": {
-    "value": 29,
+    "value": 28,
     "label": "Fear",
-    "timestamp": "2026-11-11T00:00:00+00:00"
+    "timestamp": "2026-11-12T00:00:00+00:00"
   }
 }
