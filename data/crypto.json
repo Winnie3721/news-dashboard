@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-11-12T17:21:11.310148+00:00",
+  "fetched_at": "2026-11-13T02:24:04.558763+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 71698,
-      "market_cap_usd": 1441776086919,
-      "total_volume_usd": 29253499050,
-      "change_24h_pct": -3.77947,
-      "change_7d_pct": -5.5629,
-      "high_24h": 74695,
-      "low_24h": 71238
+      "price_usd": 70624,
+      "market_cap_usd": 1419964724272,
+      "total_volume_usd": 29112579426,
+      "change_24h_pct": -4.39215,
+      "change_7d_pct": -6.9608,
+      "high_24h": 73788,
+      "low_24h": 70729
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 2006.58,
-      "market_cap_usd": 245206124731,
-      "total_volume_usd": 10636283068,
-      "change_24h_pct": -4.07253,
-      "change_7d_pct": -10.8067,
-      "high_24h": 2090.53,
+      "price_usd": 2003.82,
+      "market_cap_usd": 244820132267,
+      "total_volume_usd": 10375363147,
+      "change_24h_pct": -2.62649,
+      "change_7d_pct": -10.3252,
+      "high_24h": 2057.11,
       "low_24h": 1983.64
     }
   ],
   "global": {
-    "total_market_cap_usd": 2412829011477.9097,
-    "total_volume_usd": 71357940365.00427,
-    "btc_dominance": 59.58346481770598,
-    "eth_dominance": 10.129261180030063,
-    "market_cap_change_24h_pct": -5.721166264228748,
-    "active_cryptocurrencies": 22412
+    "total_market_cap_usd": 2382419199772.062,
+    "total_volume_usd": 70067876170.88368,
+    "btc_dominance": 59.27417735391022,
+    "eth_dominance": 10.203988567375834,
+    "market_cap_change_24h_pct": -5.829420947542363,
+    "active_cryptocurrencies": 22422
   },
   "fear_greed": {
-    "value": 28,
-    "label": "Fear",
-    "timestamp": "2026-11-12T00:00:00+00:00"
+    "value": 20,
+    "label": "Extreme Fear",
+    "timestamp": "2026-11-13T00:00:00+00:00"
   }
 }
