@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-11-17T18:08:32.944353+00:00",
+  "fetched_at": "2026-11-18T03:19:51.878656+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 63795,
-      "market_cap_usd": 1282723484007,
-      "total_volume_usd": 34988724745,
-      "change_24h_pct": -1.6816,
-      "change_7d_pct": -12.4794,
-      "high_24h": 65455,
+      "price_usd": 64377,
+      "market_cap_usd": 1294845802325,
+      "total_volume_usd": 34404634070,
+      "change_24h_pct": -0.53674,
+      "change_7d_pct": -12.5887,
+      "high_24h": 65268,
       "low_24h": 63361
     },
     {
@@ -19,26 +19,26 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1788.01,
-      "market_cap_usd": 218480324831,
-      "total_volume_usd": 11367508780,
-      "change_24h_pct": -1.68331,
-      "change_7d_pct": -11.4727,
+      "price_usd": 1805.16,
+      "market_cap_usd": 220639531124,
+      "total_volume_usd": 12069860718,
+      "change_24h_pct": -1.05446,
+      "change_7d_pct": -12.1906,
       "high_24h": 1839.63,
       "low_24h": 1753.07
     }
   ],
   "global": {
-    "total_market_cap_usd": 2194140051043.5393,
-    "total_volume_usd": 77924265757.24117,
-    "btc_dominance": 58.32641247861694,
-    "eth_dominance": 9.935311179247435,
-    "market_cap_change_24h_pct": -3.78596109328566,
-    "active_cryptocurrencies": 21674
+    "total_market_cap_usd": 2212326652646.861,
+    "total_volume_usd": 79165637650.43591,
+    "btc_dominance": 58.381324066395216,
+    "eth_dominance": 9.949483560964262,
+    "market_cap_change_24h_pct": -2.5350815744629784,
+    "active_cryptocurrencies": 21675
   },
   "fear_greed": {
-    "value": 12,
+    "value": 11,
     "label": "Extreme Fear",
-    "timestamp": "2026-11-17T00:00:00+00:00"
+    "timestamp": "2026-11-18T00:00:00+00:00"
   }
 }
