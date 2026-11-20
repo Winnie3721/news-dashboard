@@ -1,44 +1,44 @@
 {
-  "fetched_at": "2026-11-19T17:58:01.982575+00:00",
+  "fetched_at": "2026-11-20T02:51:11.655561+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 62708,
-      "market_cap_usd": 1261284412401,
-      "total_volume_usd": 31552897340,
-      "change_24h_pct": -0.50847,
-      "change_7d_pct": -12.3237,
+      "price_usd": 61571,
+      "market_cap_usd": 1238919537581,
+      "total_volume_usd": 34023584198,
+      "change_24h_pct": -1.57619,
+      "change_7d_pct": -13.493,
       "high_24h": 64006,
-      "low_24h": 62068
+      "low_24h": 61413
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1770.1,
-      "market_cap_usd": 216365723403,
-      "total_volume_usd": 10169928445,
-      "change_24h_pct": 0.22425,
-      "change_7d_pct": -11.8409,
+      "price_usd": 1731.17,
+      "market_cap_usd": 211711393585,
+      "total_volume_usd": 11295554338,
+      "change_24h_pct": -2.07511,
+      "change_7d_pct": -13.7652,
       "high_24h": 1813.98,
-      "low_24h": 1747.26
+      "low_24h": 1731.47
     }
   ],
   "global": {
-    "total_market_cap_usd": 2166368249708.8083,
-    "total_volume_usd": 71927052625.44974,
-    "btc_dominance": 58.053718261948326,
-    "eth_dominance": 9.959579724164943,
-    "market_cap_change_24h_pct": -2.4387562178247992,
+    "total_market_cap_usd": 2133105775680.5735,
+    "total_volume_usd": 78427000886.497,
+    "btc_dominance": 57.99556107158983,
+    "eth_dominance": 9.915025923633424,
+    "market_cap_change_24h_pct": -4.430824063897628,
     "active_cryptocurrencies": 21366
   },
   "fear_greed": {
-    "value": 10,
+    "value": 12,
     "label": "Extreme Fear",
-    "timestamp": "2026-11-19T00:00:00+00:00"
+    "timestamp": "2026-11-20T00:00:00+00:00"
   }
 }
