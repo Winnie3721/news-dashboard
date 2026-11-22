@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-11-21T16:36:40.229000+00:00",
+  "fetched_at": "2026-11-22T01:55:19.571658+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 59945,
-      "market_cap_usd": 1205804661987,
-      "total_volume_usd": 68055191695,
-      "change_24h_pct": 1.28776,
-      "change_7d_pct": -9.2287,
+      "price_usd": 60075,
+      "market_cap_usd": 1208459455468,
+      "total_volume_usd": 55314055286,
+      "change_24h_pct": 2.01198,
+      "change_7d_pct": -6.2678,
       "high_24h": 60799,
       "low_24h": 55298
     },
@@ -19,26 +19,26 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1681.32,
-      "market_cap_usd": 205522427200,
-      "total_volume_usd": 24863548703,
-      "change_24h_pct": 2.62123,
-      "change_7d_pct": -9.2727,
+      "price_usd": 1685.45,
+      "market_cap_usd": 206019634297,
+      "total_volume_usd": 17402395957,
+      "change_24h_pct": 3.92852,
+      "change_7d_pct": -4.9284,
       "high_24h": 1709.56,
       "low_24h": 1542.97
     }
   ],
   "global": {
-    "total_market_cap_usd": 2076735188147.8633,
-    "total_volume_usd": 139195909307.91827,
-    "btc_dominance": 57.88534795885118,
-    "eth_dominance": 9.85959594813775,
-    "market_cap_change_24h_pct": -1.8272035439971155,
-    "active_cryptocurrencies": 21338
+    "total_market_cap_usd": 2085441086694.6611,
+    "total_volume_usd": 108138799881.00902,
+    "btc_dominance": 57.85570872524154,
+    "eth_dominance": 9.859843646270553,
+    "market_cap_change_24h_pct": -0.873460083582424,
+    "active_cryptocurrencies": 21341
   },
   "fear_greed": {
-    "value": 12,
+    "value": 11,
     "label": "Extreme Fear",
-    "timestamp": "2026-11-21T00:00:00+00:00"
+    "timestamp": "2026-11-22T00:00:00+00:00"
   }
 }
