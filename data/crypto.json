@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-11-22T16:53:58.996510+00:00",
+  "fetched_at": "2026-11-23T02:17:35.577131+00:00",
   "coins": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price_usd": 61190,
-      "market_cap_usd": 1230885806786,
-      "total_volume_usd": 30518015856,
-      "change_24h_pct": 1.98043,
-      "change_7d_pct": -6.0898,
+      "price_usd": 60739,
+      "market_cap_usd": 1221873611987,
+      "total_volume_usd": 28064521573,
+      "change_24h_pct": 1.38841,
+      "change_7d_pct": -6.3326,
       "high_24h": 61447,
       "low_24h": 58696
     },
@@ -19,26 +19,26 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price_usd": 1719.95,
-      "market_cap_usd": 210234926661,
-      "total_volume_usd": 8060206351,
-      "change_24h_pct": 2.26588,
-      "change_7d_pct": -5.0207,
-      "high_24h": 1723.34,
+      "price_usd": 1707.25,
+      "market_cap_usd": 208705742866,
+      "total_volume_usd": 8184231455,
+      "change_24h_pct": 1.52812,
+      "change_7d_pct": -5.8259,
+      "high_24h": 1726.27,
       "low_24h": 1646.2
     }
   ],
   "global": {
-    "total_market_cap_usd": 2088834500130.0925,
-    "total_volume_usd": 59817628511.064995,
-    "btc_dominance": 58.9278933093375,
-    "eth_dominance": 10.0541657981541,
-    "market_cap_change_24h_pct": -2.139058030571996,
-    "active_cryptocurrencies": 21311
+    "total_market_cap_usd": 2071123099715.3667,
+    "total_volume_usd": 57954985017.71421,
+    "btc_dominance": 58.833003114119485,
+    "eth_dominance": 10.049528034015967,
+    "market_cap_change_24h_pct": -3.117260716164882,
+    "active_cryptocurrencies": 21317
   },
   "fear_greed": {
     "value": 11,
     "label": "Extreme Fear",
-    "timestamp": "2026-11-22T00:00:00+00:00"
+    "timestamp": "2026-11-23T00:00:00+00:00"
   }
 }
